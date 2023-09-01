@@ -1,0 +1,17 @@
+﻿Balloon Game
+
+Dart spawning not intuitive?
+Balloon size might be too large, could vary size depending on difficulty levels.
+Need to have dynamic spawning of balloons, either by differing speeds or different starting times so that they are offset.
+
+
+Plane Game
+
+Need to rework plane throwing, think about adding aiming ray and plane to follow that track.
+persistent targets
+
+
+Box And Blocks Game
+
+Divider in the box needs to destory the block if it touches.
+

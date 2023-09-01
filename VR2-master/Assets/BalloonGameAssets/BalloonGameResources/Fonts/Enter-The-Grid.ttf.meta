@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 40fc80ab1a491b3449fc7efa5cecac53
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Enter The Grid
+  fontNames:
+  - Enter The Grid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5bc135c825c705c46bacf8a5c95bbbdc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
