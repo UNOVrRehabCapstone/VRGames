@@ -19,11 +19,12 @@ namespace Classes.Managers
 
         //adding in the ability to change the frequency when the balloons spawn
         public float nextSpawnTime = 0f;
-        public float maxSpawnTime = 0f;
+        public float maxSpawnTime = 3.0f;
         public float minSpawnTime = 0f;
 
         public int balloonsSpawnedAtOnce = 0;
         private bool alternatingBalloonsController = false;
+        private int pointTotal;
 
         new void Start()
         {
@@ -37,6 +38,11 @@ namespace Classes.Managers
         void FixedUpdate()
         {
             this.nextSpawnTime -= Time.deltaTime;
+            pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
+            if (pointTotal == 10 || pointTotal == 20)
+            {
+                this.IncreaseDifficulty();
+            }
             if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
             {
                 spawnBalloons();

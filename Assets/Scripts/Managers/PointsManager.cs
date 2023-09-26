@@ -29,6 +29,9 @@ public class PointsManager : MonoBehaviour
         
     }
 
+    public static int getLeftPoints() { return leftPoints; }
+    public static int getRightPoints() { return rightPoints; }
+
     public static int getPoints() { return points; }
     public static void resetPoints() {
         points = 0;
