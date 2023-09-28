@@ -27,8 +27,8 @@ namespace Classes.Managers
         private bool alternatingBalloonsController = false;
         private int pointTotal;
         private bool restarting = false;
-        private int goalOne = 5;
-        private int goalTwo = 10;
+        public int goalOne = 5;
+        public int goalTwo = 10;
 
         new void Start()
         {
