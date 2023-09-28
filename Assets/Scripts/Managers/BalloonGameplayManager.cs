@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Oculus.Platform.Samples.VrHoops;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
 
 namespace Classes.Managers
@@ -19,11 +20,15 @@ namespace Classes.Managers
 
         //adding in the ability to change the frequency when the balloons spawn
         public float nextSpawnTime = 0f;
-        public float maxSpawnTime = 0f;
+        public float maxSpawnTime = 3.0f;
         public float minSpawnTime = 0f;
 
         public int balloonsSpawnedAtOnce = 0;
         private bool alternatingBalloonsController = false;
+        private int pointTotal;
+        private bool restarting = false;
+        private int goalOne = 5;
+        private int goalTwo = 10;
 
         new void Start()
         {
@@ -37,6 +42,17 @@ namespace Classes.Managers
         void FixedUpdate()
         {
             this.nextSpawnTime -= Time.deltaTime;
+            pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
+            if (pointTotal == this.winConditionPoints && !restarting)
+            {
+                restarting = true;
+                onWinConditionPointsReached();
+                StartCoroutine(Restart());
+            }
+            if (pointTotal == goalOne || pointTotal == goalTwo)
+            {
+                this.IncreaseDifficulty();
+            }
             if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
             {
                 spawnBalloons();
@@ -49,6 +65,18 @@ namespace Classes.Managers
                     this.nextSpawnTime = 5.0f;
                 }
             }
+        }
+
+        private IEnumerator Restart()
+        {
+            yield return new WaitForSeconds(5);
+            PointsManager.updateScoreboardMessage("Restarting in: 3");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Restarting in: 2");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Restarting in: 1");
+            yield return new WaitForSeconds(1);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
         void SetBalloonTimer()
