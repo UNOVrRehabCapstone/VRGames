@@ -6,6 +6,7 @@ using UnityEngine;
 public class Balloon : MonoBehaviour
 {
     public float floatStrength;
+    public GameObject scorePopupPrefab;
     private BalloonGameplayManager manager;
 
     void Start() 
@@ -26,6 +27,17 @@ public class Balloon : MonoBehaviour
             GetComponent<AudioSource>().Play();
             GetComponentInChildren<ParticleSystem>().Play();
             GetComponentInParent<Rigidbody>().useGravity = true;
+
+            ShowScorePopup();
         }
+    }
+
+    void ShowScorePopup()
+    {
+        GameObject popup = Instantiate(scorePopupPrefab, transform.position, Quaternion.identity, transform);
+        
+        popup.transform.localPosition += new Vector3(0f, 1f, 0f);
+
+        Destroy(popup, 4f);
     }
 }
