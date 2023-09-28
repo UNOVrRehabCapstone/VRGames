@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.4
-  scorePopupPrefab: {fileID: 6401859003311815146, guid: 9b8b49298efc146628a250f3d053c979,
+  scorePopupPrefab: {fileID: 4958559626139169420, guid: 55043db3d0457fb43a10a1c0dd782c74,
     type: 3}
 --- !u!54 &54359013248954434
 Rigidbody:

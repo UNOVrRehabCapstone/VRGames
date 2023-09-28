@@ -34,10 +34,8 @@ public class Balloon : MonoBehaviour
 
     void ShowScorePopup()
     {
-        GameObject popup = Instantiate(scorePopupPrefab, transform.position, Quaternion.identity, transform);
-        
-        popup.transform.localPosition += new Vector3(0f, 1f, 0f);
-
-        Destroy(popup, 4f);
+        GameObject popup = Instantiate(scorePopupPrefab);
+        Vector3 newVector = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
+        popup.transform.position = newVector;
     }
 }
