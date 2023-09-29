@@ -11,19 +11,19 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes (Unused)/VRArmIK-Demo.unity
     guid: 7652e061aab5f4d45b2b35d52b83ac95
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Initialize.unity
     guid: 62ae78aa7760b954395ac8e57277924c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Planes.unity
     guid: e82f9b44c6522ef44a6fc70bbf691710
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Blocks.unity
     guid: 99836a4bcfaf0be459c79107774ba9d1
   - enabled: 1
     path: Assets/Scenes/Balloons.unity
     guid: f9e48dc9bf49f554f86f999bb66793da
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Climbing.unity
     guid: 5663032ab91da084ab2fed1e9d26af84
   m_configObjects:
