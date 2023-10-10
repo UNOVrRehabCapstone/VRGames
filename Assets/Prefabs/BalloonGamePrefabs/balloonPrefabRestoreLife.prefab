@@ -4805,7 +4805,7 @@ GameObject:
   - component: {fileID: 4065479976999778}
   - component: {fileID: 54124429639396856}
   - component: {fileID: 7191434517518161771}
-  - component: {fileID: 8678092996813039215}
+  - component: {fileID: -288513357320808843}
   m_Layer: 11
   m_Name: balloonPrefabRestoreLife
   m_TagString: Untagged
@@ -4943,7 +4943,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &8678092996813039215
+--- !u!114 &-288513357320808843
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4952,12 +4952,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1967284077058846}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0392e6d517ef4c489be7a71a160c4125, type: 3}
+  m_Script: {fileID: 11500000, guid: 7c07a79643397994aa5e6194bc37fe2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
-  scorePopupPrefab: {fileID: 4958559626139169420, guid: 55043db3d0457fb43a10a1c0dd782c74,
-    type: 3}
+  scorePopupPrefab: {fileID: 0}
 --- !u!1 &4760466445859832510
 GameObject:
   m_ObjectHideFlags: 0

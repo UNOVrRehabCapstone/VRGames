@@ -12,6 +12,7 @@ namespace Classes.Managers
     {
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
+        public GameObject increaseLifeBalloonPrefab;
         public GameObject dartPrefab;
         public GameObject leftBalloonSpawn;
         public GameObject rightBalloonSpawn;
@@ -171,9 +172,15 @@ namespace Classes.Managers
                         break;
             }
             }
-
-
             
+        }
+
+        private void spawnRestoreLifeBalloon()
+        {
+            GameObject tempLeft = Instantiate(increaseLifeBalloonPrefab);
+            tempLeft.transform.position = leftBalloonSpawn.transform.position; 
+            balloons.Add(tempLeft);
+            StartCoroutine(despawnCountdown(tempLeft));
         }
 
         private void SpawnLeftBalloon()
