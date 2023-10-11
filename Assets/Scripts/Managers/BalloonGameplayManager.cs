@@ -48,7 +48,7 @@ namespace Classes.Managers
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
             PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
-            spawnBalloons();
+            //spawnBalloons();
             this.SetBalloonTimer();
         }
 
@@ -57,14 +57,18 @@ namespace Classes.Managers
             switch(this.gameMode) {
                 case GameMode.Relaxed:
                     Debug.Log("Game mode is set to relaxed.");
+                    RelaxedGameMode();
                     break;
                 
                 case GameMode.Normal:
                     Debug.Log("Game mode is set to normal.");
+                    NormalGameMode();
                     break;
+
 
                 case GameMode.Endless:
                     Debug.Log("Game mode is set to endless.");
+                    EndlessGameMode();
                     break;
 
                 default:
@@ -72,6 +76,8 @@ namespace Classes.Managers
                     break;
             }
 
+            // Temporarily disabled
+            /* 
             this.nextSpawnTime -= Time.deltaTime;
             pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
             if (pointTotal == this.winConditionPoints && !restarting)
@@ -96,6 +102,7 @@ namespace Classes.Managers
                     this.nextSpawnTime = 5.0f;
                 }
             }
+            */
         }
 
         private void RelaxedGameMode()
@@ -108,6 +115,7 @@ namespace Classes.Managers
         {
             //Do stuff
             Debug.Log("Entered NormalGameMode()");
+           
         }
 
         
@@ -174,6 +182,14 @@ namespace Classes.Managers
             }
         }
 
+        private void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
+        {
+            GameObject tmp = Instantiate(balloon);
+            tmp.transform.position = spawnPoint.transform.position;
+            balloons.Add(tmp);
+            StartCoroutine(despawnCountdown(tmp));
+        }
+
         //Creates a new balloon GameObject and adds it to the list
         public void spawnBalloons()
         {
@@ -219,10 +235,10 @@ namespace Classes.Managers
                         SpawnLeftBalloon();
                     }
                         break;
+                }
             }
-            }
-            
         }
+ 
 
         private void spawnRestoreLifeBalloon()
         {
@@ -239,6 +255,7 @@ namespace Classes.Managers
             balloons.Add(tempLeft);
             StartCoroutine(despawnCountdown(tempLeft));
         }
+
         private void SpawnRightBalloon()
         {
             GameObject tempRight = Instantiate(rightBalloonPrefab);
@@ -269,18 +286,18 @@ namespace Classes.Managers
             temp.transform.position = dartSpawn.transform.position + new Vector3(0, 0, -.06f);
         }
 
-            //Coroutine for counting down and despawning balloon after certain amount of time
-            private IEnumerator despawnCountdown(GameObject balloon)
+        //Coroutine for counting down and despawning balloon after certain amount of time
+        private IEnumerator despawnCountdown(GameObject balloon)
+        {
+            /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
+            while (Time.realtimeSinceStartup < endTime)
             {
-                /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
-                while (Time.realtimeSinceStartup < endTime)
-                {
-                    yield return new WaitForSeconds(.5f);
-                }*/
+                yield return new WaitForSeconds(.5f);
+            }*/
                 
-                yield return new WaitForSeconds(secondsTilDespawn);
+            yield return new WaitForSeconds(secondsTilDespawn);
 
-                killBalloon(balloon);
-            }
+            killBalloon(balloon);
         }
+    }
 }
