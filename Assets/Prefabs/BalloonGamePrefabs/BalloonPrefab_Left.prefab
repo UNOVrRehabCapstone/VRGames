@@ -4905,7 +4905,7 @@ GameObject:
   - component: {fileID: 7191434517518161771}
   - component: {fileID: 8678092996813039215}
   m_Layer: 11
-  m_Name: balloonPrefabLeft
+  m_Name: BalloonPrefab_Left
   m_TagString: LeftTarget
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
