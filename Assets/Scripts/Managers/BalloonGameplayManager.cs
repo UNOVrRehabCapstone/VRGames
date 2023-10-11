@@ -17,7 +17,10 @@ namespace Classes.Managers
             Endless
         }
 
-        [SerializeField] private GameMode gameMode;
+        [SerializeField] private GameMode         gameMode;
+        [SerializeField] private List<GameObject> positiveSpecialBalloonPrefabs;
+        [SerializeField] private List<GameObject> negativeSpecialBalloonPrefabs;
+        [SerializeField] private GameObject       genericBalloonPrefab;
 
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
@@ -26,7 +29,7 @@ namespace Classes.Managers
         public GameObject leftBalloonSpawn;
         public GameObject rightBalloonSpawn;
         public float secondsTilDespawn = 200;
-        private List<GameObject> balloons = new List<GameObject>();    //list of current interactables (planes/boats/balloons)
+        public List<GameObject> balloons = new List<GameObject>();    //list of current interactables (planes/boats/balloons)
 
         //adding in the ability to change the frequency when the balloons spawn
         public float nextSpawnTime = 0f;
