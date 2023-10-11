@@ -98,6 +98,25 @@ namespace Classes.Managers
             }
         }
 
+        private void RelaxedGameMode()
+        {
+            //Do Stuff
+            Debug.Log("Entered RelaxedGameMode()");
+        }
+
+        private void NormalGameMode()
+        {
+            //Do stuff
+            Debug.Log("Entered NormalGameMode()");
+        }
+
+        
+        private void EndlessGameMode()
+        {
+            //Do Stuff 
+            Debug.Log("Entered EndlessGameMode()");
+        }
+
         private IEnumerator Restart()
         {
             yield return new WaitForSeconds(5);
