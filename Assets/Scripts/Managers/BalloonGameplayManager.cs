@@ -10,6 +10,15 @@ namespace Classes.Managers
 {
     public class BalloonGameplayManager : GameplayManager
     {
+        private enum GameMode 
+        {
+            Relaxed,    
+            Normal,
+            Endless
+        }
+
+        [SerializeField] private GameMode gameMode;
+
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
         public GameObject increaseLifeBalloonPrefab;
@@ -42,6 +51,24 @@ namespace Classes.Managers
 
         void FixedUpdate()
         {
+            switch(this.gameMode) {
+                case GameMode.Relaxed:
+                    Debug.Log("Game mode is set to relaxed.");
+                    break;
+                
+                case GameMode.Normal:
+                    Debug.Log("Game mode is set to normal.");
+                    break;
+
+                case GameMode.Endless:
+                    Debug.Log("Game mode is set to endless.");
+                    break;
+
+                default:
+                    Debug.Log("Should never happen.");
+                    break;
+            }
+
             this.nextSpawnTime -= Time.deltaTime;
             pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
             if (pointTotal == this.winConditionPoints && !restarting)
