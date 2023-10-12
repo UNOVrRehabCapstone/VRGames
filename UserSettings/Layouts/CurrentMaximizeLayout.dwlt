@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 22926
+  controlID: 33923
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,9 +46,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1280
-    y: 73
-    width: 970
+    x: 0
+    y: 19
+    width: 1929
     height: 801
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 970, y: 780}
+  m_TargetSize: {x: 1929, y: 780}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -96,23 +96,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 970
+      width: 1929
       height: 780
-    m_Scale: {x: 0.5052083, y: 0.5052083}
-    m_Translation: {x: 485, y: 390}
+    m_Scale: {x: 0.7222222, y: 0.7222222}
+    m_Translation: {x: 964.5, y: 390}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -960.00006
-      y: -771.9588
-      width: 1920.0001
-      height: 1543.9176
+      x: -1335.4615
+      y: -540
+      width: 2670.923
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.5052083
-  m_LastWindowPixelSize: {x: 970, y: 801}
+  m_defaultScale: 0.7222222
+  m_LastWindowPixelSize: {x: 1929, y: 801}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 22897
+  controlID: 33924
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.525143, y: 0.073934056, z: 3.1222892}
+    m_Target: {x: -0.7638319, y: -0.40211678, z: 2.94387}
     speed: 2
-    m_Value: {x: -0.525143, y: 0.073934056, z: 3.1222892}
+    m_Value: {x: -0.7638319, y: -0.40211678, z: 2.94387}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -445,9 +445,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16011141, y: 0.011839587, z: -0.0019190508, w: 0.98705935}
+    m_Target: {x: 0.1984841, y: -0.007356559, z: 0.001491266, w: 0.98010975}
     speed: 2
-    m_Value: {x: 0.16010617, y: 0.011839199, z: -0.001918988, w: 0.987027}
+    m_Value: {x: 0.19847742, y: -0.0073563117, z: 0.0014912158, w: 0.9800768}
   m_Size:
     m_Target: 3.2619655
     speed: 2
@@ -500,7 +500,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 22898
+  controlID: 33925
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -561,7 +561,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4000ffff8ef3ffffb26e00002a6f0000
+      m_ExpandedIDs: 4000ffff1a3fffff6e3fffffda45ffff8ef3ffffb26e00002a6f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -668,7 +668,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5aa90000
     m_LastClickedID: 43354
-    m_ExpandedIDs: ffffffff00000000f2690000f8690000fa690000fe690000787300000675000072a3000000ca9a3b
+    m_ExpandedIDs: ffffffff00000000f2690000f4690000f6690000f8690000fa690000fc690000787300000675000072a3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -693,24 +693,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 780}
-    m_SelectedIDs: 92a60000
-    m_LastClickedID: 42642
+    scrollPos: {x: 0, y: 720}
+    m_SelectedIDs: 306f0000
+    m_LastClickedID: 0
     m_ExpandedIDs: ffffffff00000000f2690000f4690000f6690000f8690000fa690000fc690000787300000675000072a3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: BalloonPrefab_Placeholder03
-      m_OriginalName: BalloonPrefab_Placeholder03
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 42866
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
@@ -721,8 +721,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 92a60000
-    m_LastClickedInstanceID: 42642
+    m_SelectedInstanceIDs: 306f0000
+    m_LastClickedInstanceID: 28464
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
@@ -842,7 +842,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 28464
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0

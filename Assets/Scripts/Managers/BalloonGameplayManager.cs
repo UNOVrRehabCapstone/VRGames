@@ -76,6 +76,7 @@ namespace Classes.Managers
                     break;
             }
 
+
             // Temporarily disabled
             /* 
             this.nextSpawnTime -= Time.deltaTime;
@@ -115,6 +116,15 @@ namespace Classes.Managers
         {
             //Do stuff
             Debug.Log("Entered NormalGameMode()");
+            
+            if (balloons.Count == 0) {
+                 // Select random prefabs to spawn
+                GameObject leftBalloonPrefab  = positiveSpecialBalloonPrefabs[Random.Range(0, positiveSpecialBalloonPrefabs.Count)];
+                GameObject rightBalloonPrefab = positiveSpecialBalloonPrefabs[Random.Range(0, positiveSpecialBalloonPrefabs.Count)];
+
+                SpawnBalloon(leftBalloonPrefab,  leftBalloonSpawn);
+                SpawnBalloon(rightBalloonPrefab, rightBalloonSpawn);
+            }
            
         }
 
