@@ -15,8 +15,11 @@ namespace Classes.Managers
         //      game mode the user selects.
         //The chosenGameSettings based on user selection.
         [SerializeField] private GameSettingsSO chosenGameSettings;
-
-        //[SerializeField] private GameObject     balloonSpawnManager;
+        
+// ===============================================================================================
+// THE REST OF THESE FIELDS ARE NOT USED FOR THE CURRENT GAME LOGIC. Will be deleted later.
+//
+// TODO: DELETE THIS STUFF
 
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
@@ -39,13 +42,11 @@ namespace Classes.Managers
         public int goalTwo = 10;
 
 
-
         new void Start()
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
             PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
-            //spawnBalloons();
             this.SetBalloonTimer();
         }
 
@@ -53,25 +54,6 @@ namespace Classes.Managers
         {
             Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
             BalloonSpawnManager.Instance.SpawnBalloons(chosenGameSettings);
-            
-
-            /*
-            if (balloons.Count < this.chosenGameSettings.maxNumBalloonsSpawnedAtOnce) {
-                switch(this.chosenGameSettings.spawnPattern) {
-                case 0: //Concurrent
-                    
-                    GameObject leftBalloonPrefab  =  GetBalloonPrefabBasedOnProb();
-                    GameObject rightBalloonPrefab =  GetBalloonPrefabBasedOnProb();
-
-                    SpawnBalloon(leftBalloonPrefab,  leftBalloonSpawn);
-                    SpawnBalloon(rightBalloonPrefab, rightBalloonSpawn);
-                    break;
-                default:
-                    Debug.Log("This should never occur");
-                    break;
-                }
-            }
-            */
 
             // Temporarily disabled
             /* 
@@ -102,48 +84,11 @@ namespace Classes.Managers
             */
         }
 
-        /**
-         * Selects a balloon prefab based on the probability of it spawning.
-         *
-         * Author: Dante Lawrence
-         * Note: Code was adapted from the probability code provided by Unity which can be found here 
-         *       https://docs.unity3d.com/2019.3/Documentation/Manual/RandomNumbers.html
-         **/
-        private GameObject GetBalloonPrefabBasedOnProb()
-        {
-            float       total = 0;
-            List<float> probs = this.chosenGameSettings.probabilities;
-
-            foreach (float elem in probs) {
-                total += elem;
-            }
-
-            float randomPoint = Random.value * total;
-
-            for (int i= 0; i < probs.Count; i++) {
-                if (randomPoint < probs[i]) {
-                    return this.chosenGameSettings.balloonPrefabs[i];
-                }
-                else {
-                    randomPoint -= probs[i];
-                }
-            }
-            return this.chosenGameSettings.balloonPrefabs[probs.Count - 1];
-        }
-
-        /**
-         * A more generic version of the spawn left balloon and spawn right balloon methods. Just provide
-         * the spawn point and balloon to spawn.
-         *
-         * Author: Dante Lawrence
-         */
-        private void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
-        {
-            GameObject tmp = Instantiate(balloon);
-            tmp.transform.position = spawnPoint.transform.position;
-            balloons.Add(tmp);
-            StartCoroutine(despawnCountdown(tmp));
-        }
+// ======================================================================================================== //
+// EVERYTHING BELOW THIS LINE IS NOT USED IN THE CURRENT GAME LOGIC. I haven't deleted this yet because I do 
+// not know if any of these methods are used elsewhere in the code.
+//
+// TODO: DELETE THIS STUFF
 
         private IEnumerator Restart()
         {
