@@ -21,6 +21,8 @@ namespace Classes.Managers
         //The chosenGameSettings based on user selection.
         [SerializeField] private GameSettingsSO chosenGameSettings;
 
+        //[SerializeField] private GameObject     balloonSpawnManager;
+
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
         public GameObject dartPrefab;
@@ -50,16 +52,20 @@ namespace Classes.Managers
             PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
             //spawnBalloons();
             this.SetBalloonTimer();
+
+            Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
         }
 
         void FixedUpdate()
         {
+            BalloonSpawnManager.Instance.SpawnBalloons();
             Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
+            Debug.Log("Spawn pattern set to " + this.chosenGameSettings.spawnPattern);
 
             if (balloons.Count < this.chosenGameSettings.maxNumBalloonsSpawnedAtOnce) {
-                switch(this.chosenGameSettings.difficulty) {
-                case 1: //Concurrent
-                    Debug.Log("Difficulty set to Concurrent");
+                switch(this.chosenGameSettings.spawnPattern) {
+                case 0: //Concurrent
+                    
                     GameObject leftBalloonPrefab  =  GetBalloonPrefabBasedOnProb();
                     GameObject rightBalloonPrefab =  GetBalloonPrefabBasedOnProb();
 

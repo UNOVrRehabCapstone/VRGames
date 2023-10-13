@@ -13,6 +13,11 @@ public class GameSettingsSO : ScriptableObject
 		ENDLESS
 	}
 
+	public enum SpawnPattern {
+		CONCURRENT,
+		ALTERNATING
+	}
+
 	public string           gameModeStr;
 	public GameMode         gameMode;
 
@@ -23,9 +28,10 @@ public class GameSettingsSO : ScriptableObject
 
 	public float            maxSpawnTime;
 	public float            minSpawnTime;
+	public float            nextSpawnTime;
 
 	public int              numLives;
 	public int              goal;
 
-	public int              difficulty;
+	public int              spawnPattern;
 }
