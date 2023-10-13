@@ -519,6 +519,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cdb1e59089ff0d41ab8da9213ad77cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftSpawn: {fileID: 440989859}
+  rightSpawn: {fileID: 745288068}
 --- !u!1 &46590927
 GameObject:
   m_ObjectHideFlags: 0
@@ -628,12 +630,7 @@ MonoBehaviour:
   difficulty: 1
   winConditionPoints: 15
   maxTime: 0
-  relaxedGameSettings: {fileID: 11400000, guid: 555a0f0327a1ce54cbb240ddc244c32d,
-    type: 2}
-  normalGameSettings: {fileID: 0}
-  endlessGameSettings: {fileID: 0}
   chosenGameSettings: {fileID: 11400000, guid: 555a0f0327a1ce54cbb240ddc244c32d, type: 2}
-  balloonSpawnManager: {fileID: 29094610}
   leftBalloonPrefab: {fileID: 1967284077058846, guid: e41e4d3f39ed0fa45a605b740a22d25a,
     type: 3}
   rightBalloonPrefab: {fileID: 1302578972642110, guid: eda1023b64f02dc4caa6d3e2c1f99e45,

@@ -47,16 +47,15 @@ namespace Classes.Managers
             PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
             //spawnBalloons();
             this.SetBalloonTimer();
-
-            Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
         }
 
         void FixedUpdate()
         {
-            BalloonSpawnManager.Instance.SpawnBalloons();
             Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
-            Debug.Log("Spawn pattern set to " + this.chosenGameSettings.spawnPattern);
+            BalloonSpawnManager.Instance.SpawnBalloons(chosenGameSettings);
+            
 
+            /*
             if (balloons.Count < this.chosenGameSettings.maxNumBalloonsSpawnedAtOnce) {
                 switch(this.chosenGameSettings.spawnPattern) {
                 case 0: //Concurrent
@@ -72,7 +71,8 @@ namespace Classes.Managers
                     break;
                 }
             }
-            
+            */
+
             // Temporarily disabled
             /* 
             this.nextSpawnTime -= Time.deltaTime;
