@@ -10,11 +10,6 @@ namespace Classes.Managers
 {
     public class BalloonGameplayManager : GameplayManager
     {
-        //Need to store the different possible game settings
-        [SerializeField] private GameSettingsSO relaxedGameSettings;
-        [SerializeField] private GameSettingsSO normalGameSettings;
-        [SerializeField] private GameSettingsSO endlessGameSettings;
-
         //TODO: Note that this is currently being set in the editor for testing purposes, but 
         //      this needs to be changed so that the settings are determined based on whatever
         //      game mode the user selects.
