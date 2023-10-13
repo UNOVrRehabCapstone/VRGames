@@ -10,21 +10,19 @@ namespace Classes.Managers
 {
     public class BalloonGameplayManager : GameplayManager
     {
-        private enum GameMode 
-        {
-            Relaxed,    
-            Normal,
-            Endless
-        }
+        //Need to store the different possible game settings
+        [SerializeField] private GameSettingsSO relaxedGameSettings;
+        [SerializeField] private GameSettingsSO normalGameSettings;
+        [SerializeField] private GameSettingsSO endlessGameSettings;
 
-        [SerializeField] private GameMode         gameMode;
-        [SerializeField] private List<GameObject> positiveSpecialBalloonPrefabs;
-        [SerializeField] private List<GameObject> negativeSpecialBalloonPrefabs;
-        [SerializeField] private GameObject       genericBalloonPrefab;
+        //TODO: Note that this is currently being set in the editor for testing purposes, but 
+        //      this needs to be changed so that the settings are determined based on whatever
+        //      game mode the user selects.
+        //The chosenGameSettings based on user selection.
+        [SerializeField] private GameSettingsSO chosenGameSettings;
 
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
-        public GameObject increaseLifeBalloonPrefab;
         public GameObject dartPrefab;
         public GameObject leftBalloonSpawn;
         public GameObject rightBalloonSpawn;
@@ -43,6 +41,8 @@ namespace Classes.Managers
         public int goalOne = 5;
         public int goalTwo = 10;
 
+
+
         new void Start()
         {
             base.Start();
@@ -54,29 +54,24 @@ namespace Classes.Managers
 
         void FixedUpdate()
         {
-            switch(this.gameMode) {
-                case GameMode.Relaxed:
-                    Debug.Log("Game mode is set to relaxed.");
-                    RelaxedGameMode();
-                    break;
-                
-                case GameMode.Normal:
-                    Debug.Log("Game mode is set to normal.");
-                    NormalGameMode();
-                    break;
+            Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
 
+            if (balloons.Count < this.chosenGameSettings.maxNumBalloonsSpawnedAtOnce) {
+                switch(this.chosenGameSettings.difficulty) {
+                case 1: //Concurrent
+                    Debug.Log("Difficulty set to Concurrent");
+                    GameObject leftBalloonPrefab  =  GetBalloonPrefabBasedOnProb();
+                    GameObject rightBalloonPrefab =  GetBalloonPrefabBasedOnProb();
 
-                case GameMode.Endless:
-                    Debug.Log("Game mode is set to endless.");
-                    EndlessGameMode();
+                    SpawnBalloon(leftBalloonPrefab,  leftBalloonSpawn);
+                    SpawnBalloon(rightBalloonPrefab, rightBalloonSpawn);
                     break;
-
                 default:
-                    Debug.Log("Should never happen.");
+                    Debug.Log("This should never occur");
                     break;
+                }
             }
-
-
+            
             // Temporarily disabled
             /* 
             this.nextSpawnTime -= Time.deltaTime;
@@ -106,33 +101,47 @@ namespace Classes.Managers
             */
         }
 
-        private void RelaxedGameMode()
+        /**
+         * Selects a balloon prefab based on the probability of it spawning.
+         *
+         * Author: Dante Lawrence
+         * Note: Code was adapted from the probability code provided by Unity which can be found here 
+         *       https://docs.unity3d.com/2019.3/Documentation/Manual/RandomNumbers.html
+         **/
+        private GameObject GetBalloonPrefabBasedOnProb()
         {
-            //Do Stuff
-            Debug.Log("Entered RelaxedGameMode()");
-        }
+            float       total = 0;
+            List<float> probs = this.chosenGameSettings.probabilities;
 
-        private void NormalGameMode()
-        {
-            //Do stuff
-            Debug.Log("Entered NormalGameMode()");
-            
-            if (balloons.Count == 0) {
-                 // Select random prefabs to spawn
-                GameObject leftBalloonPrefab  = positiveSpecialBalloonPrefabs[Random.Range(0, positiveSpecialBalloonPrefabs.Count)];
-                GameObject rightBalloonPrefab = positiveSpecialBalloonPrefabs[Random.Range(0, positiveSpecialBalloonPrefabs.Count)];
-
-                SpawnBalloon(leftBalloonPrefab,  leftBalloonSpawn);
-                SpawnBalloon(rightBalloonPrefab, rightBalloonSpawn);
+            foreach (float elem in probs) {
+                total += elem;
             }
-           
+
+            float randomPoint = Random.value * total;
+
+            for (int i= 0; i < probs.Count; i++) {
+                if (randomPoint < probs[i]) {
+                    return this.chosenGameSettings.balloonPrefabs[i];
+                }
+                else {
+                    randomPoint -= probs[i];
+                }
+            }
+            return this.chosenGameSettings.balloonPrefabs[probs.Count - 1];
         }
 
-        
-        private void EndlessGameMode()
+        /**
+         * A more generic version of the spawn left balloon and spawn right balloon methods. Just provide
+         * the spawn point and balloon to spawn.
+         *
+         * Author: Dante Lawrence
+         */
+        private void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
         {
-            //Do Stuff 
-            Debug.Log("Entered EndlessGameMode()");
+            GameObject tmp = Instantiate(balloon);
+            tmp.transform.position = spawnPoint.transform.position;
+            balloons.Add(tmp);
+            StartCoroutine(despawnCountdown(tmp));
         }
 
         private IEnumerator Restart()
@@ -192,14 +201,6 @@ namespace Classes.Managers
             }
         }
 
-        private void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
-        {
-            GameObject tmp = Instantiate(balloon);
-            tmp.transform.position = spawnPoint.transform.position;
-            balloons.Add(tmp);
-            StartCoroutine(despawnCountdown(tmp));
-        }
-
         //Creates a new balloon GameObject and adds it to the list
         public void spawnBalloons()
         {
@@ -247,15 +248,6 @@ namespace Classes.Managers
                         break;
                 }
             }
-        }
- 
-
-        private void spawnRestoreLifeBalloon()
-        {
-            GameObject tempLeft = Instantiate(increaseLifeBalloonPrefab);
-            tempLeft.transform.position = leftBalloonSpawn.transform.position; 
-            balloons.Add(tempLeft);
-            StartCoroutine(despawnCountdown(tempLeft));
         }
 
         private void SpawnLeftBalloon()
