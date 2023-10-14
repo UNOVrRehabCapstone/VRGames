@@ -23,6 +23,8 @@ public class GameSettingsSO : ScriptableObject
 
 	public List<GameObject> balloonPrefabs;
 	public List<float>      probabilities;
+	public GameObject       leftSpawn;
+	public GameObject       rightSpawn;
 
 	public int              maxNumBalloonsSpawnedAtOnce;
 

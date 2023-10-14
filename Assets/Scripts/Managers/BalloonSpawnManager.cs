@@ -10,6 +10,7 @@ public class BalloonSpawnManager : MonoBehaviour
     [SerializeField] private GameObject leftSpawn;
     [SerializeField] private GameObject rightSpawn;
 
+    //Holds the current balloons in the scene (the balloons that have been spawned but not despawned)
 	private List<GameObject> balloons = new List<GameObject>();
 
 	private void Awake()
