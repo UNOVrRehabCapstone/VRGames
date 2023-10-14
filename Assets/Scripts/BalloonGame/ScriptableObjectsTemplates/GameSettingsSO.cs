@@ -34,4 +34,6 @@ public class GameSettingsSO : ScriptableObject
 	public int              goal;
 
 	public int              spawnPattern;
+
+	public float            despawnCountdown;
 }
