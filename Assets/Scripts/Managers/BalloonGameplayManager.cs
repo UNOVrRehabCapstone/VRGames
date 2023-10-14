@@ -10,16 +10,24 @@ namespace Classes.Managers
 {
     public class BalloonGameplayManager : GameplayManager
     {
-        //TODO: Note that this is currently being set in the editor for testing purposes, but 
-        //      this needs to be changed so that the settings are determined based on whatever
-        //      game mode the user selects.
-        //The chosenGameSettings based on user selection.
-        [SerializeField] private GameSettingsSO chosenGameSettings;
+        public static BalloonGameplayManager Instance {get; private set;}
+
+        /*TODO: Note that this is currently being set in the editor for testing purposes, but 
+                this needs to be changed so that the settings are determined based on whatever
+                game mode the user selects. */
+        [SerializeField] private GameSettingsSO gameSettings;
         
-// ===============================================================================================
-// THE REST OF THESE FIELDS ARE NOT USED FOR THE CURRENT GAME LOGIC. Will be deleted later.
-//
-// TODO: DELETE THIS STUFF
+
+        /* ===================================================================================== */
+
+        /* TODO: The fields between the lines are NOT used in the new refactored code however they 
+         *       are needed for the methods below which I have also marked off. The reason I have 
+         *       not deleted the methods is because they are used in other parts of the code that I 
+         *       have not touched yet, so attempting to delete the methods breaks the game. 
+         *
+         *       Wanted to put this note here so no one is confused on why there are a bunch of 
+         *       methods/fields not being used.
+         */
 
         public GameObject leftBalloonPrefab;
         public GameObject rightBalloonPrefab;
@@ -27,9 +35,8 @@ namespace Classes.Managers
         public GameObject leftBalloonSpawn;
         public GameObject rightBalloonSpawn;
         public float secondsTilDespawn = 200;
-        public List<GameObject> balloons = new List<GameObject>();    //list of current interactables (planes/boats/balloons)
+        public List<GameObject> balloons = new List<GameObject>();   
 
-        //adding in the ability to change the frequency when the balloons spawn
         public float nextSpawnTime = 0f;
         public float maxSpawnTime = 3.0f;
         public float minSpawnTime = 0f;
@@ -40,55 +47,38 @@ namespace Classes.Managers
         private bool restarting = false;
         public int goalOne = 5;
         public int goalTwo = 10;
+        /* ===================================================================================== */
 
+        private void Awake()
+	    {
+            //Singleton pattern make sure there is only one balloon spawn manager.
+		    if (Instance != null) {
+			    Debug.LogError("There should only be one balloon spawn manager.");
+		    }
+		    Instance = this;
+	    }
 
         new void Start()
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
             PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
-            this.SetBalloonTimer();
         }
 
         void FixedUpdate()
         {
-            Debug.Log("Game mode set to " + this.chosenGameSettings.gameModeStr);
-            BalloonSpawnManager.Instance.SpawnBalloons(chosenGameSettings);
+            Debug.Log("Game mode set to " + this.gameSettings.gameModeStr);
+            BalloonSpawnManager.Instance.SpawnBalloons();
 
-            // Temporarily disabled
-            /* 
-            this.nextSpawnTime -= Time.deltaTime;
-            pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
-            if (pointTotal == this.winConditionPoints && !restarting)
-            {
-                restarting = true;
-                onWinConditionPointsReached();
-                StartCoroutine(Restart());
-            }
-            if (pointTotal == goalOne || pointTotal == goalTwo)
-            {
-                this.IncreaseDifficulty();
-            }
-            if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
-            {
-                spawnBalloons();
-                if(difficulty == 3)
-                {
-                    SetBalloonTimer();
-                }
-                else
-                {
-                    this.nextSpawnTime = 5.0f;
-                }
-            }
-            */
         }
 
-// ======================================================================================================== //
-// EVERYTHING BELOW THIS LINE IS NOT USED IN THE CURRENT GAME LOGIC. I haven't deleted this yet because I do 
-// not know if any of these methods are used elsewhere in the code.
-//
-// TODO: DELETE THIS STUFF
+        public GameSettingsSO getGameSettings()
+        {
+            return this.gameSettings;
+        }
+        
+        /* ===================================================================================== */
+        /* TODO: Everything below this line needed to be deleted/refactored into other modules   */
 
         private IEnumerator Restart()
         {

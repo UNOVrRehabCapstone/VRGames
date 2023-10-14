@@ -1,107 +1,173 @@
+/**
+ * The BalloonSpawnManager class handles the logic for spawning balloons.
+ *
+ * Authors: Dante Lawrence
+ **/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BalloonSpawnManager : MonoBehaviour
-{	
-	public static BalloonSpawnManager Instance {get; private set;}
+/* TODO: Extract some of this code. This is some code I believe Jared wrote? There's some good code 
+         here, so I do not want to delete until I have re-implemented into the new code. Too lazy to 
+         do it right now though :) */
 
-    private float secondsTilDespawn = 5;
-    [SerializeField] private GameObject leftSpawn;
-    [SerializeField] private GameObject rightSpawn;
-
-    //Holds the current balloons in the scene (the balloons that have been spawned but not despawned)
-	private List<GameObject> balloons = new List<GameObject>();
-
-	private void Awake()
-	{
-		if (Instance != null) {
-			Debug.LogError("There should be only one balloon spawn manager.");
-		}
-		Instance = this;
-	}
-
-	public void SpawnBalloons(GameSettingsSO gameSettings)
-	{
-        Debug.Log("Entered");
-        if (this.balloons.Count < gameSettings.maxNumBalloonsSpawnedAtOnce) {
-            switch (gameSettings.spawnPattern) {
-                case 0: //Concurrent
-                    Debug.Log("Concurrent spawn pattern chosen");
-                    GameObject leftBalloon  = GetBalloonBasedOnProb(gameSettings);
-                    GameObject rightBalloon = GetBalloonBasedOnProb(gameSettings);
-                    SpawnBalloon(leftBalloon, leftSpawn);
-                    SpawnBalloon(rightBalloon, rightSpawn);
-
-                    break;
-                default:
-                    Debug.LogError("This should never happen.");
-                    break;
-            }
-        }
-	}
-
-	/**
-     * Selects a balloon prefab based on the probability of it spawning.
-     *
-     * Author: Dante Lawrence
-     * Note: Code was adapted from the probability code provided by Unity which can be found here 
-     *       https://docs.unity3d.com/2019.3/Documentation/Manual/RandomNumbers.html
-     */
-    private GameObject GetBalloonBasedOnProb(GameSettingsSO gameSettings)
+/* 
+this.nextSpawnTime -= Time.deltaTime;
+pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
+if (pointTotal == this.winConditionPoints && !restarting)
+{
+    restarting = true;
+    onWinConditionPointsReached();
+    StartCoroutine(Restart());
+}
+if (pointTotal == goalOne || pointTotal == goalTwo)
+{
+    this.IncreaseDifficulty();
+}
+if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
+{
+    spawnBalloons();
+    if(difficulty == 3)
     {
-        float       total = 0;
-        List<float> probs = gameSettings.probabilities;
-
-        foreach (float elem in probs) {
-            total += elem;
-        }
-
-        float randomPoint = Random.value * total;
-
-        for (int i= 0; i < probs.Count; i++) {
-            if (randomPoint < probs[i]) {
-                return gameSettings.balloonPrefabs[i];
-            }
-            else {
-                randomPoint -= probs[i];
-            }
-        }
-        return gameSettings.balloonPrefabs[probs.Count - 1];
+        SetBalloonTimer();
     }
-
-    /**
-     * A more generic version of the spawn left balloon and spawn right balloon methods. Just provide
-     * the spawn point and balloon to spawn.
-     *
-     * Author: Dante Lawrence
-     */
-    private void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
+    else
     {
-        GameObject tmp = Instantiate(balloon);
-        tmp.transform.position = spawnPoint.transform.position;
-        balloons.Add(tmp);
-        StartCoroutine(despawnCountdown(tmp));
-    }
-
-    //Removes a balloon from the list and destroys it.
-    private void killBalloon(GameObject balloon)
-    {
-        balloons.Remove(balloon);
-        Destroy(balloon);
-    }
-
-    //Coroutine for counting down and despawning balloon after certain amount of time
-    private IEnumerator despawnCountdown(GameObject balloon)
-    {
-        /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
-        while (Time.realtimeSinceStartup < endTime)
-        {
-            yield return new WaitForSeconds(.5f);
-        }*/
-                
-        yield return new WaitForSeconds(secondsTilDespawn);
-
-        killBalloon(balloon);
+        this.nextSpawnTime = 5.0f;
     }
 }
+*/
+
+namespace Classes.Managers 
+{
+	public class BalloonSpawnManager : MonoBehaviour
+    {	
+        //Singleton pattern. Holds a reference to the balloon spawn manager object. 
+	    public static BalloonSpawnManager Instance {get; private set;}
+
+        private GameSettingsSO gameSettings;
+
+        //Holds the current balloons in the scene (the balloons that have been spawned but not despawned)
+	    private List<GameObject> balloons = new List<GameObject>();
+
+        private bool alternate = false;
+
+	    private void Awake()
+	    {
+            //Singleton pattern make sure there is only one balloon spawn manager.
+		    if (Instance != null) {
+			    Debug.LogError("There should only be one balloon spawn manager.");
+		    }
+		    Instance = this; 
+	    }
+
+        private void Start()
+        {
+            Instance.gameSettings = BalloonGameplayManager.Instance.getGameSettings();
+        }
+
+        /**
+         * Spawns the balloons based on the spawn settings. See the game settings for more information.
+         *
+         * Author: Dante Lawrence
+         */
+	    public void SpawnBalloons()
+	    {
+            this.gameSettings.nextSpawnTime -= Time.deltaTime;
+
+            /* Both conditions must be met to spawn another balloon */
+            if (   (this.balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce)
+                && (this.gameSettings.nextSpawnTime <= 0) ) { 
+
+                switch (this.gameSettings.spawnPattern) {
+                    case GameSettingsSO.SpawnPattern.CONCURRENT: 
+                        Debug.Log("Concurrent spawn pattern chosen");
+                        GameObject leftBalloon  = GetBalloonBasedOnProb();
+                        GameObject rightBalloon = GetBalloonBasedOnProb();
+                        SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
+                        SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
+
+                        break;
+                    case GameSettingsSO.SpawnPattern.ALTERNATING: 
+                        break;
+
+                    default:
+                        Debug.LogError("This should never happen.");
+                        break;
+                }
+
+                this.gameSettings.nextSpawnTime = Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime);
+            }
+	    }
+
+	    /**
+         * Returns a balloon prefab based on the probability of it spawning. Probability of a balloon spawning
+         * is set in the game settings.
+         *
+         * Author: Dante Lawrence
+         * Note: Code was adapted from the probability code provided by Unity which can be found here 
+         *       https://docs.unity3d.com/2019.3/Documentation/Manual/RandomNumbers.html
+         */
+        private GameObject GetBalloonBasedOnProb()
+        {
+            float       total = 0;
+            List<float> probs = gameSettings.probabilities;
+
+            foreach (float elem in probs) {
+                total += elem;
+            }
+
+            float randomPoint = Random.value * total;
+
+            for (int i= 0; i < probs.Count; i++) {
+                if (randomPoint < probs[i]) {
+                    return gameSettings.balloonPrefabs[i];
+                }
+                else {
+                    randomPoint -= probs[i];
+                }
+            }
+            return gameSettings.balloonPrefabs[probs.Count - 1];
+        }
+
+        /**
+         * Given a balloon and a spawn point this method spawns a balloon at the spawn point.
+         *
+         * Author: Dante Lawrence
+         */
+        private void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
+        {
+            GameObject tmp = Instantiate(balloon);
+            tmp.transform.position = spawnPoint;
+            balloons.Add(tmp);
+            StartCoroutine(despawnCountdown(tmp));
+        }
+
+        /** 
+         * Remove a balloon from the scene and removes it from the current list of balloons.
+         */
+        private void killBalloon(GameObject balloon)
+        {
+            balloons.Remove(balloon);
+            Destroy(balloon);
+        }
+
+        /**
+         * Coroutine for counting down and despawning balloon after certain amount of time.
+         */
+        private IEnumerator despawnCountdown(GameObject balloon)
+        {
+            /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
+            while (Time.realtimeSinceStartup < endTime)
+            {
+                yield return new WaitForSeconds(.5f);
+            }*/
+                
+            yield return new WaitForSeconds(this.gameSettings.secondsTilDespawn);
+
+            killBalloon(balloon);
+        }
+    }
+}
+

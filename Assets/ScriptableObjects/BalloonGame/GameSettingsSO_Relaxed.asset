@@ -24,6 +24,10 @@ MonoBehaviour:
   - 0
   - 0
   - 0
+  leftSpawn: {fileID: 5616819169081904745, guid: 6b314766213b53246a266227079f092c,
+    type: 3}
+  rightSpawn: {fileID: 908020928730455771, guid: c36c9791e7d73f24b927896658264d91,
+    type: 3}
   maxNumBalloonsSpawnedAtOnce: 2
   maxSpawnTime: 3
   minSpawnTime: 0
@@ -31,3 +35,4 @@ MonoBehaviour:
   numLives: 0
   goal: 10
   spawnPattern: 0
+  secondsTilDespawn: 0
