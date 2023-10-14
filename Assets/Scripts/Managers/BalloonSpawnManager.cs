@@ -43,12 +43,12 @@ namespace Classes.Managers
 {
 	public class BalloonSpawnManager : MonoBehaviour
     {	
-        //Singleton pattern. Holds a reference to the balloon spawn manager object. 
+        /* Singleton pattern. Holds a reference to the balloon spawn manager object. */
 	    public static BalloonSpawnManager Instance {get; private set;}
 
         private GameSettingsSO gameSettings;
 
-        //Holds the current balloons in the scene (the balloons that have been spawned but not despawned)
+        /* Holds the current balloons in the scene (the balloons that have been spawned but not despawned) */
 	    private List<GameObject> balloons = new List<GameObject>();
 
         private bool alternate = false;
@@ -83,6 +83,12 @@ namespace Classes.Managers
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
                         Debug.Log("Concurrent spawn pattern chosen");
+
+                        /* Have to be really careful here since two balloons are spawned with this 
+                           spawn pattern */
+                        if ( !(this.balloons.Count + 2 <= this.gameSettings.maxNumBalloonsSpawnedAtOnce) )
+                            break;
+
                         GameObject leftBalloon  = GetBalloonBasedOnProb();
                         GameObject rightBalloon = GetBalloonBasedOnProb();
                         SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
@@ -90,6 +96,14 @@ namespace Classes.Managers
 
                         break;
                     case GameSettingsSO.SpawnPattern.ALTERNATING: 
+                        Debug.Log("Alternate spawn pattern chosen.");
+                        
+                        GameObject balloon = GetBalloonBasedOnProb();
+                        Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
+                                                         this.gameSettings.rightSpawn;
+                        this.alternate = !alternate;
+
+                        this.SpawnBalloon(balloon, spawnPoint);
                         break;
 
                     default:
