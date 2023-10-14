@@ -18,7 +18,7 @@ namespace Classes.Managers
         [SerializeField] private GameSettingsSO gameSettings;
         
 
-        /* ===================================================================================== */
+        /* ====================================== START ========================================= */
 
         /* TODO: The fields between the lines are NOT used in the new refactored code however they 
          *       are needed for the methods below which I have also marked off. The reason I have 
@@ -47,7 +47,7 @@ namespace Classes.Managers
         private bool restarting = false;
         public int goalOne = 5;
         public int goalTwo = 10;
-        /* ===================================================================================== */
+        /* ======================================= END ========================================== */
 
         private void Awake()
 	    {
