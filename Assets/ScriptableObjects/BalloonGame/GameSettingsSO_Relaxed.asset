@@ -20,7 +20,7 @@ MonoBehaviour:
   - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}
   - {fileID: 1967284077058846, guid: e41e4d3f39ed0fa45a605b740a22d25a, type: 3}
   probabilities:
-  - 1
+  - 0
   - 0
   - 0
   - 0
