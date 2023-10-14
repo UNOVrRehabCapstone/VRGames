@@ -10,7 +10,7 @@ public class DartRespawn : MonoBehaviour
 
     void Start() 
     {
-        manager = (BalloonGameplayManager) GameplayManager.getManager();
+        manager = BalloonGameplayManager.Instance;
     }
 
     public void OnTriggerEnter(Collider other)
@@ -25,6 +25,12 @@ public class DartRespawn : MonoBehaviour
             rightDartSpawned = true;
             manager.SpawnDart(gameObject);
         }
+    }
+
+    //For Testing purposes only (to be deleted when finished)
+    void OnMouseDown()
+    {
+        manager.SpawnDart(gameObject);
     }
 
     public static void disableDart()

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66ea19904c29464986c61f77c68585c, type: 3}
   m_Name: GameSettingsSO_Relaxed
   m_EditorClassIdentifier: 
-  gameModeStr: Normal
+  gameModeStr: Relaxed
   gameMode: 0
   numLives: 0
   goal: 10
@@ -29,8 +29,8 @@ MonoBehaviour:
   - 0
   leftSpawn: {x: -0.5, y: 0, z: 0.7}
   rightSpawn: {x: 0.45, y: 0, z: 0.7}
-  maxNumBalloonsSpawnedAtOnce: 2
-  maxSpawnTime: 3
+  maxNumBalloonsSpawnedAtOnce: 3
+  maxSpawnTime: 1.5
   minSpawnTime: 0
-  nextSpawnTime: -0.2777102
+  nextSpawnTime: -2.7406347
   secondsTilDespawn: 5

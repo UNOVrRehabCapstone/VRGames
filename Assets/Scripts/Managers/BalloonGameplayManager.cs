@@ -69,7 +69,6 @@ namespace Classes.Managers
         {
             Debug.Log("Game mode set to " + this.gameSettings.gameModeStr);
             BalloonSpawnManager.Instance.SpawnBalloons();
-
         }
 
         public GameSettingsSO getGameSettings()

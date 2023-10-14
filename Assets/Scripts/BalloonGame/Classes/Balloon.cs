@@ -32,6 +32,11 @@ public class Balloon : MonoBehaviour
         }
     }
 
+    void OnMouseDown()
+    {
+        Destroy(gameObject);
+    }
+
     void ShowScorePopup()
     {
         GameObject popup = Instantiate(scorePopupPrefab);
