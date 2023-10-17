@@ -41,10 +41,10 @@ if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
 
 namespace Classes.Managers 
 {
-	public class BalloonSpawnManager : MonoBehaviour
+	public class BalloonManager : MonoBehaviour
     {	
         /* Singleton pattern. Holds a reference to the balloon spawn manager object. */
-	    public static BalloonSpawnManager Instance {get; private set;}
+	    public static BalloonManager Instance {get; private set;}
 
         private GameSettingsSO gameSettings;
 

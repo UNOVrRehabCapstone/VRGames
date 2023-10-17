@@ -25,14 +25,14 @@ public class Dart : MonoBehaviour, IGrabEvent
         if (other.gameObject.CompareTag("LeftTarget"))
         {
             Debug.Log("Hit the left balloon!");
-            BalloonSpawnManager.Instance.KillBalloon(other.gameObject);
+            BalloonManager.Instance.KillBalloon(other.gameObject);
             KillDart(gameObject);
             PointsManager.addLeftPoints(1);
         } 
         if (other.gameObject.CompareTag("RightTarget"))
         {
             Debug.Log("Hit the right balloon!");
-            BalloonSpawnManager.Instance.KillBalloon(other.gameObject);
+            BalloonManager.Instance.KillBalloon(other.gameObject);
             KillDart(gameObject);
             PointsManager.addRightPoints(1);
         }

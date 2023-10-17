@@ -486,7 +486,7 @@ GameObject:
   - component: {fileID: 29094611}
   - component: {fileID: 29094612}
   m_Layer: 0
-  m_Name: BalloonSpawnManager
+  m_Name: BalloonManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -629,22 +629,6 @@ MonoBehaviour:
   winConditionPoints: 15
   maxTime: 0
   gameSettings: {fileID: 11400000, guid: 555a0f0327a1ce54cbb240ddc244c32d, type: 2}
-  leftBalloonPrefab: {fileID: 1967284077058846, guid: e41e4d3f39ed0fa45a605b740a22d25a,
-    type: 3}
-  rightBalloonPrefab: {fileID: 1302578972642110, guid: eda1023b64f02dc4caa6d3e2c1f99e45,
-    type: 3}
-  dartPrefab: {fileID: 1801185132601967248, guid: b1e33cf7cb48fb443a24ed50df49aeef,
-    type: 3}
-  leftBalloonSpawn: {fileID: 440989859}
-  rightBalloonSpawn: {fileID: 745288068}
-  secondsTilDespawn: 5
-  balloons: []
-  nextSpawnTime: 0
-  maxSpawnTime: 3
-  minSpawnTime: 1
-  balloonsSpawnedAtOnce: 1
-  goalOne: 5
-  goalTwo: 10
 --- !u!114 &46590935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2304,12 +2288,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &440989859 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5616819169081904745, guid: 6b314766213b53246a266227079f092c,
-    type: 3}
-  m_PrefabInstance: {fileID: 5616819169253373642}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &440989860 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5616819169081904750, guid: 6b314766213b53246a266227079f092c,
@@ -7451,12 +7429,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c409788dac506c498b9608b82cba99f, type: 3}
---- !u!1 &745288068 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 908020928730455771, guid: c36c9791e7d73f24b927896658264d91,
-    type: 3}
-  m_PrefabInstance: {fileID: 908020929206251359}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &745288069 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 908020928730455770, guid: c36c9791e7d73f24b927896658264d91,

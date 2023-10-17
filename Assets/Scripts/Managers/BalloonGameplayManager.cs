@@ -36,7 +36,7 @@ namespace Classes.Managers
         void FixedUpdate()
         {
             Debug.Log("Game mode set to " + this.gameSettings.gameModeStr);
-            BalloonSpawnManager.Instance.SpawnBalloons();
+            BalloonManager.Instance.SpawnBalloons();
         }
 
         public GameSettingsSO GetGameSettings()
@@ -66,7 +66,7 @@ namespace Classes.Managers
         //Kills all balloons in scene
         public override void reset()
         {
-            BalloonSpawnManager.Instance.KillAllBalloons();
+            BalloonManager.Instance.KillAllBalloons();
         }
     }
 }
