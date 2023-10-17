@@ -91,11 +91,6 @@ namespace Classes.Managers
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
-        void SetBalloonTimer()
-        {
-            this.nextSpawnTime = Random.Range(this.minSpawnTime, this.maxSpawnTime);
-        }
-
         public override void onWinConditionPointsReached()
         {
             print("You beat the game!");
