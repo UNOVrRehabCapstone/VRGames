@@ -103,6 +103,7 @@ namespace Classes.Managers
             
         }
 
+        
         public void OnDartGrabbed(GameObject dart)
         {
             
@@ -156,20 +157,6 @@ namespace Classes.Managers
                 }
             }
             temp.transform.position = dartSpawn.transform.position + new Vector3(0, 0, -.06f);
-        }
-
-        //Coroutine for counting down and despawning balloon after certain amount of time
-        private IEnumerator despawnCountdown(GameObject balloon)
-        {
-            /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
-            while (Time.realtimeSinceStartup < endTime)
-            {
-                yield return new WaitForSeconds(.5f);
-            }*/
-                
-            yield return new WaitForSeconds(secondsTilDespawn);
-
-            killBalloon(balloon);
         }
     }
 }
