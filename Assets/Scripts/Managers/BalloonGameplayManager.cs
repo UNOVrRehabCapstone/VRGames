@@ -97,13 +97,6 @@ namespace Classes.Managers
             PointsManager.updateScoreboardMessage("You Win!");
             
         }
-
-        //Destroys the dart and sets the spawner back to false.
-        public void killDart(GameObject dart)
-        {
-            DartRespawn.disableDart();
-            Destroy(dart);
-        }
         
         //Kills all balloons in scene
         public override void reset()
