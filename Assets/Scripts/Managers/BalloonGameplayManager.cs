@@ -98,12 +98,6 @@ namespace Classes.Managers
             
         }
 
-        //Removes a balloon from the list and destroys it.
-        public void killBalloon(GameObject obj)
-        {
-            balloons.Remove(obj);
-            Destroy(obj);
-        }
         //Destroys the dart and sets the spawner back to false.
         public void killDart(GameObject dart)
         {
@@ -114,10 +108,7 @@ namespace Classes.Managers
         //Kills all balloons in scene
         public override void reset()
         {
-            foreach (GameObject balloon in balloons)
-            {
-                killBalloon(balloon);
-            }
+            BalloonSpawnManager.Instance.KillAllBalloons();
         }
 
         public void SpawnDart(GameObject dartSpawn)

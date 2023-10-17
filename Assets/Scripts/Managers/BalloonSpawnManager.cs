@@ -155,22 +155,33 @@ namespace Classes.Managers
             GameObject tmp = Instantiate(balloon);
             tmp.transform.position = spawnPoint;
             balloons.Add(tmp);
-            StartCoroutine(despawnCountdown(tmp));
+            StartCoroutine(DespawnCountdown(tmp));
         }
 
         /** 
          * Remove a balloon from the scene and removes it from the current list of balloons.
          */
-        private void killBalloon(GameObject balloon)
+        public void KillBalloon(GameObject balloon)
         {
             balloons.Remove(balloon);
             Destroy(balloon);
         }
 
         /**
+         * Removes all balloons from the scene.
+         */
+        public void KillAllBalloons()
+        {
+            foreach (GameObject balloon in balloons)
+            {
+                this.KillBalloon(balloon);
+            }
+        }
+
+        /**
          * Coroutine for counting down and despawning balloon after certain amount of time.
          */
-        private IEnumerator despawnCountdown(GameObject balloon)
+        private IEnumerator DespawnCountdown(GameObject balloon)
         {
             /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
             while (Time.realtimeSinceStartup < endTime)
@@ -180,7 +191,7 @@ namespace Classes.Managers
                 
             yield return new WaitForSeconds(this.gameSettings.secondsTilDespawn);
 
-            killBalloon(balloon);
+            KillBalloon(balloon);
         }
     }
 }
