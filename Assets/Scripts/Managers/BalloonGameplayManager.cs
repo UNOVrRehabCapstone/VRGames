@@ -136,55 +136,6 @@ namespace Classes.Managers
             }
         }
 
-        //Creates a new balloon GameObject and adds it to the list
-        public void spawnBalloons()
-        {
-            
-            //This is the easiest difficulty. Balloons will come up at the same time as each other
-            if (this.difficulty == 1)
-            {
-                SpawnLeftBalloon();
-                SpawnRightBalloon();
-            }
-
-            //This is the second difficulty level. Here the balloons alternate but always stay on a strict alternation pattern. 
-            else if(this.difficulty == 2)
-            {
-               if (alternatingBalloonsController)
-               {
-                   SpawnLeftBalloon();
-                   alternatingBalloonsController = false;
-               }
-               else
-               {
-                   SpawnRightBalloon();
-                   alternatingBalloonsController = true;
-               }
-            }
-
-            else if(this.difficulty == 3)
-            {
-                int balloonSpawnIndicator = Random.Range(0,3);
-                Debug.Log ("balloon choice: " + balloonSpawnIndicator + " Number of Ballons in scene: " + balloons.Count);
-
-                switch (balloonSpawnIndicator)
-                {
-                    case 0 : SpawnLeftBalloon();
-                    break;
-
-                    case 1 : SpawnRightBalloon();
-                    break;
-
-                    case 2 :
-                    {
-                        SpawnRightBalloon();
-                        SpawnLeftBalloon();
-                    }
-                        break;
-                }
-            }
-        }
-
         private void SpawnLeftBalloon()
         {
             GameObject tempLeft = Instantiate(leftBalloonPrefab);

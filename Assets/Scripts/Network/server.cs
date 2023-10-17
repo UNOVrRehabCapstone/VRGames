@@ -251,7 +251,7 @@ public class server : MonoBehaviour
                 }
                 break;
             case "Add Balloon":
-                GameObject.Find("Manager").GetComponent<BalloonGameplayManager>().spawnBalloons();
+                GameObject.Find("BalloonSpawnManager").GetComponent<BalloonSpawnManager>().SpawnBalloons();
                 break;
             case "Toggle Timed Targets":
                 GameObject.Find("Manager").GetComponent<PlaneGameplayManager>().ToggleTimedTargets();
