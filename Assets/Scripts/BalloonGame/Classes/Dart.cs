@@ -14,10 +14,10 @@ public class Dart : MonoBehaviour, IGrabEvent
 
     public void onGrab(GameObject hand)
     {
-        manager.OnDartGrabbed(gameObject);
+        
     }
     public void onRelease(GameObject hand){
-        manager.OnDartReleased(gameObject);
+        
     }
 
     public void OnTriggerEnter(Collider other)

@@ -98,18 +98,6 @@ namespace Classes.Managers
             
         }
 
-        
-        public void OnDartGrabbed(GameObject dart)
-        {
-            
-        }
-
-        public void OnDartReleased(GameObject dart)
-        {
-     
-        }
-        
-
         //Removes a balloon from the list and destroys it.
         public void killBalloon(GameObject obj)
         {
