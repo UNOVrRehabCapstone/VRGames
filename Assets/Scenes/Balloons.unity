@@ -1734,7 +1734,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh28464
+  m_Name: pb_Mesh34480
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9013,6 +9013,12 @@ PrefabInstance:
       propertyPath: m_TagString
       value: YellowDartSpawn
       objectReference: {fileID: 0}
+    - target: {fileID: 3279244457571883740, guid: d4a238f87fabf0a44bb1de529bee2fef,
+        type: 3}
+      propertyPath: dartPrefab
+      value: 
+      objectReference: {fileID: 1801185132601967248, guid: b1e33cf7cb48fb443a24ed50df49aeef,
+        type: 3}
     - target: {fileID: 3279244457571883741, guid: d4a238f87fabf0a44bb1de529bee2fef,
         type: 3}
       propertyPath: m_RootOrder
@@ -13192,6 +13198,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 2.9829102
       objectReference: {fileID: 0}
+    - target: {fileID: 3169036819329346647, guid: 22b4a7212bee145468c1d209bb3ca32e,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.2641602
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3169036819210748448, guid: 22b4a7212bee145468c1d209bb3ca32e, type: 3}
     - {fileID: 3169036819274901801, guid: 22b4a7212bee145468c1d209bb3ca32e, type: 3}
@@ -13232,6 +13243,12 @@ PrefabInstance:
       propertyPath: m_TagString
       value: BlueDartSpawn
       objectReference: {fileID: 0}
+    - target: {fileID: 3279244457571883740, guid: d4a238f87fabf0a44bb1de529bee2fef,
+        type: 3}
+      propertyPath: dartPrefab
+      value: 
+      objectReference: {fileID: 1801185132601967248, guid: b1e33cf7cb48fb443a24ed50df49aeef,
+        type: 3}
     - target: {fileID: 3279244457571883741, guid: d4a238f87fabf0a44bb1de529bee2fef,
         type: 3}
       propertyPath: m_RootOrder

@@ -4,6 +4,7 @@ using UnityEngine;
 public class DartRespawn : MonoBehaviour
 {
     private BalloonGameplayManager manager;
+    [SerializeField] private GameObject dartPrefab;
     private static bool leftDartSpawned;
     private static bool rightDartSpawned;
     
@@ -18,19 +19,19 @@ public class DartRespawn : MonoBehaviour
         if (other.gameObject.CompareTag("LeftGrabber") && leftDartSpawned == false && gameObject.CompareTag("YellowDartSpawn"))
         {
             leftDartSpawned = true;
-            manager.SpawnDart(gameObject);
+            this.SpawnDart(gameObject);
         }
         else if (other.gameObject.CompareTag("RightGrabber") && rightDartSpawned == false && gameObject.CompareTag("BlueDartSpawn"))
         {
             rightDartSpawned = true;
-            manager.SpawnDart(gameObject);
+            this.SpawnDart(gameObject);
         }
     }
 
     //For Testing purposes only (to be deleted when finished)
     void OnMouseDown()
     {
-        manager.SpawnDart(gameObject);
+        this.SpawnDart(gameObject);
     }
 
     public static void disableDart()
@@ -43,5 +44,27 @@ public class DartRespawn : MonoBehaviour
         {
             rightDartSpawned = false;
         }
+    }
+
+    public void SpawnDart(GameObject dartSpawn)
+    {
+        GameObject temp = Instantiate(dartPrefab);
+        MeshRenderer wing = temp.gameObject.GetComponentInChildren<MeshRenderer>();
+        foreach (Transform child in temp.transform)
+        { 
+            if (child.CompareTag("DartColorMatch"))
+            {
+                wing = child.GetComponent<MeshRenderer>();
+                if (dartSpawn.gameObject.CompareTag("YellowDartSpawn"))
+                {
+                    wing.material.color = Color.yellow;
+                }
+                else if (dartSpawn.gameObject.CompareTag("BlueDartSpawn"))
+                {
+                    wing.material.color = Color.blue;
+                }
+            }
+        }
+        temp.transform.position = dartSpawn.transform.position + new Vector3(0, 0, -.06f);
     }
 }

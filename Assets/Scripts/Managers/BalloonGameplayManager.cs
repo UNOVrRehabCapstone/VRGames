@@ -75,9 +75,6 @@ namespace Classes.Managers
         {
             return this.gameSettings;
         }
-        
-        /* ===================================================================================== */
-        /* TODO: Everything below this line needed to be deleted/refactored into other modules   */
 
         private IEnumerator Restart()
         {
@@ -102,28 +99,6 @@ namespace Classes.Managers
         public override void reset()
         {
             BalloonSpawnManager.Instance.KillAllBalloons();
-        }
-
-        public void SpawnDart(GameObject dartSpawn)
-        {
-            GameObject temp = Instantiate(dartPrefab);
-            MeshRenderer wing = temp.gameObject.GetComponentInChildren<MeshRenderer>();
-            foreach (Transform child in temp.transform)
-            { 
-                if (child.CompareTag("DartColorMatch"))
-                {
-                    wing = child.GetComponent<MeshRenderer>();
-                    if (dartSpawn.gameObject.CompareTag("YellowDartSpawn"))
-                    {
-                        wing.material.color = Color.yellow;
-                    }
-                    else if (dartSpawn.gameObject.CompareTag("BlueDartSpawn"))
-                    {
-                        wing.material.color = Color.blue;
-                    }
-                }
-            }
-            temp.transform.position = dartSpawn.transform.position + new Vector3(0, 0, -.06f);
         }
     }
 }
