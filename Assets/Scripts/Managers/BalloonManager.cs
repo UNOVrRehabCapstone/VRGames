@@ -55,9 +55,9 @@ namespace Classes.Managers
 
 	    private void Awake()
 	    {
-            //Singleton pattern make sure there is only one balloon spawn manager.
+            //Singleton pattern make sure there is only one balloon manager.
 		    if (Instance != null) {
-			    Debug.LogError("There should only be one balloon spawn manager.");
+			    Debug.LogError("There should only be one balloon manager.");
 		    }
 		    Instance = this; 
 	    }
