@@ -136,22 +136,6 @@ namespace Classes.Managers
             }
         }
 
-        private void SpawnLeftBalloon()
-        {
-            GameObject tempLeft = Instantiate(leftBalloonPrefab);
-            tempLeft.transform.position = leftBalloonSpawn.transform.position; 
-            balloons.Add(tempLeft);
-            StartCoroutine(despawnCountdown(tempLeft));
-        }
-
-        private void SpawnRightBalloon()
-        {
-            GameObject tempRight = Instantiate(rightBalloonPrefab);
-            tempRight.transform.position = rightBalloonSpawn.transform.position;
-            balloons.Add(tempRight);
-            StartCoroutine(despawnCountdown(tempRight));
-        }
-
         public void SpawnDart(GameObject dartSpawn)
         {
             GameObject temp = Instantiate(dartPrefab);
