@@ -64,7 +64,7 @@ namespace Classes.Managers
 
         private void Start()
         {
-            Instance.gameSettings = BalloonGameplayManager.Instance.getGameSettings();
+            Instance.gameSettings = BalloonGameplayManager.Instance.GetGameSettings();
         }
 
         /**

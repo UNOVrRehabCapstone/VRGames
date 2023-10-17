@@ -16,38 +16,6 @@ namespace Classes.Managers
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
         [SerializeField] private GameSettingsSO gameSettings;
-        
-
-        /* ====================================== START ========================================= */
-
-        /* TODO: The fields between the lines are NOT used in the new refactored code however they 
-         *       are needed for the methods below which I have also marked off. The reason I have 
-         *       not deleted the methods is because they are used in other parts of the code that I 
-         *       have not touched yet, so attempting to delete the methods breaks the game. 
-         *
-         *       Wanted to put this note here so no one is confused on why there are a bunch of 
-         *       methods/fields not being used.
-         */
-
-        public GameObject leftBalloonPrefab;
-        public GameObject rightBalloonPrefab;
-        public GameObject dartPrefab;
-        public GameObject leftBalloonSpawn;
-        public GameObject rightBalloonSpawn;
-        public float secondsTilDespawn = 200;
-        public List<GameObject> balloons = new List<GameObject>();   
-
-        public float nextSpawnTime = 0f;
-        public float maxSpawnTime = 3.0f;
-        public float minSpawnTime = 0f;
-
-        public int balloonsSpawnedAtOnce = 0;
-        private bool alternatingBalloonsController = false;
-        private int pointTotal;
-        private bool restarting = false;
-        public int goalOne = 5;
-        public int goalTwo = 10;
-        /* ======================================= END ========================================== */
 
         private void Awake()
 	    {
@@ -71,7 +39,7 @@ namespace Classes.Managers
             BalloonSpawnManager.Instance.SpawnBalloons();
         }
 
-        public GameSettingsSO getGameSettings()
+        public GameSettingsSO GetGameSettings()
         {
             return this.gameSettings;
         }
