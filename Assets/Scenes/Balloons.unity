@@ -628,7 +628,7 @@ MonoBehaviour:
   difficulty: 1
   winConditionPoints: 15
   maxTime: 0
-  gameSettings: {fileID: 11400000, guid: 555a0f0327a1ce54cbb240ddc244c32d, type: 2}
+  gameSettings: {fileID: 11400000, guid: e39f2adb666e2654e96a76a48d3594a6, type: 2}
   playerLives: 0
 --- !u!114 &46590935
 MonoBehaviour:

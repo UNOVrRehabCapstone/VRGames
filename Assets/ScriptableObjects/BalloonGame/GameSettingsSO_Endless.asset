@@ -10,19 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c66ea19904c29464986c61f77c68585c, type: 3}
-  m_Name: GameSettingsSO_Normal
+  m_Name: GameSettingsSO_Endless
   m_EditorClassIdentifier: 
-  gameMode: 2
-  numLives: 3
-  goal: 5
-  spawnPattern: 1
-  balloonPrefabs:
-  - {fileID: 1967284077058846, guid: e41e4d3f39ed0fa45a605b740a22d25a, type: 3}
-  probabilities:
-  - 1
-  leftSpawn: {x: -0.5, y: 0, z: 0.7}
-  rightSpawn: {x: 0.45, y: 0, z: 0.7}
-  maxNumBalloonsSpawnedAtOnce: 2
-  maxSpawnTime: 5
-  minSpawnTime: 1
-  secondsTilDespawn: 5
+  gameMode: 0
+  numLives: 0
+  goal: 0
+  spawnPattern: 0
+  balloonPrefabs: []
+  probabilities: []
+  leftSpawn: {x: 0, y: 0, z: 0}
+  rightSpawn: {x: 0, y: 0, z: 0}
+  maxNumBalloonsSpawnedAtOnce: 0
+  maxSpawnTime: 0
+  minSpawnTime: 0
+  secondsTilDespawn: 0
