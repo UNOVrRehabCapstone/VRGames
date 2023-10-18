@@ -78,10 +78,16 @@ namespace Classes.Managers
             return this.gameSettings;
         }
         
+        /**
+         * Restart() reloads the scene. Useful for automatically reloading the scene when some 
+         * condition has been met.
+         */
         public IEnumerator Restart()
         {
             this.isRestarting = true;
-            BalloonManager.Instance.KillAllBalloons();
+            /* Required because if a balloon despawn while the game is restarting, it will still 
+               cause a loss of life. */
+            BalloonManager.Instance.KillAllBalloons(); 
 
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
@@ -94,6 +100,10 @@ namespace Classes.Managers
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
+        /**
+         * WatchPlayerLives() is a coroutine that executes when all lives are lost. Currently only 
+         * activated for the Normal and Endless game modes. See the Start() method.
+         */
         private IEnumerator WatchPlayerLives()
         {
             yield return new WaitUntil(() => (this.playerLives < 1));
@@ -103,6 +113,11 @@ namespace Classes.Managers
             this.StartCoroutine(this.Restart());
         }
 
+        /**
+         * WatchScore() is a coroutine that executes when the score reache the goal defined by the 
+         * game settings. Currently only activated for the Relaxed and Normal game modes. See the 
+         * Start() method.
+         */
         private IEnumerator WatchScore()
         {
             yield return new WaitUntil(() => (PointsManager.getPoints() == this.gameSettings.goal));

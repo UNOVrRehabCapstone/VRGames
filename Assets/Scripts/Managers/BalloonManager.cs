@@ -9,37 +9,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-/* TODO: Extract some of this code. This is some code I believe Jared wrote? There's some good code 
-         here, so I do not want to delete until I have re-implemented into the new code. Too lazy to 
-         do it right now though :) */
-
-/* 
-this.nextSpawnTime -= Time.deltaTime;
-pointTotal = PointsManager.getLeftPoints() + PointsManager.getRightPoints();
-if (pointTotal == this.winConditionPoints && !restarting)
-{
-    restarting = true;
-    onWinConditionPointsReached();
-    StartCoroutine(Restart());
-}
-if (pointTotal == goalOne || pointTotal == goalTwo)
-{
-    this.IncreaseDifficulty();
-}
-if (balloons.Count <= balloonsSpawnedAtOnce && this.nextSpawnTime <= 0)
-{
-    spawnBalloons();
-    if(difficulty == 3)
-    {
-        SetBalloonTimer();
-    }
-    else
-    {
-        this.nextSpawnTime = 5.0f;
-    }
-}
-*/
-
 namespace Classes.Managers 
 {
 	public class BalloonManager : MonoBehaviour
@@ -70,8 +39,6 @@ namespace Classes.Managers
 
         /**
          * Spawns the balloons based on the spawn settings. See the game settings for more information.
-         *
-         * Author: Dante Lawrence
          */
 	    public void SpawnBalloons()
 	    {
@@ -148,8 +115,6 @@ namespace Classes.Managers
 
         /**
          * Given a balloon and a spawn point this method spawns a balloon at the spawn point.
-         *
-         * Author: Dante Lawrence
          */
         private void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
         {
