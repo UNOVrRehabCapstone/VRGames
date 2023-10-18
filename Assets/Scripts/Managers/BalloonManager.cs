@@ -7,6 +7,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 /* TODO: Extract some of this code. This is some code I believe Jared wrote? There's some good code 
          here, so I do not want to delete until I have re-implemented into the new code. Too lazy to 
@@ -46,12 +47,12 @@ namespace Classes.Managers
         /* Singleton pattern. Holds a reference to the balloon spawn manager object. */
 	    public static BalloonManager Instance {get; private set;}
 
-        private GameSettingsSO gameSettings;
-
-        /* Holds the current balloons in the scene (the balloons that have been spawned but not despawned) */
-	    private List<GameObject> balloons = new List<GameObject>();
-
-        private bool alternate = false;
+        private GameSettingsSO   gameSettings;
+	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
+                                                                       the scene */
+        private bool             alternate = false;
+        private int              playerLives; /* TODO: Temporary; needs to be place in another file */
+        private float            nextSpawnTime;
 
 	    private void Awake()
 	    {
@@ -64,7 +65,9 @@ namespace Classes.Managers
 
         private void Start()
         {
-            Instance.gameSettings = BalloonGameplayManager.Instance.GetGameSettings();
+            this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
+            this.playerLives   = this.gameSettings.numLives;
+            this.nextSpawnTime = this.gameSettings.maxSpawnTime;
         }
 
         /**
@@ -74,11 +77,11 @@ namespace Classes.Managers
          */
 	    public void SpawnBalloons()
 	    {
-            this.gameSettings.nextSpawnTime -= Time.deltaTime;
+            this.nextSpawnTime -= Time.deltaTime;
 
             /* Both conditions must be met to spawn another balloon */
             if (   (this.balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce)
-                && (this.gameSettings.nextSpawnTime <= 0) ) { 
+                && (this.nextSpawnTime <= 0) ) { 
 
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
@@ -111,7 +114,7 @@ namespace Classes.Managers
                         break;
                 }
 
-                this.gameSettings.nextSpawnTime = Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime);
+                this.nextSpawnTime = Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime);
             }
 	    }
 
@@ -192,6 +195,15 @@ namespace Classes.Managers
             yield return new WaitForSeconds(this.gameSettings.secondsTilDespawn);
 
             KillBalloon(balloon);
+
+            /* Reduce the number of lives when a balloon is despawned and check player lives. */
+            /* TODO: This logic would probably be better placed in a file that specifically handles
+               player logic. */
+            --this.playerLives;
+            if (   this.gameSettings.gameMode != GameSettingsSO.GameMode.RELAXED
+                && this.playerLives < 1) {
+                    SceneManager.LoadScene("Balloons");
+            }
         }
     }
 }

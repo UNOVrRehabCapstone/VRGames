@@ -14,22 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameModeStr: Normal
   gameMode: 1
-  numLives: 0
-  goal: 0
-  spawnPattern: 0
+  numLives: 3
+  goal: 50
+  spawnPattern: 1
   balloonPrefabs:
-  - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}
-  - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}
-  - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}
+  - {fileID: 1967284077058846, guid: e41e4d3f39ed0fa45a605b740a22d25a, type: 3}
   probabilities:
-  - 0.5
-  - 0
-  - 0
-  - 0
-  leftSpawn: {x: 1, y: 0, z: 0}
-  rightSpawn: {x: 0, y: 0, z: 0}
-  maxNumBalloonsSpawnedAtOnce: 0
-  maxSpawnTime: 0
-  minSpawnTime: 0
+  - 1
+  leftSpawn: {x: -0.5, y: 0, z: 0.7}
+  rightSpawn: {x: -0.45, y: 0, z: 0.7}
+  maxNumBalloonsSpawnedAtOnce: 2
+  maxSpawnTime: 4
+  minSpawnTime: 1
   nextSpawnTime: 0
-  secondsTilDespawn: 0
+  secondsTilDespawn: 5

@@ -30,13 +30,28 @@ namespace Classes.Managers
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
-            PointsManager.addPointTrigger("==", winConditionPoints, "onWinConditionPointsReached");
+            PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
         }
 
         void FixedUpdate()
         {
-            Debug.Log("Game mode set to " + this.gameSettings.gameModeStr);
-            BalloonManager.Instance.SpawnBalloons();
+            switch(this.gameSettings.gameMode) {
+                case GameSettingsSO.GameMode.RELAXED:
+                    Debug.Log("Game mode set to Relaxed.");
+                    BalloonManager.Instance.SpawnBalloons();
+                    break;
+                case GameSettingsSO.GameMode.NORMAL:
+                    Debug.Log("Game mode set to Normal.");
+                    BalloonManager.Instance.SpawnBalloons();
+                    break;
+                case GameSettingsSO.GameMode.ENDLESS:
+                    Debug.Log("Game mode set to Endless.");
+                    BalloonManager.Instance.SpawnBalloons();
+                    break;
+                default:
+                    Debug.Log("This should never happen.");
+                    break;
+            }
         }
 
         public GameSettingsSO GetGameSettings()

@@ -15,7 +15,8 @@ using UnityEngine;
 public class GameSettingsSO : ScriptableObject
 {
 	public enum GameMode {
-		RELAXED,               /* No way to lose and no negative balloons. Game ends when the patient or clincian quit. */
+		RELAXED,               /* No way to lose and no negative balloons. Game ends when the goal is met or the patient 
+								  or clincian quit. */
 		
 		NORMAL,                /* Patient has lives and there is a goal. All balloons enabled. Game ends when either the 
 		                          patient runs out of lives or the goal is met (or by intervention of the clinician). */
@@ -44,7 +45,7 @@ public class GameSettingsSO : ScriptableObject
 	public int              goal;
 
 	/*************************************************************************/
-	/* SPAWN SETTINGS                                                         /
+	/* SPAWN SETTINGS                                                        */
 	/*************************************************************************/
 	public SpawnPattern     spawnPattern;
 
@@ -57,7 +58,6 @@ public class GameSettingsSO : ScriptableObject
 
 	public float            maxSpawnTime;
 	public float            minSpawnTime;
-	public float            nextSpawnTime;
 
 	public float            secondsTilDespawn;
 }
