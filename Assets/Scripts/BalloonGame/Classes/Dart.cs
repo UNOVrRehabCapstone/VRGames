@@ -28,6 +28,7 @@ public class Dart : MonoBehaviour, IGrabEvent
             BalloonManager.Instance.KillBalloon(other.gameObject);
             KillDart(gameObject);
             PointsManager.addLeftPoints(1);
+            PointsManager.addPoints(1);
         } 
         if (other.gameObject.CompareTag("RightTarget"))
         {
@@ -35,6 +36,7 @@ public class Dart : MonoBehaviour, IGrabEvent
             BalloonManager.Instance.KillBalloon(other.gameObject);
             KillDart(gameObject);
             PointsManager.addRightPoints(1);
+            PointsManager.addPoints(1);
         }
     }
 

@@ -74,8 +74,7 @@ namespace Classes.Managers
         public override void onWinConditionPointsReached()
         {
             print("You beat the game!");
-            PointsManager.updateScoreboardMessage("You Win!");
-            
+            PointsManager.updateScoreboardMessage("You Win!"); 
         }
         
         //Kills all balloons in scene
