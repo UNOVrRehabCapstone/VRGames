@@ -5,14 +5,8 @@ using UnityEngine;
 
 public class Balloon : MonoBehaviour
 {
-    public float floatStrength;
-    public GameObject scorePopupPrefab;
-    private BalloonGameplayManager manager;
-
-    void Start() 
-    {
-        manager = (BalloonGameplayManager) GameplayManager.getManager();
-    }
+    public  float          floatStrength;
+    public  GameObject     scorePopupPrefab;
 
     void Update()
     {
@@ -32,9 +26,16 @@ public class Balloon : MonoBehaviour
         }
     }
 
+    /* For testing purposes. */
     void OnMouseDown()
     {
-        Destroy(gameObject);
+        BalloonManager.Instance.KillBalloon(gameObject);
+        PointsManager.addPoints(1);
+        Debug.Log("Total points = " + PointsManager.getPoints());
+
+        if (PointsManager.getPoints() == BalloonGameplayManager.Instance.GetGameSettings().goal) {
+            BalloonGameplayManager.Instance.onWinConditionPointsReached();
+        }
     }
 
     void ShowScorePopup()

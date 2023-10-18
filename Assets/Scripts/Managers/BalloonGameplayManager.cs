@@ -16,6 +16,7 @@ namespace Classes.Managers
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
         [SerializeField] private GameSettingsSO gameSettings;
+        private bool                            isRestarting = false;
 
         private void Awake()
 	    {
@@ -30,7 +31,7 @@ namespace Classes.Managers
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
-            PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
+            //PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
@@ -38,22 +39,24 @@ namespace Classes.Managers
 
         void FixedUpdate()
         {
-            switch(this.gameSettings.gameMode) {
-                case GameSettingsSO.GameMode.RELAXED:
-                    //Debug.Log("Game mode set to Relaxed.");
-                    BalloonManager.Instance.SpawnBalloons();
-                    break;
-                case GameSettingsSO.GameMode.NORMAL:
-                    //Debug.Log("Game mode set to Normal.");
-                    BalloonManager.Instance.SpawnBalloons();
-                    break;
-                case GameSettingsSO.GameMode.ENDLESS:
-                    //Debug.Log("Game mode set to Endless.");
-                    BalloonManager.Instance.SpawnBalloons();
-                    break;
-                default:
-                    Debug.Log("This should never happen.");
-                    break;
+            if (!isRestarting) {
+                switch(this.gameSettings.gameMode) {
+                    case GameSettingsSO.GameMode.RELAXED:
+                        //Debug.Log("Game mode set to Relaxed.");
+                        BalloonManager.Instance.SpawnBalloons();
+                        break;
+                    case GameSettingsSO.GameMode.NORMAL:
+                        //Debug.Log("Game mode set to Normal.");
+                        BalloonManager.Instance.SpawnBalloons();
+                        break;
+                    case GameSettingsSO.GameMode.ENDLESS:
+                        //Debug.Log("Game mode set to Endless.");
+                        BalloonManager.Instance.SpawnBalloons();
+                        break;
+                    default:
+                        Debug.Log("This should never happen.");
+                        break;
+                }
             }
         }
 
@@ -64,6 +67,8 @@ namespace Classes.Managers
 
         public IEnumerator Restart()
         {
+            this.isRestarting = true;
+            this.reset();
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
             yield return new WaitForSeconds(1);
@@ -71,6 +76,7 @@ namespace Classes.Managers
             yield return new WaitForSeconds(1);
             PointsManager.updateScoreboardMessage("Restarting in: 1");
             yield return new WaitForSeconds(1);
+            PointsManager.resetPoints();
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
