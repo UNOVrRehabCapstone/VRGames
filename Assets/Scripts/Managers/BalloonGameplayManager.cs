@@ -31,6 +31,9 @@ namespace Classes.Managers
             base.Start();
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
             PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
+
+            Debug.Log("Game mode set to " +     this.gameSettings.gameModeStr);
+            Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
         }
 
         void FixedUpdate()
