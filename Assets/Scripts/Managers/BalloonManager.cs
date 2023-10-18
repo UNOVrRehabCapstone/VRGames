@@ -203,7 +203,7 @@ namespace Classes.Managers
             Debug.Log("Lost a life. Remaining lives: " + this.playerLives);
             if (   this.gameSettings.gameMode != GameSettingsSO.GameMode.RELAXED
                 && this.playerLives < 1) {
-                    SceneManager.LoadScene("Balloons");
+                    this.StartCoroutine(BalloonGameplayManager.Instance.Restart());
             }
         }
     }

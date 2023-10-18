@@ -59,7 +59,7 @@ namespace Classes.Managers
             return this.gameSettings;
         }
 
-        private IEnumerator Restart()
+        public IEnumerator Restart()
         {
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
