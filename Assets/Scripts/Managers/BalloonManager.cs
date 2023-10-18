@@ -85,7 +85,7 @@ namespace Classes.Managers
 
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
-                        Debug.Log("Concurrent spawn pattern chosen");
+                        //Debug.Log("Concurrent spawn pattern chosen");
 
                         /* Have to be really careful here since two balloons are spawned with this 
                            spawn pattern */
@@ -99,7 +99,7 @@ namespace Classes.Managers
 
                         break;
                     case GameSettingsSO.SpawnPattern.ALTERNATING: 
-                        Debug.Log("Alternate spawn pattern chosen.");
+                        //Debug.Log("Alternate spawn pattern chosen.");
                         
                         GameObject balloon = GetBalloonBasedOnProb();
                         Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
