@@ -200,6 +200,7 @@ namespace Classes.Managers
             /* TODO: This logic would probably be better placed in a file that specifically handles
                player logic. */
             --this.playerLives;
+            Debug.Log("Lost a life. Remaining lives: " + this.playerLives);
             if (   this.gameSettings.gameMode != GameSettingsSO.GameMode.RELAXED
                 && this.playerLives < 1) {
                     SceneManager.LoadScene("Balloons");

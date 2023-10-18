@@ -37,15 +37,15 @@ namespace Classes.Managers
         {
             switch(this.gameSettings.gameMode) {
                 case GameSettingsSO.GameMode.RELAXED:
-                    Debug.Log("Game mode set to Relaxed.");
+                    //Debug.Log("Game mode set to Relaxed.");
                     BalloonManager.Instance.SpawnBalloons();
                     break;
                 case GameSettingsSO.GameMode.NORMAL:
-                    Debug.Log("Game mode set to Normal.");
+                    //Debug.Log("Game mode set to Normal.");
                     BalloonManager.Instance.SpawnBalloons();
                     break;
                 case GameSettingsSO.GameMode.ENDLESS:
-                    Debug.Log("Game mode set to Endless.");
+                    //Debug.Log("Game mode set to Endless.");
                     BalloonManager.Instance.SpawnBalloons();
                     break;
                 default:
@@ -75,6 +75,8 @@ namespace Classes.Managers
         {
             print("You beat the game!");
             PointsManager.updateScoreboardMessage("You Win!"); 
+
+            this.StartCoroutine(this.Restart());
         }
         
         //Kills all balloons in scene

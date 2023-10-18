@@ -22,9 +22,8 @@ MonoBehaviour:
   probabilities:
   - 1
   leftSpawn: {x: -0.5, y: 0, z: 0.7}
-  rightSpawn: {x: -0.45, y: 0, z: 0.7}
+  rightSpawn: {x: 0.45, y: 0, z: 0.7}
   maxNumBalloonsSpawnedAtOnce: 2
   maxSpawnTime: 4
   minSpawnTime: 1
-  nextSpawnTime: 0
   secondsTilDespawn: 5
