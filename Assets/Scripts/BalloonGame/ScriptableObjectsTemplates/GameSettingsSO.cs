@@ -38,7 +38,6 @@ public class GameSettingsSO : ScriptableObject
 	/*************************************************************************/
 	/* GAME MODE SETTINGS                                                    */
 	/*************************************************************************/
-	public string           gameModeStr;
 	public GameMode         gameMode;
 
 	public int              numLives;

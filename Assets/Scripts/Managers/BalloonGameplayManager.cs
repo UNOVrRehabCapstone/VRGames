@@ -32,7 +32,7 @@ namespace Classes.Managers
             PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
             PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
 
-            Debug.Log("Game mode set to " +     this.gameSettings.gameModeStr);
+            Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
         }
 
