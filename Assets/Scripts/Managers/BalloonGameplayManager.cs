@@ -53,6 +53,7 @@ namespace Classes.Managers
                 case GameSettingsSO.GameMode.ENDLESS:
                     this.StartCoroutine(this.WatchPlayerLives());
                     break;
+
                 default:
                     Debug.LogError("This should never happen.");
                     break;
