@@ -51,7 +51,6 @@ namespace Classes.Managers
 	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
                                                                        the scene */
         private bool             alternate = false;
-        private int              playerLives; /* TODO: Temporary; needs to be placed in another file */
         private float            nextSpawnTime;
 
 	    private void Awake()
@@ -66,7 +65,6 @@ namespace Classes.Managers
         private void Start()
         {
             this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
-            this.playerLives   = this.gameSettings.numLives;
             this.nextSpawnTime = this.gameSettings.maxSpawnTime;
         }
 
@@ -201,12 +199,8 @@ namespace Classes.Managers
                 /* Reduce the number of lives when a balloon is despawned and check player lives. */
                 /* TODO: This logic would probably be better placed in a file that specifically handles
                    player logic. */
-                --this.playerLives;
-                Debug.Log("Lost a life. Remaining lives: " + this.playerLives);
-                if (   this.gameSettings.gameMode != GameSettingsSO.GameMode.RELAXED
-                    && this.playerLives < 1) {
-                        this.StartCoroutine(BalloonGameplayManager.Instance.Restart());
-                }
+                --BalloonGameplayManager.Instance.playerLives;
+                Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
             }
         }
     }

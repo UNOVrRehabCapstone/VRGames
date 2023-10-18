@@ -17,6 +17,7 @@ namespace Classes.Managers
                 game mode the user selects. */
         [SerializeField] private GameSettingsSO gameSettings;
         private bool                            isRestarting = false;
+        public  int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
 
         private void Awake()
 	    {
@@ -30,33 +31,45 @@ namespace Classes.Managers
         new void Start()
         {
             base.Start();
-            PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
-            //PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
+
+            this.playerLives = this.gameSettings.numLives;
+            
+            switch(this.gameSettings.gameMode) {
+                /* RELAXED: Just watch the score.*/
+                case GameSettingsSO.GameMode.RELAXED:
+                    this.StartCoroutine(this.WatchScore());
+                    break;
+
+                /* NORMAL: Watch lives and score.*/
+                case GameSettingsSO.GameMode.NORMAL:
+                    this.StartCoroutine(this.WatchScore());
+                    this.StartCoroutine(this.WatchPlayerLives());
+                    break;
+
+                /* ENDLESS: Just watch lives. */
+                case GameSettingsSO.GameMode.ENDLESS:
+                    this.StartCoroutine(this.WatchPlayerLives());
+                    break;
+                default:
+                    Debug.LogError("This should never happen.");
+                    break;
+
+            }
+            
+            //PointsManager.addPointTrigger("==", this.gameSettings.goal, "onWinConditionPointsReached");
+            PointsManager.updateScoreboardMessage("Press The Buttons Behind You To Spawn A Dart!");
         }
 
         void FixedUpdate()
         {
             if (!isRestarting) {
-                switch(this.gameSettings.gameMode) {
-                    case GameSettingsSO.GameMode.RELAXED:
-                        //Debug.Log("Game mode set to Relaxed.");
-                        BalloonManager.Instance.SpawnBalloons();
-                        break;
-                    case GameSettingsSO.GameMode.NORMAL:
-                        //Debug.Log("Game mode set to Normal.");
-                        BalloonManager.Instance.SpawnBalloons();
-                        break;
-                    case GameSettingsSO.GameMode.ENDLESS:
-                        //Debug.Log("Game mode set to Endless.");
-                        BalloonManager.Instance.SpawnBalloons();
-                        break;
-                    default:
-                        Debug.Log("This should never happen.");
-                        break;
-                }
+                /* If you wanted to log the game mode and spawn pattern on every frame */
+                //Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
+                //Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
+                BalloonManager.Instance.SpawnBalloons();
             }
         }
 
@@ -64,11 +77,12 @@ namespace Classes.Managers
         {
             return this.gameSettings;
         }
-
+        
         public IEnumerator Restart()
         {
             this.isRestarting = true;
-            this.reset();
+            BalloonManager.Instance.KillAllBalloons();
+
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
             yield return new WaitForSeconds(1);
@@ -80,18 +94,36 @@ namespace Classes.Managers
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
-        public override void onWinConditionPointsReached()
+        private IEnumerator WatchPlayerLives()
         {
-            print("You beat the game!");
-            PointsManager.updateScoreboardMessage("You Win!"); 
+            yield return new WaitUntil(() => (this.playerLives < 1));
 
+            Debug.Log("Out of lives");
+            PointsManager.updateScoreboardMessage("Out of lives"); 
             this.StartCoroutine(this.Restart());
         }
-        
-        //Kills all balloons in scene
+
+        private IEnumerator WatchScore()
+        {
+            yield return new WaitUntil(() => (PointsManager.getPoints() == this.gameSettings.goal));
+
+            Debug.Log("Goal has been reached!");
+            PointsManager.updateScoreboardMessage("You Win!"); 
+            this.StartCoroutine(this.Restart());
+        }
+
+        /* Included this because it has to be overrided due to the GameplayManager class. 
+           Currently not used. */
         public override void reset()
         {
-            BalloonManager.Instance.KillAllBalloons();
+            
+        }
+
+        /* Included this because it has to be overrided due to the GameplayManager class. 
+           Currently not used. */
+        public override void onWinConditionPointsReached()
+        {
+            
         }
     }
 }

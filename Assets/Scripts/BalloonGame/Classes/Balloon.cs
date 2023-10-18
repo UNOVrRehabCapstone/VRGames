@@ -32,10 +32,6 @@ public class Balloon : MonoBehaviour
         BalloonManager.Instance.KillBalloon(gameObject);
         PointsManager.addPoints(1);
         Debug.Log("Total points = " + PointsManager.getPoints());
-
-        if (PointsManager.getPoints() == BalloonGameplayManager.Instance.GetGameSettings().goal) {
-            BalloonGameplayManager.Instance.onWinConditionPointsReached();
-        }
     }
 
     void ShowScorePopup()
