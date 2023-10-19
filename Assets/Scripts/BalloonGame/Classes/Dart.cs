@@ -25,7 +25,12 @@ public class Dart : MonoBehaviour, IGrabEvent
         if (other.gameObject.CompareTag("LeftTarget"))
         {
             Debug.Log("Hit the left balloon!");
-            BalloonManager.Instance.KillBalloon(other.gameObject);
+            /* Interesting bug I found. You need other.gameObject.transform.parent.gameObject
+               because the collider is NOT the balloon. The collider is attached to the sphere 
+               which is a child of the balloon game object. In other words, other.gameObject is 
+               a sphere, not a balloon, so attempting to call KillBalloon(other.gameObject) will 
+               not work. */
+            BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
             KillDart(gameObject);
             PointsManager.addLeftPoints(1);
             PointsManager.addPoints(1);
@@ -33,7 +38,7 @@ public class Dart : MonoBehaviour, IGrabEvent
         if (other.gameObject.CompareTag("RightTarget"))
         {
             Debug.Log("Hit the right balloon!");
-            BalloonManager.Instance.KillBalloon(other.gameObject);
+            BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
             KillDart(gameObject);
             PointsManager.addRightPoints(1);
             PointsManager.addPoints(1);
