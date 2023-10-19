@@ -57,6 +57,12 @@ TagManager:
   - LeftPlane
   - RightPlane
   - CalibrationButton
+  - DartWing
+  - Jet
+  - jet
+  - Display
+  - plane
+  - SpawnStream
   layers:
   - Default
   - TransparentFX
