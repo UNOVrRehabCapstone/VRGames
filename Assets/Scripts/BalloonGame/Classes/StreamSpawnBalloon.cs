@@ -8,6 +8,9 @@ public class StreamSpawnBalloon : MonoBehaviour
     public float floatStrength;
     public GameObject scorePopupPrefab;
     private BalloonGameplayManager manager;
+    /**
+     * Controls the number of balloons to be spawned
+     */
     private int spawnCount = 5;
 
     void Start()
@@ -49,6 +52,9 @@ public class StreamSpawnBalloon : MonoBehaviour
         StartCoroutine(Spawn());
     }
 
+    /**
+     * Forces the spawning of balloons with a quick interval
+     */
     private IEnumerator Spawn()
     {
         for (int i = 0; i < spawnCount; i++)
