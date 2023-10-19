@@ -6,10 +6,12 @@ using UnityEngine;
 public class Dart : MonoBehaviour, IGrabEvent
 {
     private BalloonGameplayManager manager;
+    private Vector3 originalPosition;
 
     void Start() 
     {
         manager = (BalloonGameplayManager) GameplayManager.getManager();
+        originalPosition = transform.position;
     }
 
     public void onGrab(GameObject hand)
@@ -26,21 +28,20 @@ public class Dart : MonoBehaviour, IGrabEvent
         {
             Debug.Log("Hit the left balloon!");
             BalloonManager.Instance.KillBalloon(other.gameObject);
-            KillDart(gameObject);
+            ResetDart(gameObject);
             PointsManager.addLeftPoints(1);
         } 
         if (other.gameObject.CompareTag("RightTarget"))
         {
             Debug.Log("Hit the right balloon!");
             BalloonManager.Instance.KillBalloon(other.gameObject);
-            KillDart(gameObject);
+            ResetDart(gameObject);
             PointsManager.addRightPoints(1);
         }
     }
 
-    private void KillDart(GameObject dart)
+    private void ResetDart(GameObject dart)
     {
-        DartRespawn.disableDart();
-        Destroy(dart);
+       dart.transform.position = originalPosition;
     }
 }

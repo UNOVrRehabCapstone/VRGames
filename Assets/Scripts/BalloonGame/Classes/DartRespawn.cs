@@ -34,17 +34,17 @@ public class DartRespawn : MonoBehaviour
         this.SpawnDart(gameObject);
     }
 
-    public static void disableDart()
-    {
-        if (leftDartSpawned)
-        {
-            leftDartSpawned = false;
-        }
-        if (rightDartSpawned)
-        {
-            rightDartSpawned = false;
-        }
-    }
+    // public static void disableDart()
+    // {
+    //     if (leftDartSpawned)
+    //     {
+    //         leftDartSpawned = false;
+    //     }
+    //     if (rightDartSpawned)
+    //     {
+    //         rightDartSpawned = false;
+    //     }
+    // }
 
     public void SpawnDart(GameObject dartSpawn)
     {
@@ -66,5 +66,25 @@ public class DartRespawn : MonoBehaviour
             }
         }
         temp.transform.position = dartSpawn.transform.position + new Vector3(0, 0, -.06f);
+    }
+
+    public static Vector3 GetLeftSpawnPosition()
+    {
+        return GameObject.FindGameObjectWithTag("YellowDartSpawn").transform.position;
+    }
+
+    public static Vector3 GetRightSpawnPosition()
+    {
+        return GameObject.FindGameObjectWithTag("BlueDartSpawn").transform.position;
+    }
+
+    public static void DisableLeftDart()
+    {
+        leftDartSpawned = false;
+    }
+
+    public static void DisableRightDart()
+    {
+        rightDartSpawned = false;
     }
 }
