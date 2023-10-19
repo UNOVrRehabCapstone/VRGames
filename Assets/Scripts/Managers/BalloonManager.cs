@@ -119,7 +119,6 @@ namespace Classes.Managers
         private void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
         {
             GameObject tmp = Instantiate(balloon);
-            Debug.Log("Balloon: " + tmp);
             tmp.transform.position = spawnPoint;
             balloons.Add(tmp);
             StartCoroutine(DespawnCountdown(tmp));
