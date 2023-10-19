@@ -6,6 +6,7 @@
 
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 /* TODO: Extract some of this code. This is some code I believe Jared wrote? There's some good code 
@@ -69,16 +70,19 @@ namespace Classes.Managers
 
         /**
          * Spawns the balloons based on the spawn settings. See the game settings for more information.
+         * 
+         * Optional forceSpawn parameter bypasses spawn timer and balloon count restrictions
+         * Optional blockSpawnStream prevents spawn stream powerup from spawning
          *
          * Author: Dante Lawrence
          */
-	    public void SpawnBalloons()
+	    public void SpawnBalloons([Optional] bool forceSpawn, [Optional] bool blockSpawnStream)
 	    {
             this.gameSettings.nextSpawnTime -= Time.deltaTime;
 
             /* Both conditions must be met to spawn another balloon */
-            if (   (this.balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce)
-                && (this.gameSettings.nextSpawnTime <= 0) ) { 
+            if (   ((this.balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce)
+                && (this.gameSettings.nextSpawnTime <= 0)) || forceSpawn ) { 
 
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
@@ -91,6 +95,17 @@ namespace Classes.Managers
 
                         GameObject leftBalloon  = GetBalloonBasedOnProb();
                         GameObject rightBalloon = GetBalloonBasedOnProb();
+                        /**
+                         * Prevents the spawnStream powerup from continuously spawning itself
+                         */
+                        while (leftBalloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        {
+                            leftBalloon = GetBalloonBasedOnProb();
+                        } 
+                        while (rightBalloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        {
+                            rightBalloon = GetBalloonBasedOnProb();
+                        }
                         SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
                         SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
 
@@ -99,6 +114,13 @@ namespace Classes.Managers
                         Debug.Log("Alternate spawn pattern chosen.");
                         
                         GameObject balloon = GetBalloonBasedOnProb();
+                        /**
+                         * Prevents the spawnStream powerup from continuously spawning itself
+                         */
+                        while (balloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        {
+                            balloon = GetBalloonBasedOnProb();
+                        }
                         Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
                                                          this.gameSettings.rightSpawn;
                         this.alternate = !alternate;
