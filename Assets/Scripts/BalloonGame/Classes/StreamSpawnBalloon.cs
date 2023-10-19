@@ -8,6 +8,7 @@ public class StreamSpawnBalloon : MonoBehaviour
     public float floatStrength;
     public GameObject scorePopupPrefab;
     private BalloonGameplayManager manager;
+    private int spawnCount = 5;
 
     void Start()
     {
@@ -50,7 +51,7 @@ public class StreamSpawnBalloon : MonoBehaviour
 
     private IEnumerator Spawn()
     {
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < spawnCount; i++)
         {
             yield return new WaitForSeconds(0.1f);
             BalloonManager.Instance.SpawnBalloons(true, true);
