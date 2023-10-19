@@ -29,9 +29,9 @@ Balloon Game:
 * Refactored BalloonGameplayManager class
 * Created new BalloonManager class to handle the balloons in the scene and balloon spawning
 * Created a game settings class that can be used to create and specify different game settings such as:
- * Game mode
- * Spawn pattern
- * Probability of different types of balloons spawning
- * Where a balloon spawns
- * Time between each balloon spawn
+  * Game mode
+  * Spawn pattern
+  * Probability of different types of balloons spawning
+  * Where a balloon spawns
+  * Time between each balloon spawn
 * Implemented alternating and cocurrent spawn patterns
