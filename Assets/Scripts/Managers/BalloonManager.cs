@@ -98,13 +98,24 @@ namespace Classes.Managers
                         /**
                          * Prevents the spawnStream powerup from continuously spawning itself
                          */
-                        while (leftBalloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        int leftAttempts = 0;
+                        while (leftBalloon.CompareTag("SpawnStream") && blockSpawnStream && leftAttempts < 5)
                         {
                             leftBalloon = GetBalloonBasedOnProb();
+                            leftAttempts++;
                         } 
-                        while (rightBalloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        int rightAttempts = 0;
+                        while (rightBalloon.CompareTag("SpawnStream") && blockSpawnStream && rightAttempts < 5)
                         {
                             rightBalloon = GetBalloonBasedOnProb();
+                            rightAttempts++;
+                        }
+                        /**
+                         * aborts spawning if a non Spawn Stream balloon was not selected
+                         */
+                        if (leftAttempts == 5 || rightAttempts == 5)
+                        {
+                            break;
                         }
                         SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
                         SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
@@ -117,9 +128,18 @@ namespace Classes.Managers
                         /**
                          * Prevents the spawnStream powerup from continuously spawning itself
                          */
-                        while (balloon.CompareTag("SpawnStream") && blockSpawnStream)
+                        int attempts = 0;
+                        while (balloon.CompareTag("SpawnStream") && blockSpawnStream && attempts < 5)
                         {
                             balloon = GetBalloonBasedOnProb();
+                            attempts++;
+                        }
+                        /**
+                         * aborts spawning if a non Spawn Stream balloon was not selected
+                         */
+                        if (attempts == 5)
+                        {
+                            break;
                         }
                         Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
                                                          this.gameSettings.rightSpawn;
