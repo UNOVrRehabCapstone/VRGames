@@ -18,17 +18,28 @@ public class Balloon : MonoBehaviour
     {
         if (other.gameObject.CompareTag("DartPoint"))
         {
-            GetComponent<AudioSource>().Play();
-            GetComponentInChildren<ParticleSystem>().Play();
-            GetComponentInParent<Rigidbody>().useGravity = true;
+            /* TODO: Bug fix. There is a bug here. Basically, none of the components will work. The source of 
+               this problem is that the balloon is getting destroyed too quickly. So quick that the components 
+               don't have time to run before the balloon is destroyed. */
+            this.GetComponent<AudioSource>().Play();
+            this.GetComponentInChildren<ParticleSystem>().Play();
+            this.GetComponentInParent<Rigidbody>().useGravity = true;
 
-            ShowScorePopup();
+            Debug.Log("Balloon hit!");
+            BalloonManager.Instance.KillBalloon(gameObject);
+
+            DartRespawn.disableDart();
+            Destroy(other.gameObject.transform.parent.gameObject);
+
+            PointsManager.addPoints(1);
+            //ShowScorePopup();
         }
     }
 
     /* For testing purposes. */
     void OnMouseDown()
     {
+        this.GetComponent<AudioSource>().Play();
         BalloonManager.Instance.KillBalloon(gameObject);
         PointsManager.addPoints(1);
         Debug.Log("Total points = " + PointsManager.getPoints());
