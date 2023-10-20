@@ -1,19 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
+using Classes.Managers;
 using UnityEngine;
 
 public class Balloon_Base : MonoBehaviour
 {
-    public  float          floatStrength;
-    public  GameObject     scorePopupPrefab;
+    [SerializeField] private float floatStrength;
 
-    void Update()
+    private void Update()
     {
         transform.position = Vector3.Lerp(transform.position, transform.position 
                                                               + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
     }
 
-    void OnTriggerEnter(Collider other)
+    public virtual void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("DartPoint"))
         {
@@ -47,7 +47,7 @@ public class Balloon_Base : MonoBehaviour
     }
 
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
-    void OnMouseDown()
+    public virtual void OnMouseDown()
     {
         GameObject audioSource = this.transform.Find("AudioSource").gameObject;
         audioSource.transform.parent = null;
