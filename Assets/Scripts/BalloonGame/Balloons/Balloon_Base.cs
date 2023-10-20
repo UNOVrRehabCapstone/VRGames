@@ -9,8 +9,9 @@ public class Balloon_Base : MonoBehaviour
 
     private void Update()
     {
-        transform.position = Vector3.Lerp(transform.position, transform.position 
-                                                              + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
+        Transform transform = gameObject.transform;
+        transform.position  = Vector3.Lerp(transform.position, transform.position 
+                                           + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
     }
 
     public virtual void OnTriggerEnter(Collider other)
@@ -42,7 +43,6 @@ public class Balloon_Base : MonoBehaviour
             DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
 
             PointsManager.addPoints(1);
-            //ShowScorePopup();
         }
     }
 
