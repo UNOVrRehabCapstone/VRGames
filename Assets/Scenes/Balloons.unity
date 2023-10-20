@@ -7524,8 +7524,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc209244ce1666f4aae11e1aba1a6842, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftDartSpawn: {x: 0.4000111, y: 0.984, z: 0.2885199}
-  rightDartSpawn: {x: -0.4000111, y: 0.984, z: 0.2885199}
+  leftDartSpawn: {x: -0.4000111, y: 0.984, z: 0.2885199}
+  rightDartSpawn: {x: 0.4000111, y: 0.984, z: 0.2885199}
   dartPrefab: {fileID: 1801185132601967248, guid: b1e33cf7cb48fb443a24ed50df49aeef,
     type: 3}
 --- !u!4 &800143029
