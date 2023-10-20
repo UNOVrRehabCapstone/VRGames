@@ -40,9 +40,7 @@ public class Balloon : MonoBehaviour
             Debug.Log("Balloon hit!");
             BalloonManager.Instance.KillBalloon(gameObject);
 
-            DartRespawn.disableDart();
-            // Destroy the dart
-            Destroy(other.gameObject.transform.parent.gameObject);
+            DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
 
             PointsManager.addPoints(1);
             //ShowScorePopup();
