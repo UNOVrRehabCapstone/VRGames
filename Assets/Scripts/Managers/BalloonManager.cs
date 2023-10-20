@@ -2,7 +2,7 @@
  * The BalloonSpawnManager class handles the logic for spawning balloons.
  *
  * Authors: Dante Lawrence
- **/
+ */
 
 using System.Collections;
 using System.Collections.Generic;
@@ -13,7 +13,7 @@ namespace Classes.Managers
 {
 	public class BalloonManager : MonoBehaviour
     {	
-        /* Singleton pattern. Holds a reference to the balloon spawn manager object. */
+        /* Singleton pattern. Holds a reference to the balloon manager object. */
 	    public static BalloonManager Instance {get; private set;}
 
         private GameSettingsSO   gameSettings;
@@ -24,7 +24,7 @@ namespace Classes.Managers
 
 	    private void Awake()
 	    {
-            //Singleton pattern make sure there is only one balloon manager.
+            /* Singleton pattern make sure there is only one balloon manager. */
 		    if (Instance != null) {
 			    Debug.LogError("There should only be one balloon manager.");
 		    }
