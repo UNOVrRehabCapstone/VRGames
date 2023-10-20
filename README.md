@@ -10,17 +10,6 @@ To use this application, the files must be built in the Unity engine and deploye
 
 # Release Notes:
 
-### 9/28/2023
-
-General:
-* Added a guest login button to allow play if the server is offline or not set up.
-
-Balloon Game:
-  * Added multiple difficulty levels that automatically trigger upon a designated score threshold. Balloons will move faster and become harder to predict.
-  * Added a win condition that triggers a "You won!" message. The game will (for now) automatically restart after this happens.
-  * Added basic effect that will be applied to new "Powerup" balloons that have not yet been implemented. Currently they are applied to normal balloons as a proof of concept.
-
-
 ### 10/19/2023
 General:
 * Connected VR-Games to our student server
@@ -35,3 +24,16 @@ Balloon Game:
   * Where a balloon spawns
   * Time between each balloon spawn
 * Implemented alternating and cocurrent spawn patterns
+* Created Balloon stream powerup balloon
+  * This balloon causes 5 extra balloons to spawn rapdily!
+
+
+### 9/28/2023
+
+General:
+* Added a guest login button to allow play if the server is offline or not set up.
+
+Balloon Game:
+  * Added multiple difficulty levels that automatically trigger upon a designated score threshold. Balloons will move faster and become harder to predict.
+  * Added a win condition that triggers a "You won!" message. The game will (for now) automatically restart after this happens.
+  * Added basic effect that will be applied to new "Powerup" balloons that have not yet been implemented. Currently they are applied to normal balloons as a proof of concept.
