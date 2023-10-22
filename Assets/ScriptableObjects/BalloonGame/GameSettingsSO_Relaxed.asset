@@ -13,22 +13,16 @@ MonoBehaviour:
   m_Name: GameSettingsSO_Relaxed
   m_EditorClassIdentifier: 
   gameMode: 0
-  numLives: 3
-  goal: 20
+  numLives: 5
+  goal: 5
   spawnPattern: 1
   balloonPrefabs:
-  - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}
-  - {fileID: 1967284077058846, guid: fff4000e9f31ec841a2701f5523ba457, type: 3}
-  - {fileID: 1967284077058846, guid: a05e3205df19f6f4986c18cddb965346, type: 3}
-  - {fileID: 1967284077058846, guid: a05e3205df19f6f4986c18cddb965346, type: 3}
+  - {fileID: 6056930978616778079, guid: 417def5420a7d55458e19120433e2ca8, type: 3}
   probabilities:
-  - 0.25
-  - 0.25
-  - 0.25
-  - 0.25
+  - 1
   leftSpawn: {x: -0.5, y: 0, z: 0.7}
   rightSpawn: {x: 0.45, y: 0, z: 0.7}
   maxNumBalloonsSpawnedAtOnce: 2
   maxSpawnTime: 5
-  minSpawnTime: 0
+  minSpawnTime: 2
   secondsTilDespawn: 5

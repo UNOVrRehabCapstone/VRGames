@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameSettingsSO_Endless
   m_EditorClassIdentifier: 
   gameMode: 2
-  numLives: 3
+  numLives: 5
   goal: 5
   spawnPattern: 1
   balloonPrefabs:
@@ -30,5 +30,5 @@ MonoBehaviour:
   rightSpawn: {x: 0.45, y: 0, z: 0.7}
   maxNumBalloonsSpawnedAtOnce: 2
   maxSpawnTime: 5
-  minSpawnTime: 0.5
+  minSpawnTime: 2
   secondsTilDespawn: 5

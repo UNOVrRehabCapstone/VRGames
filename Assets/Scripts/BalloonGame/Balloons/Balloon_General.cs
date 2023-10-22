@@ -1,20 +1,20 @@
-using System;
 using System.Collections;
+using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
-public class Balloon : MonoBehaviour
+public class Balloon_General : MonoBehaviour
 {
-    public  float          floatStrength;
-    public  GameObject     scorePopupPrefab;
+    [SerializeField] private float floatStrength;
 
-    void Update()
+    private void Update()
     {
-        transform.position = Vector3.Lerp(transform.position, transform.position 
-                                                              + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
+        Transform transform = gameObject.transform;
+        transform.position  = Vector3.Lerp(transform.position, transform.position 
+                                           + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
     }
 
-    void OnTriggerEnter(Collider other)
+    public virtual void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("DartPoint"))
         {
@@ -43,12 +43,11 @@ public class Balloon : MonoBehaviour
             DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
 
             PointsManager.addPoints(1);
-            //ShowScorePopup();
         }
     }
 
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
-    void OnMouseDown()
+    public virtual void OnMouseDown()
     {
         GameObject audioSource = this.transform.Find("AudioSource").gameObject;
         audioSource.transform.parent = null;
@@ -63,12 +62,5 @@ public class Balloon : MonoBehaviour
         BalloonManager.Instance.KillBalloon(gameObject);
         PointsManager.addPoints(1);
         Debug.Log("Total points = " + PointsManager.getPoints());
-    }
-
-    void ShowScorePopup()
-    {
-        GameObject popup = Instantiate(scorePopupPrefab);
-        Vector3 newVector = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
-        popup.transform.position = newVector;
     }
 }
