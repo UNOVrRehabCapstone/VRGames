@@ -7,6 +7,7 @@ public class Balloon_General : MonoBehaviour
 {
     [SerializeField] private float floatStrength;
     [SerializeField] private int      pointValue;
+    
 
     private void Update()
     {
@@ -22,7 +23,6 @@ public class Balloon_General : MonoBehaviour
             this.PlayEffects();
             BalloonManager.Instance.KillBalloon(gameObject);
             DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
-
             PointsManager.addPoints(this.pointValue);
         }
     }
