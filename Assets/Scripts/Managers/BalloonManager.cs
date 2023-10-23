@@ -21,8 +21,8 @@ namespace Classes.Managers
                                                                        the scene */
         private bool             alternate = false;
         private float            nextSpawnTime;
+        private Coroutine        automaticSpawner;
 
-        public float slowEffect = 1f;
 	    private void Awake()
 	    {
             /* Singleton pattern make sure there is only one balloon manager. */
@@ -36,6 +36,7 @@ namespace Classes.Managers
         {
             this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
             this.nextSpawnTime = this.gameSettings.maxSpawnTime;
+            this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
 
         /**
@@ -84,7 +85,7 @@ namespace Classes.Managers
             }
 	    }
 
-        public IEnumerator AutomaticSpawner(float initDelay)
+        private IEnumerator AutomaticSpawner(float initDelay)
         {
             yield return new WaitForSeconds(initDelay);
 
@@ -92,16 +93,16 @@ namespace Classes.Managers
             {
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
-                        //Debug.Log("Concurrent spawn pattern chosen");
+                        Debug.Log("Concurrent spawn pattern chosen");
 
                         /* Have to be really careful here since two balloons are spawned with this 
                            spawn pattern */
-                        yield return new WaitUntil(() => ((balloons.Count + 2) < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
+                        yield return new WaitUntil(() => ((balloons.Count + 2) <= this.gameSettings.maxNumBalloonsSpawnedAtOnce));
                         this.ConcurrentSpawn();
 
                         break;
                     case GameSettingsSO.SpawnPattern.ALTERNATING: 
-                        //Debug.Log("Alternate spawn pattern chosen.");
+                        Debug.Log("Alternate spawn pattern chosen.");
                         
                         yield return new WaitUntil(() => (balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
                         this.AlternateSpawn();
@@ -115,6 +116,16 @@ namespace Classes.Managers
 
                 yield return new WaitForSeconds(Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime));
             }
+        }
+
+        public void StartAutomaticSpawner(float initDelay)
+        {
+            this.automaticSpawner = this.StartCoroutine(this.AutomaticSpawner(this.gameSettings.maxSpawnTime));
+        }
+
+        public void StopAutomaticSpawner()
+        {
+            this.StopCoroutine(this.automaticSpawner);
         }
 
         private void ConcurrentSpawn()
@@ -134,6 +145,7 @@ namespace Classes.Managers
 
             this.SpawnBalloon(balloon, spawnPoint);
         }
+        
 	    /**
          * Returns a balloon prefab based on the probability of it spawning. Probability of a balloon spawning
          * is set in the game settings.
@@ -218,6 +230,11 @@ namespace Classes.Managers
                 --BalloonGameplayManager.Instance.playerLives;
                 Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
             }
+        }
+
+        public int GetNumBalloonsInScene()
+        {
+            return this.balloons.Count;
         }
     }
 }
