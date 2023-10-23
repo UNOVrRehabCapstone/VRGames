@@ -22,6 +22,7 @@ namespace Classes.Managers
         private bool             alternate = false;
         private float            nextSpawnTime;
 
+        public float slowEffect = 1f;
 	    private void Awake()
 	    {
             /* Singleton pattern make sure there is only one balloon manager. */
@@ -83,6 +84,56 @@ namespace Classes.Managers
             }
 	    }
 
+        public IEnumerator AutomaticSpawner(float initDelay)
+        {
+            yield return new WaitForSeconds(initDelay);
+
+            while (true)
+            {
+                switch (this.gameSettings.spawnPattern) {
+                    case GameSettingsSO.SpawnPattern.CONCURRENT: 
+                        //Debug.Log("Concurrent spawn pattern chosen");
+
+                        /* Have to be really careful here since two balloons are spawned with this 
+                           spawn pattern */
+                        yield return new WaitUntil(() => ((balloons.Count + 2) < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
+                        this.ConcurrentSpawn();
+
+                        break;
+                    case GameSettingsSO.SpawnPattern.ALTERNATING: 
+                        //Debug.Log("Alternate spawn pattern chosen.");
+                        
+                        yield return new WaitUntil(() => (balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
+                        this.AlternateSpawn();
+
+                        break;
+
+                    default:
+                        Debug.LogError("This should never happen.");
+                        break;
+                }
+
+                yield return new WaitForSeconds(Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime));
+            }
+        }
+
+        private void ConcurrentSpawn()
+        {
+            GameObject leftBalloon  = GetBalloonBasedOnProb();
+            GameObject rightBalloon = GetBalloonBasedOnProb();
+            SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
+            SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
+        }
+
+        private void AlternateSpawn()
+        {
+            GameObject balloon = GetBalloonBasedOnProb();
+            Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
+                                             this.gameSettings.rightSpawn;
+            this.alternate = !alternate;
+
+            this.SpawnBalloon(balloon, spawnPoint);
+        }
 	    /**
          * Returns a balloon prefab based on the probability of it spawning. Probability of a balloon spawning
          * is set in the game settings.
