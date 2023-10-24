@@ -186,7 +186,7 @@ namespace Classes.Managers
             GameObject tmp = Instantiate(balloon);
             tmp.transform.position = spawnPoint;
             balloons.Add(tmp);
-            StartCoroutine(DespawnCountdown(tmp));
+            //StartCoroutine(DespawnCountdown(tmp));
         }
 
         /** 

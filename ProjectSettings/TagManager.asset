@@ -57,7 +57,7 @@ TagManager:
   - LeftPlane
   - RightPlane
   - CalibrationButton
-  - Balloon_BasePrefab
+  - Balloon_General
   layers:
   - Default
   - TransparentFX

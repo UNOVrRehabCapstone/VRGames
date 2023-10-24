@@ -17,6 +17,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Balloon_General
       objectReference: {fileID: 0}
+    - target: {fileID: 4581497264322938604, guid: 68398287f883354469bb037c81abcebf,
+        type: 3}
+      propertyPath: m_TagString
+      value: Balloon_General
+      objectReference: {fileID: 0}
     - target: {fileID: 4583595457630930576, guid: 68398287f883354469bb037c81abcebf,
         type: 3}
       propertyPath: m_RootOrder
