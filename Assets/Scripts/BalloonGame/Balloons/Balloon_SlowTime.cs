@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class Balloon_SlowTime : Balloon_General
 {
-    [SerializeField] private float slowEffectDuration;
-
 	public override void OnTriggerEnter(Collider other)
 	{
 		/* TODO */
