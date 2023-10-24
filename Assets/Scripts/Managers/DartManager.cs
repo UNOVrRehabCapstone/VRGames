@@ -25,7 +25,7 @@ public class DartManager : MonoBehaviour
 		}
 		Instance = this; 
 
-        Debug.Log("Dart manager actived.");
+        Debug.Log("Dart manager active.");
     }
     
     private void Start()
