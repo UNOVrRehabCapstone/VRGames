@@ -18,6 +18,8 @@ namespace Classes.Managers {
 				Debug.LogError("There should only be one special balloon manager.");
 			}
 			Instance = this; 
+
+			Debug.Log("Special balloon manager active.");
 		}
 
 		public IEnumerator SlowBalloonEffect()

@@ -26,6 +26,8 @@ namespace Classes.Managers
 			    Debug.LogError("There should only be one balloon gameplay manager.");
 		    }
 		    Instance = this;
+
+            Debug.Log("Balloon gameplay manager active.");
 	    }
 
         new void Start()
@@ -71,7 +73,7 @@ namespace Classes.Managers
                 /* If you wanted to log the game mode and spawn pattern on every frame */
                 //Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
                 //Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
-                BalloonManager.Instance.SpawnBalloons();
+                //BalloonManager.Instance.SpawnBalloons();
             }
         }
 

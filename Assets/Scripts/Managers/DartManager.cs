@@ -24,6 +24,8 @@ public class DartManager : MonoBehaviour
 			Debug.LogError("There should only be one balloon manager.");
 		}
 		Instance = this; 
+
+        Debug.Log("Dart manager actived.");
     }
     
     private void Start()

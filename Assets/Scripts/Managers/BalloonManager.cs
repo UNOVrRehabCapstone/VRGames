@@ -30,6 +30,8 @@ namespace Classes.Managers
 			    Debug.LogError("There should only be one balloon manager.");
 		    }
 		    Instance = this; 
+
+            Debug.Log("Balloon manager active.");
 	    }
 
         private void Start()
@@ -120,7 +122,7 @@ namespace Classes.Managers
 
         public void StartAutomaticSpawner(float initDelay)
         {
-            this.automaticSpawner = this.StartCoroutine(this.AutomaticSpawner(this.gameSettings.maxSpawnTime));
+            this.automaticSpawner = this.StartCoroutine(this.AutomaticSpawner(initDelay));
         }
 
         public void StopAutomaticSpawner()
@@ -179,7 +181,7 @@ namespace Classes.Managers
         /**
          * Given a balloon and a spawn point this method spawns a balloon at the spawn point.
          */
-        private void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
+        public void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
         {
             GameObject tmp = Instantiate(balloon);
             tmp.transform.position = spawnPoint;
@@ -230,11 +232,6 @@ namespace Classes.Managers
                 --BalloonGameplayManager.Instance.playerLives;
                 Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
             }
-        }
-
-        public int GetNumBalloonsInScene()
-        {
-            return this.balloons.Count;
         }
     }
 }
