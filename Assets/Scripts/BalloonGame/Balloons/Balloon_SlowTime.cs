@@ -13,7 +13,7 @@ public class Balloon_SlowTime : Balloon_General
 	/* For testing purposes. Useful for testing on the computer rather than in the headset. */
     public override void OnMouseDown()
     {   
-
-        /* TODO */
+		base.OnMouseDown();
+		SpecialBalloonManager.Instance.StartCoroutine(SpecialBalloonManager.Instance.SlowBalloonEffect());
     }
 }

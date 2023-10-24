@@ -24,6 +24,9 @@ namespace Classes.Managers {
 
 		public IEnumerator SlowBalloonEffect()
 		{
+			/* Allows us to stack slow balloon effects. */
+			yield return new WaitUntil(() => (this.slowBalloonActivated == false));
+
 			this.slowBalloonActivated = true;
 			yield return new WaitForSeconds(slowEffectDuration);
 			this.slowBalloonActivated = false;
