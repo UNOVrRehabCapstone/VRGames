@@ -186,7 +186,6 @@ namespace Classes.Managers
             GameObject tmp = Instantiate(balloon);
             tmp.transform.position = spawnPoint;
             balloons.Add(tmp);
-            //StartCoroutine(DespawnCountdown(tmp));
         }
 
         /** 
@@ -208,30 +207,6 @@ namespace Classes.Managers
                 Destroy(this.balloons[i]);
             }
             this.balloons.Clear();
-        }
-
-        /**
-         * Coroutine for counting down and despawning balloon after certain amount of time.
-         */
-        private IEnumerator DespawnCountdown(GameObject balloon)
-        {
-            /*var endTime = Time.realtimeSinceStartup + secondsTilDespawn;
-            while (Time.realtimeSinceStartup < endTime)
-            {
-                yield return new WaitForSeconds(.5f);
-            }*/
-                
-            yield return new WaitForSeconds(this.gameSettings.secondsTilDespawn);
-
-            if (this.balloons.Contains(balloon)) {
-                KillBalloon(balloon);
-
-                /* Reduce the number of lives when a balloon is despawned and check player lives. */
-                /* TODO: This logic would probably be better placed in a file that specifically handles
-                   player logic. */
-                --BalloonGameplayManager.Instance.playerLives;
-                Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
-            }
         }
     }
 }
