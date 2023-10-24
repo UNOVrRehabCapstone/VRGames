@@ -62,11 +62,10 @@ public class Balloon_General : MonoBehaviour
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
     public virtual void OnMouseDown()
     {
-        Debug.Log("Balloon hit");
+        Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
         
         this.PlayEffects();
         BalloonManager.Instance.KillBalloon(gameObject);
-        Debug.Log(this.pointValue);
         PointsManager.addPoints(this.pointValue);
 
         Debug.Log("Total points = " + PointsManager.getPoints());
