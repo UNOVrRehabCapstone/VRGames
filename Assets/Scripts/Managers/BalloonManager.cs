@@ -41,52 +41,6 @@ namespace Classes.Managers
             this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
 
-        /**
-         * Spawns the balloons based on the spawn settings. See the game settings for more information.
-         */
-	    public void SpawnBalloons()
-	    {
-            this.nextSpawnTime -= Time.deltaTime;
-
-            /* Both conditions must be met to spawn another balloon */
-            if (   (this.balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce)
-                && (this.nextSpawnTime <= 0) ) { 
-
-                switch (this.gameSettings.spawnPattern) {
-                    case GameSettingsSO.SpawnPattern.CONCURRENT: 
-                        //Debug.Log("Concurrent spawn pattern chosen");
-
-                        /* Have to be really careful here since two balloons are spawned with this 
-                           spawn pattern */
-                        if ( !(this.balloons.Count + 2 <= this.gameSettings.maxNumBalloonsSpawnedAtOnce) )
-                            break;
-
-                        GameObject leftBalloon  = GetBalloonBasedOnProb();
-                        GameObject rightBalloon = GetBalloonBasedOnProb();
-                        SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
-                        SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
-
-                        break;
-                    case GameSettingsSO.SpawnPattern.ALTERNATING: 
-                        //Debug.Log("Alternate spawn pattern chosen.");
-                        
-                        GameObject balloon = GetBalloonBasedOnProb();
-                        Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
-                                                         this.gameSettings.rightSpawn;
-                        this.alternate = !alternate;
-
-                        this.SpawnBalloon(balloon, spawnPoint);
-                        break;
-
-                    default:
-                        Debug.LogError("This should never happen.");
-                        break;
-                }
-
-                this.nextSpawnTime = Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime);
-            }
-	    }
-
         private IEnumerator AutomaticSpawner(float initDelay)
         {
             yield return new WaitForSeconds(initDelay);
