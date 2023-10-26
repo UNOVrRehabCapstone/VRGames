@@ -12,12 +12,21 @@ public class BalloonKillZone : MonoBehaviour
            the only objects that should be colliding with the kill zone are balloons.*/
         Debug.Log(other + " collided with the kill zone.");
 
-        if (other.gameObject.CompareTag("Balloon_General")) {
-            /* Lose a life only for the general balloon. */
-            --BalloonGameplayManager.Instance.playerLives;
-            Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
+        switch(other.gameObject.tag) {
+            case "Balloon_General":
+                --BalloonGameplayManager.Instance.playerLives;
+                BalloonManager.Instance.KillBalloon(other.gameObject);
+                Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
+                break;
+            case "Balloon_OnionLayer1":
+            case "Balloon_OnionLayer2":
+            case "Balloon_OnionLayer3":
+                BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
+                break;
+            default:
+                Debug.Log("No tag matches.");
+                BalloonManager.Instance.KillBalloon(other.gameObject);
+                break;
         }
-
-        BalloonManager.Instance.KillBalloon(other.gameObject);
     }
 }
