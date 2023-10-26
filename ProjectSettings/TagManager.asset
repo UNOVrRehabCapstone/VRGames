@@ -15,8 +15,6 @@ TagManager:
   - RightGrabber
   - ClinicianMessage
   - BalloonGameManager
-  - LeftSpawn
-  - RightSpawn
   - Ground
   - DartPoint
   - Dart
@@ -62,6 +60,8 @@ TagManager:
   - Balloon_OnionLayer1
   - Balloon_OnionLayer2
   - Balloon_OnionLayer3
+  - BalloonSpawn_Left
+  - BalloonSpawn_Right
   layers:
   - Default
   - TransparentFX
