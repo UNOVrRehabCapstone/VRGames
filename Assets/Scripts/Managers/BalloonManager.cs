@@ -17,6 +17,10 @@ namespace Classes.Managers
 	    public static BalloonManager Instance {get; private set;}
 
         private GameSettingsSO   gameSettings;
+
+        private GameObject leftSpawn;
+        private GameObject rightSpawn;
+        
 	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
                                                                        the scene */
         private bool             alternate = false;
@@ -37,6 +41,10 @@ namespace Classes.Managers
         private void Start()
         {
             this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
+
+            this.leftSpawn     = GameObject.Find("BalloonSpawn_Left");
+            this.rightSpawn    = GameObject.Find("BalloonSpawn_Right");
+            /* TODO Get rid of */
             this.nextSpawnTime = this.gameSettings.maxSpawnTime;
             this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
@@ -88,15 +96,15 @@ namespace Classes.Managers
         {
             GameObject leftBalloon  = GetBalloonBasedOnProb();
             GameObject rightBalloon = GetBalloonBasedOnProb();
-            SpawnBalloon(leftBalloon,  this.gameSettings.leftSpawn);
-            SpawnBalloon(rightBalloon, this.gameSettings.rightSpawn);
+            SpawnBalloon(leftBalloon,  this.leftSpawn);
+            SpawnBalloon(rightBalloon, this.rightSpawn);
         }
 
         private void AlternateSpawn()
         {
             GameObject balloon = GetBalloonBasedOnProb();
-            Vector3 spawnPoint = alternate ? this.gameSettings.leftSpawn :
-                                             this.gameSettings.rightSpawn;
+            GameObject spawnPoint = alternate ? this.leftSpawn :
+                                                this.rightSpawn;
             this.alternate = !alternate;
 
             this.SpawnBalloon(balloon, spawnPoint);
@@ -135,10 +143,10 @@ namespace Classes.Managers
         /**
          * Given a balloon and a spawn point this method spawns a balloon at the spawn point.
          */
-        public void SpawnBalloon(GameObject balloon, Vector3 spawnPoint)
+        public void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
         {
             GameObject tmp = Instantiate(balloon);
-            tmp.transform.position = spawnPoint;
+            tmp.transform.position = spawnPoint.transform.position;
             balloons.Add(tmp);
         }
 
