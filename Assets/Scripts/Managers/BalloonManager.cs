@@ -24,7 +24,6 @@ namespace Classes.Managers
 	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
                                                                        the scene */
         private bool             alternate = false;
-        private float            nextSpawnTime;
         private Coroutine        automaticSpawner;
 
 	    private void Awake()
@@ -44,8 +43,7 @@ namespace Classes.Managers
 
             this.leftSpawn     = GameObject.Find("BalloonSpawn_Left");
             this.rightSpawn    = GameObject.Find("BalloonSpawn_Right");
-            /* TODO Get rid of */
-            this.nextSpawnTime = this.gameSettings.maxSpawnTime;
+
             this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
 
