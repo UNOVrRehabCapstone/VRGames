@@ -21,6 +21,7 @@ public class Balloon_General : _BaseBalloon
 
     public virtual void OnTriggerEnter(Collider other)
     {
+        Debug.Log(other);
         if (other.gameObject.CompareTag("DartPoint"))
         {
             this.PlayEffects();

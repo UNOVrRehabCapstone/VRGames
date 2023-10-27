@@ -11,8 +11,8 @@ public class DartManager : MonoBehaviour
     /* Singleton pattern. Holds a reference to the dart manager object. */
     public static DartManager Instance {get; private set;}
     
-    [SerializeField] private Vector3    leftDartSpawn;
-    [SerializeField] private Vector3    rightDartSpawn;
+    [SerializeField] private GameObject leftDartSpawn;
+    [SerializeField] private GameObject rightDartSpawn;
     [SerializeField] private GameObject dartPrefab;
     private GameObject                  leftDart;
     private GameObject                  rightDart;
@@ -59,11 +59,11 @@ public class DartManager : MonoBehaviour
         if (dart == this.leftDart) {
             Debug.Log("Left dart spawned.");
             this.leftDart = Instantiate(dartPrefab);
-            this.leftDart.transform.position = leftDartSpawn;
+            this.leftDart.transform.position = leftDartSpawn.transform.position;
         } else if (dart == this.rightDart) {
             Debug.Log("Right dart spawned.");
             this.rightDart = Instantiate(dartPrefab);
-            this.rightDart.transform.position = rightDartSpawn;
+            this.rightDart.transform.position = rightDartSpawn.transform.position;
         }
     }
 }
