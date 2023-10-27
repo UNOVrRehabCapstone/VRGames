@@ -144,6 +144,10 @@ namespace Classes.Managers
         public void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
         {
             GameObject tmp = Instantiate(balloon);
+
+            _BaseBalloon script  = tmp.GetComponent<_BaseBalloon>();
+            script.spawnLocation = spawnPoint;
+
             tmp.transform.position = spawnPoint.transform.position;
             balloons.Add(tmp);
         }
