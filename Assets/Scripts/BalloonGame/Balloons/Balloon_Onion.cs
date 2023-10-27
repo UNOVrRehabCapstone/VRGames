@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
-public class Balloon_Onion : MonoBehaviour
+public class Balloon_Onion : _BaseBalloon
 {
-    [SerializeField] private float floatStrength;
-
     private void Update()
     {
         Transform transform = gameObject.transform;

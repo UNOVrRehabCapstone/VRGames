@@ -48,21 +48,33 @@ public class Balloon_OnionLayer : MonoBehaviour
         Destroy(particleEffect, particleEffect.GetComponent<ParticleSystem>().main.duration);
     }
 
+    private void AddPoints()
+    {
+        GameObject onion = gameObject.transform.parent.gameObject;
+        if (onion.GetComponent<_BaseBalloon>().spawnLocation.CompareTag("BalloonSpawn_Left")) {
+            PointsManager.addLeftPoints(this.pointValue);
+        } else {
+            PointsManager.addRightPoints(this.pointValue);
+        }
+        PointsManager.addPoints(this.pointValue);
+
+        Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
+                  + ". Right points: " + PointsManager.getRightPoints() 
+                  + ". Total points: " + PointsManager.getPoints() + ".");
+    }
+
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
     public virtual void OnMouseDown()
     {
         Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
         
         this.PlayEffects();
+        this.AddPoints();
         
         /* If the final layer is popped, make sure to remove the parent balloon from the scene. */
         if (gameObject.CompareTag("Balloon_OnionLayer3")) {
             BalloonManager.Instance.KillBalloon(gameObject.transform.parent.gameObject);
         }
         Destroy(gameObject);
-
-        PointsManager.addPoints(this.pointValue);
-
-        Debug.Log("Total points = " + PointsManager.getPoints());
     }
 }

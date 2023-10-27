@@ -3,12 +3,8 @@ using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
-public class Balloon_General : MonoBehaviour
+public class Balloon_General : _BaseBalloon
 {
-    [SerializeField] private float floatStrength;
-    [SerializeField] private int      pointValue;
-    
-
     private void Update()
     {
         Transform transform = gameObject.transform;
@@ -59,15 +55,28 @@ public class Balloon_General : MonoBehaviour
         Destroy(particleEffect, particleEffect.GetComponent<ParticleSystem>().main.duration);
     }
 
+    private void AddPoints()
+    {
+        if (this.spawnLocation.CompareTag("BalloonSpawn_Left")) {
+            PointsManager.addLeftPoints(this.pointValue);
+        } else {
+            PointsManager.addRightPoints(this.pointValue);
+        }
+        PointsManager.addPoints(this.pointValue);
+
+        Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
+                  + ". Right points: " + PointsManager.getRightPoints() 
+                  + ". Total points: " + PointsManager.getPoints() + ".");
+    }
+
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
     public virtual void OnMouseDown()
     {
         Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
         
         this.PlayEffects();
-        BalloonManager.Instance.KillBalloon(gameObject);
-        PointsManager.addPoints(this.pointValue);
+        this.AddPoints();
 
-        Debug.Log("Total points = " + PointsManager.getPoints());
+        BalloonManager.Instance.KillBalloon(gameObject);
     }
 }
