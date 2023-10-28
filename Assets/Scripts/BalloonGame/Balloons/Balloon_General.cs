@@ -21,13 +21,12 @@ public class Balloon_General : _BaseBalloon
 
     public virtual void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other);
-        if (other.gameObject.CompareTag("DartPoint"))
+        if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
         {
             this.PlayEffects();
+            this.AddPoints();
             BalloonManager.Instance.KillBalloon(gameObject);
             DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
-            PointsManager.addPoints(this.pointValue);
         }
     }
 
@@ -68,6 +67,14 @@ public class Balloon_General : _BaseBalloon
         Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
                   + ". Right points: " + PointsManager.getRightPoints() 
                   + ". Total points: " + PointsManager.getPoints() + ".");
+    }
+
+    private bool IsCorrectDart(GameObject dart)
+    {
+        return 
+        
+            (this.spawnLocation.CompareTag("BalloonSpawn_Left")  && DartManager.Instance.IsLeftDart(dart)) 
+         || (this.spawnLocation.CompareTag("BalloonSpawn_Right") && DartManager.Instance.IsRightDart(dart));
     }
 
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */

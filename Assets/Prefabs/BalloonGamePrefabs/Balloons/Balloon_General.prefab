@@ -119,3 +119,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0.5
   pointValue: 1
+  spawnLocation: {fileID: 0}

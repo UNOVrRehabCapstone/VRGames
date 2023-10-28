@@ -14,6 +14,7 @@ public class DartManager : MonoBehaviour
     [SerializeField] private GameObject leftDartSpawn;
     [SerializeField] private GameObject rightDartSpawn;
     [SerializeField] private GameObject dartPrefab;
+
     private GameObject                  leftDart;
     private GameObject                  rightDart;
 
@@ -30,8 +31,8 @@ public class DartManager : MonoBehaviour
     
     private void Start()
     {
-        this.SpawnDart(leftDart);
-        this.SpawnDart(rightDart);
+        this.SpawnDart(leftDartSpawn);
+        this.SpawnDart(rightDartSpawn);
     }
 
     /**
@@ -42,28 +43,36 @@ public class DartManager : MonoBehaviour
     {
         /* For debugging purposes. */
         string dartStr = (dart == leftDart ? "left" : "right");
-
-        /* Order matters here */
-        this.SpawnDart(dart);
         Debug.Log("Destroyed " + dartStr + " dart.");
+
+        GameObject dartSpawn = this.IsLeftDart(dart) ? leftDartSpawn : rightDartSpawn;
         Destroy(dart);
+        this.SpawnDart(dartSpawn);
     }
 
     /**
-     * Spawns a dart. Either spawns a dart at the left or right spawn, depending on whether the 
-     * passed in object is the left or right dart. Intended to be used in conjuction with the 
-     * DestroyDart method.
+     * Spawns a dart at the given dart spawn.
      */
-    private void SpawnDart(GameObject dart)
+    private void SpawnDart(GameObject dartSpawn)
     {
-        if (dart == this.leftDart) {
+        if (dartSpawn == leftDartSpawn) {
             Debug.Log("Left dart spawned.");
             this.leftDart = Instantiate(dartPrefab);
-            this.leftDart.transform.position = leftDartSpawn.transform.position;
-        } else if (dart == this.rightDart) {
+            this.leftDart.transform.position = dartSpawn.transform.position;
+        } else {
             Debug.Log("Right dart spawned.");
             this.rightDart = Instantiate(dartPrefab);
-            this.rightDart.transform.position = rightDartSpawn.transform.position;
+            this.rightDart.transform.position = dartSpawn.transform.position;
         }
+    }
+
+    public bool IsLeftDart(GameObject dart) 
+    {
+        return (dart == this.leftDart);
+    }
+
+    public bool IsRightDart(GameObject dart)
+    {
+        return (dart == this.rightDart);
     }
 }
