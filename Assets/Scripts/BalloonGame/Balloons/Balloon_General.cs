@@ -8,15 +8,8 @@ public class Balloon_General : _BaseBalloon
     private void Update()
     {
         Transform transform = gameObject.transform;
-
-        if (SpecialBalloonManager.Instance.slowBalloonActivated) {
-            /* Cut the float speed in half. */
-            transform.position = Vector3.Lerp(transform.position, transform.position 
-                                           + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength * 0.5f);
-        } else {
-            transform.position = Vector3.Lerp(transform.position, transform.position 
-                                           + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
-        }
+        transform.position = Vector3.Lerp(transform.position, transform.position 
+                                        + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
     }
 
     public virtual void OnTriggerEnter(Collider other)

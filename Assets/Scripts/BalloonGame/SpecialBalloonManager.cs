@@ -7,9 +7,6 @@ namespace Classes.Managers {
 	{
 		/* Singleton pattern. Holds a reference to the balloon manager object. */
 		public static SpecialBalloonManager Instance {get; private set;}
-		
-		[SerializeField] private float slowEffectDuration;
-		public bool                    slowBalloonActivated = false;
 
 		private void Awake()
 		{
@@ -20,16 +17,6 @@ namespace Classes.Managers {
 			Instance = this; 
 
 			Debug.Log("Special balloon manager active.");
-		}
-
-		public IEnumerator SlowBalloonEffect()
-		{
-			/* Allows us to stack slow balloon effects. */
-			yield return new WaitUntil(() => (this.slowBalloonActivated == false));
-
-			this.slowBalloonActivated = true;
-			yield return new WaitForSeconds(slowEffectDuration);
-			this.slowBalloonActivated = false;
 		}
 	}
 }
