@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
-public class Balloon_General : _BaseBalloon
+public class Balloon : _BaseBalloon
 {
     private void Update()
     {
