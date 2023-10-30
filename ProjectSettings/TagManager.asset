@@ -62,6 +62,13 @@ TagManager:
   - Balloon_OnionLayer3
   - BalloonSpawn_Left
   - BalloonSpawn_Right
+  - Jet
+  - jet
+  - LeftSpawn
+  - Display
+  - plane
+  - DartWing
+  - Balloon
   layers:
   - Default
   - TransparentFX
