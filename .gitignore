@@ -72,6 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #Temporary
-Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Endless.asset
-Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Normal.asset
-Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Relaxed.asset
+#Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Endless.asset
+#Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Normal.asset
+#Assets/ScriptableObjects/BalloonGame/GameSettingsSO_Relaxed.asset
