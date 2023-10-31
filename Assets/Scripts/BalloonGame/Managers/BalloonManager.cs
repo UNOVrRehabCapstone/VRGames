@@ -43,6 +43,9 @@ namespace Classes.Managers
             this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
 
+        /**
+         * This method automatically spawns balloons with an initial delay of initDelay seconds.
+         */
         private IEnumerator AutomaticSpawner(float initDelay)
         {
             yield return new WaitForSeconds(initDelay);
@@ -76,16 +79,28 @@ namespace Classes.Managers
             }
         }
 
+        /**
+         * The StartAutomaticSpawner method starts the automatic spawner with an initial delay of 
+         * initDelay seconds. 
+         */
         public void StartAutomaticSpawner(float initDelay)
         {
             this.automaticSpawner = this.StartCoroutine(this.AutomaticSpawner(initDelay));
         }
 
+        /**
+         * The StopAutomaticSpawner method stops the automatic spawner. This method is useful if 
+         * there is a need to finely control the spawning of the balloons.
+         */
         public void StopAutomaticSpawner()
         {
             this.StopCoroutine(this.automaticSpawner);
         }
 
+        /**
+         * The ConcurrentSpawn is a helper method for spawning the balloons for the concurrent spawn 
+         * pattern.
+         */
         private void ConcurrentSpawn()
         {
             GameObject leftBalloon  = GetBalloonBasedOnProb();
@@ -94,6 +109,10 @@ namespace Classes.Managers
             SpawnBalloon(rightBalloon, this.rightSpawn);
         }
 
+        /**
+         * The AlternateSpawn is a helper method for spawning the balloons for the alternating 
+         * spawn pattern.
+         */ 
         private void AlternateSpawn()
         {
             GameObject balloon = GetBalloonBasedOnProb();
