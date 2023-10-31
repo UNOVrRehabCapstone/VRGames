@@ -48,6 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.3
+  pointValue: 0
 --- !u!1 &6077698958551363090
 GameObject:
   m_ObjectHideFlags: 0
@@ -144,8 +145,8 @@ GameObject:
   - component: {fileID: 8137150465606976544}
   - component: {fileID: 792699961841595888}
   m_Layer: 11
-  m_Name: Layer3
-  m_TagString: Balloon_OnionLayer3
+  m_Name: OnionLayer3
+  m_TagString: OnionLayer3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9729,8 +9730,8 @@ GameObject:
   - component: {fileID: 8277595178216872878}
   - component: {fileID: 2801450644232471445}
   m_Layer: 11
-  m_Name: Layer2
-  m_TagString: Balloon_OnionLayer2
+  m_Name: OnionLayer2
+  m_TagString: OnionLayer2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10062,12 +10063,12 @@ PrefabInstance:
     - target: {fileID: 4581497264322938604, guid: 68398287f883354469bb037c81abcebf,
         type: 3}
       propertyPath: m_Name
-      value: Layer1
+      value: OnionLayer1
       objectReference: {fileID: 0}
     - target: {fileID: 4581497264322938604, guid: 68398287f883354469bb037c81abcebf,
         type: 3}
       propertyPath: m_TagString
-      value: Balloon_OnionLayer1
+      value: OnionLayer1
       objectReference: {fileID: 0}
     - target: {fileID: 4583595457630930576, guid: 68398287f883354469bb037c81abcebf,
         type: 3}

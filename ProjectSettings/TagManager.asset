@@ -57,9 +57,6 @@ TagManager:
   - CalibrationButton
   - Balloon_General
   - Balloon_BasePrefab
-  - Balloon_OnionLayer1
-  - Balloon_OnionLayer2
-  - Balloon_OnionLayer3
   - BalloonSpawn_Left
   - BalloonSpawn_Right
   - Jet
@@ -69,6 +66,9 @@ TagManager:
   - plane
   - DartWing
   - Balloon
+  - OnionLayer1
+  - OnionLayer2
+  - OnionLayer3
   layers:
   - Default
   - TransparentFX

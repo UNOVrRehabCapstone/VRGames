@@ -18,9 +18,9 @@ public class BalloonKillZone : MonoBehaviour
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
                 break;
-            case "Balloon_OnionLayer1":
-            case "Balloon_OnionLayer2":
-            case "Balloon_OnionLayer3":
+            case "OnionLayer1":
+            case "OnionLayer2":
+            case "OnionLayer3":
                 BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
                 break;
             default:

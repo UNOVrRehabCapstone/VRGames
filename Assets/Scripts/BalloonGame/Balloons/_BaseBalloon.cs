@@ -2,10 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class _BaseBalloon : MonoBehaviour
+public abstract class _BaseBalloon : MonoBehaviour
 {
     [SerializeField] protected float floatStrength;
     [SerializeField] protected int   pointValue;
-    public GameObject                spawnLocation;
+    protected GameObject             spawnLoc;
 
+    public GameObject GetSpawnLoc()
+    {
+        return this.spawnLoc;
+    }
+
+    public virtual void SetSpawnLoc(GameObject spawnLoc)
+    {
+        this.spawnLoc = spawnLoc;
+    }
 }

@@ -48,9 +48,9 @@ public class Balloon : _BaseBalloon
         Destroy(particleEffect, particleEffect.GetComponent<ParticleSystem>().main.duration);
     }
 
-    private void AddPoints()
+    protected void AddPoints()
     {
-        if (this.spawnLocation.CompareTag("BalloonSpawn_Left")) {
+        if (this.spawnLoc.CompareTag("BalloonSpawn_Left")) {
             PointsManager.addLeftPoints(this.pointValue);
         } else {
             PointsManager.addRightPoints(this.pointValue);
@@ -62,12 +62,12 @@ public class Balloon : _BaseBalloon
                   + ". Total points: " + PointsManager.getPoints() + ".");
     }
 
-    private bool IsCorrectDart(GameObject dart)
+    protected bool IsCorrectDart(GameObject dart)
     {
         return 
         
-            (this.spawnLocation.CompareTag("BalloonSpawn_Left")  && DartManager.Instance.IsLeftDart(dart)) 
-         || (this.spawnLocation.CompareTag("BalloonSpawn_Right") && DartManager.Instance.IsRightDart(dart));
+            (this.spawnLoc.CompareTag("BalloonSpawn_Left")  && DartManager.Instance.IsLeftDart(dart)) 
+         || (this.spawnLoc.CompareTag("BalloonSpawn_Right") && DartManager.Instance.IsRightDart(dart));
     }
 
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
