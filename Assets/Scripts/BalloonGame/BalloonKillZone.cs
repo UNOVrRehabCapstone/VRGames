@@ -1,3 +1,8 @@
+/**
+ * The BalloonKillZone is a class that handles the logic for when a balloon collides with the kill 
+ * zone. 
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
