@@ -519,6 +519,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cdb1e59089ff0d41ab8da9213ad77cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftSpawn: {fileID: 502467004}
+  rightSpawn: {fileID: 614151065}
 --- !u!1 &46590927
 GameObject:
   m_ObjectHideFlags: 0
@@ -5718,6 +5720,12 @@ Transform:
   m_Father: {fileID: 466963065}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &502467004 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8871868484921630941, guid: 3908a010cd9bbc946a096801ac0fcad5,
+    type: 3}
+  m_PrefabInstance: {fileID: 676079969}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &530367483
 Mesh:
   m_ObjectHideFlags: 0
@@ -7358,6 +7366,12 @@ Transform:
   m_Father: {fileID: 466963065}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!1 &614151065 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2211694778568255786, guid: 43b9e7397f41a44448e1c596cd20bc60,
+    type: 3}
+  m_PrefabInstance: {fileID: 212109358}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &642331082
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8991,8 +9005,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31eba8f76ee029c45af0483353039cce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slowEffectDuration: 4
-  slowBalloonActivated: 0
 --- !u!1 &1767598000
 GameObject:
   m_ObjectHideFlags: 0

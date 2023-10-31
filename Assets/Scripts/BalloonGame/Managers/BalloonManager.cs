@@ -1,5 +1,5 @@
 /**
- * The BalloonSpawnManager class handles the logic for spawning balloons.
+ * The BalloonManager class handles the logic for spawning balloons.
  *
  * Authors: Dante Lawrence
  */
@@ -18,8 +18,8 @@ namespace Classes.Managers
 
         private GameSettingsSO   gameSettings;
 
-        private GameObject leftSpawn;
-        private GameObject rightSpawn;
+        [SerializeField] private GameObject leftSpawn;
+        [SerializeField] private GameObject rightSpawn;
         
 	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
                                                                        the scene */
@@ -40,10 +40,6 @@ namespace Classes.Managers
         private void Start()
         {
             this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
-
-            this.leftSpawn     = GameObject.Find("BalloonSpawn_Left");
-            this.rightSpawn    = GameObject.Find("BalloonSpawn_Right");
-
             this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
         }
 
