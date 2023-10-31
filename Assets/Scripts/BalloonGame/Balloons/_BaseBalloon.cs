@@ -1,3 +1,8 @@
+/**
+ * The _BaseBalloon is an abstract class that defines the bare minimum for what it means to be 
+ * a balloon.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

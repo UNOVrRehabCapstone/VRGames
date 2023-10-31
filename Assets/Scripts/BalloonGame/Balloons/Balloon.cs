@@ -1,3 +1,9 @@
+/**
+ * The Balloon class represent a generic balloon. A generic balloon is a balloon that is worth 
+ * one point. In the normal and endless modes, it is the only balloon that results in loss 
+ * of lives.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
@@ -42,12 +48,17 @@ public class Balloon : _BaseBalloon
 
     private void PlayParticles()
     {
+        /* Same reasoning as in the PlaySound method. */
         GameObject particleEffect = this.transform.Find("ParticleEffects").gameObject;
         particleEffect.transform.parent = null;
         particleEffect.GetComponent<ParticleSystem>().Play();
         Destroy(particleEffect, particleEffect.GetComponent<ParticleSystem>().main.duration);
     }
 
+    /**
+     * The AddPoints method adds the point value of the balloon to the total points and to the left 
+     * or right points depending on where the balloon was spawned.
+     */
     protected void AddPoints()
     {
         if (this.spawnLoc.CompareTag("BalloonSpawn_Left")) {
@@ -62,6 +73,10 @@ public class Balloon : _BaseBalloon
                   + ". Total points: " + PointsManager.getPoints() + ".");
     }
 
+    /**
+     * The IsCorrectDart method returns true or false depending on whether the balloon and the dart 
+     * are on the same side. 
+     */
     protected bool IsCorrectDart(GameObject dart)
     {
         return 
