@@ -1,3 +1,9 @@
+/**
+ * The Balloon Onion class contains the logic for the onion special balloon. The onion special 
+ * balloon is like an onion; there are three layers where each layer is worth more points than 
+ * the previous layer.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
