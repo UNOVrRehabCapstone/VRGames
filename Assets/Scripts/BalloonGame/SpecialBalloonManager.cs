@@ -1,3 +1,7 @@
+/**
+ * The SpecialBalloonManager class is a class that handles the effects of any special balloons.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
