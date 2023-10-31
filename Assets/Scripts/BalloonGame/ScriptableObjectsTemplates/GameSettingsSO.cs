@@ -55,6 +55,4 @@ public class GameSettingsSO : ScriptableObject
 
 	public float            maxSpawnTime;
 	public float            minSpawnTime;
-
-	public float            secondsTilDespawn;
 }
