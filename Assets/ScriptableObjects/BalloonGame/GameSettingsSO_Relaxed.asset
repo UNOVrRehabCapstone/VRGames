@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameMode: 0
   numLives: 3
-  goal: 20
+  goal: 5
   spawnPattern: 1
   balloonPrefabs:
   - {fileID: 1967284077058846, guid: b629791cc133ea94d9ffd58d366a52bb, type: 3}

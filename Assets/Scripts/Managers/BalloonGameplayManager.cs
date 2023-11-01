@@ -11,6 +11,7 @@ namespace Classes.Managers
     public class BalloonGameplayManager : GameplayManager
     {
         public static BalloonGameplayManager Instance {get; private set;}
+        [SerializeField] private ParticleSystem confettiSystem;
 
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
@@ -126,6 +127,7 @@ namespace Classes.Managers
 
             Debug.Log("Goal has been reached!");
             PointsManager.updateScoreboardMessage("You Win!"); 
+            confettiSystem.Play();
             this.StartCoroutine(this.Restart());
         }
 
