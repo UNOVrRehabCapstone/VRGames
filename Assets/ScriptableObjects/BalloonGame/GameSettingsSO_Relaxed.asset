@@ -25,4 +25,3 @@ MonoBehaviour:
   maxNumBalloonsSpawnedAtOnce: 2
   maxSpawnTime: 5
   minSpawnTime: 2
-  secondsTilDespawn: 0
