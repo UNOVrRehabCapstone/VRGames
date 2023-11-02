@@ -30,7 +30,6 @@ public class Balloon_Stream : Balloon
                 BalloonManager.Instance.KillBalloonDelay(gameObject.transform.parent.gameObject, 3);
             }
             BalloonManager.Instance.KillBalloon(gameObject);
-            //DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
         }
     }
 

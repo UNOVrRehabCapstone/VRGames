@@ -30,7 +30,6 @@ public class Balloon_Stream_Powerup : Balloon
             BalloonManager.Instance.StartAutomaticSpawner(5);
 
             BalloonManager.Instance.KillBalloon(gameObject);
-            //DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
         }
     }
 
