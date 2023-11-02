@@ -35,9 +35,9 @@ Balloon Game:
       * Created a stream of balloons prefab to be spawned by the powerup
       * Simplified balloon collider
       * Refactoring
+      * Added a method to delay the destruction of balloons by a given number of seconds 
       * Created a dart manager class to handle dart spawning and got rid of the manual dart spawners
       * Tracking for separate left and right points
-      * Added a method to delay the destruction of balloons by a given number of seconds
       * Fixed scoreboard not correctly displaying the current left and right scores
       * Disabled balloon spawner once goal has been reached
       * Fixed skipping over point goal (e.g. going from 3 to 5 points with a goal of 4) not triggering win state
