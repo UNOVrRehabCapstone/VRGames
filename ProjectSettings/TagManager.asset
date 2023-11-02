@@ -15,8 +15,6 @@ TagManager:
   - RightGrabber
   - ClinicianMessage
   - BalloonGameManager
-  - LeftSpawn
-  - RightSpawn
   - Ground
   - DartPoint
   - Dart
@@ -57,12 +55,20 @@ TagManager:
   - LeftPlane
   - RightPlane
   - CalibrationButton
-  - DartWing
+  - Balloon_General
+  - Balloon_BasePrefab
+  - BalloonSpawn_Left
+  - BalloonSpawn_Right
   - Jet
   - jet
+  - LeftSpawn
   - Display
   - plane
-  - SpawnStream
+  - DartWing
+  - Balloon
+  - OnionLayer1
+  - OnionLayer2
+  - OnionLayer3
   layers:
   - Default
   - TransparentFX

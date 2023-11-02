@@ -29,7 +29,6 @@ public class PlayerManager : MonoBehaviour
         ikRenderers = avatar.GetComponentsInChildren<Renderer>();
         repTracker = player.GetComponentInChildren<RepTrackerIK>();
         poseManager = player.GetComponentInChildren<PoseManager>();
-
     }
 
     // TODO: Remove this eventually. Currently in place for testing purposes.
