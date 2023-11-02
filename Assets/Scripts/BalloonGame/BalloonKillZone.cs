@@ -28,6 +28,10 @@ public class BalloonKillZone : MonoBehaviour
             case "OnionLayer3":
                 BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
                 break;
+            case "SpawnStreamMember":
+            case "SpawnStreamMemberLast":
+                BalloonManager.Instance.KillBalloonDelay(other.gameObject.transform.parent.gameObject, 2);
+                break;
             default:
                 Debug.Log("No tag matches.");
                 BalloonManager.Instance.KillBalloon(other.gameObject);
