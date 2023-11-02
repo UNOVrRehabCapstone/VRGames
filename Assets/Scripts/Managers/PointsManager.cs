@@ -99,7 +99,8 @@ public class PointsManager : MonoBehaviour
     }
 
     private static void updateScoreboard(){
-        scoreboard.GetComponentInChildren<TextMesh>().text = points + " pts";
+        updateLeftScore();
+        updateRightScore();
     }
 
     private static void updateLeftScore()

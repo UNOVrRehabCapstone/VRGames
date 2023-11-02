@@ -177,6 +177,24 @@ namespace Classes.Managers
         }
 
         /**
+         * Removes a balloon from the scene and the current list of balloons after a number of seconds indicated by time
+         */
+        public void KillBalloonDelay(GameObject balloon, int time)
+        {
+            StartCoroutine(KillBalloonCountdown(balloon, time));
+        }
+
+        /**
+         * Coroutine that waits for a period of time before removing a balloon from the scene and the list of balloons
+         */
+        IEnumerator KillBalloonCountdown(GameObject balloon, int time)
+        {
+            yield return new WaitForSecondsRealtime(time);
+            balloons.Remove(balloon);
+            Destroy(balloon);
+        }
+
+        /**
          * Removes all balloons from the scene.
          */
         public void KillAllBalloons()
