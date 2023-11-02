@@ -92,7 +92,8 @@ namespace Classes.Managers
             this.isRestarting = true;
             /* Required because if a balloon despawn while the game is restarting, it will still 
                cause a loss of life. */
-            BalloonManager.Instance.KillAllBalloons(); 
+            BalloonManager.Instance.KillAllBalloons();
+            BalloonManager.Instance.StopAutomaticSpawner();
 
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
@@ -125,7 +126,7 @@ namespace Classes.Managers
          */
         private IEnumerator WatchScore()
         {
-            yield return new WaitUntil(() => (PointsManager.getPoints() == this.gameSettings.goal));
+            yield return new WaitUntil(() => (PointsManager.getPoints() >= this.gameSettings.goal));
 
             Debug.Log("Goal has been reached!");
             PointsManager.updateScoreboardMessage("You Win!"); 
