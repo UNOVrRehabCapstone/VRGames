@@ -10,24 +10,6 @@ To use this application, the files must be built in the Unity engine and deploye
 
 # Release Notes:
 
-### 10/19/2023
-General:
-* Connected VR-Games to our student server
-
-Balloon Game:
-* Refactored BalloonGameplayManager class
-* Created new BalloonManager class to handle the balloons in the scene and balloon spawning
-* Created a game settings class that can be used to create and specify different game settings such as:
-  * Game mode
-  * Spawn pattern
-  * Probability of different types of balloons spawning
-  * Where a balloon spawns
-  * Time between each balloon spawn
-* Implemented alternating and cocurrent spawn patterns
-* Created Balloon stream powerup balloon
-  * This balloon causes 5 extra balloons to spawn rapdily!
-
-
 ### 9/28/2023
 
 General:
@@ -37,3 +19,25 @@ Balloon Game:
   * Added multiple difficulty levels that automatically trigger upon a designated score threshold. Balloons will move faster and become harder to predict.
   * Added a win condition that triggers a "You won!" message. The game will (for now) automatically restart after this happens.
   * Added basic effect that will be applied to new "Powerup" balloons that have not yet been implemented. Currently they are applied to normal balloons as a proof of concept.
+
+
+
+
+### 10/02/2023
+Balloon Game:
+  * New Additions:
+      * New Balloon - The "Onion" balloon has multiple layers that need to be popped
+      * New conffetti effect on victory
+
+ 
+  * Improvements:
+      * Recreated balloon stream powerup to align with refactored code
+      * Created a stream of balloons prefab to be spawned by the powerup
+      * Simplified balloon collider
+      * Refactoring
+      * Created a dart manager class to handle dart spawning and got rid of the manual dart spawners
+      * Tracking for separate left and right points
+      * Added a method to delay the destruction of balloons by a given number of seconds
+      * Fixed scoreboard not correctly displaying the current left and right scores
+      * Disabled balloon spawner once goal has been reached
+      * Fixed skipping over point goal (e.g. going from 3 to 5 points with a goal of 4) not triggering win state
