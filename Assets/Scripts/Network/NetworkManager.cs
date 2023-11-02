@@ -19,7 +19,6 @@ namespace Network
         private SocketIOInstance _socket;
         public static NetworkManager Instance { get; private set; }
         private string clinicianId;
-    
         [SerializeField] private TMP_InputField patientNameInput;
         [SerializeField] private TextMeshProUGUI patientName;
         [SerializeField] private TextMeshProUGUI clinicianName;
@@ -89,7 +88,6 @@ namespace Network
              {
                  Debug.Log("Started Game");
                  var obj = JsonConvert.DeserializeObject<SocketClasses.StartGame>(payload);
-                 Debug.Log(obj.game);
                  switch(obj.game) {
                     case "3":
                         SceneManager.LoadScene("Planes");
@@ -105,6 +103,33 @@ namespace Network
                         break;
                  }
              });
+            _socket.On("balloonSettings", (string payload) =>
+            {
+                var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameSettings>(payload);
+                SocketClasses.BalloonGameSettingsValues.balloonGameMode = obj.mode;
+                SocketClasses.BalloonGameSettingsValues.balloonGameGoal = obj.target;
+
+                string frequency;
+                switch (obj.freq)
+                {
+                    case "None":
+                        frequency = "0";
+                        break;
+                    case "Low":
+                        frequency = "15";
+                        break;
+                    case "Medium":
+                        frequency = "20";
+                        break;
+                    case "High":
+                        frequency = "40";
+                        break;
+                    default:
+                        frequency = "15";
+                        break;
+                }
+                SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency = frequency;
+            });
 
              _socket.On("pauseGame", (string payload) => {
                 GameplayManager.getManager().ResumeGame();

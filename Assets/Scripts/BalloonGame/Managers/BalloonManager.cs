@@ -23,6 +23,7 @@ namespace Classes.Managers
         
 	    private List<GameObject> balloons = new List<GameObject>(); /* Holds the current balloons in
                                                                        the scene */
+
         private bool             alternate = false;
         private Coroutine        automaticSpawner;
 
@@ -112,10 +113,22 @@ namespace Classes.Managers
         /**
          * The AlternateSpawn is a helper method for spawning the balloons for the alternating 
          * spawn pattern.
+         * 11/2/2023: Updated, now does an rng check based on the clinician controlled special balloon spawn chance to determine if it should spawn
+         *            a normal balloon or a random powerup.
          */ 
         private void AlternateSpawn()
         {
-            GameObject balloon = GetBalloonBasedOnProb();
+            GameObject balloon;
+            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
+            {
+                balloon = GetBalloonBasedOnProb();
+
+            }
+            else
+            {
+                balloon = this.gameSettings.balloonPrefabs[0];
+                
+            }
             GameObject spawnPoint = alternate ? this.leftSpawn :
                                                 this.rightSpawn;
             this.alternate = !alternate;
@@ -130,27 +143,14 @@ namespace Classes.Managers
          * Author: Dante Lawrence
          * Note: Code was adapted from the probability code provided by Unity which can be found here 
          *       https://docs.unity3d.com/2019.3/Documentation/Manual/RandomNumbers.html
+         *       
+         * 11/2/2023: Updated, Now it picks a random balloon from the balloonPrefabs, excluding the default balloon. - Edward
          */
         private GameObject GetBalloonBasedOnProb()
         {
-            float       total = 0;
-            List<float> probs = gameSettings.probabilities;
+            int rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);
+            return this.gameSettings.balloonPrefabs[rand];
 
-            foreach (float elem in probs) {
-                total += elem;
-            }
-
-            float randomPoint = Random.value * total;
-
-            for (int i= 0; i < probs.Count; i++) {
-                if (randomPoint < probs[i]) {
-                    return gameSettings.balloonPrefabs[i];
-                }
-                else {
-                    randomPoint -= probs[i];
-                }
-            }
-            return gameSettings.balloonPrefabs[probs.Count - 1];
         }
 
         /**
@@ -205,6 +205,8 @@ namespace Classes.Managers
             }
             this.balloons.Clear();
         }
+
     }
 }
+
 

@@ -49,7 +49,8 @@ public class GameSettingsSO : ScriptableObject
 	public SpawnPattern     spawnPattern;
 
 	public List<GameObject> balloonPrefabs;
-	public List<float>      probabilities;
+
+	public int				specialBalloonSpawnChance;
 
 	public int              maxNumBalloonsSpawnedAtOnce;
 

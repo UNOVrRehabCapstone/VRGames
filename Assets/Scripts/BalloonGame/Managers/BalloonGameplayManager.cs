@@ -34,10 +34,11 @@ namespace Classes.Managers
         new void Start()
         {
             base.Start();
+            RefreshBalloonSettings();
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
-
+            this.gameSettings.numLives = 100;
             this.playerLives = this.gameSettings.numLives;
             
             switch(this.gameSettings.gameMode) {
@@ -81,6 +82,14 @@ namespace Classes.Managers
         public GameSettingsSO GetGameSettings()
         {
             return this.gameSettings;
+        }
+
+        /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
+        void RefreshBalloonSettings()
+        {
+            this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
+            this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
+            this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
         }
         
         /**
