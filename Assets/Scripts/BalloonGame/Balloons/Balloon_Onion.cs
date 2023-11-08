@@ -24,7 +24,7 @@ public class Balloon_Onion : Balloon
                 BalloonManager.Instance.KillBalloon(gameObject.transform.parent.gameObject);
             }
             Destroy(gameObject);
-            DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
+            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
         }
     }
 

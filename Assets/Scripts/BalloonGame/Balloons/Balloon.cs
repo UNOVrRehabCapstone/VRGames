@@ -25,7 +25,7 @@ public class Balloon : _BaseBalloon
             this.PlayEffects();
             this.AddPoints();
             BalloonManager.Instance.KillBalloon(gameObject);
-            DartManager.Instance.DestroyDart(other.gameObject.transform.parent.gameObject);
+            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
         }
     }
 
