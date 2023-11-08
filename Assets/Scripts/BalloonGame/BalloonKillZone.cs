@@ -12,13 +12,17 @@ public class BalloonKillZone : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        /* Note that what I am doing here is slightly dangerous. I am assuming the other game 
-           object is a balloon. This should not be a problem since where the collider is positioned,
-           the only objects that should be colliding with the kill zone are balloons.*/
         Debug.Log(other + " collided with the kill zone.");
 
+        /* This switch differentiates between the different types of balloons. The reason for this 
+           is that some balloons need to be handled differently when colliding with the kill zone.
+           The default case ignores all other objects, so make sure that when you create a balloon 
+           you tag it and add a case for it or else it won't be destroyed when it collides with the 
+           kill zone. 
+
+           TODO: It may be better just to put these in each of the different balloon classes. */
         switch(other.gameObject.tag) {
-            case "Balloon_General":
+            case "Balloon":
                 --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
@@ -32,9 +36,12 @@ public class BalloonKillZone : MonoBehaviour
             case "SpawnStreamMemberLast":
                 BalloonManager.Instance.KillBalloonDelay(other.gameObject.transform.parent.gameObject, 2);
                 break;
-            default:
-                Debug.Log("No tag matches.");
+            case "Balloon_Stream_Powerup":
                 BalloonManager.Instance.KillBalloon(other.gameObject);
+                break;
+            default:
+                Debug.Log(  "No tag match. If this is a balloon, make sure to tag the balloon, and "
+                          + "add a case for it in the BalloonKillZone class.");
                 break;
         }
     }
