@@ -99,10 +99,14 @@ namespace Classes.Managers
         public IEnumerator Restart()
         {
             this.isRestarting = true;
-            /* Required because if a balloon despawn while the game is restarting, it will still 
+            /* Required because if a balloon despawns while the game is restarting, it will still 
                cause a loss of life. */
             BalloonManager.Instance.KillAllBalloons();
             BalloonManager.Instance.StopAutomaticSpawner();
+            /* Make sure to destroy the darts on restart. This is necessary becauase if the player 
+               is holding a dart between scene resets, the held darts will not be destroyed 
+               resulting in duplicated darts. TODO: There has to be a better way of doing this. */
+            DartManager.Instance.DestroyDarts();
 
             yield return new WaitForSeconds(5);
             PointsManager.updateScoreboardMessage("Restarting in: 3");
