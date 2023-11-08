@@ -27,8 +27,8 @@ The goal for milestone 4 is to have all feature implemented, so milestone 5 can 
 - [ ] Implement at least one more special balloon
 - [ ] Simplify the spawning by changing the duration between balloon spawns to a static timer (no more random time spawns)
 - [ ] Implement another spawn pattern called "Random". This spawn pattern will be similar to picking a random balloon, that is the balloon spawn is chosen based on a probability.
-- [ ] Fix dart bugs
-    - [ ] Fix dart getting destroyed when colliding with the kill zone
+- [x] Fix dart bugs
+    - [x] Fix dart getting destroyed when colliding with the kill zone
     - [x] Fix the ungrabbale dart bug
 - [ ] Implement the ability for the goal to be left hand points, right hand points, or total points.
 - [ ] Add a speed modifier, and change the update methods of the balloons to make use of said modifier (the modifier will be used by the clinician to control the speed of the ballons.)
