@@ -7,6 +7,33 @@ There are four proof-of-concept games included.
 
 To use this application, the files must be built in the Unity engine and deployed to a virtual reality headset such as the Meta Quest 2.
 
+# Milestone 4 TODO
+The goal for milestone 4 is to have all feature implemented, so milestone 5 can be dedicated to testing, debugging, and documentation. Here are the things that need to be completed for milestone 4.
+## Clincian Side
+- [ ] Implement Settings (there are a number of settings we could present to the clinician; however, these are the settings that we have decided are the most important)
+    - [ ] Game selection
+    - [ ] Game mode selection (relaxed, normal)
+    - [ ] Target goal selection (left hand, right hand, or both)
+    - [ ] Powerup frequencies
+    - [ ] Toggle on/off the automatic spawner
+    - [ ] Manual spawning of a balloon
+    - [ ] Spawn Pattern choice (Alternating, Concurrent, Random)
+        - [ ] Add a slider for the "Random" spawn pattern so the clincian can control the spawn probability
+    - [ ] Speed of balloons
+    - [ ] Positioning
+        - [ ] Dart spawns
+        - [ ] Balloon spawns 
+## Balloon Game
+- [ ] Implement at least one more special balloon
+- [ ] Simplify the spawning by changing the duration between balloon spawns to a static timer (no more random time spawns)
+- [ ] Implement another spawn pattern called "Random". This spawn pattern will be similar to picking a random balloon, that is the balloon spawn is chosen based on a probability.
+- [ ] Fix dart bugs
+    - [ ] Fix dart getting destroyed when colliding with the kill zone
+    - [ ] Fix the ungrabbale dart bug
+- [ ] Implement the ability for the goal to be left hand points, right hand points, or total points.
+- [ ] Add a speed modifier, and change the update methods of the balloons to make use of said modifier (the modifier will be used by the clinician to control the speed of the ballons.)
+- [ ] Implement the feature to adjust the kill zone with respect to the height of the player.
+
 
 # Release Notes:
 
