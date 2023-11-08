@@ -2,6 +2,21 @@
  * The DartManager class handles the spawning and despawning of darts in the scene.
  */
 
+/*
+ * Internal explanation: Internally, the darts are never destroyed unless the method DestroyDarts 
+ * is called. This is most easily understood by comparing what is done here with a tag team 
+ * wrestling match. There are a pair of left darts and a pair of right darts. Whenever the 
+ * DespawnDart method is called the passed in dart is tagged out with its dart partner (transferred
+ * outside the view of the user and its dart partner is placed at the respective dart spawner).
+ *
+ * Why not just destroy the darts and instantiate another one in its place? We had a problem where 
+ * occasionaly the dart would get destroyed and the OVRGrabber would still be referencing the old,
+ * destroyed object preventing the user from picking up another dart unless the game was restarted. 
+ * The OVRGrabber provides some methods for forcing the release of an item, but using their 
+ * provided methods presented some difficulties, so the above method was chosen. Also, you could
+ * argue that this method is more efficient since we avoid repeatedly instantiating and destroying 
+ * objects. 
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,65 +29,90 @@ public class DartManager : MonoBehaviour
     [SerializeField] private GameObject leftDartSpawn;
     [SerializeField] private GameObject rightDartSpawn;
     [SerializeField] private GameObject dartPrefab;
+    [SerializeField] private GameObject hiddenDartLoc; /* Where "tagged" out darts will be placed. */
 
-    private GameObject                  leftDart;
-    private GameObject                  rightDart;
+    private GameObject                  leftDart;  /* Left dart pair */
+    private GameObject                  leftDart2;
+
+    private GameObject                  rightDart;  /* Right dart pair */
+    private GameObject                  rightDart2; 
 
     private void Awake()
     {
         /* Singleton pattern make sure there is only one dart manager. */
-		if (Instance != null) {
-			Debug.LogError("There should only be one balloon manager.");
-		}
-		Instance = this; 
-
-        Debug.Log("Dart manager active.");
+		if (Instance != null && Instance != this) {
+			//Debug.LogError("There should only be one balloon manager.");
+            Destroy(this);
+		} else {
+            Instance = this;
+        } 
     }
     
     private void Start()
     {
-        this.SpawnDart(leftDartSpawn);
-        this.SpawnDart(rightDartSpawn);
+        this.leftDart   = Instantiate(dartPrefab);
+        this.leftDart2  = Instantiate(dartPrefab);
+        this.rightDart  = Instantiate(dartPrefab);
+        this.rightDart2 = Instantiate(dartPrefab);
+
+        this.leftDart.transform.position   = this.leftDartSpawn.transform.position;
+        this.leftDart2.transform.position  = this.hiddenDartLoc.transform.position;
+        this.rightDart.transform.position  = this.rightDartSpawn.transform.position;
+        this.rightDart2.transform.position = this.hiddenDartLoc.transform.position;
     }
 
     /**
-     * Destroys the dart and automatically spawns another dart in the appropriate location depending 
+     * Despawns the dart and automatically spawns another dart in the appropriate location depending 
      * on whether the passed in dart is the left or right dart. 
      */
-    public void DestroyDart(GameObject dart)
+    public void DespawnDart(GameObject dart)
     {
+        Debug.Assert(this.IsLeftDart(dart) || this.IsRightDart(dart));
         /* For debugging purposes. */
-        string dartStr = (dart == leftDart ? "left" : "right");
-        Debug.Log("Destroyed " + dartStr + " dart.");
+        string dartStr = (this.IsLeftDart(dart) ? "left" : "right");
+        Debug.Log("Despawned " + dartStr + " dart.");
 
-        GameObject dartSpawn = this.IsLeftDart(dart) ? leftDartSpawn : rightDartSpawn;
-        Destroy(dart);
-        this.SpawnDart(dartSpawn);
+        GameObject dartPartner;
+        GameObject dartSpawn;
+        
+        /* Get the appropriate partner and dart spawn. */
+        if (this.IsLeftDart(dart)) {
+            dartPartner = (dart == this.leftDart ? this.leftDart2 : this.leftDart);
+            dartSpawn   = leftDartSpawn;
+        } else {
+            dartPartner = (dart == this.rightDart ? this.rightDart2 : this.rightDart);
+            dartSpawn   = rightDartSpawn;
+        }
+
+        /* Tag the partner out. */
+        dart.transform.position = this.hiddenDartLoc.transform.position;
+        dartPartner.transform.SetPositionAndRotation(dartSpawn.transform.position, dartSpawn.transform.rotation);
     }
 
     /**
-     * Spawns a dart at the given dart spawn.
+     * Checks to see if the dart is the left dart.
      */
-    private void SpawnDart(GameObject dartSpawn)
-    {
-        if (dartSpawn == leftDartSpawn) {
-            Debug.Log("Left dart spawned.");
-            this.leftDart = Instantiate(dartPrefab);
-            this.leftDart.transform.position = dartSpawn.transform.position;
-        } else {
-            Debug.Log("Right dart spawned.");
-            this.rightDart = Instantiate(dartPrefab);
-            this.rightDart.transform.position = dartSpawn.transform.position;
-        }
-    }
-
     public bool IsLeftDart(GameObject dart) 
     {
-        return (dart == this.leftDart);
+        return (dart == this.leftDart || dart == this.leftDart2);
     }
 
+    /**
+     * Checks to see if the dart is the right dart.
+     */
     public bool IsRightDart(GameObject dart)
     {
-        return (dart == this.rightDart);
+        return (dart == this.rightDart || dart == this.rightDart2);
+    }
+
+    /**
+     * Destroys all of the darts in the scene.
+     */
+    public void DestroyDarts()
+    {
+        Destroy(this.leftDart);
+        Destroy(this.leftDart2);
+        Destroy(this.rightDart);
+        Destroy(this.rightDart2);
     }
 }
