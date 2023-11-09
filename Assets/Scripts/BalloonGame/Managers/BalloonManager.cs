@@ -104,8 +104,27 @@ namespace Classes.Managers
          */
         private void ConcurrentSpawn()
         {
-            GameObject leftBalloon  = GetBalloonBasedOnProb();
-            GameObject rightBalloon = GetBalloonBasedOnProb();
+            GameObject leftBalloon;
+            GameObject rightBalloon;
+
+            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
+            {
+                leftBalloon = GetBalloonBasedOnProb();
+            }
+            else
+            {
+                leftBalloon = this.gameSettings.balloonPrefabs[0];
+            }
+
+            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
+            {
+                rightBalloon = GetBalloonBasedOnProb();
+            }
+            else
+            {
+                rightBalloon = this.gameSettings.balloonPrefabs[0];
+            }
+            
             SpawnBalloon(leftBalloon,  this.leftSpawn);
             SpawnBalloon(rightBalloon, this.rightSpawn);
         }
