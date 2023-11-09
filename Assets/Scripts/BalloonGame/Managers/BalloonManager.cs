@@ -207,7 +207,18 @@ namespace Classes.Managers
          */
         private GameObject GetBalloonBasedOnProb()
         {
-            int rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);
+            int rand;
+
+            /* IMPORTANT: The Life balloon must be the first special balloon following the basic balloon 
+             * in the list in order to properly block it from spawning in relaxed where lives don't matter. */
+            if (this.gameSettings.gameMode == GameSettingsSO.GameMode.RELAXED)
+            {
+                rand = Random.Range(2, this.gameSettings.balloonPrefabs.Count);
+            }
+            else
+            {
+                rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);
+            }
             return this.gameSettings.balloonPrefabs[rand];
 
         }

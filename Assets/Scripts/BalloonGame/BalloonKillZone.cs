@@ -40,6 +40,9 @@ public class BalloonKillZone : MonoBehaviour
             case "Balloon_Stream_Powerup":
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 break;
+            case "RestoreLife":
+                BalloonManager.Instance.KillBalloon(other.gameObject);
+                break;
             default:
                 Debug.Log(  "No tag match. If this is a balloon, make sure to tag the balloon, and "
                           + "add a case for it in the BalloonKillZone class.");
