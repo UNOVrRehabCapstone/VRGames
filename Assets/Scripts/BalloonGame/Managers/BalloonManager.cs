@@ -70,6 +70,13 @@ namespace Classes.Managers
                         this.AlternateSpawn();
 
                         break;
+                    case GameSettingsSO.SpawnPattern.RANDOM:
+                        //Debug.Log("Random spawn pattern chosen.");
+
+                        yield return new WaitUntil(() => (balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
+                        this.RandomSpawn();
+
+                        break;
 
                     default:
                         Debug.LogError("This should never happen.");
@@ -151,6 +158,39 @@ namespace Classes.Managers
             GameObject spawnPoint = alternate ? this.leftSpawn :
                                                 this.rightSpawn;
             this.alternate = !alternate;
+
+            this.SpawnBalloon(balloon, spawnPoint);
+        }
+
+        /**
+         * The RandomSpawn is a helper method for spawning the balloons in a (weighted) random pattern.
+         * leftSpawnChance represents the chance for a balloon to be spawned on the left.
+         * The chance for a balloon to be spawned on the right is 1 - leftSpawnChance.
+         * For example, a leftSpawnChance of 0.25 gives a 1 - 0.25 = 0.75 spawn chance for the right.
+         */
+        private void RandomSpawn()
+        {
+            GameObject balloon;
+            GameObject spawnPoint;
+            if (Random.Range(1, 100) <= this.gameSettings.specialBalloonSpawnChance)
+            {
+                balloon = GetBalloonBasedOnProb();
+
+            }
+            else
+            {
+                balloon = this.gameSettings.balloonPrefabs[0];
+
+            }
+
+            if (Random.Range(1, 101) <= this.gameSettings.leftSpawnChance)
+            {
+                spawnPoint = this.leftSpawn;
+            }
+            else
+            {
+                spawnPoint = this.rightSpawn;
+            }
 
             this.SpawnBalloon(balloon, spawnPoint);
         }
