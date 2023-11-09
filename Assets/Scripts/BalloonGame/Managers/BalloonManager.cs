@@ -41,7 +41,7 @@ namespace Classes.Managers
         private void Start()
         {
             this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
-            this.StartAutomaticSpawner(this.gameSettings.maxSpawnTime);
+            this.StartAutomaticSpawner(this.gameSettings.spawnTime);
         }
 
         /**
@@ -76,7 +76,7 @@ namespace Classes.Managers
                         break;
                 }
 
-                yield return new WaitForSeconds(Random.Range(this.gameSettings.minSpawnTime, this.gameSettings.maxSpawnTime));
+                yield return new WaitForSeconds(this.gameSettings.spawnTime);
             }
         }
 

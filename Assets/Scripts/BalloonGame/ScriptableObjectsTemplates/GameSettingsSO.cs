@@ -54,6 +54,5 @@ public class GameSettingsSO : ScriptableObject
 
 	public int              maxNumBalloonsSpawnedAtOnce;
 
-	public float            maxSpawnTime;
-	public float            minSpawnTime;
+	public float            spawnTime;
 }
