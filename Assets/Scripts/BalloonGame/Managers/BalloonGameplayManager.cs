@@ -38,10 +38,10 @@ namespace Classes.Managers
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
-            this.gameSettings.numLives = 100;
             this.playerLives = this.gameSettings.numLives;
-            
-            switch(this.gameSettings.gameMode) {
+            PointsManager.updateScoreboard();
+
+            switch (this.gameSettings.gameMode) {
                 /* RELAXED: Just watch the score.*/
                 case GameSettingsSO.GameMode.RELAXED:
                     this.StartCoroutine(this.WatchScore());

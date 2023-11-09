@@ -24,6 +24,7 @@ public class BalloonKillZone : MonoBehaviour
         switch(other.gameObject.tag) {
             case "Balloon":
                 --BalloonGameplayManager.Instance.playerLives;
+                PointsManager.updateScoreboard();
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
                 break;

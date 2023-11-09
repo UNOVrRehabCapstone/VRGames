@@ -69,6 +69,12 @@ TagManager:
   - OnionLayer1
   - OnionLayer2
   - OnionLayer3
+  - Balloon_Stream_Powerup
+  - BalloonStream
+  - SpawnStreamMember
+  - SpawnStreamMemberLast
+  - RestoreLife
+  - LivesDisplay
   layers:
   - Default
   - TransparentFX

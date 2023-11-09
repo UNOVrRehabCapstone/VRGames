@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using Classes.Managers;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -47,6 +48,7 @@ public class PointsManager : MonoBehaviour
         checkPoints();
         updateLeftScore();
         updateRightScore();
+        updateLivesDisplay();
     }
     public static void addPoints(int p) {
         points += p;
@@ -98,9 +100,10 @@ public class PointsManager : MonoBehaviour
         }
     }
 
-    private static void updateScoreboard(){
+    public static void updateScoreboard(){
         updateLeftScore();
         updateRightScore();
+        updateLivesDisplay();
     }
 
     private static void updateLeftScore()
@@ -113,6 +116,19 @@ public class PointsManager : MonoBehaviour
     {
         GameObject rightScoreboard = GameObject.FindGameObjectWithTag("RightPoints");
         rightScoreboard.GetComponentInChildren<TextMesh>().text = "Right: " + rightPoints + " pts";
+    }
+
+    private static void updateLivesDisplay()
+    {
+        GameObject lifeDisplay = GameObject.FindGameObjectWithTag("LivesDisplay");
+        if (BalloonGameplayManager.Instance.GetGameSettings().gameMode == GameSettingsSO.GameMode.RELAXED)
+        {
+            lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: Unlimited";
+        }
+        else
+        {
+            lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: " + BalloonGameplayManager.Instance.playerLives;
+        }
     }
 
    
