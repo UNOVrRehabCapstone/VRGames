@@ -24,6 +24,6 @@ public class Balloon_Unit : _BaseBalloon
     {
         Transform transform = gameObject.transform;
         transform.position = Vector3.Lerp(transform.position, transform.position 
-                                        + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength);
+                                        + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength * BalloonGameplayManager.Instance.GetGameSettings().floatStrengthModifier);
     }
 }

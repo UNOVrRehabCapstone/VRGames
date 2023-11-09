@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b637d68125fd084bb694412514f37aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.3
+  floatStrength: 0.5
   pointValue: 1
 --- !u!4 &6651512033926968866 stripped
 Transform:
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b637d68125fd084bb694412514f37aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.3
+  floatStrength: 0.5
   pointValue: 1
 --- !u!4 &1629136527298997444 stripped
 Transform:
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b637d68125fd084bb694412514f37aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.3
+  floatStrength: 0.5
   pointValue: 1
 --- !u!1001 &7980730763270519112
 PrefabInstance:
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b637d68125fd084bb694412514f37aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.3
+  floatStrength: 0.5
   pointValue: 1
 --- !u!1001 &8998288256170416290
 PrefabInstance:
@@ -554,5 +554,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b637d68125fd084bb694412514f37aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.3
+  floatStrength: 0.5
   pointValue: 1

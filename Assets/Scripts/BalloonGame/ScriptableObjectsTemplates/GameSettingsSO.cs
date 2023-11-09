@@ -57,10 +57,11 @@ public class GameSettingsSO : ScriptableObject
 
 	public float            spawnTime;
 
-    /*
-	 * rightSpawnChance is not needed because it is 1 - leftSpawnChance i.e. leftSpawnChance = 0.6 indicates a rightSpawnChance of 1 - 0.6 = 0.4
-	 * A leftSpawnChance of 0 completely stops balloons from being spawned on the left in the RANDOM spawn pattern.
-	 * A leftSpawnChance of 100 completely stops balloons from being spawned on the right in the RANDOM spawn pattern.
-	 */
-    public float			leftSpawnChance;
+    public float			leftSpawnChance;       /* rightSpawnChance is not needed because it is 1 - leftSpawnChance.
+                			                        * i.e. A leftSpawnChance of 0.6 indicates a rightSpawnChance of 0.4. */
+
+	public float			floatStrengthModifier; /* BE CAREFUL! Allowing this value to be set too high will cause
+	            			                        * the balloons to skip right over the killzone barrier. This
+	            			                        * prevents any further balloons from spawning once the number of
+	            			                        * balloons that skipped the barrier is equal to maxNumBalloonsSpawnedAtOnce */
 }

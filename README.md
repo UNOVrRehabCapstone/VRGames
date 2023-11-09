@@ -31,7 +31,7 @@ The goal for milestone 4 is to have all feature implemented, so milestone 5 can 
     - [x] Fix dart getting destroyed when colliding with the kill zone
     - [x] Fix the ungrabbale dart bug
 - [ ] Implement the ability for the goal to be left hand points, right hand points, or total points.
-- [ ] Add a speed modifier, and change the update methods of the balloons to make use of said modifier (the modifier will be used by the clinician to control the speed of the ballons.)
+- [x] Add a speed modifier, and change the update methods of the balloons to make use of said modifier (the modifier will be used by the clinician to control the speed of the ballons.)
 - [ ] Implement the feature to adjust the kill zone with respect to the height of the player.
 
 

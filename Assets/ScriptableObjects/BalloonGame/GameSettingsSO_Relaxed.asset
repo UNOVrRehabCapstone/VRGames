@@ -24,3 +24,4 @@ MonoBehaviour:
   maxNumBalloonsSpawnedAtOnce: 2
   spawnTime: 3
   leftSpawnChance: 50
+  floatStrengthModifier: 1
