@@ -10,6 +10,19 @@ using UnityEngine;
 
 public class BalloonKillZone : MonoBehaviour
 {
+    private OVRCameraRig cameraRig;
+    
+    private void Start()
+    {
+        cameraRig = OVRCameraRig.FindObjectOfType<OVRCameraRig>();
+    }
+
+    private void Update()
+    {
+        // Debug.Log(cameraRig.centerEyeAnchor.position.y);
+        this.transform.position = new Vector3 (this.transform.position.x, cameraRig.centerEyeAnchor.position.y + 1.5f, this.transform.position.z);
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         Debug.Log(other + " collided with the kill zone.");
