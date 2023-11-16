@@ -90,6 +90,7 @@ namespace Classes.Managers
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
+            this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
         }
         
         /**
@@ -139,7 +140,7 @@ namespace Classes.Managers
          */
         private IEnumerator WatchScore()
         {
-            yield return new WaitUntil(() => (PointsManager.getPoints() >= this.gameSettings.goal));
+            yield return new WaitUntil(() => PointsManager.isGoalReached(this.gameSettings.handSetting, this.gameSettings.goal));
 
             Debug.Log("Goal has been reached!");
             PointsManager.updateScoreboardMessage("You Win!"); 

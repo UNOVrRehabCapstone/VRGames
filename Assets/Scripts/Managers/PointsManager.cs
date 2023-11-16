@@ -82,6 +82,22 @@ public class PointsManager : MonoBehaviour
         checkPoints();
         updateScoreboard();
     }
+
+
+    // Checking to see if the goal of either hand or both hands has been reached based on the current setting.
+
+    public static bool isGoalReached(GameSettingsSO.HandSetting handSetting, int goal){
+        switch(handSetting){
+            case GameSettingsSO.HandSetting.LEFT_HAND:
+                return leftPoints >= goal;
+            case GameSettingsSO.HandSetting.RIGHT_HAND:
+                return rightPoints >= goal;
+            case GameSettingsSO.HandSetting.BOTH_HANDS:
+                return (leftPoints + rightPoints) >= goal;
+            default:
+                return false;
+        }
+    }
     
     public static void addPointTrigger( string equality, int points, string function ){
         pointTriggers.Add( new PointTrigger( equality, points, function ) );
@@ -109,13 +125,31 @@ public class PointsManager : MonoBehaviour
     private static void updateLeftScore()
     {
         GameObject leftScoreboard = GameObject.FindGameObjectWithTag("LeftPoints");
+        TextMesh leftTextMesh = leftScoreboard.GetComponentInChildren<TextMesh>();
         leftScoreboard.GetComponentInChildren<TextMesh>().text = "Left: " + leftPoints + " pts";
+
+        // Updating the color based on the hand setting
+
+        if (BalloonGameplayManager.Instance.GetGameSettings().handSetting == GameSettingsSO.HandSetting.LEFT_HAND){
+            leftTextMesh.color = Color.blue;
+        } else{
+            leftTextMesh.color = Color.black;
+        }
     }
 
     private static void updateRightScore()
     {
         GameObject rightScoreboard = GameObject.FindGameObjectWithTag("RightPoints");
+        TextMesh rightTextMesh = rightScoreboard.GetComponentInChildren<TextMesh>();
         rightScoreboard.GetComponentInChildren<TextMesh>().text = "Right: " + rightPoints + " pts";
+
+        // Updating the color based on the hand setting
+
+        if (BalloonGameplayManager.Instance.GetGameSettings().handSetting == GameSettingsSO.HandSetting.RIGHT_HAND){
+            rightTextMesh.color = Color.blue;
+        } else{
+            rightTextMesh.color = Color.black;
+        }
     }
 
     private static void updateLivesDisplay()

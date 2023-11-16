@@ -31,6 +31,12 @@ public class GameSettingsSO : ScriptableObject
 		RANDOM				   /* Balloons randomly spawn on the left or right based on leftSpawnChance. */
 	}
 
+	public enum HandSetting {
+		LEFT_HAND,			/* The goal is affected only by the left hand. */
+		RIGHT_HAND,			/* The goal is affected only by the right hand. */
+		BOTH_HANDS			/* The goal is affected by both hands. */
+	}
+
 	/* TODO: A lot of mixed settings here. Would it be better to separate the 
 	   settings into their own files? For example, a file for spawn settings, 
 	   a file for player settings, and a file for game mode settings. Hmmm 
@@ -40,6 +46,7 @@ public class GameSettingsSO : ScriptableObject
 	/* GAME MODE SETTINGS                                                    */
 	/*************************************************************************/
 	public GameMode         gameMode;
+	public HandSetting 		handSetting;
 
 	public int              numLives;
 	public int              goal;
