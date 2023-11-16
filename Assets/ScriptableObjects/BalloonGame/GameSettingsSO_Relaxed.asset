@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66ea19904c29464986c61f77c68585c, type: 3}
   m_Name: GameSettingsSO_Relaxed
   m_EditorClassIdentifier: 
-  gameMode: 0
+  gameMode: 1
   numLives: 10
-  goal: 10
+  goal: 1000
   spawnPattern: 1
   balloonPrefabs:
   - {fileID: 6056930978616778079, guid: 417def5420a7d55458e19120433e2ca8, type: 3}
   - {fileID: 2947947452638201396, guid: 59924cbfabd96b84795dec404469e7cc, type: 3}
+  - {fileID: 3100974152539060379, guid: 41d83d28de9c3714e83fc2fb9ab5f775, type: 3}
   - {fileID: 1103066850434612782, guid: 169395e1a7e7b3d40b4c944607173539, type: 3}
   - {fileID: 5196007076472556109, guid: e2d3a9b851379c146b2585e7ceb91abb, type: 3}
   specialBalloonSpawnChance: 50

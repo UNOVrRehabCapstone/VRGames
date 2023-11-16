@@ -193,4 +193,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
+  rotationSpeed: 30
   pointValue: 1

@@ -56,6 +56,9 @@ public class BalloonKillZone : MonoBehaviour
             case "RestoreLife":
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 break;
+            case "Target":
+                BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.parent.gameObject);
+                break;
             default:
                 Debug.Log(  "No tag match. If this is a balloon, make sure to tag the balloon, and "
                           + "add a case for it in the BalloonKillZone class.");

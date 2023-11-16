@@ -16,6 +16,7 @@ public class Balloon : _BaseBalloon
         Transform transform = gameObject.transform;
         transform.position = Vector3.Lerp(transform.position, transform.position 
                                         + new Vector3(0f, 1f, 0f), Time.deltaTime * floatStrength * BalloonGameplayManager.Instance.GetGameSettings().floatStrengthModifier);
+        transform.Rotate(Vector3.up * Time.deltaTime * rotationSpeed);
     }
 
     public virtual void OnTriggerEnter(Collider other)

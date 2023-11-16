@@ -10,6 +10,7 @@ using UnityEngine;
 public abstract class _BaseBalloon : MonoBehaviour
 {
     [SerializeField] protected float floatStrength;
+    [SerializeField] protected float rotationSpeed;
     [SerializeField] protected int   pointValue;
     protected GameObject             spawnLoc;
 

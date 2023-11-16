@@ -48,6 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.3
+  rotationSpeed: 0
   pointValue: 0
 --- !u!1 &3290120608381685546
 GameObject:
@@ -420,6 +421,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0
+  rotationSpeed: 30
   pointValue: 2
 --- !u!1001 &2181125008421521460
 PrefabInstance:
@@ -539,6 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0
+  rotationSpeed: 30
   pointValue: 3
 --- !u!4 &2438939352382836388 stripped
 Transform:
@@ -649,6 +652,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0
+  rotationSpeed: 30
   pointValue: 1
 --- !u!4 &701669359733200053 stripped
 Transform:
