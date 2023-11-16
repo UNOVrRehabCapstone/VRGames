@@ -24,7 +24,7 @@ The goal for milestone 4 is to have all feature implemented, so milestone 5 can 
         - [ ] Dart spawns
         - [ ] Balloon spawns 
 ## Balloon Game
-- [ ] Implement at least one more special balloon (Added the Restore Life Balloon to Normal)
+- [x] Implement at least one more special balloon (Added the Restore Life Balloon to Normal)
 - [x] Simplify the spawning by changing the duration between balloon spawns to a static timer (no more random time spawns)
 - [x] Implement another spawn pattern called "Random". This spawn pattern will be similar to picking a random balloon, that is the balloon spawn is chosen based on a probability.
 - [x] Fix dart bugs
