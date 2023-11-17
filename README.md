@@ -49,7 +49,7 @@ Balloon Game:
 ### 11/16/23
 
 Balloon Game:
-* Implemented at least one more special balloon (Added the Restore Life Balloon to Normal).
+* Implemented at the restore life balloon and the target balloon
 * Simplified the spawning by changing the duration between balloon spawns to a static timer (no more random time spawns).
 * Implemented another spawn pattern called "Random." This spawn pattern will be similar to picking a random balloon, that is, the balloon spawn is chosen based on a probability.
 * Implemented the ability for the goal to be left hand points, right hand points, or total points.
