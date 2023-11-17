@@ -40,7 +40,7 @@ public class RepTrackerIK : MonoBehaviour
         {
             try
             {
-                lRender = GameObject.Find("hand_left_renderPart_0").GetComponent<Renderer>().material;
+                //lRender = GameObject.Find("hand_left_renderPart_0").GetComponent<Renderer>().material;
             }
             catch (NullReferenceException)
             {
@@ -51,7 +51,7 @@ public class RepTrackerIK : MonoBehaviour
         {
             try
             {
-                rRender = GameObject.Find("hand_right_renderPart_0").GetComponent<Renderer>().material;
+               // rRender = GameObject.Find("hand_right_renderPart_0").GetComponent<Renderer>().material;
             }
             catch (NullReferenceException)
             {
@@ -64,8 +64,8 @@ public class RepTrackerIK : MonoBehaviour
         //Left arm min: 11.5, max = 140
         if (lRender != null && rRender != null)
         {
-            TrackLeftReps();
-            TrackRightReps();
+           // TrackLeftReps();
+           // TrackRightReps();
         }
     }
     

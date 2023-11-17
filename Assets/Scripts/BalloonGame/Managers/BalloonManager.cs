@@ -221,12 +221,12 @@ namespace Classes.Managers
 
             if (Random.Range(0.0f, 1.0f) <= this.gameSettings.rightSpawnChance)
             {
-                spawnPoint = this.leftSpawn;
+                spawnPoint = this.rightSpawn;
             }
             else
             {
 
-                spawnPoint = this.rightSpawn;
+                spawnPoint = this.leftSpawn;
             }
 
             this.SpawnBalloon(balloon, spawnPoint);
