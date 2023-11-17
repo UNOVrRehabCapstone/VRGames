@@ -53,6 +53,13 @@ namespace Classes.Managers
 
             while (true)
             {
+                /* This is a quick fix to make totally sure the spawner is off when necessary*/
+                if (this.gameSettings.gameMode == GameSettingsSO.GameMode.MANUAL)
+                {
+                    this.StopAutomaticSpawner();
+                }
+
+
                 switch (this.gameSettings.spawnPattern) {
                     case GameSettingsSO.SpawnPattern.CONCURRENT: 
                         //Debug.Log("Concurrent spawn pattern chosen");
@@ -103,6 +110,35 @@ namespace Classes.Managers
         public void StopAutomaticSpawner()
         {
             this.StopCoroutine(this.automaticSpawner);
+        }
+
+        public void ManualSpawn()
+        {
+            switch (this.gameSettings.spawnPattern)
+            {
+                case GameSettingsSO.SpawnPattern.CONCURRENT:
+                    //Debug.Log("Concurrent spawn pattern chosen");
+
+                    /* Have to be really careful here since two balloons are spawned with this 
+                       spawn pattern */
+                    this.ConcurrentSpawn();
+
+                    break;
+                case GameSettingsSO.SpawnPattern.ALTERNATING:
+                    //Debug.Log("Alternate spawn pattern chosen.");
+                    this.AlternateSpawn();
+
+                    break;
+                case GameSettingsSO.SpawnPattern.RANDOM:
+                    //Debug.Log("Random spawn pattern chosen.");
+                    this.RandomSpawn();
+                    break;
+
+                default:
+                    Debug.LogError("This should never happen.");
+                    break;
+            }
+
         }
 
         /**
@@ -164,9 +200,9 @@ namespace Classes.Managers
 
         /**
          * The RandomSpawn is a helper method for spawning the balloons in a (weighted) random pattern.
-         * leftSpawnChance represents the chance for a balloon to be spawned on the left.
-         * The chance for a balloon to be spawned on the right is 1 - leftSpawnChance.
-         * For example, a leftSpawnChance of 0.25 gives a 1 - 0.25 = 0.75 spawn chance for the right.
+         * rightSpawnChance represents the chance for a balloon to be spawned on the right.
+         * The chance for a balloon to be spawned on the left is 1 - rightSpawnChance.
+         * For example, a rightSpawnChance of 0.25 gives a 1 - 0.25 = 0.75 spawn chance for the left.
          */
         private void RandomSpawn()
         {
@@ -183,12 +219,13 @@ namespace Classes.Managers
 
             }
 
-            if (Random.Range(1, 101) <= this.gameSettings.leftSpawnChance)
+            if (Random.Range(0.0f, 1.0f) <= this.gameSettings.rightSpawnChance)
             {
                 spawnPoint = this.leftSpawn;
             }
             else
             {
+
                 spawnPoint = this.rightSpawn;
             }
 

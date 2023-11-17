@@ -129,9 +129,40 @@ namespace Network
                         break;
                 }
                 SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency = frequency;
+                SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting = obj.hand;
+                SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
+                SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
+                SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
+
+            });
+            _socket.On("balloonSpawn", (string payload) => {
+                // Find the BalloonManager GameObject in the current scene
+                GameObject balloonManagerObject = GameObject.Find("BalloonManager");
+
+                // Check if the BalloonManager GameObject is found
+                if (balloonManagerObject != null)
+                {
+                    // Try to get the BalloonManager script attached to the BalloonManager GameObject
+                    BalloonManager balloonManagerScript = balloonManagerObject.GetComponent<BalloonManager>();
+
+                    // Check if the script is found
+                    if (balloonManagerScript != null)
+                    {
+                        // Call the PickSpawn() method in the BalloonManager script
+                        balloonManagerScript.ManualSpawn();
+                    }
+                    else
+                    {
+                        Debug.LogError("BalloonManager script not found on BalloonManager GameObject.");
+                    }
+                }
+                else
+                {
+                    Debug.LogError("BalloonManager GameObject not found in the scene.");
+                }
             });
 
-             _socket.On("pauseGame", (string payload) => {
+            _socket.On("pauseGame", (string payload) => {
                 GameplayManager.getManager().ResumeGame();
                 Debug.Log("Unpaused");             
             });

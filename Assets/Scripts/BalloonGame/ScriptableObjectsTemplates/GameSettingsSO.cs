@@ -21,8 +21,7 @@ public class GameSettingsSO : ScriptableObject
 		NORMAL,                /* Patient has lives and there is a goal. All balloons enabled. Game ends when either the 
 		                          patient runs out of lives or the goal is met (or by intervention of the clinician). */
 	
-		ENDLESS                /* Patient has lives, but there is no goal. Score as many points as you can! All balloons 
-							      enabled. Game ends when patient loses all lives (or by intervention of the clinician). */
+		MANUAL                /* Clinician manually spawns balloons one at a time */
 	}
 
 	public enum SpawnPattern {
@@ -62,10 +61,11 @@ public class GameSettingsSO : ScriptableObject
 
 	public int              maxNumBalloonsSpawnedAtOnce;
 
+
 	public float            spawnTime;
 
-    public float			leftSpawnChance;       /* rightSpawnChance is not needed because it is 1 - leftSpawnChance.
-                			                        * i.e. A leftSpawnChance of 0.6 indicates a rightSpawnChance of 0.4. */
+    public float			rightSpawnChance;       /* leftSpawnChance is not needed because it is 1 - rightSpawnChance.
+                			                        * i.e. A rightSpawnChance of 0.6 indicates a leftSpawnChance of 0.4. */
 
 	public float			floatStrengthModifier; /* BE CAREFUL! Allowing this value to be set too high will cause
 	            			                        * the balloons to skip right over the killzone barrier. This

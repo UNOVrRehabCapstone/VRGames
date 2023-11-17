@@ -53,9 +53,8 @@ namespace Classes.Managers
                     this.StartCoroutine(this.WatchPlayerLives());
                     break;
 
-                /* ENDLESS: Just watch lives. */
-                case GameSettingsSO.GameMode.ENDLESS:
-                    this.StartCoroutine(this.WatchPlayerLives());
+                /* MANUAL: Do nothing :) */
+                case GameSettingsSO.GameMode.MANUAL:
                     break;
 
                 default:
@@ -91,6 +90,10 @@ namespace Classes.Managers
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
             this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
+            this.gameSettings.numLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
+            this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
+            this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
+            Debug.Log(this.gameSettings.rightSpawnChance);
         }
         
         /**

@@ -16,13 +16,20 @@ namespace SocketClasses
         public string target;
         public string freq;
         public string handSetting;
+        public string pattern;
+        public string lives;
+        public string hand;
+        public string ratio;
     }
     public static class BalloonGameSettingsValues
     {
-        public static string balloonGameMode = "0";
+        public static string balloonGameMode = "2";
         public static string balloonGameGoal = "10";
-        public static string balloonGameSpecialBalloonFrequency = "50";
+        public static string balloonGameSpecialBalloonFrequency = "0";
         public static string balloonGameHandSetting = "2";
+        public static string balloonGamePattern = "2";
+        public static string balloonGameMaxLives = "3";
+        public static string balloonGameLeftRightRatio = "0.5";
     }
 
     public static class Pausing
