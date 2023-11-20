@@ -147,26 +147,8 @@ namespace Classes.Managers
          */
         private void ConcurrentSpawn()
         {
-            GameObject leftBalloon;
-            GameObject rightBalloon;
-
-            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
-            {
-                leftBalloon = GetBalloonBasedOnProb();
-            }
-            else
-            {
-                leftBalloon = this.gameSettings.balloonPrefabs[0];
-            }
-
-            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
-            {
-                rightBalloon = GetBalloonBasedOnProb();
-            }
-            else
-            {
-                rightBalloon = this.gameSettings.balloonPrefabs[0];
-            }
+            GameObject leftBalloon  = GetBalloonBasedOnProb();
+            GameObject rightBalloon = GetBalloonBasedOnProb();
             
             SpawnBalloon(leftBalloon,  this.leftSpawn);
             SpawnBalloon(rightBalloon, this.rightSpawn);
@@ -180,17 +162,7 @@ namespace Classes.Managers
          */ 
         private void AlternateSpawn()
         {
-            GameObject balloon;
-            if (Random.Range(1,100) <= this.gameSettings.specialBalloonSpawnChance)
-            {
-                balloon = GetBalloonBasedOnProb();
-
-            }
-            else
-            {
-                balloon = this.gameSettings.balloonPrefabs[0];
-                
-            }
+            GameObject balloon = GetBalloonBasedOnProb();
             GameObject spawnPoint = alternate ? this.leftSpawn :
                                                 this.rightSpawn;
             this.alternate = !alternate;
@@ -206,18 +178,8 @@ namespace Classes.Managers
          */
         private void RandomSpawn()
         {
-            GameObject balloon;
+            GameObject balloon = GetBalloonBasedOnProb();
             GameObject spawnPoint;
-            if (Random.Range(1, 100) <= this.gameSettings.specialBalloonSpawnChance)
-            {
-                balloon = GetBalloonBasedOnProb();
-
-            }
-            else
-            {
-                balloon = this.gameSettings.balloonPrefabs[0];
-
-            }
 
             if (Random.Range(0.0f, 1.0f) <= this.gameSettings.rightSpawnChance)
             {
@@ -225,7 +187,6 @@ namespace Classes.Managers
             }
             else
             {
-
                 spawnPoint = this.leftSpawn;
             }
 
@@ -244,20 +205,25 @@ namespace Classes.Managers
          */
         private GameObject GetBalloonBasedOnProb()
         {
-            int rand;
+            GameObject balloon;
 
-            /* IMPORTANT: The Life balloon must be the first special balloon following the basic balloon 
-             * in the list in order to properly block it from spawning in relaxed where lives don't matter. */
-            if (this.gameSettings.gameMode == GameSettingsSO.GameMode.RELAXED)
-            {
-                rand = Random.Range(2, this.gameSettings.balloonPrefabs.Count);
-            }
-            else
-            {
-                rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);
-            }
-            return this.gameSettings.balloonPrefabs[rand];
+            if (Random.Range(1, 100) <= this.gameSettings.specialBalloonSpawnChance) {
+                int rand;
 
+                /* IMPORTANT: The Life balloon must be the first special balloon following the basic balloon 
+                 * in the list in order to properly block it from spawning in relaxed where lives don't matter. */
+                if (   this.gameSettings.gameMode == GameSettingsSO.GameMode.RELAXED 
+                    || BalloonGameplayManager.Instance.playerLives == this.gameSettings.numLives) {
+                    rand = Random.Range(2, this.gameSettings.balloonPrefabs.Count);
+                } else {
+                    rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);
+                }
+                balloon = this.gameSettings.balloonPrefabs[rand];
+            } else {
+                balloon = this.gameSettings.balloonPrefabs[0]; // regular balloon
+            }
+
+            return balloon;
         }
 
         /**
