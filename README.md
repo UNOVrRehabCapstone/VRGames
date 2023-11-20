@@ -11,9 +11,9 @@ To use this application, the files must be built in the Unity engine and deploye
 - [ ] Add in other balloon environment alongside original environment.
 - [ ] Testing
     - [ ] X
-- [ ] Stop spawing life balloon when max lives have been reached.
-- [ ] Remove spawn text for darts
-- [ ] Refactor balloon spawn probability method
+- [x] Stop spawing life balloon when max lives have been reached.
+- [x] Remove spawn text for darts
+- [x] Refactor balloon spawn probability method
 - [ ] Create any remaining necessary methods needed for clinician control over the game.
 # Release Notes:
 
