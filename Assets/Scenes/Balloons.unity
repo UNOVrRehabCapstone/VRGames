@@ -8886,13 +8886,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
         type: 3}
+      propertyPath: m_Color.b
+      value: 0.7287736
+      objectReference: {fileID: 0}
+    - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.910967
+      objectReference: {fileID: 0}
+    - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.9716981
+      objectReference: {fileID: 0}
+    - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
+        type: 3}
       propertyPath: m_Intensity
-      value: 0.85
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7392083921024512021, guid: ceb82b6eb50fd504cba80c522a9a3807,
         type: 3}
       propertyPath: m_Shadows.m_Type
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7392083921024512022, guid: ceb82b6eb50fd504cba80c522a9a3807,
         type: 3}
