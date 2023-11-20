@@ -213,7 +213,7 @@ namespace Classes.Managers
                 /* IMPORTANT: The Life balloon must be the first special balloon following the basic balloon 
                  * in the list in order to properly block it from spawning in relaxed where lives don't matter. */
                 if (   this.gameSettings.gameMode == GameSettingsSO.GameMode.RELAXED 
-                    || BalloonGameplayManager.Instance.playerLives == this.gameSettings.numLives) {
+                    || BalloonGameplayManager.Instance.playerLives == this.gameSettings.maxLives) {
                     rand = Random.Range(2, this.gameSettings.balloonPrefabs.Count);
                 } else {
                     rand = Random.Range(1, this.gameSettings.balloonPrefabs.Count);

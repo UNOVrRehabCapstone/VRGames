@@ -15,7 +15,10 @@ public class Balloon_RestoreLife : Balloon
         if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
         {
             this.PlayEffects();
-            BalloonGameplayManager.Instance.playerLives++;
+            if (BalloonGameplayManager.Instance.playerLives < BalloonGameplayManager.Instance.gameSettings.maxLives) {
+                BalloonGameplayManager.Instance.playerLives++;
+            }
+            
             this.AddPoints();
 
 

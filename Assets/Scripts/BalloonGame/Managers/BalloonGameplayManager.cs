@@ -16,7 +16,7 @@ namespace Classes.Managers
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
-        [SerializeField] private GameSettingsSO gameSettings;
+        public GameSettingsSO                   gameSettings;
         private bool                            isRestarting = false;
         public  int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
 
@@ -34,11 +34,11 @@ namespace Classes.Managers
         new void Start()
         {
             base.Start();
-            RefreshBalloonSettings();
+            //RefreshBalloonSettings();
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
-            this.playerLives = this.gameSettings.numLives;
+            this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
 
             switch (this.gameSettings.gameMode) {
@@ -90,7 +90,7 @@ namespace Classes.Managers
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
             this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
-            this.gameSettings.numLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
+            this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
             Debug.Log(this.gameSettings.rightSpawnChance);

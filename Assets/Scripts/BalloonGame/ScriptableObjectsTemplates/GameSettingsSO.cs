@@ -47,7 +47,7 @@ public class GameSettingsSO : ScriptableObject
 	public GameMode         gameMode;
 	public HandSetting 		handSetting;
 
-	public int              numLives;
+	public int              maxLives;
 	public int              goal;
 
 	/*************************************************************************/
