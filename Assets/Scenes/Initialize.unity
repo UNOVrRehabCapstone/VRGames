@@ -6374,7 +6374,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1096376259}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a51bb71fdd88524994e50b1dd0eb958, type: 3}
   m_Name: 
@@ -6416,6 +6416,7 @@ MonoBehaviour:
   setName: {fileID: 1581423367}
   connText: {fileID: 69564200}
   keyboard: {fileID: 1743974462}
+  socket: {fileID: 1579140626590280704, guid: 8030e095408512c47850aea8cb137e11, type: 3}
 --- !u!1 &1143789057
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,10 +12,10 @@ using System.Globalization;
 
 namespace Network
 {
-    [RequireComponent(typeof(SocketIOCommunicator))]
+    //[RequireComponent(typeof(SocketIOCommunicator))]
     public class NetworkManager : MonoBehaviour
     {
-        private SocketIOCommunicator _communicator;
+        //private SocketIOCommunicator _communicator;
         private SocketIOInstance _socket;
         public static NetworkManager Instance { get; private set; }
         private string clinicianId;
@@ -25,18 +25,20 @@ namespace Network
         [SerializeField] private GameObject setName;
         [SerializeField] private TextMeshProUGUI connText;
         [SerializeField] private GameObject keyboard;
+        [SerializeField] private GameObject socket;
 
         private void Awake()
         { 
-            DontDestroyOnLoad(this);
-            _communicator = GetComponent<SocketIOCommunicator>();
-            _socket = _communicator.Instance;
-
-            if (Instance != null && Instance != this)
-            {
+            if (Instance != null && Instance != this) {
                 Destroy(this);
-            } else
-            {
+            } else {
+                DontDestroyOnLoad(this);
+                //_communicator = GetComponent<SocketIOCommunicator>();
+                //_socket = _communicator.Instance;
+                socket  = Instantiate(socket);
+                DontDestroyOnLoad(socket);
+                _socket = socket.GetComponent<SocketIOCommunicator>().Instance;
+
                 Instance = this;
             }
         }
@@ -245,7 +247,7 @@ namespace Network
         
         private void OnDestroy()
         {
-            _socket.Close();
+            _socket?.Close();
         }
 
         public void SetPatientName()
