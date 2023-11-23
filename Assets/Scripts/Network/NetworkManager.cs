@@ -16,16 +16,20 @@ namespace Network
     public class NetworkManager : MonoBehaviour
     {
         //private SocketIOCommunicator _communicator;
-        private SocketIOInstance _socket;
+        
         public static NetworkManager Instance { get; private set; }
         private string clinicianId;
+
+        private SocketIOInstance _socket;
+        private GameObject       socket;
+
         [SerializeField] private TMP_InputField patientNameInput;
         [SerializeField] private TextMeshProUGUI patientName;
         [SerializeField] private TextMeshProUGUI clinicianName;
         [SerializeField] private GameObject setName;
         [SerializeField] private TextMeshProUGUI connText;
         [SerializeField] private GameObject keyboard;
-        [SerializeField] private GameObject socket;
+        [SerializeField] private GameObject socketPrefab;
 
         private void Awake()
         { 
@@ -35,7 +39,7 @@ namespace Network
                 DontDestroyOnLoad(this);
                 //_communicator = GetComponent<SocketIOCommunicator>();
                 //_socket = _communicator.Instance;
-                socket  = Instantiate(socket);
+                socket  = Instantiate(socketPrefab);
                 DontDestroyOnLoad(socket);
                 _socket = socket.GetComponent<SocketIOCommunicator>().Instance;
 
