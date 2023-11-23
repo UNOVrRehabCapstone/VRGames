@@ -14,9 +14,7 @@ namespace Network
 {
     //[RequireComponent(typeof(SocketIOCommunicator))]
     public class NetworkManager : MonoBehaviour
-    {
-        //private SocketIOCommunicator _communicator;
-        
+    {   
         public static NetworkManager Instance { get; private set; }
         private string clinicianId;
 
@@ -37,8 +35,6 @@ namespace Network
                 Destroy(this);
             } else {
                 DontDestroyOnLoad(this);
-                //_communicator = GetComponent<SocketIOCommunicator>();
-                //_socket = _communicator.Instance;
                 socket  = Instantiate(socketPrefab);
                 DontDestroyOnLoad(socket);
                 _socket = socket.GetComponent<SocketIOCommunicator>().Instance;
