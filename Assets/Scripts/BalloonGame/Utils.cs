@@ -12,9 +12,9 @@ public class Utils : MonoBehaviour
     {
         Vector3 newPosition = obj.transform.position;
 
-        objPosition.x += deltaX;
-        objPosition.y += deltaY;
-        objPosition.z += deltaZ;
+        newPosition.x += deltaX;
+        newPosition.y += deltaY;
+        newPosition.z += deltaZ;
 
         obj.transform.position = newPosition;
     }

@@ -115,4 +115,20 @@ public class DartManager : MonoBehaviour
         Destroy(this.rightDart);
         Destroy(this.rightDart2);
     }
+
+    public void AdjustLeftSpawn(float x, float y, float z)
+    {
+        Utils.AdjustPosition(this.leftDartSpawn, x, y, z);
+    }
+
+    public void AdjustRightSpawn(float x, float y, float z)
+    {
+        Utils.AdjustPosition(this.rightDartSpawn, x, y, z);
+    }
+
+    public void AdjustBothSpawns(float x, float y, float z)
+    {
+        AdjustLeftSpawn(x, y, z);
+        AdjustRightSpawn(x, y, z);
+    }
 }
