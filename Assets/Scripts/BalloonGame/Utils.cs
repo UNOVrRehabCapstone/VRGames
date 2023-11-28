@@ -10,10 +10,12 @@ public class Utils : MonoBehaviour
      */
     public static void AdjustPosition(GameObject obj, float deltaX, float deltaY, float deltaZ)
     {
-        Vector3 objPosition = obj.transform.position;
+        Vector3 newPosition = obj.transform.position;
 
         objPosition.x += deltaX;
         objPosition.y += deltaY;
         objPosition.z += deltaZ;
+
+        obj.transform.position = newPosition;
     }
 }
