@@ -279,6 +279,21 @@ namespace Classes.Managers
             this.balloons.Clear();
         }
 
+        public void AdjustLoc(float x, float y, float z)
+        {
+
+        }
+
+        public void AdjustRightSpawn(float x, float y, float z)
+        {
+
+        }
+
+        public void AdjustBothSpawns(float x, float y, float z)
+        {
+
+        }
+
     }
 }
 
