@@ -155,7 +155,7 @@ public class PointsManager : MonoBehaviour
     private static void updateLivesDisplay()
     {
         GameObject lifeDisplay = GameObject.FindGameObjectWithTag("LivesDisplay");
-        if (BalloonGameplayManager.Instance.GetGameSettings().gameMode == GameSettingsSO.GameMode.RELAXED)
+        if (BalloonGameplayManager.Instance.GetGameSettings().maxLives > 50)
         {
             lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: Unlimited";
         }

@@ -11,6 +11,11 @@ using UnityEngine;
 
 public class Balloon : _BaseBalloon
 {
+    public delegate void BalloonPoppedEventHandler(string senderTag);
+    public static event BalloonPoppedEventHandler OnPop;
+    public string messageOverride = "";
+    public bool isPersistent = false;
+
     private void Update()
     {
         Transform transform = gameObject.transform;
@@ -23,17 +28,29 @@ public class Balloon : _BaseBalloon
     {
         if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
         {
-            this.PlayEffects();
             this.AddPoints();
-            BalloonManager.Instance.KillBalloon(gameObject);
-            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
+            this.PlayEffects(this.isPersistent);
+            this.ExtraPopEffects();
+            if (other != null)
+            {
+                DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
+            }
+
         }
     }
 
-    public virtual void PlayEffects()
+    public virtual void PlayEffects(bool persist)
     {
-        this.PlaySound();
-        this.PlayParticles();
+        if (persist)
+        {
+            this.PlaySoundPersistent();
+            this.PlayParticlesPersistent();
+        }
+        else
+        {
+            this.PlayParticles();
+            this.PlaySound();
+        }
     }
 
     private void PlaySound()
@@ -54,6 +71,18 @@ public class Balloon : _BaseBalloon
         particleEffect.transform.parent = null;
         particleEffect.GetComponent<ParticleSystem>().Play();
         Destroy(particleEffect, particleEffect.GetComponent<ParticleSystem>().main.duration);
+    }
+
+    private void PlaySoundPersistent()
+    {
+        GameObject audioSource = this.transform.Find("AudioSource").gameObject;
+        audioSource.GetComponent<AudioSource>().Play();
+    }
+
+    private void PlayParticlesPersistent()
+    {
+        GameObject particleEffect = this.transform.Find("ParticleEffects").gameObject;
+        particleEffect.GetComponent<ParticleSystem>().Play();
     }
 
     /**
@@ -90,10 +119,34 @@ public class Balloon : _BaseBalloon
     public virtual void OnMouseDown()
     {
         Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
-        
-        this.PlayEffects();
         this.AddPoints();
-
+        this.PlayEffects(isPersistent);
+        this.ExtraPopEffects();
         BalloonManager.Instance.KillBalloon(gameObject);
     }
+
+    public virtual void PopBalloonEvent()
+    {
+        if (this.messageOverride.Equals(""))
+        {
+            OnPop?.Invoke(gameObject.tag);
+        }
+        else
+        {
+            OnPop?.Invoke(this.messageOverride);
+        }
+    }
+
+
+    // ExtraPopEffects is where extra effects (like adding extra lives for the life balloon) go
+    public virtual void ExtraPopEffects()
+    {
+        
+        this.PopBalloonEvent();
+        BalloonManager.Instance.KillBalloon(gameObject);
+
+    }
 }
+
+
+

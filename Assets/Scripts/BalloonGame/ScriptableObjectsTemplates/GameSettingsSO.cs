@@ -15,13 +15,15 @@ using UnityEngine;
 public class GameSettingsSO : ScriptableObject
 {
 	public enum GameMode {
-		RELAXED,               /* No way to lose and no negative balloons. Game ends when the goal is met or the patient 
+		CAREER,               /* No way to lose and no negative balloons. Game ends when the goal is met or the patient 
 								  or clincian quit. */
 		
-		NORMAL,                /* Patient has lives and there is a goal. All balloons enabled. Game ends when either the 
+		CUSTOM,                /* Patient has lives and there is a goal. All balloons enabled. Game ends when either the 
 		                          patient runs out of lives or the goal is met (or by intervention of the clinician). */
 	
-		MANUAL                /* Clinician manually spawns balloons one at a time */
+		MANUAL                /* Clinician manually spawns balloons one at a time
+		                       * THIS IS NOW AN INTERNAL MODE ONLY, CLINICIANS 
+		                          DO NOT SEE THIS ANYMORE*/
 	}
 
 	public enum SpawnPattern {

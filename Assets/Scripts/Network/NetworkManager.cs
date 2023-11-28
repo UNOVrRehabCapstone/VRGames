@@ -164,6 +164,13 @@ namespace Network
                 }
             });
 
+            _socket.On("balloonData", (string payload) =>
+            {
+                var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameData>(payload);
+                Debug.Log(payload);
+                Debug.Log(obj.achievementProgress);
+            });
+
             _socket.On("pauseGame", (string payload) => {
                 GameplayManager.getManager().ResumeGame();
                 Debug.Log("Unpaused");             
