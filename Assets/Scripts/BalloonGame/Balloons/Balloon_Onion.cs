@@ -11,35 +11,26 @@ using UnityEngine;
 
 public class Balloon_Onion : Balloon
 {
-	public override void OnTriggerEnter(Collider other)
+    public override void PopEffects(Collider other)
     {
-        if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
+        this.PopBalloonEvent();
+        this.AddPoints();
+        this.ExtraPopEffects();
+        this.PlayEffects(false);
+        Destroy(gameObject);
+        if (other != null)
         {
-            this.PlayEffects();
-            this.AddPoints();
-
-            /* If the final layer is popped, make sure to remove the unit balloon (the parent object)
-               from the scene. */
-            if (gameObject.CompareTag("OnionLayer3")) {
-                BalloonManager.Instance.KillBalloon(gameObject.transform.parent.gameObject);
-            }
-            Destroy(gameObject);
             DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
         }
     }
 
-    /* For testing purposes. Useful for testing on the computer rather than in the headset. */
-    public override void OnMouseDown()
+    public override void ExtraPopEffects()
     {
-        Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
-        
-        this.PlayEffects();
-        this.AddPoints();
-        
-        /* If the final layer is popped, make sure to remove the parent balloon from the scene. */
-        if (gameObject.CompareTag("OnionLayer3")) {
+        /* If the final layer is popped, make sure to remove the unit balloon (the parent object)
+        from the scene. */
+        if (gameObject.CompareTag("OnionLayer3"))
+        {
             BalloonManager.Instance.KillBalloon(gameObject.transform.parent.gameObject);
         }
-        Destroy(gameObject);
     }
 }

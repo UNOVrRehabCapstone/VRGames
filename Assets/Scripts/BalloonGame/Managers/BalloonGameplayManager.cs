@@ -13,6 +13,13 @@ namespace Classes.Managers
         public static BalloonGameplayManager Instance {get; private set;}
         [SerializeField] private ParticleSystem confettiSystem;
 
+
+
+        public delegate void AchievementUpdateEventHandler(string senderTag);
+        public static event AchievementUpdateEventHandler OnAchievementUpdate;
+        public string message = "default message";
+
+
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
@@ -34,7 +41,7 @@ namespace Classes.Managers
         new void Start()
         {
             base.Start();
-            //RefreshBalloonSettings();
+            RefreshBalloonSettings();
 
             Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
@@ -42,15 +49,18 @@ namespace Classes.Managers
             PointsManager.updateScoreboard();
 
             switch (this.gameSettings.gameMode) {
-                /* RELAXED: Just watch the score.*/
-                case GameSettingsSO.GameMode.RELAXED:
-                    this.StartCoroutine(this.WatchScore());
+                /* CAREER: Wait for clinician to start a level.*/
+                case GameSettingsSO.GameMode.CAREER:
                     break;
 
-                /* NORMAL: Watch lives and score.*/
-                case GameSettingsSO.GameMode.NORMAL:
+                /* NORMAL: Watch lives and score. If maxLives > 50, don't bother watching. This 
+                 Is now how we're representing "Relaxed" mode.*/
+                case GameSettingsSO.GameMode.CUSTOM:
                     this.StartCoroutine(this.WatchScore());
-                    this.StartCoroutine(this.WatchPlayerLives());
+                    if(this.gameSettings.maxLives < 50)
+                    {
+                        this.StartCoroutine(this.WatchPlayerLives());
+                    }
                     break;
 
                 /* MANUAL: Do nothing :) */
@@ -142,10 +152,28 @@ namespace Classes.Managers
         private IEnumerator WatchScore()
         {
             yield return new WaitUntil(() => PointsManager.isGoalReached(this.gameSettings.handSetting, this.gameSettings.goal));
+            
+            
+            // Do achievement udpates
+            //    Overachiever 
+            if(this.playerLives > gameSettings.maxLives)
+            {
+                this.message = "Ended with more lives";
+                    this.AchievementUpdateEvent();
+            }
 
+            //    Full control
+           if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
+            {
+                this.message = "Custom game ended";
+                this.AchievementUpdateEvent();
+            }
             Debug.Log("Goal has been reached!");
             PointsManager.updateScoreboardMessage("You Win!"); 
             confettiSystem.Play();
+            
+
+
             this.StartCoroutine(this.Restart());
         }
 
@@ -161,6 +189,11 @@ namespace Classes.Managers
         public override void onWinConditionPointsReached()
         {
             
+        }
+
+        public void AchievementUpdateEvent()
+        {
+            OnAchievementUpdate?.Invoke(this.message);
         }
     }
 }

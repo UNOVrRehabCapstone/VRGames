@@ -115,7 +115,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0.6
   rotationSpeed: 30
-  pointValue: 0
+  pointValue: 1
+  messageOverride: 
 --- !u!1001 &7688373112467133758
 PrefabInstance:
   m_ObjectHideFlags: 0

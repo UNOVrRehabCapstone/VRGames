@@ -10,36 +10,8 @@ using UnityEngine;
 
 public class Balloon_RestoreLife : Balloon
 {
-    public override void OnTriggerEnter(Collider other)
+    public override void ExtraPopEffects()
     {
-        if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
-        {
-            this.PlayEffects();
-            if (BalloonGameplayManager.Instance.playerLives < BalloonGameplayManager.Instance.gameSettings.maxLives) {
-                BalloonGameplayManager.Instance.playerLives++;
-            }
-            
-            this.AddPoints();
-
-
-            //Debug.Log("Gained a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
-
-            BalloonManager.Instance.KillBalloon(gameObject);
-            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
-        }
-    }
-
-    /* For testing purposes. Useful for testing on the computer rather than in the headset. */
-    public override void OnMouseDown()
-    {
-        Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
-
-        this.PlayEffects();
         BalloonGameplayManager.Instance.playerLives++;
-        this.AddPoints();
-
-        //Debug.Log("Gained a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
-
-        BalloonManager.Instance.KillBalloon(gameObject);
     }
 }
