@@ -24,7 +24,7 @@ namespace SocketClasses
     public static class BalloonGameSettingsValues
     {
         public static string balloonGameMode = "1";
-        public static string balloonGameGoal = "5";
+        public static string balloonGameGoal = "55";
         public static string balloonGameSpecialBalloonFrequency = "44";
         public static string balloonGameHandSetting = "2";
         public static string balloonGamePattern = "1";

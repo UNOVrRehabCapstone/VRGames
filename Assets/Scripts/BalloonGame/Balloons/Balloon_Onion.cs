@@ -11,26 +11,19 @@ using UnityEngine;
 
 public class Balloon_Onion : Balloon
 {
-    public override void PopEffects(Collider other)
-    {
-        this.PopBalloonEvent();
-        this.AddPoints();
-        this.ExtraPopEffects();
-        this.PlayEffects(false);
-        Destroy(gameObject);
-        if (other != null)
-        {
-            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
-        }
-    }
+
+
 
     public override void ExtraPopEffects()
     {
+        this.PopBalloonEvent();
         /* If the final layer is popped, make sure to remove the unit balloon (the parent object)
         from the scene. */
+
         if (gameObject.CompareTag("OnionLayer3"))
         {
             BalloonManager.Instance.KillBalloon(gameObject.transform.parent.gameObject);
         }
+        BalloonManager.Instance.KillBalloon(gameObject);
     }
 }

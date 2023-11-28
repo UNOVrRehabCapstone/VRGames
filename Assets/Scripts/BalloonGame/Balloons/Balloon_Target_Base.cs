@@ -7,6 +7,10 @@ public class Balloon_Target_Base : Balloon
 {
     private int numOfTargetsRemaining = 6;
 
+    private void Start()
+    {
+        this.isPersistent = true;
+    }
 
     public override void OnTriggerEnter(Collider other)
     {
@@ -18,39 +22,29 @@ public class Balloon_Target_Base : Balloon
 
     }
 
-    public override void PopEffects(Collider other)
-    {
-        this.AddPoints();
-        if(numOfTargetsRemaining <= 0)
-        {
-            this.messageOverride = "Target Balloon Fully Popped";
-        }
-        this.PopBalloonEvent();
-        this.ExtraPopEffects();
 
-    }
-
-
-
-
-    
     public override void ExtraPopEffects()
     {
-        if (numOfTargetsRemaining <= 0)
+        this.PopBalloonEvent();
+        if(this.numOfTargetsRemaining <= 0)
         {
-            this.PlayEffects(false);
             BalloonManager.Instance.KillBalloon(gameObject);
-        }
-        else
-        {
-            this.PlayEffects(true);
         }
 
     }
+
+
     public void TargetHit()
     {
         this.numOfTargetsRemaining--;
-        this.PopEffects(null);
+        this.AddPoints();
+        if (this.numOfTargetsRemaining <= 0)
+        {
+            this.messageOverride = "Target Balloon Fully Popped";
+            this.isPersistent = false;
+        }
+        this.PlayEffects(isPersistent);
+        this.ExtraPopEffects();
     }
 
 

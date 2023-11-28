@@ -10,8 +10,11 @@ using UnityEngine;
 
 public class Balloon_RestoreLife : Balloon
 {
+
     public override void ExtraPopEffects()
     {
         BalloonGameplayManager.Instance.playerLives++;
+        this.PopBalloonEvent();
+        BalloonManager.Instance.KillBalloon(gameObject);
     }
 }

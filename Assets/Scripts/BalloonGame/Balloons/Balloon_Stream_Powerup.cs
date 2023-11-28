@@ -15,6 +15,7 @@ public class Balloon_Stream_Powerup : Balloon
 
     public override void ExtraPopEffects()
     {
+        this.PopBalloonEvent();
 
         /* Grabs the spawn location of the powerup (either left or right side) */
         spawnPoint = this.spawnLoc;

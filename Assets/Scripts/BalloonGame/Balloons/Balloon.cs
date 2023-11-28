@@ -14,6 +14,7 @@ public class Balloon : _BaseBalloon
     public delegate void BalloonPoppedEventHandler(string senderTag);
     public static event BalloonPoppedEventHandler OnPop;
     public string messageOverride = "";
+    public bool isPersistent = false;
 
     private void Update()
     {
@@ -27,7 +28,13 @@ public class Balloon : _BaseBalloon
     {
         if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
         {
-            PopEffects(other);
+            this.AddPoints();
+            this.PlayEffects(this.isPersistent);
+            this.ExtraPopEffects();
+            if (other != null)
+            {
+                DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
+            }
 
         }
     }
@@ -112,8 +119,9 @@ public class Balloon : _BaseBalloon
     public virtual void OnMouseDown()
     {
         Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
-        PopEffects(null);
-
+        this.AddPoints();
+        this.PlayEffects(isPersistent);
+        this.ExtraPopEffects();
         BalloonManager.Instance.KillBalloon(gameObject);
     }
 
@@ -129,23 +137,13 @@ public class Balloon : _BaseBalloon
         }
     }
 
-    // PopEffects is where to place any behavior that should happen when the balloon is popped
-    // This is so we don't have to duplicate the update function in every child balloon.
-    public virtual void PopEffects(Collider other)
-    {
-        this.AddPoints();
-        this.PopBalloonEvent();
-        this.PlayEffects(false);
-        this.ExtraPopEffects();
-        BalloonManager.Instance.KillBalloon(gameObject);
-        if (other != null)
-        {
-            DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
-        }
-    }
+
     // ExtraPopEffects is where extra effects (like adding extra lives for the life balloon) go
     public virtual void ExtraPopEffects()
     {
+        
+        this.PopBalloonEvent();
+        BalloonManager.Instance.KillBalloon(gameObject);
 
     }
 }

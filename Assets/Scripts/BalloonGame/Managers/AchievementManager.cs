@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class AchievementManager : MonoBehaviour
 {
+
+    //TEMPORARY EFFECT FOR ACHIEVEMENT UNLOCK
+    // We should add a notification + sound effect on achievement unlock, plus a way to see them all ingame
     [SerializeField] private ParticleSystem confettiSystem;
 
     //Balloon stream achievement variable

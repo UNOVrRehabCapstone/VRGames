@@ -13,10 +13,11 @@ public class Balloon_Stream : Balloon
 
     public override void ExtraPopEffects()
     {
-         /**
-            * This tag is applied to the last balloon in the balloon stream.
-            * The parent object should be destroyed after this balloon is popped.
-            */
+        this.PopBalloonEvent();
+        /**
+           * This tag is applied to the last balloon in the balloon stream.
+           * The parent object should be destroyed after this balloon is popped.
+           */
         if (gameObject.CompareTag("SpawnStreamMemberLast"))
         {
             /**

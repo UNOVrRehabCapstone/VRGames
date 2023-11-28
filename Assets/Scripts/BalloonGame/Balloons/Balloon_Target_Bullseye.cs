@@ -5,7 +5,7 @@ using UnityEngine;
 public class Balloon_Target_Bullseye : MonoBehaviour
 {
     private void Update()
-    {
+    {// NOTE THIS MAY NOT WORK IN VR, HAVE NOT TESTED YET
         if (Input.GetMouseButtonDown(0))
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);

@@ -7,9 +7,24 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2238639230536047062, guid: 68398287f883354469bb037c81abcebf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2238639230536047062, guid: 68398287f883354469bb037c81abcebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3239688074406620324, guid: 68398287f883354469bb037c81abcebf,
         type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4576468403002832442, guid: 68398287f883354469bb037c81abcebf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4581497264322938604, guid: 68398287f883354469bb037c81abcebf,
@@ -103,9 +118,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5ea65717eb093e4faa97c97f8d08a65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.2
+  floatStrength: 0.05
   rotationSpeed: 30
-  pointValue: 0
+  pointValue: 1
+  messageOverride: 
+  isPersistent: 0
 --- !u!1001 &5012236060730012744
 PrefabInstance:
   m_ObjectHideFlags: 0
