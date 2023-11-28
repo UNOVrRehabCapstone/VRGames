@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class Utils : MonoBehaviour
 {
-    public static void AdjustSpawn(GameObject obj, float deltaX, float deltaY, float deltaZ)
+    /**
+     * The AdjustPosition method adjusts the position of the gameobject using the passed in offset
+     * values.
+     */
+    public static void AdjustPosition(GameObject obj, float deltaX, float deltaY, float deltaZ)
     {
         Vector3 objPosition = obj.transform.position;
 
