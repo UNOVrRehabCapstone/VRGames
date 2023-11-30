@@ -40,8 +40,7 @@ namespace Classes.Managers
 
         private void Start()
         {
-            this.gameSettings  = BalloonGameplayManager.Instance.GetGameSettings();
-            this.StartAutomaticSpawner(this.gameSettings.spawnTime);
+            this.gameSettings  = BalloonGameplayManager.Instance.gameSettings;
         }
 
         /**
