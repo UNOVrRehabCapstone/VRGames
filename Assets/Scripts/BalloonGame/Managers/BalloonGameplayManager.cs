@@ -51,16 +51,13 @@ namespace Classes.Managers
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
+                    this.StartCoroutine(this.CareerGameMode());
                     break;
 
                 /* NORMAL: Watch lives and score. If maxLives > 50, don't bother watching. This 
                  Is now how we're representing "Relaxed" mode.*/
                 case GameSettingsSO.GameMode.CUSTOM:
-                    this.StartCoroutine(this.WatchScore());
-                    if(this.gameSettings.maxLives < 50)
-                    {
-                        this.StartCoroutine(this.WatchPlayerLives());
-                    }
+                    this.StartCoroutine(this.CustomGameMode());
                     break;
 
                 /* MANUAL: Do nothing :) */
