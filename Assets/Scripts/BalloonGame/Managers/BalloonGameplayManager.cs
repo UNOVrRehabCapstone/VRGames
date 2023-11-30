@@ -24,7 +24,6 @@ namespace Classes.Managers
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
         public GameSettingsSO                   gameSettings;
-        private bool                            isRestarting = false;
         public  int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
 
         private void Awake()
