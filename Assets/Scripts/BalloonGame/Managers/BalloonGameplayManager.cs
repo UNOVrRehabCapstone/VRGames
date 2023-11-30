@@ -51,17 +51,11 @@ namespace Classes.Managers
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
-                    this.StartCoroutine(this.CareerGameMode());
+                    this.CareerGameMode();
                     break;
 
-                /* NORMAL: Watch lives and score. If maxLives > 50, don't bother watching. This 
-                 Is now how we're representing "Relaxed" mode.*/
                 case GameSettingsSO.GameMode.CUSTOM:
                     this.CustomGameMode();
-                    break;
-
-                /* MANUAL: Do nothing :) */
-                case GameSettingsSO.GameMode.MANUAL:
                     break;
 
                 default:
@@ -90,10 +84,9 @@ namespace Classes.Managers
             BalloonManager.Instance.StartAutomaticSpawner(3.0f);
         }
 
-        private IEnumerator CareerGameMode()
+        private void CareerGameMode()
         {
             /* TODO */
-            yield return null; // Placeholder 
         }
 
         public GameSettingsSO GetGameSettings()
