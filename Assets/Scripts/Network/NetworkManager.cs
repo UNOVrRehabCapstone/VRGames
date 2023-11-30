@@ -135,6 +135,13 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
+                SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
+
+            });
+
+            _socket.On("balloonStart", (string payload) =>
+            {
+                SocketClasses.BalloonGameSettingsValues.balloonStart = true;
 
             });
             _socket.On("balloonSpawn", (string payload) => {

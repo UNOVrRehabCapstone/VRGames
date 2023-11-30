@@ -30,6 +30,8 @@ namespace SocketClasses
         public static string balloonGamePattern = "1";
         public static string balloonGameMaxLives = "5";
         public static string balloonGameLeftRightRatio = "0.7";
+        public static bool   balloonStart = false;
+        public static bool clinicianIsControlling = false;
     }
 
     public class BalloonGameData
@@ -46,12 +48,6 @@ namespace SocketClasses
     public static class BalloonGameDataValues
     {
         public static string achievementProgress = "0000000000";
-        public static int careerProgress = 0;
-        public static int levelOneScore = 0;
-        public static int levelTwoScore = 0;
-        public static int levelThreeScore = 0;
-        public static int levelFourScore = 0;
-        public static int levelFiveScore = 0;
     }
 
     public static class Achievements
