@@ -86,6 +86,17 @@ namespace Classes.Managers
             }
         }
 
+        private IEnumerator CustomGameMode()
+        {
+            yield return null;
+        }
+
+        private IEnumerator CareerGameMode()
+        {
+            /* TODO */
+            yield return null; // Placeholder 
+        }
+
         public GameSettingsSO GetGameSettings()
         {
             return this.gameSettings;
