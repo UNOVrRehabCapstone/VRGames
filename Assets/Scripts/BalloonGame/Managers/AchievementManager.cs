@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class AchievementManager : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class AchievementManager : MonoBehaviour
     //TEMPORARY EFFECT FOR ACHIEVEMENT UNLOCK
     // We should add a notification + sound effect on achievement unlock, plus a way to see them all ingame
     [SerializeField] private ParticleSystem confettiSystem;
+
 
     //Balloon stream achievement variable
     private int balloonStreamPopped = 0;
@@ -178,6 +180,7 @@ public class AchievementManager : MonoBehaviour
         UnlockAchievement(SocketClasses.Achievements.PopAllSpecials);
     }
 }
+
 
 
 public class Achievement

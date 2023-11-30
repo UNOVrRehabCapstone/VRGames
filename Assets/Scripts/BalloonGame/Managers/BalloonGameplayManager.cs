@@ -115,7 +115,18 @@ namespace Classes.Managers
                resulting in duplicated darts. TODO: There has to be a better way of doing this. */
             DartManager.Instance.DestroyDarts();
 
-            yield return new WaitForSeconds(5);
+
+            //Check if the clinician is controlling the game. If they are, wait until they manually start the game again
+            //  Otherwise, wait for five seconds then automatically restart. clinicianIsControlling is defaulted to false
+            //  and is set to true if the game receives a clinician view settings update in the network manager
+            if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
+            {
+                yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
+            }
+            else
+            {
+                yield return new WaitForSeconds(5);
+            }
             PointsManager.updateScoreboardMessage("Restarting in: 3");
             yield return new WaitForSeconds(1);
             PointsManager.updateScoreboardMessage("Restarting in: 2");

@@ -135,6 +135,13 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
+                SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
+
+            });
+
+            _socket.On("balloonStart", (string payload) =>
+            {
+                SocketClasses.BalloonGameSettingsValues.balloonStart = true;
 
             });
             _socket.On("balloonSpawn", (string payload) => {
@@ -169,6 +176,13 @@ namespace Network
                 var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameData>(payload);
                 Debug.Log(payload);
                 Debug.Log(obj.achievementProgress);
+                Debug.Log(obj.userName);
+                if(obj.userName != null)
+                {
+                    SetPatientName(obj.userName);
+                    patientName.SetText(obj.userName);
+                }
+                Debug.Log(patientName.text);
             });
 
             _socket.On("pauseGame", (string payload) => {
