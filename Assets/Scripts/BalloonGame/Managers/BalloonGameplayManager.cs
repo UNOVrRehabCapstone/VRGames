@@ -57,6 +57,10 @@ namespace Classes.Managers
                 case GameSettingsSO.GameMode.CUSTOM:
                     this.CustomGameMode();
                     break;
+                
+                case GameSettingsSO.GameMode.MANUAL:
+                    /* Do nothing; gameplay is dictated by the clinician. */
+                    break;
 
                 default:
                     Debug.LogError("This should never happen.");
@@ -79,11 +83,6 @@ namespace Classes.Managers
             /* TODO */
         }
 
-        public GameSettingsSO GetGameSettings()
-        {
-            return this.gameSettings;
-        }
-
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
         void RefreshBalloonSettings()
         {
@@ -95,6 +94,11 @@ namespace Classes.Managers
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
             Debug.Log(this.gameSettings.rightSpawnChance);
+        }
+
+        public GameSettingsSO GetGameSettings()
+        {
+            return this.gameSettings;
         }
         
         /**
