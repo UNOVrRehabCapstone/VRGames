@@ -36,6 +36,7 @@ namespace SocketClasses
 
     public class BalloonGameData
     {
+        public string userName;
         public string achievementProgress;
         public string careerProgress;
         public string levelOneScore;
