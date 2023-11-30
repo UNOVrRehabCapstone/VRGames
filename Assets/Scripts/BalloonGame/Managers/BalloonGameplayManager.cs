@@ -57,7 +57,7 @@ namespace Classes.Managers
                 /* NORMAL: Watch lives and score. If maxLives > 50, don't bother watching. This 
                  Is now how we're representing "Relaxed" mode.*/
                 case GameSettingsSO.GameMode.CUSTOM:
-                    this.StartCoroutine(this.CustomGameMode());
+                    this.CustomGameMode();
                     break;
 
                 /* MANUAL: Do nothing :) */
@@ -83,9 +83,11 @@ namespace Classes.Managers
             }
         }
 
-        private IEnumerator CustomGameMode()
+        private void CustomGameMode()
         {
-            yield return null;
+            this.StartCoroutine(this.WatchPlayerLives());
+            this.StartCoroutine(this.WatchScore());
+            BalloonManager.Instance.StartAutomaticSpawner(3.0f);
         }
 
         private IEnumerator CareerGameMode()
