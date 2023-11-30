@@ -67,16 +67,6 @@ namespace Classes.Managers
             PointsManager.updateScoreboardMessage("Game mode set to " + this.gameSettings.gameMode.ToString());
         }
 
-        void FixedUpdate()
-        {
-            if (!isRestarting) {
-                /* If you wanted to log the game mode and spawn pattern on every frame */
-                //Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
-                //Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
-                //BalloonManager.Instance.SpawnBalloons();
-            }
-        }
-
         private void CustomGameMode()
         {
             this.StartCoroutine(this.WatchPlayerLives());
