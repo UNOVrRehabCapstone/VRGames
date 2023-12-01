@@ -48,6 +48,13 @@ namespace Classes.Managers
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
 
+            /* Set environment */
+            if (this.gameSettings.environment == GameSettingsSO.Environment.ORIGINAL) {
+                Instantiate(this.balloonEnclosure);
+            } else {
+                Instantiate(this.meadow);
+            }
+
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
