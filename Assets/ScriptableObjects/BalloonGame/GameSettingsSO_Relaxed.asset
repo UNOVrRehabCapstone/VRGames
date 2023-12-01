@@ -15,7 +15,7 @@ MonoBehaviour:
   gameMode: 1
   handSetting: 2
   maxLives: 5
-  goal: 5
+  goal: 55
   spawnPattern: 1
   balloonPrefabs:
   - {fileID: 6056930978616778079, guid: 417def5420a7d55458e19120433e2ca8, type: 3}
@@ -25,3 +25,4 @@ MonoBehaviour:
   spawnTime: 2
   rightSpawnChance: 0.7
   floatStrengthModifier: 1
+  environment: 1
