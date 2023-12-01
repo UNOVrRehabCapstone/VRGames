@@ -43,6 +43,17 @@ namespace Classes.Managers
             this.gameSettings  = BalloonGameplayManager.Instance.gameSettings;
         }
 
+
+        //This is for careerMode, to not end the level until the final balloon is either destroyed or popped
+        public bool AllBalloonsAreGone()
+        {
+            if (this.balloons.Count > 0)
+            {
+                return false;
+            }
+            else return true;
+        }
+
         /**
          * This method automatically spawns balloons with an initial delay of initDelay seconds.
          */
@@ -52,35 +63,31 @@ namespace Classes.Managers
 
             while (true)
             {
-                /* This is a quick fix to make totally sure the spawner is off when necessary*/
-                if (this.gameSettings.gameMode == GameSettingsSO.GameMode.MANUAL)
-                {
-                    this.StopAutomaticSpawner();
-                }
-
+                GameObject balloon = GetBalloonBasedOnProb();
 
                 switch (this.gameSettings.spawnPattern) {
-                    case GameSettingsSO.SpawnPattern.CONCURRENT: 
+                    case GameSettingsSO.SpawnPattern.CONCURRENT:
                         //Debug.Log("Concurrent spawn pattern chosen");
 
                         /* Have to be really careful here since two balloons are spawned with this 
                            spawn pattern */
                         yield return new WaitUntil(() => ((balloons.Count + 2) <= this.gameSettings.maxNumBalloonsSpawnedAtOnce));
-                        this.ConcurrentSpawn();
+                        GameObject rightBalloon = GetBalloonBasedOnProb();
+                        this.ConcurrentSpawn(balloon, rightBalloon);
 
                         break;
                     case GameSettingsSO.SpawnPattern.ALTERNATING: 
                         //Debug.Log("Alternate spawn pattern chosen.");
                         
                         yield return new WaitUntil(() => (balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
-                        this.AlternateSpawn();
+                        this.AlternateSpawn(balloon);
 
                         break;
                     case GameSettingsSO.SpawnPattern.RANDOM:
                         //Debug.Log("Random spawn pattern chosen.");
 
                         yield return new WaitUntil(() => (balloons.Count < this.gameSettings.maxNumBalloonsSpawnedAtOnce));
-                        this.RandomSpawn();
+                        this.RandomSpawn(balloon);
 
                         break;
 
@@ -111,26 +118,26 @@ namespace Classes.Managers
             this.StopCoroutine(this.automaticSpawner);
         }
 
-        public void ManualSpawn()
+        public void ManualSpawn(GameSettingsSO.SpawnPattern pattern, GameObject balloon)
         {
-            switch (this.gameSettings.spawnPattern)
+            switch (pattern)
             {
                 case GameSettingsSO.SpawnPattern.CONCURRENT:
                     //Debug.Log("Concurrent spawn pattern chosen");
 
                     /* Have to be really careful here since two balloons are spawned with this 
                        spawn pattern */
-                    this.ConcurrentSpawn();
+                    this.ConcurrentSpawn(balloon, balloon);
 
                     break;
                 case GameSettingsSO.SpawnPattern.ALTERNATING:
                     //Debug.Log("Alternate spawn pattern chosen.");
-                    this.AlternateSpawn();
+                    this.AlternateSpawn(balloon);
 
                     break;
                 case GameSettingsSO.SpawnPattern.RANDOM:
                     //Debug.Log("Random spawn pattern chosen.");
-                    this.RandomSpawn();
+                    this.RandomSpawn(balloon);
                     break;
 
                 default:
@@ -144,11 +151,8 @@ namespace Classes.Managers
          * The ConcurrentSpawn is a helper method for spawning the balloons for the concurrent spawn 
          * pattern.
          */
-        private void ConcurrentSpawn()
+        private void ConcurrentSpawn(GameObject leftBalloon, GameObject rightBalloon)
         {
-            GameObject leftBalloon  = GetBalloonBasedOnProb();
-            GameObject rightBalloon = GetBalloonBasedOnProb();
-            
             SpawnBalloon(leftBalloon,  this.leftSpawn);
             SpawnBalloon(rightBalloon, this.rightSpawn);
         }
@@ -159,9 +163,8 @@ namespace Classes.Managers
          * 11/2/2023: Updated, now does an rng check based on the clinician controlled special balloon spawn chance to determine if it should spawn
          *            a normal balloon or a random powerup.
          */ 
-        private void AlternateSpawn()
+        private void AlternateSpawn(GameObject balloon)
         {
-            GameObject balloon = GetBalloonBasedOnProb();
             GameObject spawnPoint = alternate ? this.leftSpawn :
                                                 this.rightSpawn;
             this.alternate = !alternate;
@@ -175,9 +178,8 @@ namespace Classes.Managers
          * The chance for a balloon to be spawned on the left is 1 - rightSpawnChance.
          * For example, a rightSpawnChance of 0.25 gives a 1 - 0.25 = 0.75 spawn chance for the left.
          */
-        private void RandomSpawn()
+        private void RandomSpawn(GameObject balloon)
         {
-            GameObject balloon = GetBalloonBasedOnProb();
             GameObject spawnPoint;
 
             if (Random.Range(0.0f, 1.0f) <= this.gameSettings.rightSpawnChance)
@@ -233,7 +235,7 @@ namespace Classes.Managers
 
             _BaseBalloon script  = tmp.GetComponent<_BaseBalloon>();
             script.SetSpawnLoc(spawnPoint);
-
+            
             tmp.transform.position = spawnPoint.transform.position;
             balloons.Add(tmp);
         }
@@ -270,8 +272,10 @@ namespace Classes.Managers
          */
         public void KillAllBalloons()
         {
+            Debug.Log("Calling KillALlBalloons");
             for(int i = 0; i < this.balloons.Count; ++i)
-            { 
+            {
+                Debug.Log("Destroying a balloon!");
                 Destroy(this.balloons[i]);
             }
             this.balloons.Clear();

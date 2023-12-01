@@ -10,12 +10,19 @@ public class AchievementManager : MonoBehaviour
     // We should add a notification + sound effect on achievement unlock, plus a way to see them all ingame
     [SerializeField] private ParticleSystem confettiSystem;
 
+    public AudioSource audioSource;
+
 
     //Balloon stream achievement variable
     private int balloonStreamPopped = 0;
 
     //Double barreled timer variable
     private float popInterval = 0.00f;
+
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     private void OnEnable()
     {
@@ -162,6 +169,10 @@ public class AchievementManager : MonoBehaviour
     private void UnlockAchievement(Achievement achievement)
     {
         achievement.isAchieved = true;
+        if(audioSource != null)
+        {
+            audioSource.Play();
+        }
         Debug.Log(achievement.name + " unlocked!");
         confettiSystem.Play();
     }    

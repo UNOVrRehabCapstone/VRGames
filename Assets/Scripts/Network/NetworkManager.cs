@@ -29,6 +29,9 @@ namespace Network
         [SerializeField] private GameObject keyboard;
         [SerializeField] private GameObject socketPrefab;
 
+
+        [SerializeField] private GameObject manualBalloonSpawnPrefab;
+
         private void Awake()
         { 
             if (Instance != null && Instance != this) {
@@ -142,6 +145,7 @@ namespace Network
             _socket.On("balloonStart", (string payload) =>
             {
                 SocketClasses.BalloonGameSettingsValues.balloonStart = true;
+                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = Int16.Parse(payload);
 
             });
             _socket.On("balloonSpawn", (string payload) => {
@@ -158,7 +162,9 @@ namespace Network
                     if (balloonManagerScript != null)
                     {
                         // Call the PickSpawn() method in the BalloonManager script
-                        balloonManagerScript.ManualSpawn();
+                        if(manualBalloonSpawnPrefab != null) {
+                        balloonManagerScript.ManualSpawn(BalloonGameplayManager.Instance.gameSettings.spawnPattern,manualBalloonSpawnPrefab);
+                        }
                     }
                     else
                     {

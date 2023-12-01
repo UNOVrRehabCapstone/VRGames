@@ -5,6 +5,7 @@ using Oculus.Platform.Samples.VrHoops;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
+using System.Linq;
 
 namespace Classes.Managers
 {
@@ -19,6 +20,8 @@ namespace Classes.Managers
         public static event AchievementUpdateEventHandler OnAchievementUpdate;
         public string message = "default message";
 
+        private CareerModeLevel currentLevel;
+        private IEnumerator careerModeRoutine;
 
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
@@ -80,7 +83,87 @@ namespace Classes.Managers
         private void CareerGameMode()
         {
             /* TODO */
+            this.StartCoroutine(this.WatchPlayerLives());
+            this.setCurrentLevel(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+            this.careerModeRoutine = PlayCareerLevel(this.currentLevel);
+            //update scoreboard with countdown
+
+            this.StartCoroutine(this.careerModeRoutine);
         }
+
+        IEnumerator PlayCareerLevel(CareerModeLevel level)
+        {
+            GameObject balloon;
+            // spawnSchedule is an array of strings. If value is numerical, they get interpreted as a delay
+            // if value is alphabetical, they're intepreted as the tag for the balloon to be spawned
+            yield return ScoreboardCountdown();
+            PointsManager.updateScoreboardMessage("Playing Level " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+            for (int i = 0; i < level.schedule.Length; i++)
+            {
+                string value = level.schedule[i];
+                if (float.TryParse(value, out float intValue))
+                {
+                    yield return new WaitForSeconds(intValue);
+                }
+                else
+                {
+                    if (!value.Equals("END"))
+                    {
+                        balloon = FindBalloonPrefabWithTag(value);
+                        if (balloon != null)
+                        {
+                            BalloonManager.Instance.ManualSpawn(this.gameSettings.spawnPattern, balloon);
+                            yield return null;
+                        }
+                    }
+                    else
+                    {
+                        Debug.Log("End of Career Mode Level, or Invalid Balloon");
+                        yield return new WaitUntil(BalloonManager.Instance.AllBalloonsAreGone);
+                        //Right now it's set so that however many lives you have left is your score. 
+                        //This isn't super ideal because it means we're locked into exactly three lives for career mode
+                        if (this.playerLives > this.gameSettings.maxLives)
+                        {
+                            level.score = 3;
+                        }
+                        else
+                        {
+                            level.score = this.playerLives;
+                        }
+                        PointsManager.updateScoreboardMessage("You beat level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay + 1)
+                            + " with a score of " + level.score + "!");
+
+                        yield return null;
+                    }
+                }
+
+            }
+
+            
+
+            
+        }
+
+        public void setCurrentLevel(int level)
+        {
+            if (level >= 0 && level < 5)
+            {
+                this.currentLevel = SocketClasses.CareerModeLevels.levels[level];
+            }
+            else
+            {
+                Debug.Log("Level not found");
+            }
+        }
+
+
+        GameObject FindBalloonPrefabWithTag(string tag)
+        {
+            // Use LINQ to find the first GameObject in the list with the specified tag
+            return this.gameSettings.balloonPrefabs.FirstOrDefault(prefab => prefab.CompareTag(tag));
+        }
+
+
 
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
         void RefreshBalloonSettings()
@@ -92,7 +175,6 @@ namespace Classes.Managers
             this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
-            Debug.Log(this.gameSettings.rightSpawnChance);
         }
 
         public GameSettingsSO GetGameSettings()
@@ -106,7 +188,16 @@ namespace Classes.Managers
          */
         public IEnumerator Restart()
         {
-            BalloonManager.Instance.StopAutomaticSpawner();
+            if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
+            {
+                BalloonManager.Instance.StopAutomaticSpawner();
+            }
+            if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CAREER)
+            {
+                Debug.Log("Stopping PlayCareerLevel");
+                StopCoroutine(this.careerModeRoutine);
+            }
+            
             /* Required because if a balloon despawns while the game is restarting, it will still 
                cause a loss of life. */
             BalloonManager.Instance.KillAllBalloons();
@@ -125,16 +216,27 @@ namespace Classes.Managers
             }
             else
             {
+                Debug.Log("Restarting");
                 yield return new WaitForSeconds(5);
             }
-            PointsManager.updateScoreboardMessage("Restarting in: 3");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Restarting in: 2");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Restarting in: 1");
-            yield return new WaitForSeconds(1);
+            yield return ScoreboardCountdown();
             PointsManager.resetPoints();
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
+        private IEnumerator ScoreboardCountdown()
+        {
+            PointsManager.updateScoreboardMessage("Starting in: 5");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Starting in: 4");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Starting in: 3");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Starting in: 2");
+            yield return new WaitForSeconds(1);
+            PointsManager.updateScoreboardMessage("Starting in: 1");
+            yield return new WaitForSeconds(1);
+
         }
 
         /**
@@ -144,6 +246,7 @@ namespace Classes.Managers
         private IEnumerator WatchPlayerLives()
         {
             yield return new WaitUntil(() => (this.playerLives < 1));
+
 
             Debug.Log("Out of lives");
             PointsManager.updateScoreboardMessage("Out of lives"); 

@@ -23,15 +23,18 @@ namespace SocketClasses
     }
     public static class BalloonGameSettingsValues
     {
-        public static string balloonGameMode = "1";
+        //these are the default values for the balloon game that will be loaded if no clinician is controlling the game
+        //NOTE - ballonGameSettingsMaxLives must be set to 3 for careerMode to function correctly.
+        public static string balloonGameMode = "0";
         public static string balloonGameGoal = "55";
         public static string balloonGameSpecialBalloonFrequency = "44";
         public static string balloonGameHandSetting = "2";
         public static string balloonGamePattern = "1";
-        public static string balloonGameMaxLives = "5";
+        public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.7";
+        public static int    careerModeLevelToPlay = 4;
         public static bool   balloonStart = false;
-        public static bool clinicianIsControlling = false;
+        public static bool   clinicianIsControlling = false;
     }
 
     public class BalloonGameData
@@ -65,6 +68,34 @@ namespace SocketClasses
         public static Achievement FinishedCustomGame = new Achievement(7, "Full Control", "Finish a custom game.");
 
     }
+
+    public static class CareerModeLevels
+        //Balloon tags: 
+        //Default balloon = Balloon
+        //Onion   balloon = OnionBalloon
+        //Stream  balloon = Balloon_Stream_Powerup
+        //Target  balloon = Balloon_Target
+        //Life    balloon = RestoreLife
+    {//                                         3sec -> normal spawn -> repeat 5 times
+        public static string[] levelOneSchedule = {"Balloon", "3.0", "Balloon","3.0", "Balloon", "3.0", "Balloon", "3.0", "Balloon", "END" };
+        public static CareerModeLevel levelOne = new CareerModeLevel(levelOneSchedule);
+
+        public static string[] levelTwoSchedule = {"Balloon", "2.5", "RestoreLife", "2.0", "Balloon", "2.0", "BalloonOnion", "4", "BalloonOnion", "END" };
+        public static CareerModeLevel levelTwo = new CareerModeLevel(levelTwoSchedule);
+
+        public static string[] levelThreeSchedule = {"Balloon_Stream_Powerup", "2.0", "Balloon_Stream_Powerup", "5", "BalloonOnion", "2.0", "BalloonOnion", "2.0", "RestoreLife", "END" };
+        public static CareerModeLevel levelThree = new CareerModeLevel(levelThreeSchedule);
+
+        public static string[] levelFourSchedule = {"Balloon_Target", "7.0", "Balloon_Stream_Powerup", "1", "Balloon_Stream_Powerup", "3.0", "Balloon_Target", "END" };
+        public static CareerModeLevel levelFour = new CareerModeLevel(levelFourSchedule);
+
+        public static string[] levelFiveSchedule = {"RestoreLife", "0.0", "RestoreLife", "1.0", "Balloon_Stream_Powerup", "2.0", "BalloonOnion","2.5","Balloon_Target","0","Balloon_Target", "END" };
+        public static CareerModeLevel levelFive = new CareerModeLevel(levelFiveSchedule);
+
+        public static CareerModeLevel[] levels = { levelOne, levelTwo, levelThree, levelFour, levelFive };
+    }
+
+
 
     public static class Pausing
     {

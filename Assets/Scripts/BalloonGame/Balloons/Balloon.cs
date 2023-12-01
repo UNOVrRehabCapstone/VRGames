@@ -98,9 +98,9 @@ public class Balloon : _BaseBalloon
         }
         PointsManager.addPoints(this.pointValue);
 
-        Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
-                  + ". Right points: " + PointsManager.getRightPoints() 
-                  + ". Total points: " + PointsManager.getPoints() + ".");
+       // Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
+                 // + ". Right points: " + PointsManager.getRightPoints() 
+                  //+ ". Total points: " + PointsManager.getPoints() + ".");
     }
 
     /**
@@ -118,7 +118,7 @@ public class Balloon : _BaseBalloon
     /* For testing purposes. Useful for testing on the computer rather than in the headset. */
     public virtual void OnMouseDown()
     {
-        Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
+        //Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
         this.AddPoints();
         this.PlayEffects(isPersistent);
         this.ExtraPopEffects();
