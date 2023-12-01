@@ -76,20 +76,78 @@ namespace SocketClasses
         //Stream  balloon = Balloon_Stream_Powerup
         //Target  balloon = Balloon_Target
         //Life    balloon = RestoreLife
-    {//                                         3sec -> normal spawn -> repeat 5 times
-        public static string[] levelOneSchedule = {"Balloon", "3.0", "Balloon","3.0", "Balloon", "3.0", "Balloon", "3.0", "Balloon", "END" };
+    {
+        //A spawn schedule is a list of strings. Numerical values are interpreted as spawn timings. Alphabetical gets interpreted as 
+        // the tag of the type of balloon to spawn. Each schedule must be terminated with an "END" string.
+        public static string[] levelOneSchedule = 
+            {
+            "Balloon",
+            "3.0",
+            "Balloon",
+            "3.0",
+            "Balloon",
+            "3.0",
+            "Balloon",
+            "3.0",
+            "Balloon",
+            "END" 
+        };
+        public static string[] levelTwoSchedule = 
+            {
+            "Balloon",
+            "2.5",
+            "RestoreLife",
+            "2.0",
+            "Balloon",
+            "2.0",
+            "BalloonOnion",
+            "4",
+            "BalloonOnion",
+            "END"
+        };
+        public static string[] levelThreeSchedule = {
+            "Balloon_Stream_Powerup",
+            "2.0",
+            "Balloon_Stream_Powerup",
+            "5",
+            "BalloonOnion",
+            "2.0",
+            "BalloonOnion",
+            "2.0",
+            "RestoreLife",
+            "END"
+        };
+        public static string[] levelFourSchedule = 
+            {
+            "Balloon_Target",
+            "7.0",
+            "Balloon_Stream_Powerup",
+            "1", "Balloon_Stream_Powerup",
+            "3.0",
+            "Balloon_Target",
+            "END"
+        };
+        public static string[] levelFiveSchedule = 
+            {
+            "RestoreLife",
+            "0.0",
+            "RestoreLife",
+            "1.0",
+            "Balloon_Stream_Powerup",
+            "2.0",
+            "BalloonOnion",
+            "2.5",
+            "Balloon_Target",
+            "0",
+            "Balloon_Target",
+            "END"
+        };
+
+        
         public static CareerModeLevel levelOne = new CareerModeLevel(levelOneSchedule);
-
-        public static string[] levelTwoSchedule = {"Balloon", "2.5", "RestoreLife", "2.0", "Balloon", "2.0", "BalloonOnion", "4", "BalloonOnion", "END" };
         public static CareerModeLevel levelTwo = new CareerModeLevel(levelTwoSchedule);
-
-        public static string[] levelThreeSchedule = {"Balloon_Stream_Powerup", "2.0", "Balloon_Stream_Powerup", "5", "BalloonOnion", "2.0", "BalloonOnion", "2.0", "RestoreLife", "END" };
         public static CareerModeLevel levelThree = new CareerModeLevel(levelThreeSchedule);
-
-        public static string[] levelFourSchedule = {"Balloon_Target", "7.0", "Balloon_Stream_Powerup", "1", "Balloon_Stream_Powerup", "3.0", "Balloon_Target", "END" };
         public static CareerModeLevel levelFour = new CareerModeLevel(levelFourSchedule);
-
-        public static string[] levelFiveSchedule = {"RestoreLife", "0.0", "RestoreLife", "1.0", "Balloon_Stream_Powerup", "2.0", "BalloonOnion","2.5","Balloon_Target","0","Balloon_Target", "END" };
         public static CareerModeLevel levelFive = new CareerModeLevel(levelFiveSchedule);
 
         public static CareerModeLevel[] levels = { levelOne, levelTwo, levelThree, levelFour, levelFive };
