@@ -512,6 +512,9 @@ MonoBehaviour:
   winConditionPoints: 15
   maxTime: 0
   confettiSystem: {fileID: 156892871}
+  meadow: {fileID: 9099063418676775425, guid: bec54349592a70146bc7400993ee99b7, type: 3}
+  balloonEnclosure: {fileID: 3645428879647100447, guid: 78001b466eddabb42bbabca00409d1dd,
+    type: 3}
   message: default message
   gameSettings: {fileID: 11400000, guid: 144e0547a882ffd448c409384d929d95, type: 2}
   playerLives: 0
