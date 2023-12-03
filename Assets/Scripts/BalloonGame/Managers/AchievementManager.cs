@@ -129,7 +129,6 @@ public class AchievementManager : MonoBehaviour
                     break;
                 }
             default:
-                Debug.Log("What????");
                 break;
         }
     }
@@ -174,7 +173,7 @@ public class AchievementManager : MonoBehaviour
             audioSource.Play();
         }
         Debug.Log(achievement.name + " unlocked!");
-        confettiSystem.Play();
+        //confettiSystem.Play();
     }    
 
 

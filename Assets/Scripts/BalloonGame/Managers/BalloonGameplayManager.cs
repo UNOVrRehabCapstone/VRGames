@@ -43,14 +43,29 @@ namespace Classes.Managers
         new void Start()
         {
             base.Start();
+            PointsManager.updateScoreboardMessage("Welcome to the Balloon Game!");
+            this.StartCoroutine(this.WaitForClinThenStart());
+           
+        }
+
+        private IEnumerator WaitForClinThenStart()
+        {
+            if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
+            {
+                Debug.Log("balloonStart = " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+                yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
+            }
+
+
             RefreshBalloonSettings();
 
-            Debug.Log("Game mode set to " +     this.gameSettings.gameMode.ToString());
+            Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
 
-            switch (this.gameSettings.gameMode) {
+            switch (this.gameSettings.gameMode)
+            {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
                     this.CareerGameMode();
@@ -59,7 +74,7 @@ namespace Classes.Managers
                 case GameSettingsSO.GameMode.CUSTOM:
                     this.CustomGameMode();
                     break;
-                
+
                 case GameSettingsSO.GameMode.MANUAL:
                     /* Do nothing; gameplay is dictated by the clinician. */
                     break;
@@ -69,8 +84,9 @@ namespace Classes.Managers
                     break;
 
             }
-            
+
             PointsManager.updateScoreboardMessage("Game mode set to " + this.gameSettings.gameMode.ToString());
+
         }
 
         private void CustomGameMode()
@@ -96,8 +112,8 @@ namespace Classes.Managers
             GameObject balloon;
             // spawnSchedule is an array of strings. If value is numerical, they get interpreted as a delay
             // if value is alphabetical, they're intepreted as the tag for the balloon to be spawned
-            yield return ScoreboardCountdown();
-            PointsManager.updateScoreboardMessage("Playing Level " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+            yield return ScoreboardCountdown(3, false);
+            PointsManager.updateScoreboardMessage("Playing Level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay +1));
             for (int i = 0; i < level.schedule.Length; i++)
             {
                 string value = level.schedule[i];
@@ -219,23 +235,27 @@ namespace Classes.Managers
                 Debug.Log("Restarting");
                 yield return new WaitForSeconds(5);
             }
-            yield return ScoreboardCountdown();
+            yield return ScoreboardCountdown(5, true);
             PointsManager.resetPoints();
+            SocketClasses.BalloonGameSettingsValues.balloonStart = false;
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
-        private IEnumerator ScoreboardCountdown()
+
+        //ScoreboardCountdown is now supplied with arguments
+        private IEnumerator ScoreboardCountdown(int countDownTime, bool restarting)
         {
-            PointsManager.updateScoreboardMessage("Starting in: 5");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Starting in: 4");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Starting in: 3");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Starting in: 2");
-            yield return new WaitForSeconds(1);
-            PointsManager.updateScoreboardMessage("Starting in: 1");
-            yield return new WaitForSeconds(1);
+            string prefix = "Starting in: ";
+            if (restarting)
+            {
+                prefix = "Restarting in: ";
+
+            }
+            for (int i = countDownTime; i > 0; i--)
+            {
+                PointsManager.updateScoreboardMessage(prefix + i);
+                yield return new WaitForSeconds(1);
+            }
 
         }
 

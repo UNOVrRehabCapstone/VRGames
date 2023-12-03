@@ -20,6 +20,7 @@ namespace SocketClasses
         public string lives;
         public string hand;
         public string ratio;
+        public int careerModeLevelToPlay;
     }
     public static class BalloonGameSettingsValues
     {
@@ -66,6 +67,14 @@ namespace SocketClasses
         public static Achievement PopAllSpecials = new Achievement(5, "Well Versed", "Pop every type of special balloon.");
         public static Achievement EndWithMoreLives = new Achievement(6, "Overachiever", "Finish a game with more lives than you started with.");
         public static Achievement FinishedCustomGame = new Achievement(7, "Full Control", "Finish a custom game.");
+        public static Achievement PlayBothEnvironments = new Achievement(8, "World Traveler", "Play a game in both environments.");
+        public static Achievement FinishCareerMode = new Achievement(9, "Game Over!", "Finish career mode. Well done!");
+
+
+
+
+        public static Achievement[] AllAchievements = {PopOneBalloon, PopEntireBalloonStream, PopEntireTargetBalloon,
+            PopOnionCore, PopTwoAtOnce, PopAllSpecials, EndWithMoreLives, FinishedCustomGame, PlayBothEnvironments, FinishCareerMode };
 
     }
 
