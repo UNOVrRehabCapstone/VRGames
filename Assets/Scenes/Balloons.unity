@@ -512,7 +512,6 @@ MonoBehaviour:
   winConditionPoints: 15
   maxTime: 0
   confettiSystem: {fileID: 156892871}
-  message: default message
   gameSettings: {fileID: 11400000, guid: 144e0547a882ffd448c409384d929d95, type: 2}
   playerLives: 0
 --- !u!114 &46590935
@@ -751,6 +750,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   confettiSystem: {fileID: 156892871}
   audioSource: {fileID: 0}
+  achievementList: {fileID: 0}
+  achievementPopUpPrefab: {fileID: 0}
 --- !u!82 &81312291
 AudioSource:
   m_ObjectHideFlags: 0
@@ -933,7 +934,7 @@ GameObject:
   m_Component:
   - component: {fileID: 119282850}
   m_Layer: 5
-  m_Name: Achievement 1
+  m_Name: 1Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7184,8 +7185,8 @@ GameObject:
   m_Component:
   - component: {fileID: 261549248}
   m_Layer: 5
-  m_Name: Achievement 0
-  m_TagString: Untagged
+  m_Name: 0Achievement
+  m_TagString: Plane
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11336,7 +11337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 523131725}
   m_Layer: 5
-  m_Name: Achievement 8
+  m_Name: 8Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13956,7 +13957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 880385556}
   m_Layer: 5
-  m_Name: Achievement 6
+  m_Name: 6Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15566,7 +15567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1064145858}
   m_Layer: 5
-  m_Name: Achievement 7
+  m_Name: 7Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16583,7 +16584,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1266289385}
   m_Layer: 5
-  m_Name: Achievement 9
+  m_Name: 9Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17609,7 +17610,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1521856370}
   m_Layer: 5
-  m_Name: Achievement 4
+  m_Name: 4Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18345,7 +18346,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1709511820}
   m_Layer: 5
-  m_Name: Achievement 5
+  m_Name: 5Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21257,7 +21258,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1942208997}
   m_Layer: 5
-  m_Name: Achievement 2
+  m_Name: 2Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22039,7 +22040,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2034114982}
   m_Layer: 5
-  m_Name: Achievement 3
+  m_Name: 3Achievement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

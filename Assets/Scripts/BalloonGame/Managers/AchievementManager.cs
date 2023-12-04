@@ -43,7 +43,7 @@ public class AchievementManager : MonoBehaviour
     }
     void Start()
     {
-
+ 
         //Transform canvas = transform.Find("Achievement List").Find("Canvas").Find("Name");
         // TextMeshProUGUI textMesh = subobject.GetComponent<TextMeshProUGUI>();
         // textMesh.text = "Test";
