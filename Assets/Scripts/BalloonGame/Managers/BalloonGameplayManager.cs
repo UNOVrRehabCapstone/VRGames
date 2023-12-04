@@ -18,10 +18,10 @@ namespace Classes.Managers
 
         public delegate void AchievementUpdateEventHandler(string senderTag);
         public static event AchievementUpdateEventHandler OnAchievementUpdate;
-        public string message = "default message";
 
         private CareerModeLevel currentLevel;
         private IEnumerator careerModeRoutine;
+
 
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
@@ -91,6 +91,7 @@ namespace Classes.Managers
 
         private void CustomGameMode()
         {
+            AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
             this.StartCoroutine(this.WatchScore());
             BalloonManager.Instance.StartAutomaticSpawner(3.0f);
@@ -99,6 +100,7 @@ namespace Classes.Managers
         private void CareerGameMode()
         {
             /* TODO */
+            AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
             this.setCurrentLevel(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             this.careerModeRoutine = PlayCareerLevel(this.currentLevel);
@@ -148,7 +150,12 @@ namespace Classes.Managers
                         }
                         PointsManager.updateScoreboardMessage("You beat level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay + 1)
                             + " with a score of " + level.score + "!");
-
+                        // Do achievement udpates
+                        this.CheckFullControl();
+                        this.CheckOverachiever();
+                        this.CheckWorldTraveler();
+                        this.CheckFinishCareerMode();
+                        AchievementManager.Instance.ShowAchievementList();
                         yield return null;
                     }
                 }
@@ -204,6 +211,8 @@ namespace Classes.Managers
          */
         public IEnumerator Restart()
         {
+
+            AchievementManager.Instance.ShowAchievementList();
             if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
             {
                 BalloonManager.Instance.StopAutomaticSpawner();
@@ -213,7 +222,12 @@ namespace Classes.Managers
                 Debug.Log("Stopping PlayCareerLevel");
                 StopCoroutine(this.careerModeRoutine);
             }
-            
+
+            if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
+            {
+                SocketClasses.BalloonGameSettingsValues.balloonStart = false;
+            }
+
             /* Required because if a balloon despawns while the game is restarting, it will still 
                cause a loss of life. */
             BalloonManager.Instance.KillAllBalloons();
@@ -281,22 +295,13 @@ namespace Classes.Managers
         private IEnumerator WatchScore()
         {
             yield return new WaitUntil(() => PointsManager.isGoalReached(this.gameSettings.handSetting, this.gameSettings.goal));
-            
-            
-            // Do achievement udpates
-            //    Overachiever 
-            if(this.playerLives > gameSettings.maxLives)
-            {
-                this.message = "Ended with more lives";
-                    this.AchievementUpdateEvent();
-            }
 
-            //    Full control
-           if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
-            {
-                this.message = "Custom game ended";
-                this.AchievementUpdateEvent();
-            }
+
+            // Do achievement udpates
+            this.CheckFullControl();
+            this.CheckOverachiever();
+            this.CheckWorldTraveler();
+            this.CheckFinishCareerMode();
             Debug.Log("Goal has been reached!");
             PointsManager.updateScoreboardMessage("You Win!"); 
             confettiSystem.Play();
@@ -320,9 +325,59 @@ namespace Classes.Managers
             
         }
 
-        public void AchievementUpdateEvent()
+        private void CheckOverachiever()
         {
-            OnAchievementUpdate?.Invoke(this.message);
+            //    Overachiever 
+            if (this.playerLives > gameSettings.maxLives)
+            {
+                this.AchievementUpdateEvent("Ended with more lives");
+            }
+        }
+        private void CheckWorldTraveler()
+        {
+            bool hasPlayedAll = true;
+            foreach(bool levelPlayed in SocketClasses.Achievements.LevelsPlayed)
+            {
+                if (!levelPlayed)
+                {
+                    hasPlayedAll = false;
+                    break;
+                }
+            }
+
+            if (hasPlayedAll)
+            {
+                this.AchievementUpdateEvent("Played Both Environments");
+            }
+        }
+        private void CheckFullControl()
+        {
+            //    Full control
+            if (this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
+            {
+                this.AchievementUpdateEvent("Custom game ended");
+            }
+        }
+        private void CheckFinishCareerMode()
+        {
+            bool hasPlayedAllLevels = true;
+            foreach(string levelScore in SocketClasses.BalloonGameDataValues.levelScores)
+            {
+                if(Int16.Parse(levelScore) <= 0)
+                {
+                    hasPlayedAllLevels = false;
+                    break;
+                }
+            }
+            if (hasPlayedAllLevels)
+            {
+                AchievementUpdateEvent("Played All Career Levels");
+            }
+        }
+
+        public void AchievementUpdateEvent(string message)
+        {
+            OnAchievementUpdate?.Invoke(message);
         }
     }
 }

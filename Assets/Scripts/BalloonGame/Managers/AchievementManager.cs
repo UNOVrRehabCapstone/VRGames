@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using System;
 
 public class AchievementManager : MonoBehaviour
 {
-
+    public static AchievementManager Instance { get; private set; }
     //TEMPORARY EFFECT FOR ACHIEVEMENT UNLOCK
     // We should add a notification + sound effect on achievement unlock, plus a way to see them all ingame
     [SerializeField] private ParticleSystem confettiSystem;
@@ -19,9 +20,96 @@ public class AchievementManager : MonoBehaviour
     //Double barreled timer variable
     private float popInterval = 0.00f;
 
+    GameObject[] achievementObjects;
+
+    [SerializeField]
+    GameObject achievementList;
+
+    [SerializeField]
+    GameObject achievementPopUpPrefab;
+
+    private bool isDisplayingAchievement = false;
+
+    private Queue<string> achievementQueue = new Queue<string>();
+
+    private void Awake()
+    {
+        //Singleton pattern make sure there is only one balloon gameplay manager.
+        if (Instance != null)
+        {
+        }
+        Instance = this;
+
+    }
     void Start()
     {
+
+        //Transform canvas = transform.Find("Achievement List").Find("Canvas").Find("Name");
+        // TextMeshProUGUI textMesh = subobject.GetComponent<TextMeshProUGUI>();
+        // textMesh.text = "Test";
+        //Debug.Log(textMesh.text);
+        this.SetupAchievementList();
         audioSource = GetComponent<AudioSource>();
+    }
+
+
+    public void SetupAchievementList()
+    {
+        TextMeshProUGUI textMesh;
+        Transform temp;
+        
+        //Setup username
+        temp = transform.Find("Achievement List").Find("Canvas").Find("Name");
+        textMesh = temp.GetComponent<TextMeshProUGUI>();
+        textMesh.text = SocketClasses.BalloonGameSettingsValues.userName + "'s Achievements!";
+
+        //Setup array of achievement objects
+        achievementObjects = GameObject.FindGameObjectsWithTag("Achievement");
+        Array.Sort(achievementObjects, (obj1, obj2) => String.Compare(obj1.name, obj2.name));
+        for (int i = 0; i < achievementObjects.Length; i++)
+        {
+            //Setup names
+            temp = achievementObjects[i].transform.Find("Name");
+            textMesh = temp.GetComponent<TextMeshProUGUI>();
+            textMesh.text = SocketClasses.Achievements.AllAchievements[i].name;
+
+            //Setup Descriptions
+            temp = achievementObjects[i].transform.Find("Description");
+            textMesh = temp.GetComponent<TextMeshProUGUI>();
+            textMesh.text = SocketClasses.Achievements.AllAchievements[i].description;
+
+            //Setup Checkmarks
+            temp = achievementObjects[i].transform.Find("Checkmark");
+            if(SocketClasses.Achievements.AllAchievements[i].isAchieved)
+            {
+                temp.gameObject.SetActive(true);
+            }
+            else
+            {
+                temp.gameObject.SetActive(false);
+            }
+
+        }
+
+    }
+
+    public void HideAchievementList()
+    {
+        if(achievementList != null)
+        {
+            achievementList.SetActive(false);
+        }
+    }
+
+    public void ShowAchievementList()
+    {
+        
+        if (achievementList != null)
+        {
+            achievementList.SetActive(true);
+            this.SetupAchievementList();
+        }
+
     }
 
     private void OnEnable()
@@ -101,7 +189,7 @@ public class AchievementManager : MonoBehaviour
                 // Also logs that target balloon has been popped
             case "Target Balloon Fully Popped":
                 {
-                    if (!SocketClasses.Achievements.PopEntireBalloonStream.isAchieved)
+                    if (!SocketClasses.Achievements.PopEntireTargetBalloon.isAchieved)
                     {
                         UnlockAchievement(SocketClasses.Achievements.PopEntireTargetBalloon);
                         SocketClasses.Achievements.SpecialsPopped[1] = true;
@@ -156,6 +244,22 @@ public class AchievementManager : MonoBehaviour
                     }
                     break;
                 }
+            case "Played Both Environments":
+                {
+                    if (!SocketClasses.Achievements.PlayBothEnvironments.isAchieved)
+                    {
+                        UnlockAchievement(SocketClasses.Achievements.PlayBothEnvironments);
+                    }
+                    break;
+                }
+            case "Played All Career Levels":
+                {
+                    if (!SocketClasses.Achievements.FinishCareerMode.isAchieved)
+                    {
+                        UnlockAchievement(SocketClasses.Achievements.FinishCareerMode);
+                    }
+                    break;
+                }
             default:
                 {
                     Debug.Log("Huh? How did you get here??");
@@ -167,14 +271,49 @@ public class AchievementManager : MonoBehaviour
 
     private void UnlockAchievement(Achievement achievement)
     {
-        achievement.isAchieved = true;
+
         if(audioSource != null)
         {
             audioSource.Play();
         }
         Debug.Log(achievement.name + " unlocked!");
+        achievementQueue.Enqueue(achievement.name);
+        if (!isDisplayingAchievement)
+        {
+            StartCoroutine(DisaplyNextAchievement());
+        }
+        achievement.isAchieved = true;
         //confettiSystem.Play();
-    }    
+    }
+
+    private IEnumerator DisplayPopup(string name)
+    {
+
+        Vector3 spawnLoc = new Vector3(-2.05f, -0.7f, 2.376f);
+        Quaternion spawnRot = Quaternion.Euler(new Vector3(0.0f, -30.0f, 0.0f));
+        GameObject newPopup = Instantiate(achievementPopUpPrefab, spawnLoc, spawnRot);
+        Transform infoTransform = newPopup.transform.Find("Info").Find("AchievementName");
+        TextMeshProUGUI text = infoTransform.GetComponent<TextMeshProUGUI>();
+        //This works!
+        text.text = name;
+        yield return new WaitForSeconds(1);
+        
+
+    }
+
+    private IEnumerator DisaplyNextAchievement()
+    {
+        isDisplayingAchievement = true;
+
+        while (achievementQueue.Count > 0)
+        {
+            string achievementName = achievementQueue.Dequeue();
+            yield return DisplayPopup(achievementName);
+        }
+
+        isDisplayingAchievement = false;
+    }
+
 
 
     // Achievement 5 - Pop all specials

@@ -422,7 +422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 2
+  pointValue: 0
   messageOverride: 
   isPersistent: 0
 --- !u!1001 &2181125008421521460
@@ -544,7 +544,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 3
+  pointValue: 1
   messageOverride: 
   isPersistent: 0
 --- !u!4 &2438939352382836388 stripped
@@ -657,7 +657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 1
+  pointValue: 0
   messageOverride: 
   isPersistent: 0
 --- !u!4 &701669359733200053 stripped

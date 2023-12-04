@@ -37,9 +37,10 @@ public class Balloon_Target_Base : Balloon
     public void TargetHit()
     {
         this.numOfTargetsRemaining--;
-        this.AddPoints();
+        
         if (this.numOfTargetsRemaining <= 0)
         {
+            this.AddPoints();
             this.messageOverride = "Target Balloon Fully Popped";
             this.isPersistent = false;
         }
