@@ -38,6 +38,11 @@ public class GameSettingsSO : ScriptableObject
 		BOTH_HANDS			/* The goal is affected by both hands. */
 	}
 
+	public enum Environment {
+		ORIGINAL,
+		MEADOW
+	}
+
 	/* TODO: A lot of mixed settings here. Would it be better to separate the 
 	   settings into their own files? For example, a file for spawn settings, 
 	   a file for player settings, and a file for game mode settings. Hmmm 
@@ -74,4 +79,8 @@ public class GameSettingsSO : ScriptableObject
 	            			                        * prevents any further balloons from spawning once the number of
 	            			                        * balloons that skipped the barrier is equal to maxNumBalloonsSpawnedAtOnce */
 	
+	/*************************************************************************/
+	/* ENVIRONMENT SETTINGS                                                  */
+	/*************************************************************************/
+	public Environment      environment;
 }

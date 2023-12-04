@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Blocks.unity
     guid: 99836a4bcfaf0be459c79107774ba9d1
   - enabled: 1
-    path: Assets/Scenes/Balloons.unity
+    path: Assets/Scenes/Balloons2.unity
     guid: f9e48dc9bf49f554f86f999bb66793da
   - enabled: 0
     path: Assets/Scenes/Climbing.unity
