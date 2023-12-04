@@ -13,8 +13,8 @@ namespace Classes.Managers
     {
         public static BalloonGameplayManager Instance {get; private set;}
         [SerializeField] private ParticleSystem confettiSystem;
-        [SerializeField] private GameObject     meadow;
-        [SerializeField] private GameObject     balloonEnclosure;
+        //[SerializeField] private GameObject     meadow;
+        //[SerializeField] private GameObject     balloonEnclosure;
 
 
         public delegate void AchievementUpdateEventHandler(string senderTag);
@@ -39,6 +39,8 @@ namespace Classes.Managers
 		    Instance = this;
 
             Debug.Log("Balloon gameplay manager active.");
+
+            //RefreshBalloonSettings();
 	    }
 
         new void Start()
@@ -58,19 +60,20 @@ namespace Classes.Managers
             }
 
 
-            RefreshBalloonSettings();
+            
 
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
 
+            
             /* Set environment */
-            if (this.gameSettings.environment == GameSettingsSO.Environment.ORIGINAL) {
+            /*if (this.gameSettings.environment == GameSettingsSO.Environment.ORIGINAL) {
                 Instantiate(this.balloonEnclosure);
             } else {
                 Instantiate(this.meadow);
-            }
+            }*/
 
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
