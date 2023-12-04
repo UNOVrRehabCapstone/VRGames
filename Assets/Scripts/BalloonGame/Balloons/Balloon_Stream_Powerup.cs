@@ -21,12 +21,17 @@ public class Balloon_Stream_Powerup : Balloon
         spawnPoint = this.spawnLoc;
 
         /* Pauses automatic spawner to prevent the stream of balloons from overlapping with natural spawns */
-        BalloonManager.Instance.StopAutomaticSpawner();
+        if(BalloonGameplayManager.Instance.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
+        {
+            BalloonManager.Instance.StopAutomaticSpawner();
+        }
         /* Spawns the special stream of balloons on the same side as the powerup */
         BalloonManager.Instance.SpawnBalloon(BalloonStream, spawnPoint);
         /* Restarts the automatic spawner after 5 seconds have elapsed */
-        BalloonManager.Instance.StartAutomaticSpawner(5);
-
+        if (BalloonGameplayManager.Instance.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
+        {
+            BalloonManager.Instance.StartAutomaticSpawner(5);
+        }
         BalloonManager.Instance.KillBalloon(gameObject);
 
     }

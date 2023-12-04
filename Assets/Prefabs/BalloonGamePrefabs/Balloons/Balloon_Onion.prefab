@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8933886937638832372}
   m_Layer: 0
   m_Name: Balloon_Onion
-  m_TagString: Untagged
+  m_TagString: BalloonOnion
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -422,7 +422,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 2
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0
 --- !u!1001 &2181125008421521460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -542,7 +544,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 3
+  pointValue: 1
+  messageOverride: 
+  isPersistent: 0
 --- !u!4 &2438939352382836388 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4583595457630930576, guid: 68398287f883354469bb037c81abcebf,
@@ -653,7 +657,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0
   rotationSpeed: 30
-  pointValue: 1
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0
 --- !u!4 &701669359733200053 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4583595457630930576, guid: 68398287f883354469bb037c81abcebf,

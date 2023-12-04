@@ -14,6 +14,7 @@ public class Balloon_RestoreLife : Balloon
     public override void ExtraPopEffects()
     {
         BalloonGameplayManager.Instance.playerLives++;
+        PointsManager.updateScoreboard();
         this.PopBalloonEvent();
         BalloonManager.Instance.KillBalloon(gameObject);
     }

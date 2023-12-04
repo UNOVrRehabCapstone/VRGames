@@ -95,7 +95,9 @@ namespace Network
                         SceneManager.LoadScene("Planes");
                         break;
                     case "2":
-                        SceneManager.LoadScene("Balloons");
+                         SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
+                         SocketClasses.BalloonGameSettingsValues.balloonStart = false;
+                         SceneManager.LoadScene("Balloons");
                         break;
                     case "1":
                         SceneManager.LoadScene("Blocks");
@@ -110,6 +112,8 @@ namespace Network
                 var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameSettings>(payload);
                 SocketClasses.BalloonGameSettingsValues.balloonGameMode = obj.mode;
                 SocketClasses.BalloonGameSettingsValues.balloonGameGoal = obj.target;
+                Debug.Log("Setting mode to play");
+                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
 
                 string frequency;
                 switch (obj.freq)
@@ -135,15 +139,10 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
-                SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
-
-            });
-
-            _socket.On("balloonStart", (string payload) =>
-            {
                 SocketClasses.BalloonGameSettingsValues.balloonStart = true;
 
             });
+
             _socket.On("balloonSpawn", (string payload) => {
                 // Find the BalloonManager GameObject in the current scene
                 GameObject balloonManagerObject = GameObject.Find("BalloonManager");
@@ -158,7 +157,7 @@ namespace Network
                     if (balloonManagerScript != null)
                     {
                         // Call the PickSpawn() method in the BalloonManager script
-                        balloonManagerScript.ManualSpawn();
+                            balloonManagerScript.ManualSpawn(BalloonGameplayManager.Instance.gameSettings.spawnPattern, BalloonGameplayManager.Instance.gameSettings.balloonPrefabs[0]);
                     }
                     else
                     {
@@ -179,10 +178,32 @@ namespace Network
                 Debug.Log(obj.userName);
                 if(obj.userName != null)
                 {
-                    SetPatientName(obj.userName);
-                    patientName.SetText(obj.userName);
+                    //SetPatientName(obj.userName);
+                    //patientName.SetText(obj.userName);
                 }
                 Debug.Log(patientName.text);
+                for( int i = 0; i < obj.achievementProgress.Length; i++)
+                {
+                    char bit = obj.achievementProgress[i];
+                    switch (bit)
+                    {
+                        case '0':
+                            {
+                                SocketClasses.Achievements.AllAchievements[i].isAchieved = false;
+                                break;
+                            }
+                        case '1':
+                            {
+                                SocketClasses.Achievements.AllAchievements[i].isAchieved = true;
+                                break;
+                            }
+                        default:
+                            {
+                                break;
+                            }
+                    }
+
+                }
             });
 
             _socket.On("pauseGame", (string payload) => {

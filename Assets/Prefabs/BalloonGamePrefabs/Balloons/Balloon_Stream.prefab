@@ -50,6 +50,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0
+  rotationSpeed: 0
   pointValue: 0
 --- !u!1001 &596987406666427137
 PrefabInstance:
@@ -145,7 +146,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
-  pointValue: 1
+  rotationSpeed: 0
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0
 --- !u!4 &6651512033926968866 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6054533440685481251, guid: 417def5420a7d55458e19120433e2ca8,
@@ -246,7 +250,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
-  pointValue: 1
+  rotationSpeed: 0
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0
 --- !u!4 &1629136527298997444 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6054533440685481251, guid: 417def5420a7d55458e19120433e2ca8,
@@ -353,7 +360,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
-  pointValue: 1
+  rotationSpeed: 0
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0
 --- !u!1001 &7980730763270519112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -454,7 +464,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
+  rotationSpeed: 0
   pointValue: 1
+  messageOverride: 
+  isPersistent: 0
 --- !u!1001 &8998288256170416290
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -555,4 +568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   floatStrength: 0.5
-  pointValue: 1
+  rotationSpeed: 0
+  pointValue: 0
+  messageOverride: 
+  isPersistent: 0

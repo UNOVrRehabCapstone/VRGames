@@ -44,19 +44,24 @@ public class BalloonKillZone : MonoBehaviour
             case "OnionLayer1":
             case "OnionLayer2":
             case "OnionLayer3":
+                --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
                 break;
             case "SpawnStreamMember":
             case "SpawnStreamMemberLast":
+                --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloonDelay(other.gameObject.transform.parent.gameObject, 2);
                 break;
             case "Balloon_Stream_Powerup":
+                --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 break;
             case "RestoreLife":
+                --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloon(other.gameObject);
                 break;
             case "Target":
+                --BalloonGameplayManager.Instance.playerLives;
                 BalloonManager.Instance.KillBalloon(other.gameObject.transform.parent.parent.gameObject);
                 break;
             default:
@@ -64,5 +69,6 @@ public class BalloonKillZone : MonoBehaviour
                           + "add a case for it in the BalloonKillZone class.");
                 break;
         }
+        PointsManager.updateScoreboard();
     }
 }
