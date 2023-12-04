@@ -33,7 +33,7 @@ namespace SocketClasses
         public static string balloonGamePattern = "1";
         public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.7";
-        public static int    careerModeLevelToPlay = 4;
+        public static int    careerModeLevelToPlay = 0;
         public static bool   balloonStart = false;
         public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";
@@ -54,11 +54,11 @@ namespace SocketClasses
     public static class BalloonGameDataValues
     {
         public static string achievementProgress = "0000000000";
-        public static string levelOneScore = "1";
-        public static string levelTwoScore = "1";
-        public static string levelThreeScore = "1";
-        public static string levelFourScore = "1";
-        public static string levelFiveScore = "1";
+        public static string levelOneScore = "0";
+        public static string levelTwoScore = "0";
+        public static string levelThreeScore = "0";
+        public static string levelFourScore = "0";
+        public static string levelFiveScore = "0";
 
         public static string[] levelScores = {levelOneScore, levelTwoScore,
             levelThreeScore, levelFourScore, levelFiveScore};

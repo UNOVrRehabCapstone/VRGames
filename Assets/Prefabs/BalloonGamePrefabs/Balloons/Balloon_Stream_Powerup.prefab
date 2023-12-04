@@ -179,7 +179,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floatStrength: 0.3
   rotationSpeed: 30
-  pointValue: 1
+  pointValue: 0
   messageOverride: 
   isPersistent: 0
   BalloonStream: {fileID: 2421802141809101429, guid: 48d50fce80a78404ba5a69759023c011,
