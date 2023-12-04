@@ -78,6 +78,8 @@ TagManager:
   - Balloon_Target
   - Target
   - BalloonOnion
+  - AchievementPopup
+  - Achievement
   layers:
   - Default
   - TransparentFX

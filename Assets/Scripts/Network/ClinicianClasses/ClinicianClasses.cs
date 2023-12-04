@@ -34,8 +34,8 @@ namespace SocketClasses
         public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.7";
         public static int    careerModeLevelToPlay = 4;
-        public static bool   balloonStart = true;
-        public static bool   clinicianIsControlling = true;
+        public static bool   balloonStart = false;
+        public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";
     }
 
