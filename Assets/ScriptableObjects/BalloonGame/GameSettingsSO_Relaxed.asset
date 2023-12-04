@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66ea19904c29464986c61f77c68585c, type: 3}
   m_Name: GameSettingsSO_Relaxed
   m_EditorClassIdentifier: 
-  gameMode: 0
+  gameMode: 1
   handSetting: 2
   maxLives: 3
-  goal: 55
+  goal: 5
   spawnPattern: 1
   balloonPrefabs:
   - {fileID: 6056930978616778079, guid: 417def5420a7d55458e19120433e2ca8, type: 3}
@@ -28,4 +28,4 @@ MonoBehaviour:
   spawnTime: 2
   rightSpawnChance: 0.7
   floatStrengthModifier: 1
-  environment: 1
+  environment: 0
