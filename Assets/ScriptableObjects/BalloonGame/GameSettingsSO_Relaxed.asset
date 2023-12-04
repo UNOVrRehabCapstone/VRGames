@@ -28,4 +28,4 @@ MonoBehaviour:
   spawnTime: 2
   rightSpawnChance: 0.7
   floatStrengthModifier: 1
-  environment: 0
+  environment: 1

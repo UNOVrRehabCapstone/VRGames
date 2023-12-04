@@ -7,6 +7,8 @@ public class Balloon_Target_Base : Balloon
 {
     private int numOfTargetsRemaining = 6;
 
+    public int testInt = 100;
+
     private void Start()
     {
         this.isPersistent = true;
@@ -14,6 +16,14 @@ public class Balloon_Target_Base : Balloon
 
     public override void OnTriggerEnter(Collider other)
     {
+        if(other.gameObject.layer == LayerMask.NameToLayer("Child"))
+        {
+            Debug.Log("Child layer entered");
+        }
+        if(other.gameObject.layer == LayerMask.NameToLayer("Parent"))
+        {
+            Debug.Log("Parent layer entered");
+        }
 
     }
 

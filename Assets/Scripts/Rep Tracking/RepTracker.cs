@@ -59,11 +59,11 @@ public class RepTracker : MonoBehaviour
             }
         }
 
-        if (lRender != null)
-            TrackLeftReps();
+      //  if (lRender != null)
+           // TrackLeftReps();
 
-        if (rRender != null)
-            TrackRightReps();
+       // if (rRender != null)
+          //  TrackRightReps();
     }
 
     private void TrackLeftReps()

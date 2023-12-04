@@ -4,8 +4,16 @@ using UnityEngine;
 
 public class Balloon_Target_Bullseye : MonoBehaviour
 {
+
+    private Balloon_Target_Base baseScript;
+   private void Start()
+    {
+        baseScript = transform.parent.transform.parent.GetComponent<Balloon_Target_Base>();
+    }
+
     private void Update()
     {// NOTE THIS MAY NOT WORK IN VR, HAVE NOT TESTED YET
+
         if (Input.GetMouseButtonDown(0))
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -21,18 +29,33 @@ public class Balloon_Target_Bullseye : MonoBehaviour
         }
     }
 
-    public  void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
         {
+            baseScript.TargetHit();
             Destroy(gameObject);
+            if (other != null)
+            {
+                if( gameObject.CompareTag("Balloon_Stream_Powerup") || 
+                    gameObject.CompareTag("SpawnStreamMember")      ||
+                    gameObject.CompareTag("SpawnStreamMemberLast"))
+                    {
+                    Debug.Log("Do not destroy dart");
+                }
+                else
+                {
+                    DartManager.Instance.DespawnDart(other.gameObject.transform.parent.gameObject);
+                }
+                
+            }
         }
     }
 
 
     protected bool IsCorrectDart(GameObject dart)
     {
-        GameObject spawnLocation = transform.parent.GetComponent<Balloon>().GetSpawnLoc();
+        GameObject spawnLocation = baseScript.GetSpawnLoc();
         return
 
             (spawnLocation.CompareTag("BalloonSpawn_Left") && DartManager.Instance.IsLeftDart(dart))

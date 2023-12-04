@@ -84,10 +84,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Parent
   - Water
   - UI
-  - 
+  - Child
   - 
   - 
   - 

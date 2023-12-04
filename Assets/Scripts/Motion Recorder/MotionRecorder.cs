@@ -11,9 +11,9 @@ public class MotionRecorder : MonoBehaviour
 
     private void Start()
     {
-        _inputData = GetComponent<InputData>();
-        networkManager = NetworkManager.getManager();
-        StartCoroutine(PatientCoordinates());
+       // _inputData = GetComponent<InputData>();
+      //  networkManager = NetworkManager.getManager();
+       // StartCoroutine(PatientCoordinates());
     }
 
     private void Update()
