@@ -13,9 +13,6 @@ namespace Classes.Managers
     {
         public static BalloonGameplayManager Instance {get; private set;}
         [SerializeField] private ParticleSystem confettiSystem;
-        //[SerializeField] private GameObject     meadow;
-        //[SerializeField] private GameObject     balloonEnclosure;
-
 
         public delegate void AchievementUpdateEventHandler(string senderTag);
         public static event AchievementUpdateEventHandler OnAchievementUpdate;
@@ -66,14 +63,6 @@ namespace Classes.Managers
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
-
-            
-            /* Set environment */
-            /*if (this.gameSettings.environment == GameSettingsSO.Environment.ORIGINAL) {
-                Instantiate(this.balloonEnclosure);
-            } else {
-                Instantiate(this.meadow);
-            }*/
 
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
