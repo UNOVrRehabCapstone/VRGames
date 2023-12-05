@@ -16,7 +16,7 @@ MonoBehaviour:
   handSetting: 2
   maxLives: 49
   goal: 1000
-  spawnPattern: 2
+  spawnPattern: 1
   balloonPrefabs:
   - {fileID: 6056930978616778079, guid: 417def5420a7d55458e19120433e2ca8, type: 3}
   - {fileID: 2947947452638201396, guid: 59924cbfabd96b84795dec404469e7cc, type: 3}
