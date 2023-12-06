@@ -26,12 +26,6 @@ namespace Classes.Managers
                 game mode the user selects. */
         //public new GameSettingsSO                   gameSettings;
        // public new int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
-
-
-       private void Awake()
-       {
-           this.gameSettings.environment = (GameSettingsSO.Environment)Int16.Parse(SocketClasses.BalloonGameSettingsValues.environment);
-       }
        
         new void Start()
         {

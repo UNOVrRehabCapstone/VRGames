@@ -33,7 +33,7 @@ namespace SocketClasses
         //NOTE - ballonGameSettingsMaxLives must be set to 3 for careerMode to function correctly.
         
         public static string balloonGameMode = "1"; /* 0 = Career, 1 = Custom, 2 = Manual */
-        public static string environment = "1";     /* 0 = Balloon Enclosure,  1 = Meadow */
+        public static string environment = "0";     /* 0 = Balloon Enclosure,  1 = Meadow */
 
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;

@@ -96,6 +96,7 @@ namespace Network
              {
                  Debug.Log("Started Game");
                  var obj = JsonConvert.DeserializeObject<SocketClasses.StartGame>(payload);
+                 SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
                  switch(obj.game) {
                     case "3":
                         SceneManager.LoadScene("Planes");
@@ -114,7 +115,7 @@ namespace Network
                         break;
                  }
 
-                 SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
+                 
              });
 
             _socket.On("test", (string payload) => {

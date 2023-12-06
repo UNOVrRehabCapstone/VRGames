@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -25,6 +26,7 @@ namespace Classes.Managers {
         private void Start()
         {
             this.gameSettings = BalloonGameplayManager.Instance.gameSettings;
+            this.gameSettings.environment = (GameSettingsSO.Environment)Int16.Parse(SocketClasses.BalloonGameSettingsValues.environment);
 
             if (this.gameSettings.environment == GameSettingsSO.Environment.ORIGINAL) {
                 Instantiate(this.balloonEnclosure);
