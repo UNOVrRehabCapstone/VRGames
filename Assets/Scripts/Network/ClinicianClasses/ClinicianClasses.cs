@@ -23,22 +23,32 @@ namespace SocketClasses
         public int careerModeLevelToPlay;
 
     }
+
     public static class BalloonGameSettingsValues
     {
         //these are the default values for the balloon game that will be loaded if no clinician is controlling the game
         //NOTE - ballonGameSettingsMaxLives must be set to 3 for careerMode to function correctly.
-        public static string balloonGameMode = "1";
-        public static string balloonGameGoal = "10";
-        public static string balloonGameSpecialBalloonFrequency = "25";
-        public static string balloonGameHandSetting = "2";
-        public static string balloonGamePattern = "1";
-        public static string balloonGameMaxLives = "3";
-        public static string balloonGameLeftRightRatio = "0.5";
-        public static int    careerModeLevelToPlay = 0;
+        
+        public static string balloonGameMode = "1"; /* 0 = Career, 1 = Custom, 2 = Manual */
+        public static string environment = "1";     /* 0 = Balloon Enclosure,  1 = Meadow */
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";
+
+        /* SETTINGS SPECIFIC TO CUSTOM GAME MODE */
+        public static string balloonGamePattern  = "1"; /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
+        public static string handGoal = "2";            /* 0 = Left hand, 1 = Right hand , 2 = Both hands */
+        public static string balloonGameGoal = "10";
+        public static string balloonGameSpecialBalloonFrequency = "25";
+        public static string balloonGameHandSetting = "2";
+        public static string balloonGameMaxLives = "3";
+        public static string balloonGameLeftRightRatio = "0.5";
         public static float  spawnTime = 2.5f;
+        public static string numBalloonsSpawnedAtOnce = "2";
+        public static string speedModifier = "1";
+
+        /* SETTINGS SPECIFIC TO CAREER MODE */
+        public static int    careerModeLevelToPlay = 0;
     }
 
     public class BalloonGameData
