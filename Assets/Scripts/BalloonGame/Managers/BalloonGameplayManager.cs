@@ -61,6 +61,7 @@ namespace Classes.Managers
 
                 case GameSettingsSO.GameMode.MANUAL:
                     /* Do nothing; gameplay is dictated by the clinician. */
+                    AchievementManager.Instance.HideAchievementList();
                     break;
 
                 default:
