@@ -21,6 +21,7 @@ namespace SocketClasses
         public string hand;
         public string ratio;
         public int careerModeLevelToPlay;
+
     }
     public static class BalloonGameSettingsValues
     {
@@ -37,6 +38,7 @@ namespace SocketClasses
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";
+        public static float  spawnTime = 2.5f;
     }
 
     public class BalloonGameData

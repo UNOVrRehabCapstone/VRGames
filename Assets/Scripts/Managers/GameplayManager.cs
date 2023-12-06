@@ -102,14 +102,18 @@ public class GameplayManager : MonoBehaviour
     public void PauseGame()
     {
         if (clinicianPauseText != null)
+        {
             clinicianPauseText.SetActive(true);
+        }
         Time.timeScale = 0;
     }
 
     public void ResumeGame()
     {
         if (clinicianPauseText != null)
+        {
             clinicianPauseText.SetActive(false);
+        }
         Time.timeScale = 1;
     }
 

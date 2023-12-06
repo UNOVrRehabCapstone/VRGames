@@ -59,6 +59,12 @@ namespace Network
             FetchName();
         }
 
+        private IEnumerator FlagBalloonStartAfterDelay()
+        {
+            yield return new WaitForSeconds(1);
+            SocketClasses.BalloonGameSettingsValues.balloonStart = true;
+
+        }
 
         private void FetchName()
         {
@@ -98,7 +104,8 @@ namespace Network
                          SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
                          SocketClasses.BalloonGameSettingsValues.balloonStart = false;
                          SceneManager.LoadScene("Balloons");
-                        break;
+
+                         break;
                     case "1":
                         SceneManager.LoadScene("Blocks");
                         break;
@@ -107,8 +114,13 @@ namespace Network
                         break;
                  }
              });
+
+            _socket.On("test", (string payload) => {
+                Debug.Log("Recieved Test!Recieved Test!Recieved Test!Recieved Test!Recieved Test!Recieved Test!");
+            });
             _socket.On("balloonSettings", (string payload) =>
             {
+                Debug.Log(payload);
                 var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameSettings>(payload);
                 SocketClasses.BalloonGameSettingsValues.balloonGameMode = obj.mode;
                 SocketClasses.BalloonGameSettingsValues.balloonGameGoal = obj.target;
@@ -139,7 +151,7 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
-                SocketClasses.BalloonGameSettingsValues.balloonStart = true;
+                StartCoroutine(FlagBalloonStartAfterDelay());
 
             });
 
@@ -207,13 +219,13 @@ namespace Network
             });
 
             _socket.On("pauseGame", (string payload) => {
-                GameplayManager.getManager().ResumeGame();
-                Debug.Log("Unpaused");             
+                GameplayManager.getManager().PauseGame();
+                Debug.Log("Paused");
             });
 
              _socket.On("resumeGame", (string payload) => {
-                GameplayManager.getManager().PauseGame();
-                Debug.Log("Paused");
+                 GameplayManager.getManager().ResumeGame();
+                 Debug.Log("Unpaused");
              });
 
              _socket.On("updatePatientPosition", (string payload) => {

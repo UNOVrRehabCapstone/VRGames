@@ -41,18 +41,17 @@ namespace Classes.Managers
         {
             if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
             {
-                Debug.Log("balloonStart = " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+                Debug.Log("balloonStart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
                 yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
             }
 
 
-            
-
+            RefreshBalloonSettings();
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
-
+            
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
@@ -79,6 +78,7 @@ namespace Classes.Managers
 
         private void CustomGameMode()
         {
+            
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
             this.StartCoroutine(this.WatchScore());
@@ -179,6 +179,7 @@ namespace Classes.Managers
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
         void RefreshBalloonSettings()
         {
+            Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
@@ -186,6 +187,8 @@ namespace Classes.Managers
             this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
+            this.gameSettings.spawnTime = SocketClasses.BalloonGameSettingsValues.spawnTime;
+            Debug.Log(this.gameSettings.spawnTime);
         }
 
 
