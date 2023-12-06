@@ -124,8 +124,6 @@ namespace Network
                 var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameSettings>(payload);
                 SocketClasses.BalloonGameSettingsValues.balloonGameMode = obj.mode;
                 SocketClasses.BalloonGameSettingsValues.balloonGameGoal = obj.target;
-                Debug.Log("Setting mode to play");
-                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
 
                 string frequency;
                 switch (obj.freq)
@@ -147,10 +145,22 @@ namespace Network
                         break;
                 }
                 SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency = frequency;
-                SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting = obj.hand;
+
+                SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
-                SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
+                SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting = obj.hand;
+                Debug.Log("Setting mode to play");
+                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
+                SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
+                SocketClasses.BalloonGameSettingsValues.speedModifier = obj.modifier;
+                SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce = obj.numBalloonsSpawnedAtOnce;
+                SocketClasses.BalloonGameSettingsValues.spawnTime = obj.timeBetweenSpawns;
+                
+                
+                
+                
+                
                 StartCoroutine(FlagBalloonStartAfterDelay());
 
             });
