@@ -10,18 +10,22 @@ namespace SocketClasses
     {
         public string game;
     }
+
     public class BalloonGameSettings
     {
         public string mode;
         public string target;
         public string freq;
-        public string handSetting;
+        public string ratio;
         public string pattern;
         public string lives;
         public string hand;
-        public string ratio;
-        public int careerModeLevelToPlay;
-
+        public srting careerModeLevelToPlay;
+        public string environment;
+        public string modifier;
+        public string numBalloonsSpawnedAtOnce;
+        public string timeBetweenSpawns;
+        
     }
 
     public static class BalloonGameSettingsValues
