@@ -20,12 +20,11 @@ namespace SocketClasses
         public string pattern;
         public string lives;
         public string hand;
-        public srting careerModeLevelToPlay;
+        public string careerModeLevelToPlay;
         public string environment;
         public string modifier;
         public string numBalloonsSpawnedAtOnce;
         public string timeBetweenSpawns;
-        
     }
 
     public static class BalloonGameSettingsValues
@@ -46,12 +45,12 @@ namespace SocketClasses
         public static string balloonGameSpecialBalloonFrequency = "25";
         public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.5";
-        public static float  spawnTime = 2.5f;
+        public static string spawnTime = "2.5";
         public static string numBalloonsSpawnedAtOnce = "2";
         public static string speedModifier = "1";
 
         /* SETTINGS SPECIFIC TO CAREER MODE */
-        public static int    careerModeLevelToPlay = 0;
+        public static string careerModeLevelToPlay = "0";
     }
 
     public class BalloonGameData
