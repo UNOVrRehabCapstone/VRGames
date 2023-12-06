@@ -181,14 +181,28 @@ namespace Classes.Managers
         {
             Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
+            this.gameSettings.environment = (GameSettingsSO.Environment)Int16.Parse(SocketClasses.BalloonGameSettingsValues.environment);
+
+            this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
+            this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
-            this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
             this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
-            this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
             this.gameSettings.spawnTime = SocketClasses.BalloonGameSettingsValues.spawnTime;
+            this.gameSettings.maxNumBalloonsSpawnedAtOnce = Int16.Parse(SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce);
+            this.gameSettings.floatStrengthModifier = float.Parse(SocketClasses.BalloonGameSettingsValues.speedModifier);
+
+            /* Verify game settings are being set. */
+            Debug.Log(this.gameSettings.spawnPattern);
+            Debug.Log(this.gameSettings.handSetting);
+            Debug.Log(this.gameSettings.goal);
+            Debug.Log(this.gameSettings.specialBalloonSpawnChance);
+            Debug.Log(this.gameSettings.maxLives);
+            Debug.Log(this.gameSettings.rightSpawnChance);
             Debug.Log(this.gameSettings.spawnTime);
+            Debug.Log(this.gameSettings.maxNumBalloonsSpawnedAtOnce);
+            Debug.Log(this.gameSettings.floatStrengthModifier);
         }
 
 
