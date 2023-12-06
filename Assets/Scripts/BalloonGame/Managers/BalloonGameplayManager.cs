@@ -11,7 +11,7 @@ namespace Classes.Managers
 {
     public class BalloonGameplayManager : GameplayManager
     {
-        public static BalloonGameplayManager Instance {get; private set;}
+        //public static BalloonGameplayManager Instance {get; private set;}
         [SerializeField] private ParticleSystem confettiSystem;
 
         public delegate void AchievementUpdateEventHandler(string senderTag);
@@ -24,21 +24,10 @@ namespace Classes.Managers
         /*TODO: Note that this is currently being set in the editor for testing purposes, but 
                 this needs to be changed so that the settings are determined based on whatever
                 game mode the user selects. */
-        public GameSettingsSO                   gameSettings;
-        public  int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
+        //public new GameSettingsSO                   gameSettings;
+       // public new int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
 
-        private void Awake()
-	    {
-            //Singleton pattern make sure there is only one balloon gameplay manager.
-		    if (Instance != null) {
-			    Debug.LogError("There should only be one balloon gameplay manager.");
-		    }
-		    Instance = this;
 
-            Debug.Log("Balloon gameplay manager active.");
-
-            //RefreshBalloonSettings();
-	    }
 
         new void Start()
         {
@@ -199,10 +188,7 @@ namespace Classes.Managers
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
         }
 
-        public GameSettingsSO GetGameSettings()
-        {
-            return this.gameSettings;
-        }
+
         
         /**
          * Restart() reloads the scene. Useful for automatically reloading the scene when some 

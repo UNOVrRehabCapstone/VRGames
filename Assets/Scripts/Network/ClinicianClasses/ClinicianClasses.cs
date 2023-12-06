@@ -27,14 +27,14 @@ namespace SocketClasses
         //these are the default values for the balloon game that will be loaded if no clinician is controlling the game
         //NOTE - ballonGameSettingsMaxLives must be set to 3 for careerMode to function correctly.
         public static string balloonGameMode = "1";
-        public static string balloonGameGoal = "5";
-        public static string balloonGameSpecialBalloonFrequency = "44";
+        public static string balloonGameGoal = "10";
+        public static string balloonGameSpecialBalloonFrequency = "25";
         public static string balloonGameHandSetting = "2";
         public static string balloonGamePattern = "1";
         public static string balloonGameMaxLives = "3";
-        public static string balloonGameLeftRightRatio = "0.7";
+        public static string balloonGameLeftRightRatio = "0.5";
         public static int    careerModeLevelToPlay = 0;
-        public static bool   balloonStart = false;
+        public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";
     }
