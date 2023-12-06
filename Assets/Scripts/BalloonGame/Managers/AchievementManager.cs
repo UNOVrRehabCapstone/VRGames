@@ -61,7 +61,7 @@ public class AchievementManager : MonoBehaviour
         //Setup username
         temp = transform.Find("Achievement List").Find("Canvas").Find("Name");
         textMesh = temp.GetComponent<TextMeshProUGUI>();
-        textMesh.text = SocketClasses.BalloonGameSettingsValues.userName + "'s Achievements!";
+        textMesh.text = SocketClasses.BalloonGameDataValues.userName + "'s Achievements!";
 
         //Setup array of achievement objects
         achievementObjects = GameObject.FindGameObjectsWithTag("Achievement");
@@ -283,6 +283,12 @@ public class AchievementManager : MonoBehaviour
             StartCoroutine(DisaplyNextAchievement());
         }
         achievement.isAchieved = true;
+        if (Network.NetworkManager.Instance)
+        {
+            Network.NetworkManager.Instance.UpdateBalloonProgression();
+
+        }
+
         //confettiSystem.Play();
     }
 

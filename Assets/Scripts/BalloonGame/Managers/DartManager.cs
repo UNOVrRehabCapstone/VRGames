@@ -119,11 +119,15 @@ public class DartManager : MonoBehaviour
     public void AdjustLeftSpawn(float x, float y, float z)
     {
         Utils.AdjustPosition(this.leftDartSpawn, x, y, z);
+        Utils.AdjustPosition(this.leftDart, x, y, z);
+        Utils.AdjustPosition(this.leftDart2, x, y, z);
     }
 
     public void AdjustRightSpawn(float x, float y, float z)
     {
         Utils.AdjustPosition(this.rightDartSpawn, x, y, z);
+        Utils.AdjustPosition(this.rightDart, x, y, z);
+        Utils.AdjustPosition(this.rightDart2, x, y, z);
     }
 
     public void AdjustBothSpawns(float x, float y, float z)

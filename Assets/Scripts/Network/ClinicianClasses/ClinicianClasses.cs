@@ -37,7 +37,7 @@ namespace SocketClasses
 
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
-        public static string userName = "Default User";
+
 
         /* SETTINGS SPECIFIC TO CUSTOM GAME MODE */
         public static string balloonGamePattern  = "1";    /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
@@ -64,16 +64,38 @@ namespace SocketClasses
         public string levelThreeScore;
         public string levelFourScore;
         public string levelFiveScore;
+        public bool ach0;
+        public bool ach1;
+        public bool ach2;
+        public bool ach3;
+        public bool ach4;
+        public bool ach5;
+        public bool ach6;
+        public bool ach7;
+        public bool ach8;
+        public bool ach9;
     }
 
     public static class BalloonGameDataValues
     {
+        public static string userName = "Default User";
         public static string achievementProgress = "0000000000";
         public static string levelOneScore = "0";
         public static string levelTwoScore = "0";
         public static string levelThreeScore = "0";
         public static string levelFourScore = "0";
         public static string levelFiveScore = "0";
+        public static bool ach0 = false;
+        public static bool ach1 = false;
+        public static bool ach2 = false;
+        public static bool ach3 = false;
+        public static bool ach4 = false;
+        public static bool ach5 = false;
+        public static bool ach6 = false;
+        public static bool ach7 = false;
+        public static bool ach8 = false;
+        public static bool ach9 = false;
+
 
         public static string[] levelScores = {levelOneScore, levelTwoScore,
             levelThreeScore, levelFourScore, levelFiveScore};

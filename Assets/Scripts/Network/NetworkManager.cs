@@ -151,10 +151,17 @@ namespace Network
 
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
-                SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
+                if(obj.mode == "0")
+                {
+                    SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = "3";
+                }
+                else {
+
+                    SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives = obj.lives;
+                }
+                
                 SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting = obj.hand;
                 Debug.Log("Setting mode to play");
-                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
                 //SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
                 SocketClasses.BalloonGameSettingsValues.speedModifier = obj.modifier;
                 SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce = obj.numBalloonsSpawnedAtOnce;
@@ -194,36 +201,114 @@ namespace Network
             {
                 var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameData>(payload);
                 Debug.Log(payload);
-                Debug.Log(obj.achievementProgress);
                 Debug.Log(obj.userName);
-                if(obj.userName != null)
+                if (obj.userName != null)
                 {
+                    SocketClasses.BalloonGameDataValues.userName = obj.userName;
                     //SetPatientName(obj.userName);
                     //patientName.SetText(obj.userName);
                 }
+                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelOneScore;
+                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelTwoScore;
+                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelThreeScore;
+                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelFourScore;
+                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelFiveScore;
                 Debug.Log(patientName.text);
-                for( int i = 0; i < obj.achievementProgress.Length; i++)
+                if (obj.ach0)
                 {
-                    char bit = obj.achievementProgress[i];
-                    switch (bit)
-                    {
-                        case '0':
-                            {
-                                SocketClasses.Achievements.AllAchievements[i].isAchieved = false;
-                                break;
-                            }
-                        case '1':
-                            {
-                                SocketClasses.Achievements.AllAchievements[i].isAchieved = true;
-                                break;
-                            }
-                        default:
-                            {
-                                break;
-                            }
-                    }
-
+                    SocketClasses.Achievements.AllAchievements[0].isAchieved = true;
                 }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[0].isAchieved = false;
+                }
+
+                if (obj.ach1)
+                {
+                    SocketClasses.Achievements.AllAchievements[1].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[1].isAchieved = false;
+                }
+
+                if (obj.ach2)
+                {
+                    SocketClasses.Achievements.AllAchievements[2].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[2].isAchieved = false;
+                }
+
+                if (obj.ach3)
+                {
+                    SocketClasses.Achievements.AllAchievements[3].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[3].isAchieved = false;
+                }
+
+                if (obj.ach4)
+                {
+                    SocketClasses.Achievements.AllAchievements[4].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[4].isAchieved = false;
+                }
+
+
+                if (obj.ach5)
+                {
+                    SocketClasses.Achievements.AllAchievements[5].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[5].isAchieved = false;
+                }
+
+
+                if (obj.ach6)
+                {
+                    SocketClasses.Achievements.AllAchievements[6].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[6].isAchieved = false;
+                }
+
+                if (obj.ach7)
+                {
+                    SocketClasses.Achievements.AllAchievements[7].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[7].isAchieved = false;
+                }
+
+
+                if (obj.ach8)
+                {
+                    SocketClasses.Achievements.AllAchievements[8].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[8].isAchieved = false;
+                }
+
+                if (obj.ach9)
+                {
+                    SocketClasses.Achievements.AllAchievements[9].isAchieved = true;
+                }
+                else
+                {
+                    SocketClasses.Achievements.AllAchievements[9].isAchieved = false;
+                }
+
+
+
             });
 
             _socket.On("pauseGame", (string payload) => {
@@ -231,7 +316,26 @@ namespace Network
                 Debug.Log("Paused");
             });
 
-             _socket.On("resumeGame", (string payload) => {
+            _socket.On("moveDartUp", (string payload) =>
+            {
+                Debug.Log("Moving");
+                if (DartManager.Instance)
+                {
+                    DartManager.Instance.AdjustBothSpawns(0.00f, 0.05f, 0.00f);
+                }
+            });
+
+            _socket.On("moveDartDown", (string payload) =>
+
+            {
+                Debug.Log("Moving");
+                if (DartManager.Instance)
+                {
+                    DartManager.Instance.AdjustBothSpawns(0.00f, -0.05f, 0.00f);
+                }
+            });
+
+            _socket.On("resumeGame", (string payload) => {
                  GameplayManager.getManager().ResumeGame();
                  Debug.Log("Unpaused");
              });
@@ -362,6 +466,27 @@ namespace Network
         public void SendRepTrackingData(string message)
         {
             _socket.Emit("repTrackingDataServer", clinicianId + ":" + message, true);
+        }
+
+        public void UpdateBalloonProgression()
+        {
+            _socket.Emit("balloonProgressionUpdate","userName:" + SocketClasses.BalloonGameDataValues.userName
+                 + ":levelOneScore:" + SocketClasses.BalloonGameDataValues.levelOneScore
+                + ":levelTwoScore:" + SocketClasses.BalloonGameDataValues.levelTwoScore
+                + ":levelThreeScore:" + SocketClasses.BalloonGameDataValues.levelThreeScore
+                + ":levelFourScore:" + SocketClasses.BalloonGameDataValues.levelFourScore
+                + ":levelFiveScore:" + SocketClasses.BalloonGameDataValues.levelFiveScore
+                + ":ach0:" + SocketClasses.Achievements.AllAchievements[0].isAchieved
+                + ":ach1:" + SocketClasses.Achievements.AllAchievements[1].isAchieved
+                + ":ach2:" + SocketClasses.Achievements.AllAchievements[2].isAchieved
+                + ":ach3:" + SocketClasses.Achievements.AllAchievements[3].isAchieved
+                + ":ach4:" + SocketClasses.Achievements.AllAchievements[4].isAchieved
+                + ":ach5:" + SocketClasses.Achievements.AllAchievements[5].isAchieved
+                + ":ach6:" + SocketClasses.Achievements.AllAchievements[6].isAchieved
+                + ":ach7:" + SocketClasses.Achievements.AllAchievements[7].isAchieved
+                + ":ach8:" + SocketClasses.Achievements.AllAchievements[8].isAchieved
+                + ":ach9:" + SocketClasses.Achievements.AllAchievements[9].isAchieved
+                , true);
         }
     }
 }

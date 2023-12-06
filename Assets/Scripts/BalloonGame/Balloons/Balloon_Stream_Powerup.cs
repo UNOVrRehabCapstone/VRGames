@@ -13,6 +13,18 @@ public class Balloon_Stream_Powerup : Balloon
     public GameObject BalloonStream;
     private GameObject spawnPoint;
 
+
+    public override void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
+        {
+            this.AddPoints();
+            this.PlayEffects(this.isPersistent);
+            this.ExtraPopEffects();
+
+        }
+    }
+
     public override void ExtraPopEffects()
     {
         this.PopBalloonEvent();

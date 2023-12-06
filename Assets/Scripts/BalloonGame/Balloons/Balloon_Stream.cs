@@ -28,4 +28,16 @@ public class Balloon_Stream : Balloon
         }
         BalloonManager.Instance.KillBalloon(gameObject);
     }
+
+
+    public override void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
+        {
+            this.AddPoints();
+            this.PlayEffects(this.isPersistent);
+            this.ExtraPopEffects();
+
+        }
+    }
 }

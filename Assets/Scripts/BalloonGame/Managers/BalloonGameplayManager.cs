@@ -75,7 +75,8 @@ namespace Classes.Managers
 
         private void CustomGameMode()
         {
-            
+            this.gameSettings.maxLives = 344;
+            Debug.Log(this.gameSettings.maxLives);
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
             this.StartCoroutine(this.WatchScore());
@@ -85,6 +86,7 @@ namespace Classes.Managers
         private void CareerGameMode()
         {
             /* TODO */
+            Debug.Log("CareerMode Reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
             this.setCurrentLevel(Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay));
@@ -94,13 +96,14 @@ namespace Classes.Managers
             this.StartCoroutine(this.careerModeRoutine);
         }
 
+
         IEnumerator PlayCareerLevel(CareerModeLevel level)
         {
             GameObject balloon;
             // spawnSchedule is an array of strings. If value is numerical, they get interpreted as a delay
             // if value is alphabetical, they're intepreted as the tag for the balloon to be spawned
             yield return ScoreboardCountdown(3, false);
-            PointsManager.updateScoreboardMessage("Playing Level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay +1));
+            PointsManager.updateScoreboardMessage("Playing Level " + (Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay) +1));
             for (int i = 0; i < level.schedule.Length; i++)
             {
                 string value = level.schedule[i];
@@ -133,13 +136,54 @@ namespace Classes.Managers
                         {
                             level.score = this.playerLives;
                         }
-                        PointsManager.updateScoreboardMessage("You beat level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay + 1)
+                        PointsManager.updateScoreboardMessage("You beat level " + (Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay) + 1)
                             + " with a score of " + level.score + "!");
                         // Do achievement udpates
+                        if(this.gameSettings.environment == GameSettingsSO.Environment.MEADOW)
+                        {
+                            SocketClasses.Achievements.LevelsPlayed[1] = true;
+                        }
+                        else
+                        {
+                            SocketClasses.Achievements.LevelsPlayed[0] = false;
+                        }
+
+                        switch (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay)
+                        {
+                            case "0":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelOneScore = level.score.ToString();
+                                    Debug.Log(level.score.ToString());
+                                    break;
+                                }
+                            case "1":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelTwoScore = level.score.ToString();
+                                    break;
+                                }
+                            case "2":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelThreeScore = level.score.ToString();
+                                    break;
+                                }
+                            case "3":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelFourScore = level.score.ToString();
+                                    break;
+                                }
+                            case "4":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelFiveScore = level.score.ToString();
+                                    break;
+                                }
+                            default:
+                                break;
+                        }
                         this.CheckFullControl();
                         this.CheckOverachiever();
                         this.CheckWorldTraveler();
                         this.CheckFinishCareerMode();
+                        Network.NetworkManager.Instance.UpdateBalloonProgression();
                         AchievementManager.Instance.ShowAchievementList();
                         yield return null;
                     }
@@ -154,6 +198,7 @@ namespace Classes.Managers
 
         public void setCurrentLevel(int level)
         {
+            Debug.Log("setCurrentLevel reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             if (level >= 0 && level < 5)
             {
                 this.currentLevel = SocketClasses.CareerModeLevels.levels[level];
