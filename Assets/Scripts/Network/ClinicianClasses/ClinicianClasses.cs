@@ -9,6 +9,7 @@ namespace SocketClasses
     public class StartGame
     {
         public string game;
+        public string environment;
     }
 
     public class BalloonGameSettings
@@ -21,7 +22,6 @@ namespace SocketClasses
         public string lives;
         public string hand;
         public string careerModeLevelToPlay;
-        public string environment;
         public string modifier;
         public string numBalloonsSpawnedAtOnce;
         public string timeBetweenSpawns;
@@ -34,6 +34,7 @@ namespace SocketClasses
         
         public static string balloonGameMode = "1"; /* 0 = Career, 1 = Custom, 2 = Manual */
         public static string environment = "1";     /* 0 = Balloon Enclosure,  1 = Meadow */
+
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
         public static string userName = "Default User";

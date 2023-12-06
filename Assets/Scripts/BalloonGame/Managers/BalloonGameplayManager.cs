@@ -28,13 +28,16 @@ namespace Classes.Managers
        // public new int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
 
 
-
+       private void Awake()
+       {
+           this.gameSettings.environment = (GameSettingsSO.Environment)Int16.Parse(SocketClasses.BalloonGameSettingsValues.environment);
+       }
+       
         new void Start()
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Welcome to the Balloon Game!");
             this.StartCoroutine(this.WaitForClinThenStart());
-           
         }
 
         private IEnumerator WaitForClinThenStart()
@@ -46,7 +49,6 @@ namespace Classes.Managers
             }
 
             RefreshBalloonSettings();
-            EnvironmentManager.Instance.SetEnvironment();
 
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
@@ -182,7 +184,6 @@ namespace Classes.Managers
         {
             Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
-            this.gameSettings.environment = (GameSettingsSO.Environment)Int16.Parse(SocketClasses.BalloonGameSettingsValues.environment);
 
             this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
             this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);

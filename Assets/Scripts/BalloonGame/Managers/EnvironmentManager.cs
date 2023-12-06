@@ -22,7 +22,7 @@ namespace Classes.Managers {
         }
 
         // Start is called before the first frame update
-        public void SetEnvironment()
+        private void Start()
         {
             this.gameSettings = BalloonGameplayManager.Instance.gameSettings;
 

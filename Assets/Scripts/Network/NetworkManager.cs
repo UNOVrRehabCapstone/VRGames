@@ -113,6 +113,8 @@ namespace Network
                         SceneManager.LoadScene("Initialize");
                         break;
                  }
+
+                 SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
              });
 
             _socket.On("test", (string payload) => {
@@ -152,7 +154,7 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting = obj.hand;
                 Debug.Log("Setting mode to play");
                 SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
-                SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
+                //SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
                 SocketClasses.BalloonGameSettingsValues.speedModifier = obj.modifier;
                 SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce = obj.numBalloonsSpawnedAtOnce;
                 SocketClasses.BalloonGameSettingsValues.spawnTime = obj.timeBetweenSpawns;
