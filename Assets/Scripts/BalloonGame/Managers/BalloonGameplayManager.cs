@@ -45,8 +45,9 @@ namespace Classes.Managers
                 yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
             }
 
-
             RefreshBalloonSettings();
+            EnvironmentManager.Instance.SetEnvironment();
+
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;

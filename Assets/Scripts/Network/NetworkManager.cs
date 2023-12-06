@@ -157,12 +157,7 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce = obj.numBalloonsSpawnedAtOnce;
                 SocketClasses.BalloonGameSettingsValues.spawnTime = obj.timeBetweenSpawns;
                 
-                
-                
-                
-                
                 StartCoroutine(FlagBalloonStartAfterDelay());
-
             });
 
             _socket.On("balloonSpawn", (string payload) => {
