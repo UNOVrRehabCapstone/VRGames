@@ -36,11 +36,10 @@ namespace SocketClasses
         public static string userName = "Default User";
 
         /* SETTINGS SPECIFIC TO CUSTOM GAME MODE */
-        public static string balloonGamePattern  = "1"; /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
-        public static string handGoal = "2";            /* 0 = Left hand, 1 = Right hand , 2 = Both hands */
+        public static string balloonGamePattern  = "1";    /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
+        public static string balloonGameHandSetting = "2"; /* 0 = Left hand, 1 = Right hand , 2 = Both hands */
         public static string balloonGameGoal = "10";
         public static string balloonGameSpecialBalloonFrequency = "25";
-        public static string balloonGameHandSetting = "2";
         public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.5";
         public static float  spawnTime = 2.5f;
