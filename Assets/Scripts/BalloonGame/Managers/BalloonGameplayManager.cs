@@ -90,7 +90,7 @@ namespace Classes.Managers
             /* TODO */
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
-            this.setCurrentLevel(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+            this.setCurrentLevel(Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay));
             this.careerModeRoutine = PlayCareerLevel(this.currentLevel);
             //update scoreboard with countdown
 
@@ -189,7 +189,7 @@ namespace Classes.Managers
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
             this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
-            this.gameSettings.spawnTime = SocketClasses.BalloonGameSettingsValues.spawnTime;
+            this.gameSettings.spawnTime = float.Parse(SocketClasses.BalloonGameSettingsValues.spawnTime);
             this.gameSettings.maxNumBalloonsSpawnedAtOnce = Int16.Parse(SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce);
             this.gameSettings.floatStrengthModifier = float.Parse(SocketClasses.BalloonGameSettingsValues.speedModifier);
 
