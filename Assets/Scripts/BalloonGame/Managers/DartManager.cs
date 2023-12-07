@@ -135,4 +135,12 @@ public class DartManager : MonoBehaviour
         AdjustLeftSpawn(x, y, z);
         AdjustRightSpawn(x, y, z);
     }
+
+    private void OnDestroy()
+    {
+        Destroy(this.leftDart);
+        Destroy(this.leftDart2);
+        Destroy(this.rightDart);
+        Destroy(this.rightDart2);
+    }
 }

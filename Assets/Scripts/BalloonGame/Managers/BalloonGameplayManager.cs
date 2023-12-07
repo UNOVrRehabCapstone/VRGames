@@ -278,7 +278,7 @@ namespace Classes.Managers
             /* Make sure to destroy the darts on restart. This is necessary becauase if the player 
                is holding a dart between scene resets, the held darts will not be destroyed 
                resulting in duplicated darts. TODO: There has to be a better way of doing this. */
-            DartManager.Instance.DestroyDarts();
+            //DartManager.Instance.DestroyDarts();
 
 
             //Check if the clinician is controlling the game. If they are, wait until they manually start the game again
