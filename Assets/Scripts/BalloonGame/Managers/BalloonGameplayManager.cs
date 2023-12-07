@@ -76,10 +76,10 @@ namespace Classes.Managers
 
         private void CustomGameMode()
         {
-            this.gameSettings.maxLives = 344;
-            Debug.Log(this.gameSettings.maxLives);
             AchievementManager.Instance.HideAchievementList();
-            this.StartCoroutine(this.WatchPlayerLives());
+            if (this.gameSettings.maxLives < 50) {
+                this.StartCoroutine(this.WatchPlayerLives());
+            }
             this.StartCoroutine(this.WatchScore());
             BalloonManager.Instance.StartAutomaticSpawner(3.0f);
         }
