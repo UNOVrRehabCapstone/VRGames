@@ -1,22 +1,26 @@
+/**
+ * The AchievementPopup class handles the effects of displaying achievements when they occur. 
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class AchievementPopup : MonoBehaviour
 {
-    public float floatSpeed = 1.0f; // Adjust the speed of floating
-    public float hoverTime = 3.0f; // Adjust the time the object hovers in seconds
+    public float floatSpeed = 1.0f; /* How fast an achievement rises. */
+    public float hoverTime = 3.0f;  /* How long an achievment hovers. */
 
     private float initialY;
     private float elapsedTime = 0.0f;
 
 
-    void Start()
+    private void Start()
     {
         initialY = transform.position.y;
     }
 
-    void Update()
+    private void Update()
     {
         // Move the object upwards
         transform.Translate(Vector3.up * floatSpeed * Time.deltaTime);
@@ -36,15 +40,15 @@ public class AchievementPopup : MonoBehaviour
         }
 
     }
-
-
-
+    
+    /*
     public void ShowPopUp(string nameOfAchievement,string descriptionOfAchievement)
     {
 
        // Invoke("HidePopup", displayDuration);
 
-    }
+    }*/
+
     private void HidePopup()
     {
         // Hide the popup
