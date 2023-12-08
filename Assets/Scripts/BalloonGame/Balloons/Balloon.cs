@@ -1,14 +1,13 @@
-/**
- * The Balloon class represent a generic balloon. A generic balloon is a balloon that is worth 
- * one point. In the normal and endless modes, it is the only balloon that results in loss 
- * of lives.
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
+/**
+ * The Balloon class represent a generic balloon. A generic balloon is a balloon that is worth 
+ * one point. In the normal and endless modes, it is the only balloon that results in loss 
+ * of lives.
+ */
 public class Balloon : _BaseBalloon
 {
     public delegate void BalloonPoppedEventHandler(string senderTag);
@@ -24,6 +23,13 @@ public class Balloon : _BaseBalloon
         transform.Rotate(Vector3.up * Time.deltaTime * rotationSpeed);
     }
 
+    /**
+     * The OnTriggerEnter method handles the logic for when another object collides with the object 
+     * this script is attached to.
+     *
+     * @param other The object that collided with the collider of the gameobject this script is 
+     * attached to.
+     */
     public virtual void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("DartPoint") && this.IsCorrectDart(other.gameObject.transform.parent.gameObject))
@@ -39,6 +45,11 @@ public class Balloon : _BaseBalloon
         }
     }
 
+    /**
+     * The PlayEffects method handles the effects of a balloon when it is popped.
+     *
+     * @param persist determines whether the effects should be destroyed or not upon completion.
+     */
     public virtual void PlayEffects(bool persist)
     {
         if (persist)
@@ -52,7 +63,6 @@ public class Balloon : _BaseBalloon
             this.PlaySound();
         }
     }
-
 
     private void PlaySound()
     {
@@ -107,6 +117,8 @@ public class Balloon : _BaseBalloon
     /**
      * The IsCorrectDart method returns true or false depending on whether the balloon and the dart 
      * are on the same side. 
+     *
+     * @param dart The dart to be checked against.
      */
     protected bool IsCorrectDart(GameObject dart)
     {
@@ -116,7 +128,10 @@ public class Balloon : _BaseBalloon
          || (this.spawnLoc.CompareTag("BalloonSpawn_Right") && DartManager.Instance.IsRightDart(dart));
     }
 
-    /* For testing purposes. Useful for testing on the computer rather than in the headset. */
+    /**
+     * The OnMouseDown method is for testing purposes. It is useful for testing on the computer 
+     * rather than in the headset. 
+     */
     public virtual void OnMouseDown()
     {
         //Debug.Log(this.ToString() + " popped. Worth " + this.pointValue + " points.");
@@ -126,6 +141,10 @@ public class Balloon : _BaseBalloon
         BalloonManager.Instance.KillBalloon(gameObject);
     }
 
+    /**
+     * The PopBalloonEvent method handles any events that must take place for any type of balloon 
+     * that is popped.
+     */
     public virtual void PopBalloonEvent()
     {
         if (this.messageOverride.Equals(""))
@@ -139,7 +158,10 @@ public class Balloon : _BaseBalloon
     }
 
 
-    // ExtraPopEffects is where extra effects (like adding extra lives for the life balloon) go
+    /**
+     * The ExtraPopEffects method is where extra effects (like adding extra lives for the life 
+     * balloon) go.
+     */
     public virtual void ExtraPopEffects()
     {
         
