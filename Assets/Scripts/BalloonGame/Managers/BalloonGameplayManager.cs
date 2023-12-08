@@ -9,9 +9,13 @@ using System.Linq;
 
 namespace Classes.Managers
 {
+    /**
+     * The BalloonGameplayManager controls how the game is played, that is, it controls things like 
+     * when to start and stop a game and watching conditions for when a game should be terminated.
+     */
     public class BalloonGameplayManager : GameplayManager
     {
-        public static BalloonGameplayManager Instance {get; private set;}
+        //public static BalloonGameplayManager Instance {get; private set;}
         [SerializeField] private ParticleSystem confettiSystem;
 
         public delegate void AchievementUpdateEventHandler(string senderTag);
@@ -19,51 +23,29 @@ namespace Classes.Managers
 
         private CareerModeLevel currentLevel;
         private IEnumerator careerModeRoutine;
-
-
-        /*TODO: Note that this is currently being set in the editor for testing purposes, but 
-                this needs to be changed so that the settings are determined based on whatever
-                game mode the user selects. */
-        public GameSettingsSO                   gameSettings;
-        public  int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
-
-        private void Awake()
-	    {
-            //Singleton pattern make sure there is only one balloon gameplay manager.
-		    if (Instance != null) {
-			    Debug.LogError("There should only be one balloon gameplay manager.");
-		    }
-		    Instance = this;
-
-            Debug.Log("Balloon gameplay manager active.");
-
-            //RefreshBalloonSettings();
-	    }
-
+       
         new void Start()
         {
             base.Start();
             PointsManager.updateScoreboardMessage("Welcome to the Balloon Game!");
             this.StartCoroutine(this.WaitForClinThenStart());
-           
         }
 
         private IEnumerator WaitForClinThenStart()
         {
             if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
             {
-                Debug.Log("balloonStart = " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+                Debug.Log("balloonStart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
                 yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
             }
 
-
-            
+            RefreshBalloonSettings();
 
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
             this.playerLives = this.gameSettings.maxLives;
             PointsManager.updateScoreboard();
-
+            
             switch (this.gameSettings.gameMode) {
                 /* CAREER: Wait for clinician to start a level.*/
                 case GameSettingsSO.GameMode.CAREER:
@@ -76,6 +58,7 @@ namespace Classes.Managers
 
                 case GameSettingsSO.GameMode.MANUAL:
                     /* Do nothing; gameplay is dictated by the clinician. */
+                    AchievementManager.Instance.HideAchievementList();
                     break;
 
                 default:
@@ -85,36 +68,37 @@ namespace Classes.Managers
             }
 
             PointsManager.updateScoreboardMessage("Game mode set to " + this.gameSettings.gameMode.ToString());
-
         }
 
         private void CustomGameMode()
         {
             AchievementManager.Instance.HideAchievementList();
-            this.StartCoroutine(this.WatchPlayerLives());
+            if (this.gameSettings.maxLives < 50) {
+                this.StartCoroutine(this.WatchPlayerLives());
+            }
             this.StartCoroutine(this.WatchScore());
             BalloonManager.Instance.StartAutomaticSpawner(3.0f);
         }
 
         private void CareerGameMode()
         {
-            /* TODO */
+            Debug.Log("CareerMode Reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
-            this.setCurrentLevel(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
+            this.setCurrentLevel(Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay));
             this.careerModeRoutine = PlayCareerLevel(this.currentLevel);
             //update scoreboard with countdown
 
             this.StartCoroutine(this.careerModeRoutine);
         }
 
-        IEnumerator PlayCareerLevel(CareerModeLevel level)
+        private IEnumerator PlayCareerLevel(CareerModeLevel level)
         {
             GameObject balloon;
             // spawnSchedule is an array of strings. If value is numerical, they get interpreted as a delay
             // if value is alphabetical, they're intepreted as the tag for the balloon to be spawned
             yield return ScoreboardCountdown(3, false);
-            PointsManager.updateScoreboardMessage("Playing Level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay +1));
+            PointsManager.updateScoreboardMessage("Playing Level " + (Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay) +1));
             for (int i = 0; i < level.schedule.Length; i++)
             {
                 string value = level.schedule[i];
@@ -147,27 +131,69 @@ namespace Classes.Managers
                         {
                             level.score = this.playerLives;
                         }
-                        PointsManager.updateScoreboardMessage("You beat level " + (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay + 1)
+                        PointsManager.updateScoreboardMessage("You beat level " + (Int16.Parse(SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay) + 1)
                             + " with a score of " + level.score + "!");
                         // Do achievement udpates
+                        if(this.gameSettings.environment == GameSettingsSO.Environment.MEADOW)
+                        {
+                            SocketClasses.Achievements.LevelsPlayed[1] = true;
+                        }
+                        else
+                        {
+                            SocketClasses.Achievements.LevelsPlayed[0] = false;
+                        }
+
+                        switch (SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay)
+                        {
+                            case "0":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelOneScore = level.score.ToString();
+                                    Debug.Log(level.score.ToString());
+                                    break;
+                                }
+                            case "1":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelTwoScore = level.score.ToString();
+                                    break;
+                                }
+                            case "2":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelThreeScore = level.score.ToString();
+                                    break;
+                                }
+                            case "3":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelFourScore = level.score.ToString();
+                                    break;
+                                }
+                            case "4":
+                                {
+                                    SocketClasses.BalloonGameDataValues.levelFiveScore = level.score.ToString();
+                                    break;
+                                }
+                            default:
+                                break;
+                        }
                         this.CheckFullControl();
                         this.CheckOverachiever();
                         this.CheckWorldTraveler();
                         this.CheckFinishCareerMode();
+                        Network.NetworkManager.Instance.UpdateBalloonProgression();
                         AchievementManager.Instance.ShowAchievementList();
                         yield return null;
                     }
                 }
-
-            }
-
-            
-
-            
+            }   
         }
 
+        /**
+         * The setCurrentLevel method sets the current level for carreer mode to level.
+         *
+         * @param level The level to set the career mode to.
+         */
         public void setCurrentLevel(int level)
         {
+            Debug.Log("setCurrentLevel reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             if (level >= 0 && level < 5)
             {
                 this.currentLevel = SocketClasses.CareerModeLevels.levels[level];
@@ -178,31 +204,41 @@ namespace Classes.Managers
             }
         }
 
-
-        GameObject FindBalloonPrefabWithTag(string tag)
+        private GameObject FindBalloonPrefabWithTag(string tag)
         {
             // Use LINQ to find the first GameObject in the list with the specified tag
             return this.gameSettings.balloonPrefabs.FirstOrDefault(prefab => prefab.CompareTag(tag));
         }
 
-
-
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
-        void RefreshBalloonSettings()
+        private void RefreshBalloonSettings()
         {
+            Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
+
+            this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
+            this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
             this.gameSettings.goal = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameGoal);
             this.gameSettings.specialBalloonSpawnChance = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency);
-            this.gameSettings.handSetting = (GameSettingsSO.HandSetting)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameHandSetting);
             this.gameSettings.maxLives = Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMaxLives);
             this.gameSettings.rightSpawnChance = float.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio);
-            this.gameSettings.spawnPattern = (GameSettingsSO.SpawnPattern)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGamePattern);
+            this.gameSettings.spawnTime = float.Parse(SocketClasses.BalloonGameSettingsValues.spawnTime);
+            this.gameSettings.maxNumBalloonsSpawnedAtOnce = Int16.Parse(SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce);
+            this.gameSettings.floatStrengthModifier = float.Parse(SocketClasses.BalloonGameSettingsValues.speedModifier);
+
+            /* Verify game settings are being set. */
+            Debug.Log(this.gameSettings.spawnPattern);
+            Debug.Log(this.gameSettings.handSetting);
+            Debug.Log(this.gameSettings.goal);
+            Debug.Log(this.gameSettings.specialBalloonSpawnChance);
+            Debug.Log(this.gameSettings.maxLives);
+            Debug.Log(this.gameSettings.rightSpawnChance);
+            Debug.Log(this.gameSettings.spawnTime);
+            Debug.Log(this.gameSettings.maxNumBalloonsSpawnedAtOnce);
+            Debug.Log(this.gameSettings.floatStrengthModifier);
         }
 
-        public GameSettingsSO GetGameSettings()
-        {
-            return this.gameSettings;
-        }
+
         
         /**
          * Restart() reloads the scene. Useful for automatically reloading the scene when some 
@@ -233,7 +269,7 @@ namespace Classes.Managers
             /* Make sure to destroy the darts on restart. This is necessary becauase if the player 
                is holding a dart between scene resets, the held darts will not be destroyed 
                resulting in duplicated darts. TODO: There has to be a better way of doing this. */
-            DartManager.Instance.DestroyDarts();
+            //DartManager.Instance.DestroyDarts();
 
 
             //Check if the clinician is controlling the game. If they are, wait until they manually start the game again
@@ -332,6 +368,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Ended with more lives");
             }
         }
+
         private void CheckWorldTraveler()
         {
             bool hasPlayedAll = true;
@@ -349,6 +386,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Played Both Environments");
             }
         }
+
         private void CheckFullControl()
         {
             //    Full control
@@ -357,6 +395,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Custom game ended");
             }
         }
+
         private void CheckFinishCareerMode()
         {
             bool hasPlayedAllLevels = true;
@@ -374,6 +413,11 @@ namespace Classes.Managers
             }
         }
 
+        /**
+         * The AchievementUpdateEvent method takes a message which is used to update Achievements.
+         *
+         * @param message The message used to update the achievements.
+         */
         public void AchievementUpdateEvent(string message)
         {
             OnAchievementUpdate?.Invoke(message);

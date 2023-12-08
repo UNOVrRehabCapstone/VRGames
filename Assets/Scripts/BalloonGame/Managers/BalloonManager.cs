@@ -1,9 +1,3 @@
-/**
- * The BalloonManager class handles the logic for spawning balloons.
- *
- * Authors: Dante Lawrence
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 namespace Classes.Managers 
 {
+    /**
+     * The BalloonManager class handles the logic for spawning and despawning balloons.
+     */
 	public class BalloonManager : MonoBehaviour
     {	
         /* Singleton pattern. Holds a reference to the balloon manager object. */
@@ -103,6 +100,8 @@ namespace Classes.Managers
         /**
          * The StartAutomaticSpawner method starts the automatic spawner with an initial delay of 
          * initDelay seconds. 
+         *
+         * @param initDelay The delay of when to start the automatic spawner.
          */
         public void StartAutomaticSpawner(float initDelay)
         {
@@ -118,6 +117,11 @@ namespace Classes.Managers
             this.StopCoroutine(this.automaticSpawner);
         }
 
+        /**
+         * The ManualSpawn method spawns one balloon using the passed in spawn pattern.
+         *
+         * @param balloon The balloon to be spawned. 
+         */
         public void ManualSpawn(GameSettingsSO.SpawnPattern pattern, GameObject balloon)
         {
             switch (pattern)
@@ -228,6 +232,9 @@ namespace Classes.Managers
 
         /**
          * Given a balloon and a spawn point this method spawns a balloon at the spawn point.
+         *
+         * @param balloon The balloon to spawn.
+         * @param spawnPoint Where to spawn the balloon.
          */
         public void SpawnBalloon(GameObject balloon, GameObject spawnPoint)
         {
@@ -242,6 +249,8 @@ namespace Classes.Managers
 
         /** 
          * Remove a balloon from the scene and removes it from the current list of balloons.
+         *
+         * @param balloon The balloon to remove.
          */
         public void KillBalloon(GameObject balloon)
         {
@@ -250,7 +259,11 @@ namespace Classes.Managers
         }
 
         /**
-         * Removes a balloon from the scene and the current list of balloons after a number of seconds indicated by time
+         * Removes a balloon from the scene and the current list of balloons after a number of 
+         * seconds indicated by time.
+         *
+         * @param balloon The balloon to remove.
+         * @param time The delay for when to remove the balloon.
          */
         public void KillBalloonDelay(GameObject balloon, int time)
         {
@@ -260,7 +273,7 @@ namespace Classes.Managers
         /**
          * Coroutine that waits for a period of time before removing a balloon from the scene and the list of balloons
          */
-        IEnumerator KillBalloonCountdown(GameObject balloon, int time)
+        private IEnumerator KillBalloonCountdown(GameObject balloon, int time)
         {
             yield return new WaitForSecondsRealtime(time);
             balloons.Remove(balloon);
@@ -281,16 +294,37 @@ namespace Classes.Managers
             this.balloons.Clear();
         }
 
+        /**
+         * The AdjustLeftSpawn adjusts the left spawn of the balloons using the given offsets.
+         *
+         * @param x The offset in the x direction.
+         * @param y The offset in the y direction.
+         * @param z The offset in the z direction.
+         */
         public void AdjustLeftSpawn(float x, float y, float z)
         {
             Utils.AdjustPosition(this.leftSpawn, x, y, z);
         }
 
+        /**
+         * The AdjustRightSpawn adjusts the right spawn of the darts using the given offsets.
+         *
+         * @param x The offset in the x direction.
+         * @param y The offset in the y direction.
+         * @param z The offset in the z direction.
+         */
         public void AdjustRightSpawn(float x, float y, float z)
         {
             Utils.AdjustPosition(this.rightSpawn, x, y, z);
         }
 
+        /**
+         * The AdjustLeftSpawn adjusts the left and right spawns of the darts using the given offsets.
+         *
+         * @param x The offset in the x direction.
+         * @param y The offset in the y direction.
+         * @param z The offset in the z direction.
+         */
         public void AdjustBothSpawns(float x, float y, float z)
         {
             AdjustLeftSpawn(x, y, z);

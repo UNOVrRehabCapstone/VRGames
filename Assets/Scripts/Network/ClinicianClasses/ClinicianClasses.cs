@@ -9,34 +9,49 @@ namespace SocketClasses
     public class StartGame
     {
         public string game;
+        public string environment;
     }
+
     public class BalloonGameSettings
     {
         public string mode;
         public string target;
         public string freq;
-        public string handSetting;
+        public string ratio;
         public string pattern;
         public string lives;
         public string hand;
-        public string ratio;
-        public int careerModeLevelToPlay;
+        public string careerModeLevelToPlay;
+        public string modifier;
+        public string numBalloonsSpawnedAtOnce;
+        public string timeBetweenSpawns;
     }
+
     public static class BalloonGameSettingsValues
     {
         //these are the default values for the balloon game that will be loaded if no clinician is controlling the game
         //NOTE - ballonGameSettingsMaxLives must be set to 3 for careerMode to function correctly.
-        public static string balloonGameMode = "1";
-        public static string balloonGameGoal = "5";
-        public static string balloonGameSpecialBalloonFrequency = "44";
-        public static string balloonGameHandSetting = "2";
-        public static string balloonGamePattern = "1";
-        public static string balloonGameMaxLives = "3";
-        public static string balloonGameLeftRightRatio = "0.7";
-        public static int    careerModeLevelToPlay = 0;
-        public static bool   balloonStart = false;
+        
+        public static string balloonGameMode = "1"; /* 0 = Career, 1 = Custom, 2 = Manual */
+        public static string environment = "0";     /* 0 = Balloon Enclosure,  1 = Meadow */
+
+        public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
-        public static string userName = "Default User";
+
+
+        /* SETTINGS SPECIFIC TO CUSTOM GAME MODE */
+        public static string balloonGamePattern  = "1";    /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
+        public static string balloonGameHandSetting = "2"; /* 0 = Left hand, 1 = Right hand , 2 = Both hands */
+        public static string balloonGameGoal = "10";
+        public static string balloonGameSpecialBalloonFrequency = "25";
+        public static string balloonGameMaxLives = "3";
+        public static string balloonGameLeftRightRatio = "0.5";
+        public static string spawnTime = "2.5";
+        public static string numBalloonsSpawnedAtOnce = "2";
+        public static string speedModifier = "1";
+
+        /* SETTINGS SPECIFIC TO CAREER MODE */
+        public static string careerModeLevelToPlay = "0";
     }
 
     public class BalloonGameData
@@ -49,16 +64,38 @@ namespace SocketClasses
         public string levelThreeScore;
         public string levelFourScore;
         public string levelFiveScore;
+        public bool ach0;
+        public bool ach1;
+        public bool ach2;
+        public bool ach3;
+        public bool ach4;
+        public bool ach5;
+        public bool ach6;
+        public bool ach7;
+        public bool ach8;
+        public bool ach9;
     }
 
     public static class BalloonGameDataValues
     {
+        public static string userName = "Default User";
         public static string achievementProgress = "0000000000";
         public static string levelOneScore = "0";
         public static string levelTwoScore = "0";
         public static string levelThreeScore = "0";
         public static string levelFourScore = "0";
         public static string levelFiveScore = "0";
+        public static bool ach0 = false;
+        public static bool ach1 = false;
+        public static bool ach2 = false;
+        public static bool ach3 = false;
+        public static bool ach4 = false;
+        public static bool ach5 = false;
+        public static bool ach6 = false;
+        public static bool ach7 = false;
+        public static bool ach8 = false;
+        public static bool ach9 = false;
+
 
         public static string[] levelScores = {levelOneScore, levelTwoScore,
             levelThreeScore, levelFourScore, levelFiveScore};

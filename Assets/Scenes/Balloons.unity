@@ -347,9 +347,9 @@ MonoBehaviour:
   difficulty: 1
   winConditionPoints: 15
   maxTime: 0
-  confettiSystem: {fileID: 156892871}
   gameSettings: {fileID: 11400000, guid: 144e0547a882ffd448c409384d929d95, type: 2}
   playerLives: 0
+  confettiSystem: {fileID: 156892871}
 --- !u!114 &46590935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5983,12 +5983,12 @@ PrefabInstance:
     - target: {fileID: 8450419207317404868, guid: 0052197c0568f52468091dc5d6fd8410,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8450419207317404868, guid: 0052197c0568f52468091dc5d6fd8410,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8450419207317404868, guid: 0052197c0568f52468091dc5d6fd8410,
         type: 3}
@@ -6633,7 +6633,7 @@ PrefabInstance:
     - target: {fileID: 7736838994153724045, guid: dae485f6ec927a34799a2e6caa516204,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.878
+      value: 3.012
       objectReference: {fileID: 0}
     - target: {fileID: 7736838994153724045, guid: dae485f6ec927a34799a2e6caa516204,
         type: 3}
@@ -6643,7 +6643,7 @@ PrefabInstance:
     - target: {fileID: 7736838994153724045, guid: dae485f6ec927a34799a2e6caa516204,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2
+      value: 2.392
       objectReference: {fileID: 0}
     - target: {fileID: 7736838994153724045, guid: dae485f6ec927a34799a2e6caa516204,
         type: 3}

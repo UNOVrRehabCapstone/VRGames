@@ -10,14 +10,29 @@ public class GameplayManager : MonoBehaviour
 
     private GameObject clinicianPauseText;
     //public GameObject spawnWarp;
-    private static GameplayManager manager;
+    public static GameplayManager Instance { get; private set; }
     public int winConditionPoints = 50;
     public int maxTime;
+
+    public GameSettingsSO gameSettings;
+
+    public int playerLives;
 
     //secretly abstract, but can't make it abstract for a few reasons
     public virtual void reset()
     {
         print("GameplayManager: OVERRIDE THE reset METHOD!!!!!!!!");
+    }
+
+    public GameSettingsSO GetGameSettings()
+    {
+        return this.gameSettings;
+    }
+
+
+    public static GameplayManager getManager()
+    {
+        return Instance;
     }
 
     //we only need this 
@@ -29,9 +44,14 @@ public class GameplayManager : MonoBehaviour
     public void setDifficulty(int newDif){ difficulty = newDif; }
     public int getDifficulty() { return difficulty; }
 
-    void Awake()
+    private void Awake()
     {
-        manager = this;
+        if(Instance != null && Instance != this)
+        {
+            Destroy(Instance);
+        }
+            Instance = this;
+
     }
 
     public void Update()
@@ -77,20 +97,23 @@ public class GameplayManager : MonoBehaviour
         }
         reset();
     }
-    //Should be overridden
-    public static GameplayManager getManager(){ return manager; }
+
 
     public void PauseGame()
     {
         if (clinicianPauseText != null)
+        {
             clinicianPauseText.SetActive(true);
+        }
         Time.timeScale = 0;
     }
 
     public void ResumeGame()
     {
         if (clinicianPauseText != null)
+        {
             clinicianPauseText.SetActive(false);
+        }
         Time.timeScale = 1;
     }
 
@@ -110,4 +133,7 @@ public class GameplayManager : MonoBehaviour
         }
         
     }
+
+
+
 }

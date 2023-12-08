@@ -1,19 +1,20 @@
-/**
- * A scriptable object template that holds the game settings. Scriptable obejcts can be created 
- * from this to create different game settings. 
- *
- * Authors: Dante Lawrence
- **/
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 
-
+/**
+ * A scriptable object template that holds the game settings. Scriptable obejcts can be created 
+ * from this to create different game settings. 
+ *
+ * Authors: Dante Lawrence
+ */
 [CreateAssetMenu(menuName = "ScriptableObjects/GameSettings", fileName = "GameSettingsSO")]
 public class GameSettingsSO : ScriptableObject
 {
+	/**
+	 * Can be used to represent one of the game modes.
+	 */
 	public enum GameMode {
 		CAREER,               /* No way to lose and no negative balloons. Game ends when the goal is met or the patient 
 								  or clincian quit. */
@@ -26,18 +27,27 @@ public class GameSettingsSO : ScriptableObject
 		                          DO NOT SEE THIS ANYMORE*/
 	}
 
+	/**
+	 * Can be used to represent one of the spawn patterns.
+	 */
 	public enum SpawnPattern {
 		CONCURRENT,            /* Balloons spawn from the left and the right at the same time. */
 		ALTERNATING,           /* Balloons spawn in an alternating pattern. */
 		RANDOM				   /* Balloons randomly spawn on the left or right based on leftSpawnChance. */
 	}
 
+	/**
+	 * Can be used to represent the goal type.
+	 */
 	public enum HandSetting {
 		LEFT_HAND,			/* The goal is affected only by the left hand. */
 		RIGHT_HAND,			/* The goal is affected only by the right hand. */
 		BOTH_HANDS			/* The goal is affected by both hands. */
 	}
 
+	/**
+	 * Can be used to represent one of the environments.
+	 */
 	public enum Environment {
 		ORIGINAL,
 		MEADOW
@@ -51,7 +61,7 @@ public class GameSettingsSO : ScriptableObject
 	/*************************************************************************/
 	/* GAME MODE SETTINGS                                                    */
 	/*************************************************************************/
-	public GameMode         gameMode;
+	public GameMode         gameMode; 
 	public HandSetting 		handSetting;
 
 	public int              maxLives;

@@ -1,14 +1,13 @@
-/**
- * The Balloon_Unit class represents a balloon that contains other balloons, that is a unit of 
- * balloons. This class is useful for when you want the movement of a set of balloons to be 
- * defined by a single transform.
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
+/**
+ * The Balloon_Unit class represents a balloon that contains other balloons, that is a unit of 
+ * balloons. This class is useful for when you want the movement of a set of balloons to be 
+ * defined by a single transform.
+ */
 public class Balloon_Unit : _BaseBalloon
 {
     private void Start()

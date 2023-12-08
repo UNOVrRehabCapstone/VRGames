@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
+/**
+ * The Balloon_Target_Base class handels the logic for the target balloon.
+ */
 public class Balloon_Target_Base : Balloon
 {
     private int numOfTargetsRemaining = 6;

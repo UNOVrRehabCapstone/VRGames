@@ -1,0 +1,115 @@
+\doxysection{Balloon\+\_\+\+Target\+\_\+\+Base Class Reference}
+\hypertarget{class_balloon___target___base}{}\label{class_balloon___target___base}\index{Balloon\_Target\_Base@{Balloon\_Target\_Base}}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+override void \mbox{\hyperlink{class_balloon___target___base_ad0045579808925c133544b316f6fa083}{On\+Trigger\+Enter}} (Collider other)
+\item 
+override void \mbox{\hyperlink{class_balloon___target___base_ac4bf47f6c2369164a3dc8324a7555c23}{On\+Mouse\+Down}} ()
+\item 
+override void \mbox{\hyperlink{class_balloon___target___base_a37ae7b191efa1aef4f7bc933899a25e9}{Extra\+Pop\+Effects}} ()
+\item 
+\Hypertarget{class_balloon___target___base_aaabb23f4f5eb99b25338d90791026b09}\label{class_balloon___target___base_aaabb23f4f5eb99b25338d90791026b09} 
+void {\bfseries Target\+Hit} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions inherited from \mbox{\hyperlink{class_balloon}{Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+delegate void {\bfseries Balloon\+Popped\+Event\+Handler} (string sender\+Tag)
+\item 
+virtual void \mbox{\hyperlink{class_balloon_aa0d6c91978ec89ac9dcacafd883ddb17}{Play\+Effects}} (bool persist)
+\item 
+virtual void \mbox{\hyperlink{class_balloon_a1a1ff691a70690c616d4b42c0a468d10}{Pop\+Balloon\+Event}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions inherited from \mbox{\hyperlink{class___base_balloon}{\+\_\+\+Base\+Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+Game\+Object \mbox{\hyperlink{class___base_balloon_ad9fd023b771e0339f2d885c2656335f1}{Get\+Spawn\+Loc}} ()
+\item 
+virtual void \mbox{\hyperlink{class___base_balloon_a87ad06fc02670d95d5b9fa4a2394a6d5}{Set\+Spawn\+Loc}} (Game\+Object spawn\+Loc)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_balloon___target___base_a1028aefe85c3c799482c2c805b05737a}\label{class_balloon___target___base_a1028aefe85c3c799482c2c805b05737a} 
+int {\bfseries test\+Int} = 100
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Attributes inherited from \mbox{\hyperlink{class_balloon}{Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+string {\bfseries message\+Override} = "{}"{}
+\item 
+bool {\bfseries is\+Persistent} = false
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Additional Inherited Members}
+\doxysubsection*{Protected Member Functions inherited from \mbox{\hyperlink{class_balloon}{Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_balloon_af1b8800a9770c585a92372cf6cea037f}{Add\+Points}} ()
+\item 
+bool \mbox{\hyperlink{class_balloon_a26f56d4a21f8312eeaa1496385b7d0ba}{Is\+Correct\+Dart}} (Game\+Object dart)
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes inherited from \mbox{\hyperlink{class___base_balloon}{\+\_\+\+Base\+Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+float {\bfseries float\+Strength}
+\item 
+float {\bfseries rotation\+Speed}
+\item 
+int {\bfseries point\+Value}
+\item 
+Game\+Object {\bfseries spawn\+Loc}
+\end{DoxyCompactItemize}
+\doxysubsection*{Events inherited from \mbox{\hyperlink{class_balloon}{Balloon}}}
+\begin{DoxyCompactItemize}
+\item 
+static Balloon\+Popped\+Event\+Handler {\bfseries On\+Pop}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+The \doxylink{class_balloon___target___base}{Balloon\+\_\+\+Target\+\_\+\+Base} class handels the logic for the target balloon. 
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_balloon___target___base_a37ae7b191efa1aef4f7bc933899a25e9}\label{class_balloon___target___base_a37ae7b191efa1aef4f7bc933899a25e9} 
+\index{Balloon\_Target\_Base@{Balloon\_Target\_Base}!ExtraPopEffects@{ExtraPopEffects}}
+\index{ExtraPopEffects@{ExtraPopEffects}!Balloon\_Target\_Base@{Balloon\_Target\_Base}}
+\doxysubsubsection{\texorpdfstring{ExtraPopEffects()}{ExtraPopEffects()}}
+{\footnotesize\ttfamily override void Balloon\+\_\+\+Target\+\_\+\+Base.\+Extra\+Pop\+Effects (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+The Extra\+Pop\+Effects method is where extra effects (like adding extra lives for the life balloon) go. 
+
+Reimplemented from \mbox{\hyperlink{class_balloon_ac16d5385e165a6c09f1cc3fbfdc6f757}{Balloon}}.
+
+\Hypertarget{class_balloon___target___base_ac4bf47f6c2369164a3dc8324a7555c23}\label{class_balloon___target___base_ac4bf47f6c2369164a3dc8324a7555c23} 
+\index{Balloon\_Target\_Base@{Balloon\_Target\_Base}!OnMouseDown@{OnMouseDown}}
+\index{OnMouseDown@{OnMouseDown}!Balloon\_Target\_Base@{Balloon\_Target\_Base}}
+\doxysubsubsection{\texorpdfstring{OnMouseDown()}{OnMouseDown()}}
+{\footnotesize\ttfamily override void Balloon\+\_\+\+Target\+\_\+\+Base.\+On\+Mouse\+Down (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+The On\+Mouse\+Down method is for testing purposes. It is useful for testing on the computer rather than in the headset. 
+
+Reimplemented from \mbox{\hyperlink{class_balloon_a05689e94ad7def1d79a3ae0dba79c8d6}{Balloon}}.
+
+\Hypertarget{class_balloon___target___base_ad0045579808925c133544b316f6fa083}\label{class_balloon___target___base_ad0045579808925c133544b316f6fa083} 
+\index{Balloon\_Target\_Base@{Balloon\_Target\_Base}!OnTriggerEnter@{OnTriggerEnter}}
+\index{OnTriggerEnter@{OnTriggerEnter}!Balloon\_Target\_Base@{Balloon\_Target\_Base}}
+\doxysubsubsection{\texorpdfstring{OnTriggerEnter()}{OnTriggerEnter()}}
+{\footnotesize\ttfamily override void Balloon\+\_\+\+Target\+\_\+\+Base.\+On\+Trigger\+Enter (\begin{DoxyParamCaption}\item[{Collider}]{other }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+The On\+Trigger\+Enter method handles the logic for when another object collides with the object this script is attached to.
+
+
+\begin{DoxyParams}{Parameters}
+{\em other} & The object that collided with the collider of the gameobject this script is attached to. \\
+\hline
+\end{DoxyParams}
+
+
+Reimplemented from \mbox{\hyperlink{class_balloon_ac2d27ba4125e2ccb502784e1fa9afa6d}{Balloon}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Assets/\+Scripts/\+Balloon\+Game/\+Balloons/Balloon\+\_\+\+Target\+\_\+\+Base.\+cs\end{DoxyCompactItemize}
