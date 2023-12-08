@@ -1,12 +1,21 @@
+/**
+ * The Utils class holds some useful utily methods.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Utils : MonoBehaviour
+public class Utils
 {
     /**
      * The AdjustPosition method adjusts the position of the gameobject using the passed in offset
      * values.
+     *
+     * @param obj    The object whose position will be adjusted.
+     * @param deltaX The offset in the x direction.
+     * @param deltaY The offset in the y direction.
+     * @param deltaZ The offset in the z direction.
      */
     public static void AdjustPosition(GameObject obj, float deltaX, float deltaY, float deltaZ)
     {
