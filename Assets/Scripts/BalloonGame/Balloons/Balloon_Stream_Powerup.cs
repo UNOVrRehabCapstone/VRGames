@@ -1,13 +1,12 @@
-/**
- * The Balloon Stream Powerup class contains the logic for the balloon stream powerup balloon. The balloon stream powerup behaves like a regular balloon, but it spawn a stream of 5 more balloons when popped.
- * The dart will not be destroyed to allow the stream to be popped easily.
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using Classes.Managers;
 using UnityEngine;
 
+/**
+ * The Balloon Stream Powerup class contains the logic for the balloon stream powerup balloon. The balloon stream powerup behaves like a regular balloon, but it spawn a stream of 5 more balloons when popped.
+ * The dart will not be destroyed to allow the stream to be popped easily.
+ */
 public class Balloon_Stream_Powerup : Balloon
 {
     public GameObject BalloonStream;

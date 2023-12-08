@@ -1,16 +1,14 @@
-/**
- * The Balloon Stream class contains the logic for the balloon stream. The balloon stream is simply a series of 5 regular balloons that are spawned simultaneously.
- * These balloons do not destroy the dart so the player can pop the balloons in quick succession.
- */
-
 using Classes.Managers;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * The Balloon Stream class contains the logic for the balloon stream. The balloon stream is simply a series of 5 regular balloons that are spawned simultaneously.
+ * These balloons do not destroy the dart so the player can pop the balloons in quick succession.
+ */
 public class Balloon_Stream : Balloon
 {
-
     public override void ExtraPopEffects()
     {
         this.PopBalloonEvent();
