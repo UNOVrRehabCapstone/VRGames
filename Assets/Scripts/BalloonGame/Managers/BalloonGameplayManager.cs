@@ -1,3 +1,8 @@
+/**
+ * The BalloonGameplayManager controls the how the game is played, that is, it controls things like 
+ * when to start and stop a game and watching conditions for when a game should be terminated.
+ */
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -19,13 +24,6 @@ namespace Classes.Managers
 
         private CareerModeLevel currentLevel;
         private IEnumerator careerModeRoutine;
-
-
-        /*TODO: Note that this is currently being set in the editor for testing purposes, but 
-                this needs to be changed so that the settings are determined based on whatever
-                game mode the user selects. */
-        //public new GameSettingsSO                   gameSettings;
-       // public new int                             playerLives; /* TODO: Temporary; needs to be placed in another file */
        
         new void Start()
         {
@@ -71,7 +69,6 @@ namespace Classes.Managers
             }
 
             PointsManager.updateScoreboardMessage("Game mode set to " + this.gameSettings.gameMode.ToString());
-
         }
 
         private void CustomGameMode()
@@ -86,7 +83,6 @@ namespace Classes.Managers
 
         private void CareerGameMode()
         {
-            /* TODO */
             Debug.Log("CareerMode Reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
             AchievementManager.Instance.HideAchievementList();
             this.StartCoroutine(this.WatchPlayerLives());
@@ -97,8 +93,7 @@ namespace Classes.Managers
             this.StartCoroutine(this.careerModeRoutine);
         }
 
-
-        IEnumerator PlayCareerLevel(CareerModeLevel level)
+        private IEnumerator PlayCareerLevel(CareerModeLevel level)
         {
             GameObject balloon;
             // spawnSchedule is an array of strings. If value is numerical, they get interpreted as a delay
@@ -189,14 +184,14 @@ namespace Classes.Managers
                         yield return null;
                     }
                 }
-
-            }
-
-            
-
-            
+            }   
         }
 
+        /**
+         * The setCurrentLevel method sets the current level for carreer mode to level.
+         *
+         * @param level The level to set the career mode to.
+         */
         public void setCurrentLevel(int level)
         {
             Debug.Log("setCurrentLevel reports: " + SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay);
@@ -210,17 +205,14 @@ namespace Classes.Managers
             }
         }
 
-
-        GameObject FindBalloonPrefabWithTag(string tag)
+        private GameObject FindBalloonPrefabWithTag(string tag)
         {
             // Use LINQ to find the first GameObject in the list with the specified tag
             return this.gameSettings.balloonPrefabs.FirstOrDefault(prefab => prefab.CompareTag(tag));
         }
 
-
-
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
-        void RefreshBalloonSettings()
+        private void RefreshBalloonSettings()
         {
             Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
@@ -377,6 +369,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Ended with more lives");
             }
         }
+
         private void CheckWorldTraveler()
         {
             bool hasPlayedAll = true;
@@ -394,6 +387,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Played Both Environments");
             }
         }
+
         private void CheckFullControl()
         {
             //    Full control
@@ -402,6 +396,7 @@ namespace Classes.Managers
                 this.AchievementUpdateEvent("Custom game ended");
             }
         }
+
         private void CheckFinishCareerMode()
         {
             bool hasPlayedAllLevels = true;
@@ -419,6 +414,11 @@ namespace Classes.Managers
             }
         }
 
+        /**
+         * The AchievementUpdateEvent method takes a message which is used to update Achievements.
+         *
+         * @param message The message used to update the achievements.
+         */
         public void AchievementUpdateEvent(string message)
         {
             OnAchievementUpdate?.Invoke(message);
