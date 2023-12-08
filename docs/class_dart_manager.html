@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Therapeudic Virtual Reality Games: DartManager Class Reference</title>
+<title>TherapeuticVR: DartManager Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,7 +21,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Therapeudic Virtual Reality Games
+   <div id="projectname">TherapeuticVR
    </div>
   </td>
  </tr>
@@ -79,12 +79,20 @@ $(function() {
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a5a9148f3d4f266c6835ebe4ff7e1506c" id="r_a5a9148f3d4f266c6835ebe4ff7e1506c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a5a9148f3d4f266c6835ebe4ff7e1506c">DestroyDart</a> (GameObject dart)</td></tr>
-<tr class="separator:a5a9148f3d4f266c6835ebe4ff7e1506c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e1ce64eb178b857f876e40d3255398a" id="r_a3e1ce64eb178b857f876e40d3255398a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a3e1ce64eb178b857f876e40d3255398a">DespawnDart</a> (GameObject dart)</td></tr>
+<tr class="separator:a3e1ce64eb178b857f876e40d3255398a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abc3c0750fa2eb3079cc89270505942f4" id="r_abc3c0750fa2eb3079cc89270505942f4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#abc3c0750fa2eb3079cc89270505942f4">IsLeftDart</a> (GameObject dart)</td></tr>
 <tr class="separator:abc3c0750fa2eb3079cc89270505942f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a856f8c7f00ed53a5483b6445ad0cfbff" id="r_a856f8c7f00ed53a5483b6445ad0cfbff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a856f8c7f00ed53a5483b6445ad0cfbff">IsRightDart</a> (GameObject dart)</td></tr>
 <tr class="separator:a856f8c7f00ed53a5483b6445ad0cfbff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a554414a3bd001e0f829854797db1172b" id="r_a554414a3bd001e0f829854797db1172b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a554414a3bd001e0f829854797db1172b">DestroyDarts</a> ()</td></tr>
+<tr class="separator:a554414a3bd001e0f829854797db1172b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8186236792b14dedbb77f6a5d2b8c2cb" id="r_a8186236792b14dedbb77f6a5d2b8c2cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a8186236792b14dedbb77f6a5d2b8c2cb">AdjustLeftSpawn</a> (float x, float y, float z)</td></tr>
+<tr class="separator:a8186236792b14dedbb77f6a5d2b8c2cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4aee80b3033f99c83d935632291e75ab" id="r_a4aee80b3033f99c83d935632291e75ab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#a4aee80b3033f99c83d935632291e75ab">AdjustRightSpawn</a> (float x, float y, float z)</td></tr>
+<tr class="separator:a4aee80b3033f99c83d935632291e75ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff8cedfb1450f0f6676e803e8ba02e86" id="r_aff8cedfb1450f0f6676e803e8ba02e86"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_dart_manager.html#aff8cedfb1450f0f6676e803e8ba02e86">AdjustBothSpawns</a> (float x, float y, float z)</td></tr>
+<tr class="separator:aff8cedfb1450f0f6676e803e8ba02e86"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
 Properties</h2></td></tr>
@@ -92,15 +100,146 @@ Properties</h2></td></tr>
 static <a class="el" href="class_dart_manager.html">DartManager</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Instance</b><code> [get]</code></td></tr>
 <tr class="separator:a7e1270c85cd3d96704da2d0b4238a1c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a5a9148f3d4f266c6835ebe4ff7e1506c" name="a5a9148f3d4f266c6835ebe4ff7e1506c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a9148f3d4f266c6835ebe4ff7e1506c">&#9670;&#160;</a></span>DestroyDart()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>The <a class="el" href="class_dart_manager.html">DartManager</a> class handles the spawning and despawning of darts in the scene. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aff8cedfb1450f0f6676e803e8ba02e86" name="aff8cedfb1450f0f6676e803e8ba02e86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff8cedfb1450f0f6676e803e8ba02e86">&#9670;&#160;</a></span>AdjustBothSpawns()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void DartManager.DestroyDart </td>
+          <td class="memname">void DartManager.AdjustBothSpawns </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>The AdjustLeftSpawn adjusts the left and right spawns of the darts using the given offsets.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>The offset in the x direction. </td></tr>
+    <tr><td class="paramname">y</td><td>The offset in the y direction. </td></tr>
+    <tr><td class="paramname">z</td><td>The offset in the z direction. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a8186236792b14dedbb77f6a5d2b8c2cb" name="a8186236792b14dedbb77f6a5d2b8c2cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8186236792b14dedbb77f6a5d2b8c2cb">&#9670;&#160;</a></span>AdjustLeftSpawn()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DartManager.AdjustLeftSpawn </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>The AdjustLeftSpawn adjusts the left spawn of the darts using the given offsets.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>The offset in the x direction. </td></tr>
+    <tr><td class="paramname">y</td><td>The offset in the y direction. </td></tr>
+    <tr><td class="paramname">z</td><td>The offset in the z direction. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a4aee80b3033f99c83d935632291e75ab" name="a4aee80b3033f99c83d935632291e75ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4aee80b3033f99c83d935632291e75ab">&#9670;&#160;</a></span>AdjustRightSpawn()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DartManager.AdjustRightSpawn </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>The AdjustRightSpawn adjusts the right spawn of the darts using the given offsets.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">x</td><td>The offset in the x direction. </td></tr>
+    <tr><td class="paramname">y</td><td>The offset in the y direction. </td></tr>
+    <tr><td class="paramname">z</td><td>The offset in the z direction. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a3e1ce64eb178b857f876e40d3255398a" name="a3e1ce64eb178b857f876e40d3255398a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e1ce64eb178b857f876e40d3255398a">&#9670;&#160;</a></span>DespawnDart()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DartManager.DespawnDart </td>
           <td>(</td>
           <td class="paramtype">GameObject&#160;</td>
           <td class="paramname"><em>dart</em></td><td>)</td>
@@ -108,18 +247,31 @@ static <a class="el" href="class_dart_manager.html">DartManager</a>&#160;</td><t
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Destroys the dart and automatically spawns another dart in the appropriate location depending on whether the passed in dart is the left or right dart.</p>
+<p>Despawns the dart and automatically spawns another dart in the appropriate location depending on whether the passed in dart is the left or right dart.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">dart</td><td>The dart to be destroyed. </td></tr>
+    <tr><td class="paramname">dart</td><td>The dart to despawn. </td></tr>
   </table>
   </dd>
 </dl>
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_dart_manager_a5a9148f3d4f266c6835ebe4ff7e1506c_cgraph.png" border="0" usemap="#aclass_dart_manager_a5a9148f3d4f266c6835ebe4ff7e1506c_cgraph" alt=""/></div>
+
 </div>
+</div>
+<a id="a554414a3bd001e0f829854797db1172b" name="a554414a3bd001e0f829854797db1172b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a554414a3bd001e0f829854797db1172b">&#9670;&#160;</a></span>DestroyDarts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DartManager.DestroyDarts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Destroys all of the darts in the scene. </p>
 
 </div>
 </div>
@@ -138,14 +290,13 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Determines whether the given dart is the left dart.</p>
+<p>Checks to see if the dart is the left dart.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">dart</td><td>A dart. </td></tr>
+    <tr><td class="paramname">dart</td><td>The dart to be checked. </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>True if the dart is the left dart; false otherwise. </dd></dl>
 
 </div>
 </div>
@@ -164,19 +315,18 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Determines whether the given dart is the right dart.</p>
+<p>Checks to see if the dart is the right dart.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">dart</td><td>A dart. </td></tr>
+    <tr><td class="paramname">dart</td><td>The dart to be checked. </td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>True if the dart is the right dart; false otherwise. </dd></dl>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>C:/Users/Drlew/Documents/GitHub/VR-Games/Assets/Scripts/BalloonGame/Managers/<b>DartManager.cs</b></li>
+<li>Assets/Scripts/BalloonGame/Managers/<b>DartManager.cs</b></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

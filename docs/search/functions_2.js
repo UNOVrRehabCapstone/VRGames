@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['restart_0',['Restart',['../class_classes_1_1_managers_1_1_balloon_gameplay_manager.html#a754b15a2ea2dba2646cce62d2b0e7e52',1,'Classes::Managers::BalloonGameplayManager']]]
+  ['despawndart_0',['DespawnDart',['../class_dart_manager.html#a3e1ce64eb178b857f876e40d3255398a',1,'DartManager']]],
+  ['destroydarts_1',['DestroyDarts',['../class_dart_manager.html#a554414a3bd001e0f829854797db1172b',1,'DartManager']]]
 ];
