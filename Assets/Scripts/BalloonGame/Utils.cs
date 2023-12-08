@@ -1,11 +1,10 @@
-/**
- * The Utils class holds some useful utily methods.
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * The Utils class holds some useful utily methods.
+ */
 public class Utils
 {
     /**

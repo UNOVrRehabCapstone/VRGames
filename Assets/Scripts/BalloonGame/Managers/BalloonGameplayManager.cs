@@ -1,8 +1,3 @@
-/**
- * The BalloonGameplayManager controls the how the game is played, that is, it controls things like 
- * when to start and stop a game and watching conditions for when a game should be terminated.
- */
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -14,6 +9,10 @@ using System.Linq;
 
 namespace Classes.Managers
 {
+    /**
+     * The BalloonGameplayManager controls how the game is played, that is, it controls things like 
+     * when to start and stop a game and watching conditions for when a game should be terminated.
+     */
     public class BalloonGameplayManager : GameplayManager
     {
         //public static BalloonGameplayManager Instance {get; private set;}

@@ -1,15 +1,14 @@
-/**
- * The AchievementPopup class handles the effects of displaying achievements when they occur. 
- */
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * The AchievementPopup class handles the effects of displaying achievements when they occur. 
+ */
 public class AchievementPopup : MonoBehaviour
 {
-    public float floatSpeed = 1.0f; /* How fast an achievement rises. */
-    public float hoverTime = 3.0f;  /* How long an achievment hovers. */
+    public float floatSpeed = 1.0f; /**< How fast an achievement rises. */
+    public float hoverTime = 3.0f;  /**< How long an achievment hovers. */
 
     private float initialY;
     private float elapsedTime = 0.0f;
