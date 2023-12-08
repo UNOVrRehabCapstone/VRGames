@@ -1,7 +1,3 @@
-/**
- * The DartManager class handles the spawning and despawning of darts in the scene.
- */
-
 /*
  * Internal explanation: Internally, the darts are never destroyed unless the method DestroyDarts 
  * is called. This is most easily understood by comparing what is done here with a tag team 
@@ -21,6 +17,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * The DartManager class handles the spawning and despawning of darts in the scene.
+ */
 public class DartManager : MonoBehaviour
 {
     /* Singleton pattern. Holds a reference to the dart manager object. */
@@ -64,6 +63,8 @@ public class DartManager : MonoBehaviour
     /**
      * Despawns the dart and automatically spawns another dart in the appropriate location depending 
      * on whether the passed in dart is the left or right dart. 
+     *
+     * @param dart The dart to despawn.
      */
     public void DespawnDart(GameObject dart)
     {
@@ -91,6 +92,8 @@ public class DartManager : MonoBehaviour
 
     /**
      * Checks to see if the dart is the left dart.
+     * 
+     * @param dart The dart to be checked.
      */
     public bool IsLeftDart(GameObject dart) 
     {
@@ -99,6 +102,8 @@ public class DartManager : MonoBehaviour
 
     /**
      * Checks to see if the dart is the right dart.
+     *
+     * @param dart The dart to be checked.
      */
     public bool IsRightDart(GameObject dart)
     {
@@ -116,6 +121,13 @@ public class DartManager : MonoBehaviour
         Destroy(this.rightDart2);
     }
 
+    /**
+     * The AdjustLeftSpawn adjusts the left spawn of the darts using the given offsets.
+     *
+     * @param x The offset in the x direction.
+     * @param y The offset in the y direction.
+     * @param z The offset in the z direction.
+     */
     public void AdjustLeftSpawn(float x, float y, float z)
     {
         Utils.AdjustPosition(this.leftDartSpawn, x, y, z);
@@ -123,6 +135,13 @@ public class DartManager : MonoBehaviour
         Utils.AdjustPosition(this.leftDart2, x, y, z);
     }
 
+    /**
+     * The AdjustRightSpawn adjusts the right spawn of the darts using the given offsets.
+     *
+     * @param x The offset in the x direction.
+     * @param y The offset in the y direction.
+     * @param z The offset in the z direction.
+     */
     public void AdjustRightSpawn(float x, float y, float z)
     {
         Utils.AdjustPosition(this.rightDartSpawn, x, y, z);
@@ -130,6 +149,13 @@ public class DartManager : MonoBehaviour
         Utils.AdjustPosition(this.rightDart2, x, y, z);
     }
 
+    /**
+     * The AdjustLeftSpawn adjusts the left and right spawns of the darts using the given offsets.
+     *
+     * @param x The offset in the x direction.
+     * @param y The offset in the y direction.
+     * @param z The offset in the z direction.
+     */
     public void AdjustBothSpawns(float x, float y, float z)
     {
         AdjustLeftSpawn(x, y, z);

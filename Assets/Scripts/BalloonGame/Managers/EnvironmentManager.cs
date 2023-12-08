@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace Classes.Managers {
+    /**
+     * The EnvironmentManager class handles setting up the appropriate environment based on the 
+     * chosen game settings.
+     */
 	public class EnvironmentManager : MonoBehaviour
     {
         public static EnvironmentManager Instance  {get; private set;}

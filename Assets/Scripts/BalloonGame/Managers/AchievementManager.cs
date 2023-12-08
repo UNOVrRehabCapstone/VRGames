@@ -4,6 +4,9 @@ using UnityEngine;
 using TMPro;
 using System;
 
+/**
+ * The AchievmentManager class handle the achievements in the game.
+ */
 public class AchievementManager : MonoBehaviour
 {
     public static AchievementManager Instance { get; private set; }
@@ -53,6 +56,9 @@ public class AchievementManager : MonoBehaviour
     }
 
 
+    /**
+     * Sets up the achivement list that is displayed in game.
+     */
     public void SetupAchievementList()
     {
         TextMeshProUGUI textMesh;
@@ -93,6 +99,9 @@ public class AchievementManager : MonoBehaviour
 
     }
 
+    /**
+     * Hides the achievement list.
+     */
     public void HideAchievementList()
     {
         if(achievementList != null)
@@ -101,15 +110,16 @@ public class AchievementManager : MonoBehaviour
         }
     }
 
+    /**
+     * Displays the achievement list.
+     */
     public void ShowAchievementList()
     {
-        
         if (achievementList != null)
         {
             achievementList.SetActive(true);
             this.SetupAchievementList();
         }
-
     }
 
     private void OnEnable()
@@ -132,7 +142,6 @@ public class AchievementManager : MonoBehaviour
         }
 
     }
-
 
     private void HandleBalloonPop(string message)
     {
@@ -338,14 +347,23 @@ public class AchievementManager : MonoBehaviour
 
 
 
+/**
+ * The Achievment class can be used to represent an achievement.
+ */
 public class Achievement
 {
     public int id;
     public string name;
     public string description;
     public bool isAchieved;
-
-
+    
+    /**
+     * The constructor to create an achievement.
+     *
+     * @param id of the achievement.
+     * @param name of the achievement.
+     * @param description of the achievement.
+     */
     public Achievement(int id, string name, string description)
     {
         this.id = id;
