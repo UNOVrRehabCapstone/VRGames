@@ -63,6 +63,7 @@ namespace Network
         {
             yield return new WaitForSeconds(1);
             SocketClasses.BalloonGameSettingsValues.balloonStart = true;
+            SocketClasses.BalloonGameSettingsValues.gameIsRunning = true;
 
         }
 
@@ -148,7 +149,6 @@ namespace Network
                         break;
                 }
                 SocketClasses.BalloonGameSettingsValues.balloonGameSpecialBalloonFrequency = frequency;
-
                 SocketClasses.BalloonGameSettingsValues.balloonGameLeftRightRatio = obj.ratio;
                 SocketClasses.BalloonGameSettingsValues.balloonGamePattern = obj.pattern;
                 if(obj.mode == "0")
@@ -166,8 +166,19 @@ namespace Network
                 SocketClasses.BalloonGameSettingsValues.speedModifier = obj.modifier;
                 SocketClasses.BalloonGameSettingsValues.numBalloonsSpawnedAtOnce = obj.numBalloonsSpawnedAtOnce;
                 SocketClasses.BalloonGameSettingsValues.spawnTime = obj.timeBetweenSpawns;
-                
-                StartCoroutine(FlagBalloonStartAfterDelay());
+
+                SocketClasses.BalloonGameSettingsValues.careerModeLevelToPlay = obj.careerModeLevelToPlay;
+
+                if(SocketClasses.BalloonGameSettingsValues.gameIsRunning == true)
+                {
+                    BalloonGameplayManager.Instance.RefreshSettings();
+
+                }
+                else
+                {
+                    StartCoroutine(FlagBalloonStartAfterDelay());
+                }
+
             });
 
             _socket.On("balloonSpawn", (string payload) => {
@@ -466,6 +477,12 @@ namespace Network
         public void SendRepTrackingData(string message)
         {
             _socket.Emit("repTrackingDataServer", clinicianId + ":" + message, true);
+        }
+
+        public void SendGameEndedSignal()
+        {
+            SocketClasses.BalloonGameSettingsValues.gameIsRunning = false;
+            _socket.Emit("gameEnded", clinicianId);
         }
 
         public void UpdateBalloonProgression()

@@ -98,6 +98,11 @@ public class GameplayManager : MonoBehaviour
         reset();
     }
 
+    public virtual void RefreshSettings()
+    {
+
+    }
+
 
     public void PauseGame()
     {

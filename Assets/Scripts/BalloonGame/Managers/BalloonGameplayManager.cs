@@ -39,7 +39,7 @@ namespace Classes.Managers
                 yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
             }
 
-            RefreshBalloonSettings();
+            RefreshSettings();
 
             Debug.Log("Game mode set to " + this.gameSettings.gameMode.ToString());
             Debug.Log("Spawn pattern set to " + this.gameSettings.spawnPattern.ToString());
@@ -180,6 +180,7 @@ namespace Classes.Managers
                         this.CheckFinishCareerMode();
                         Network.NetworkManager.Instance.UpdateBalloonProgression();
                         AchievementManager.Instance.ShowAchievementList();
+                        Network.NetworkManager.getManager().SendGameEndedSignal();
                         yield return null;
                     }
                 }
@@ -211,7 +212,7 @@ namespace Classes.Managers
         }
 
         /* RefreshBalloonSettings() is a method to apply any new settings the clinician has changed. Should be called on game start as well*/
-        private void RefreshBalloonSettings()
+        public override void  RefreshSettings()
         {
             Debug.Log("Refreshing, Balloonstart = " + SocketClasses.BalloonGameSettingsValues.balloonStart);
             this.gameSettings.gameMode = (GameSettingsSO.GameMode)Int16.Parse(SocketClasses.BalloonGameSettingsValues.balloonGameMode);
@@ -275,8 +276,10 @@ namespace Classes.Managers
             //Check if the clinician is controlling the game. If they are, wait until they manually start the game again
             //  Otherwise, wait for five seconds then automatically restart. clinicianIsControlling is defaulted to false
             //  and is set to true if the game receives a clinician view settings update in the network manager
+            
             if (SocketClasses.BalloonGameSettingsValues.clinicianIsControlling)
             {
+                Network.NetworkManager.getManager().SendGameEndedSignal();
                 yield return new WaitUntil(() => SocketClasses.BalloonGameSettingsValues.balloonStart);
             }
             else

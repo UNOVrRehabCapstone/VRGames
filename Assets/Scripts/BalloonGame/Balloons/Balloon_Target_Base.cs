@@ -15,6 +15,19 @@ public class Balloon_Target_Base : Balloon
     private void Start()
     {
         this.isPersistent = true;
+        StartCoroutine(CutSpeedAfterDelay());
+    }
+
+
+    private IEnumerator CutSpeedAfterDelay()
+    {
+        yield return new WaitForSeconds(0.25f);
+        float original = this.floatStrength;
+        while(this.floatStrength >  original / 10)
+        {
+            floatStrength -= Time.deltaTime * 0.25f;
+            yield return null;
+        }
     }
 
     public override void OnTriggerEnter(Collider other)

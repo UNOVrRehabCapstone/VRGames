@@ -37,13 +37,14 @@ namespace SocketClasses
 
         public static bool   balloonStart = true;
         public static bool   clinicianIsControlling = false;
+        public static bool   gameIsRunning = false;
 
 
         /* SETTINGS SPECIFIC TO CUSTOM GAME MODE */
         public static string balloonGamePattern  = "1";    /* 0 = Concurrent, 1 = Alternating, 2 = Random*/
         public static string balloonGameHandSetting = "2"; /* 0 = Left hand, 1 = Right hand , 2 = Both hands */
         public static string balloonGameGoal = "10";
-        public static string balloonGameSpecialBalloonFrequency = "25";
+        public static string balloonGameSpecialBalloonFrequency = "99";
         public static string balloonGameMaxLives = "3";
         public static string balloonGameLeftRightRatio = "0.5";
         public static string spawnTime = "2.5";

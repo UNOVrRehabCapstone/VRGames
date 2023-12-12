@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5ea65717eb093e4faa97c97f8d08a65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  floatStrength: 0.05
+  floatStrength: 0.5
   rotationSpeed: 30
   pointValue: 1
   messageOverride: 
