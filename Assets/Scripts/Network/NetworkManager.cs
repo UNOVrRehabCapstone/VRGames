@@ -490,7 +490,7 @@ namespace Network
         public void SendGameEndedSignal()
         {
             SocketClasses.BalloonGameSettingsValues.gameIsRunning = false;
-            _socket.Emit("gameEnded", clinicianId);
+            _socket.Emit("gameEnded", clinicianId, true);
         }
 
         public void UpdateBalloonProgression()

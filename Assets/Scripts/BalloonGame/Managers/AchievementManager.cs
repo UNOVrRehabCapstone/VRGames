@@ -295,7 +295,7 @@ public class AchievementManager : MonoBehaviour
         achievement.isAchieved = true;
         if (Network.NetworkManager.Instance)
         {
-            Network.NetworkManager.Instance.UpdateBalloonProgression();
+           // Network.NetworkManager.Instance.UpdateBalloonProgression();
 
        }
 

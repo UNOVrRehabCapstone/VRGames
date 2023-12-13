@@ -182,7 +182,7 @@ namespace Classes.Managers
                         this.CheckWorldTraveler();
                         this.CheckFinishCareerMode();
                         yield return null;
-                        Network.NetworkManager.Instance.UpdateBalloonProgression();
+                       // Network.NetworkManager.Instance.UpdateBalloonProgression();
                         AchievementManager.Instance.ShowAchievementList();
                         Network.NetworkManager.getManager().SendGameEndedSignal();
                         
