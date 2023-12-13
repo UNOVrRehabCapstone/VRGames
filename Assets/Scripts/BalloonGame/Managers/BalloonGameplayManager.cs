@@ -113,7 +113,7 @@ namespace Classes.Managers
                         balloon = FindBalloonPrefabWithTag(value);
                         if (balloon != null)
                         {
-                            BalloonManager.Instance.ManualSpawn(this.gameSettings.spawnPattern, balloon);
+                            BalloonManager.Instance.ManualSpawn(GameSettingsSO.SpawnPattern.ALTERNATING, balloon);
                             yield return null;
                         }
                     }
@@ -178,10 +178,11 @@ namespace Classes.Managers
                         this.CheckOverachiever();
                         this.CheckWorldTraveler();
                         this.CheckFinishCareerMode();
+                        yield return null;
                         Network.NetworkManager.Instance.UpdateBalloonProgression();
                         AchievementManager.Instance.ShowAchievementList();
                         Network.NetworkManager.getManager().SendGameEndedSignal();
-                        yield return null;
+                        
                     }
                 }
             }   

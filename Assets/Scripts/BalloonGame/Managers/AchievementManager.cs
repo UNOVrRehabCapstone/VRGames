@@ -141,6 +141,7 @@ public class AchievementManager : MonoBehaviour
             popInterval = popInterval - Time.deltaTime;
         }
 
+
     }
 
     private void HandleBalloonPop(string message)
@@ -296,7 +297,7 @@ public class AchievementManager : MonoBehaviour
         {
             Network.NetworkManager.Instance.UpdateBalloonProgression();
 
-        }
+       }
 
         //confettiSystem.Play();
     }
@@ -364,8 +365,9 @@ public class Achievement
      * @param name of the achievement.
      * @param description of the achievement.
      */
-    public Achievement(int id, string name, string description)
+    public Achievement(bool isAchieved,int id, string name, string description)
     {
+        this.isAchieved = isAchieved;
         this.id = id;
         this.name = name;
         this.description = description;

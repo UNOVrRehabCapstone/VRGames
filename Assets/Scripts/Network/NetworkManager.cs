@@ -29,6 +29,8 @@ namespace Network
         [SerializeField] private GameObject keyboard;
         [SerializeField] private GameObject socketPrefab;
 
+
+        private int counter = 0;
         private void Awake()
         { 
             if (Instance != null && Instance != this) {
@@ -62,8 +64,9 @@ namespace Network
         private IEnumerator FlagBalloonStartAfterDelay()
         {
             yield return new WaitForSeconds(1);
-            SocketClasses.BalloonGameSettingsValues.balloonStart = true;
             SocketClasses.BalloonGameSettingsValues.gameIsRunning = true;
+            SocketClasses.BalloonGameSettingsValues.balloonStart = true;
+
 
         }
 
@@ -104,6 +107,7 @@ namespace Network
                         break;
                     case "2":
                          SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
+                         SocketClasses.BalloonGameSettingsValues.gameIsRunning = false;
                          SocketClasses.BalloonGameSettingsValues.balloonStart = false;
                          SceneManager.LoadScene("Balloons");
 
@@ -210,9 +214,11 @@ namespace Network
 
             _socket.On("balloonData", (string payload) =>
             {
-                var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameData>(payload);
+                Debug.Log("Recieving BalloonData on interation: " + counter);
                 Debug.Log(payload);
-                Debug.Log(obj.userName);
+                counter++;
+                var obj = JsonConvert.DeserializeObject<SocketClasses.BalloonGameData>(payload);
+                Debug.Log(obj.ach9);
                 if (obj.userName != null)
                 {
                     SocketClasses.BalloonGameDataValues.userName = obj.userName;
@@ -220,12 +226,12 @@ namespace Network
                     //patientName.SetText(obj.userName);
                 }
                 SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelOneScore;
-                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelTwoScore;
-                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelThreeScore;
-                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelFourScore;
-                SocketClasses.BalloonGameDataValues.levelOneScore = obj.levelFiveScore;
+                SocketClasses.BalloonGameDataValues.levelTwoScore = obj.levelTwoScore;
+                SocketClasses.BalloonGameDataValues.levelThreeScore = obj.levelThreeScore;
+                SocketClasses.BalloonGameDataValues.levelFourScore = obj.levelFourScore;
+                SocketClasses.BalloonGameDataValues.levelFiveScore = obj.levelFiveScore;
                 Debug.Log(patientName.text);
-                if (obj.ach0)
+                if (obj.ach0 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[0].isAchieved = true;
                 }
@@ -233,8 +239,8 @@ namespace Network
                 {
                     SocketClasses.Achievements.AllAchievements[0].isAchieved = false;
                 }
-
-                if (obj.ach1)
+                
+                if (obj.ach1 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[1].isAchieved = true;
                 }
@@ -243,7 +249,7 @@ namespace Network
                     SocketClasses.Achievements.AllAchievements[1].isAchieved = false;
                 }
 
-                if (obj.ach2)
+                if (obj.ach2 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[2].isAchieved = true;
                 }
@@ -252,7 +258,7 @@ namespace Network
                     SocketClasses.Achievements.AllAchievements[2].isAchieved = false;
                 }
 
-                if (obj.ach3)
+                if (obj.ach3 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[3].isAchieved = true;
                 }
@@ -261,7 +267,7 @@ namespace Network
                     SocketClasses.Achievements.AllAchievements[3].isAchieved = false;
                 }
 
-                if (obj.ach4)
+                if (obj.ach4 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[4].isAchieved = true;
                 }
@@ -271,7 +277,7 @@ namespace Network
                 }
 
 
-                if (obj.ach5)
+                if (obj.ach5 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[5].isAchieved = true;
                 }
@@ -281,7 +287,7 @@ namespace Network
                 }
 
 
-                if (obj.ach6)
+                if (obj.ach6 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[6].isAchieved = true;
                 }
@@ -290,7 +296,7 @@ namespace Network
                     SocketClasses.Achievements.AllAchievements[6].isAchieved = false;
                 }
 
-                if (obj.ach7)
+                if (obj.ach7 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[7].isAchieved = true;
                 }
@@ -300,7 +306,7 @@ namespace Network
                 }
 
 
-                if (obj.ach8)
+                if (obj.ach8 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[8].isAchieved = true;
                 }
@@ -309,7 +315,7 @@ namespace Network
                     SocketClasses.Achievements.AllAchievements[8].isAchieved = false;
                 }
 
-                if (obj.ach9)
+                if (obj.ach9 == true)
                 {
                     SocketClasses.Achievements.AllAchievements[9].isAchieved = true;
                 }
@@ -317,8 +323,10 @@ namespace Network
                 {
                     SocketClasses.Achievements.AllAchievements[9].isAchieved = false;
                 }
-
-
+                if (AchievementManager.Instance)
+                {
+                    AchievementManager.Instance.SetupAchievementList();
+                }
 
             });
 
@@ -487,22 +495,26 @@ namespace Network
 
         public void UpdateBalloonProgression()
         {
-            _socket.Emit("balloonProgressionUpdate","userName:" + SocketClasses.BalloonGameDataValues.userName
-                 + ":levelOneScore:" + SocketClasses.BalloonGameDataValues.levelOneScore
-                + ":levelTwoScore:" + SocketClasses.BalloonGameDataValues.levelTwoScore
-                + ":levelThreeScore:" + SocketClasses.BalloonGameDataValues.levelThreeScore
-                + ":levelFourScore:" + SocketClasses.BalloonGameDataValues.levelFourScore
-                + ":levelFiveScore:" + SocketClasses.BalloonGameDataValues.levelFiveScore
-                + ":ach0:" + SocketClasses.Achievements.AllAchievements[0].isAchieved
-                + ":ach1:" + SocketClasses.Achievements.AllAchievements[1].isAchieved
-                + ":ach2:" + SocketClasses.Achievements.AllAchievements[2].isAchieved
-                + ":ach3:" + SocketClasses.Achievements.AllAchievements[3].isAchieved
-                + ":ach4:" + SocketClasses.Achievements.AllAchievements[4].isAchieved
-                + ":ach5:" + SocketClasses.Achievements.AllAchievements[5].isAchieved
-                + ":ach6:" + SocketClasses.Achievements.AllAchievements[6].isAchieved
-                + ":ach7:" + SocketClasses.Achievements.AllAchievements[7].isAchieved
-                + ":ach8:" + SocketClasses.Achievements.AllAchievements[8].isAchieved
-                + ":ach9:" + SocketClasses.Achievements.AllAchievements[9].isAchieved
+
+            Debug.Log("Sending Balloon Progression Update on iteration: " + counter);
+            counter++;
+            _socket.Emit("balloonProgressionUpdate",SocketClasses.BalloonGameDataValues.userName
+                + ":" + SocketClasses.BalloonGameDataValues.levelOneScore
+                + ":" + SocketClasses.BalloonGameDataValues.levelTwoScore
+                + ":" + SocketClasses.BalloonGameDataValues.levelThreeScore
+                + ":" + SocketClasses.BalloonGameDataValues.levelFourScore
+                + ":" + SocketClasses.BalloonGameDataValues.levelFiveScore
+                + ":" + SocketClasses.Achievements.PopOneBalloon.isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[1].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[2].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[3].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[4].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[5].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[6].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[7].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[8].isAchieved
+                + ":" + SocketClasses.Achievements.AllAchievements[9].isAchieved
+                + ":" + clinicianId
                 , true);
         }
     }
