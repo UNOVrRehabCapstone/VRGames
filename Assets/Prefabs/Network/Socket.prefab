@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a51bb71fdd88524994e50b1dd0eb958, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  socketIOAddress: 15.157.73.210:5000/
+  socketIOAddress: localhost:5000/
   secureConnection: 0
   autoConnect: 0
   autoReconnect: 1
