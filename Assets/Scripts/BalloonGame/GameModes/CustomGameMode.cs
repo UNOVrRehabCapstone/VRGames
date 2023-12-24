@@ -2,17 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CustomGameMode : MonoBehaviour
+public class CustomGameMode
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+	private GameObject pointsManager;
+	private GameObject playerManager;
+	public CustomGameMode() 
+	{
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+	}
+
+	private void Play()
+	{
+
+	}
 }
