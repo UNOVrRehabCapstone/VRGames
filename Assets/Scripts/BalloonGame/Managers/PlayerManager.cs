@@ -30,6 +30,11 @@ namespace BalloonsGame
                 OnAllLivesLost?.Invoke(this, EventArgs.Empty);
             }
         }
+
+        public void IncrementLife()
+        {
+            ++this.lives;
+        }
     }
 }
 
