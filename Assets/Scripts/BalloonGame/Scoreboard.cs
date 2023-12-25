@@ -9,12 +9,23 @@ namespace BalloonsGame
         private void Start()
         {
             PointsManager.Instance.OnUpdatePoints += this.OnUpdatePointsHandler;
+            PlayerManager.Instance.OnUpdateLives  += this.OnUpdateLivesHandler;
         }
 
         private void OnUpdatePointsHandler(object sender, PointsManager.OnUpdatePointsEventArgs e)
         {
             UpdateLeftPoints(e.leftPoints);
             UpdateRightPoints(e.rightPoints);
+        }
+
+        private void OnUpdateLivesHandler(object sender, int lives)
+        {
+            GameObject lifeDisplay = GameObject.FindGameObjectWithTag("LivesDisplay");
+            if (GameManager.Instance.GetGameSettings().maxLives > 50) {
+                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: Unlimited";
+            } else {
+                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: " + lives;
+            }
         }
 
         private void UpdateLeftPoints(int leftPoints)
