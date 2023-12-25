@@ -106,11 +106,10 @@ namespace BalloonsGame
         protected void AddPoints()
         {
             if (this.spawnLoc.CompareTag("BalloonSpawn_Left")) {
-                PointsManager.addLeftPoints(this.pointValue);
+                PointsManager.Instance.AddLeftPoints(this.pointValue);
             } else {
-                PointsManager.addRightPoints(this.pointValue);
+                PointsManager.Instance.AddRightPoints(this.pointValue);
             }
-            PointsManager.addPoints(this.pointValue);
 
            // Debug.Log(  "Left points: " + PointsManager.getLeftPoints() 
                      // + ". Right points: " + PointsManager.getRightPoints() 
