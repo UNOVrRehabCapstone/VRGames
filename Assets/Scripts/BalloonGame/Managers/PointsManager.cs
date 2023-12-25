@@ -9,13 +9,13 @@ namespace BalloonsGame
 	{
 		public static PointsManager Instance {get; private set;}
 		public event EventHandler OnGoalReached;
-		public event EventHandler<OnUpdatedPointsEventsArgs> OnUpdatedPoints;
-		public class OnUpdatedPointsEventsArgs : EventArgs {
+		public event EventHandler<OnUpdatedPointsEventArgs> OnUpdatedPoints;
+		public class OnUpdatedPointsEventArgs : EventArgs {
 			public int leftPoints;
 			public int rightPoints;
 			public int totalPoints;
 
-			public OnUpdatedPointsEventsArgs(int leftPoints, int rightPoints, int totalPoints)
+			public OnUpdatedPointsEventArgs(int leftPoints, int rightPoints, int totalPoints)
 			{
 				this.leftPoints  = leftPoints;
 				this.rightPoints = rightPoints;
@@ -46,7 +46,7 @@ namespace BalloonsGame
 		{
 			this.leftPoints  += points;
 			this.totalPoints += points;
-			OnUpdatedPoints?.Invoke(this, new OnUpdatedPointsEventsArgs(this.leftPoints, this.rightPoints, 
+			OnUpdatedPoints?.Invoke(this, new OnUpdatedPointsEventArgs(this.leftPoints, this.rightPoints, 
 			                                                            this.totalPoints));
 			this.CheckGoal();
 		}
@@ -55,7 +55,7 @@ namespace BalloonsGame
 		{
 			this.rightPoints += points;
 			this.totalPoints += points;
-			OnUpdatedPoints?.Invoke(this, new OnUpdatedPointsEventsArgs(this.leftPoints, this.rightPoints, 
+			OnUpdatedPoints?.Invoke(this, new OnUpdatedPointsEventArgs(this.leftPoints, this.rightPoints, 
 			                                                            this.totalPoints));
 			this.CheckGoal();
 		}
