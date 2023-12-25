@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -41,6 +42,16 @@ namespace BalloonsGame
         protected void Restart()
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
+        protected void AllLivesLostHandler(object sender, EventArgs e)
+		{
+			this.Restart();
+		}
+
+        protected void GoalReachedHandler(object sender, EventArgs e)
+        {
+            this.Restart();
         }
     }
 }

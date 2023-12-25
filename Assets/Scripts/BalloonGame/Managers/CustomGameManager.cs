@@ -10,16 +10,11 @@ namespace BalloonsGame
 		private void Start()
 		{
 			if (this.gameSettings.maxLives < 50) {
-				PlayerManager.Instance.OnAllLivesLost += AllLivesLostHandler;
+				PlayerManager.Instance.OnAllLivesLost += this.AllLivesLostHandler;
 			}
 
 			// Subscribe to watching the score
-			//BalloonManager.Instance.StartAutomaticSpawner(3.0f);
-		}
-
-		private void AllLivesLostHandler(object sender, EventArgs e)
-		{
-			this.Restart();
+			// BalloonSpawnManager.Instance.StartAutomaticSpawner(3.0f);
 		}
 	}
 }
