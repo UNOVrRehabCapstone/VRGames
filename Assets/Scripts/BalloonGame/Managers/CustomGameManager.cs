@@ -13,7 +13,7 @@ namespace BalloonsGame
 				PlayerManager.Instance.OnAllLivesLost += this.AllLivesLostHandler;
 			}
 
-			// Subscribe to watching the score
+			PointsManager.Instance.OnGoalReached += this.GoalReachedHandler;
 			// BalloonSpawnManager.Instance.StartAutomaticSpawner(3.0f);
 		}
 	}
