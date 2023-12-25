@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,6 +8,7 @@ namespace BalloonsGame
 	public class PlayerManager : MonoBehaviour
     {
         public static PlayerManager Instance {get; private set;}
+        public event EventHandler OnAllLivesLost;
 
         private int lives;
 
@@ -24,6 +26,9 @@ namespace BalloonsGame
         public void ReduceLife()
         {
             --this.lives;
+            if (this.lives < 1) {
+                OnAllLivesLost?.Invoke(this, EventArgs.Empty);
+            }
         }
     }
 }

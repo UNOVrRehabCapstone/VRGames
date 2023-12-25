@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace BalloonsGame
 {
-	public class CareerGameManager : BalloonGameManager
+	public class CareerGameManager : GameManager
 	{
 		private void Start()
 		{

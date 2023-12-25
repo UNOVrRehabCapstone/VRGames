@@ -203,7 +203,7 @@ GameObject:
   - component: {fileID: 29094611}
   - component: {fileID: 29094612}
   m_Layer: 0
-  m_Name: BalloonManager
+  m_Name: BalloonSpawnManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

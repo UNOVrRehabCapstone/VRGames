@@ -8,7 +8,8 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using Classes.Managers;
 using System.Globalization;
-
+using BalloonsGame;
+using PlayerManager = Classes.Managers.PlayerManager;
 
 namespace Network
 {
@@ -187,13 +188,13 @@ namespace Network
 
             _socket.On("balloonSpawn", (string payload) => {
                 // Find the BalloonManager GameObject in the current scene
-                GameObject balloonManagerObject = GameObject.Find("BalloonManager");
+                GameObject balloonManagerObject = GameObject.Find("BalloonSpawnManager");
 
                 // Check if the BalloonManager GameObject is found
                 if (balloonManagerObject != null)
                 {
                     // Try to get the BalloonManager script attached to the BalloonManager GameObject
-                    BalloonManager balloonManagerScript = balloonManagerObject.GetComponent<BalloonManager>();
+                    BalloonSpawnManager balloonManagerScript = balloonManagerObject.GetComponent<BalloonSpawnManager>();
 
                     // Check if the script is found
                     if (balloonManagerScript != null)

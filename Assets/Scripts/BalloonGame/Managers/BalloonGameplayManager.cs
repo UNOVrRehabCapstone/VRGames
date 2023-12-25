@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
 using System.Linq;
+using BalloonsGame;
 
 namespace Classes.Managers
 {
@@ -80,7 +81,7 @@ namespace Classes.Managers
                 this.StartCoroutine(this.WatchPlayerLives());
             }
             this.StartCoroutine(this.WatchScore());
-            BalloonManager.Instance.StartAutomaticSpawner(3.0f);
+            BalloonSpawnManager.Instance.StartAutomaticSpawner(3.0f);
         }
 
         private void CareerGameMode()
@@ -116,14 +117,14 @@ namespace Classes.Managers
                         balloon = FindBalloonPrefabWithTag(value);
                         if (balloon != null)
                         {
-                            BalloonManager.Instance.ManualSpawn(GameSettingsSO.SpawnPattern.ALTERNATING, balloon);
+                            BalloonSpawnManager.Instance.ManualSpawn(GameSettingsSO.SpawnPattern.ALTERNATING, balloon);
                             yield return null;
                         }
                     }
                     else
                     {
                         Debug.Log("End of Career Mode Level, or Invalid Balloon");
-                        yield return new WaitUntil(BalloonManager.Instance.AllBalloonsAreGone);
+                        yield return new WaitUntil(BalloonSpawnManager.Instance.AllBalloonsAreGone);
                         //Right now it's set so that however many lives you have left is your score. 
                         //This isn't super ideal because it means we're locked into exactly three lives for career mode
                         if (this.playerLives > this.gameSettings.maxLives)
@@ -255,7 +256,7 @@ namespace Classes.Managers
             AchievementManager.Instance.ShowAchievementList();
             if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM)
             {
-                BalloonManager.Instance.StopAutomaticSpawner();
+                BalloonSpawnManager.Instance.StopAutomaticSpawner();
             }
             if(this.gameSettings.gameMode == GameSettingsSO.GameMode.CAREER)
             {
@@ -270,7 +271,7 @@ namespace Classes.Managers
 
             /* Required because if a balloon despawns while the game is restarting, it will still 
                cause a loss of life. */
-            BalloonManager.Instance.KillAllBalloons();
+            BalloonSpawnManager.Instance.KillAllBalloons();
             /* Make sure to destroy the darts on restart. This is necessary becauase if the player 
                is holding a dart between scene resets, the held darts will not be destroyed 
                resulting in duplicated darts. TODO: There has to be a better way of doing this. */

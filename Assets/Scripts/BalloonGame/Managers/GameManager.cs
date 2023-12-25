@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace BalloonsGame 
 {
@@ -35,6 +36,11 @@ namespace BalloonsGame
         public GameSettingsSO GetGameSettings()
         {
             return this.gameSettings;
+        }
+        
+        protected void Restart()
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }

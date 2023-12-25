@@ -3,17 +3,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/**
- * The Balloon Restore Life class contains the logic for the restore life special balloon.
- * The Restore Life balloon gives the player an extra life when popped.
- */
-public class Balloon_RestoreLife : Balloon
+namespace BalloonsGame
 {
-    public override void ExtraPopEffects()
+	/**
+     * The Balloon Restore Life class contains the logic for the restore life special balloon.
+     * The Restore Life balloon gives the player an extra life when popped.
+     */
+    public class Balloon_RestoreLife : Balloon
     {
-        BalloonGameplayManager.Instance.playerLives++;
-        PointsManager.updateScoreboard();
-        this.PopBalloonEvent();
-        BalloonManager.Instance.KillBalloon(gameObject);
+        public override void ExtraPopEffects()
+        {
+            BalloonGameplayManager.Instance.playerLives++;
+            PointsManager.updateScoreboard();
+            this.PopBalloonEvent();
+            BalloonSpawnManager.Instance.KillBalloon(gameObject);
+        }
     }
 }
+
