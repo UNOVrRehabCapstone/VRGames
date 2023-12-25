@@ -23,7 +23,7 @@ namespace BalloonsGame
             this.lives = GameManager.Instance.GetGameSettings().maxLives;
         }
 
-        public void ReduceLife()
+        public void DecrementLife()
         {
             --this.lives;
             if (this.lives < 1) {
