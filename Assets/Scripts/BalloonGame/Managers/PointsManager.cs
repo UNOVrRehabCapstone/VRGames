@@ -49,17 +49,17 @@ namespace BalloonsGame
 
 			switch(this.gameSettings.handSetting) {
 				case GameSettingsSO.HandSetting.LEFT_HAND:
-					if (this.leftPoints == goal) {
+					if (this.leftPoints >= goal) {
 						OnGoalReached?.Invoke(this, EventArgs.Empty);
 					}
 					break;
 				case GameSettingsSO.HandSetting.RIGHT_HAND:
-					if (this.rightPoints == goal) {
+					if (this.rightPoints >= goal) {
 						OnGoalReached?.Invoke(this, EventArgs.Empty);
 					}
 					break;
 				case GameSettingsSO.HandSetting.BOTH_HANDS:
-					if (this.totalPoints == goal) {
+					if (this.totalPoints >= goal) {
 						OnGoalReached?.Invoke(this, EventArgs.Empty);
 					}
 					break;
