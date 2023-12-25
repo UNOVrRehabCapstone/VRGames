@@ -18,16 +18,6 @@ namespace BalloonsGame
             UpdateRightPoints(e.rightPoints);
         }
 
-        private void OnUpdateLivesHandler(object sender, int lives)
-        {
-            GameObject lifeDisplay = GameObject.FindGameObjectWithTag("LivesDisplay");
-            if (GameManager.Instance.GetGameSettings().maxLives > 50) {
-                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: Unlimited";
-            } else {
-                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: " + lives;
-            }
-        }
-
         private void UpdateLeftPoints(int leftPoints)
         {
             GameObject leftScoreboard = GameObject.FindGameObjectWithTag("LeftPoints");
@@ -53,6 +43,16 @@ namespace BalloonsGame
                 rightTextMesh.color = Color.blue;
             } else{
                 rightTextMesh.color = Color.black;
+            }
+        }
+
+        private void OnUpdateLivesHandler(object sender, int lives)
+        {
+            GameObject lifeDisplay = GameObject.FindGameObjectWithTag("LivesDisplay");
+            if (GameManager.Instance.GetGameSettings().maxLives > 50) {
+                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: Unlimited";
+            } else {
+                lifeDisplay.GetComponentInChildren<TextMesh>().text = "Lives: " + lives;
             }
         }
     }
