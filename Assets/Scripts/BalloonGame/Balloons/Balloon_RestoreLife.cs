@@ -13,8 +13,7 @@ namespace BalloonsGame
     {
         public override void ExtraPopEffects()
         {
-            BalloonGameplayManager.Instance.playerLives++;
-            PointsManager.updateScoreboard();
+            PlayerManager.Instance.IncrementLife();
             this.PopBalloonEvent();
             BalloonSpawnManager.Instance.KillBalloon(gameObject);
         }
