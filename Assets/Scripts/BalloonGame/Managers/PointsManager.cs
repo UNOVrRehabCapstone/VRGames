@@ -29,17 +29,17 @@ namespace BalloonsGame
 			this.gameSettings = GameManager.Instance.GetGameSettings();
 		}
 
-		public void IncrementLeftPoints()
+		public void AddLeftPoints(int points)
 		{
-			++this.leftPoints;
-			++this.totalPoints;
+			this.leftPoints  += points;
+			this.totalPoints += points;
 			this.CheckGoal();
 		}
 
-		public void IncrementRightPoints()
+		public void AddRightPoints(int points)
 		{
-			++this.rightPoints;
-			++this.totalPoints;
+			this.rightPoints += points;
+			this.totalPoints += points;
 			this.CheckGoal();
 		}
 
