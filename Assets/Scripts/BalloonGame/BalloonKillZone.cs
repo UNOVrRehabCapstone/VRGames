@@ -37,32 +37,32 @@ namespace BalloonsGame
                TODO: It may be better just to put these in each of the different balloon classes. */
             switch(other.gameObject.tag) {
                 case "Balloon":
-                    --BalloonGameplayManager.Instance.playerLives;
-                    PointsManager.updateScoreboard();
+                    PlayerManager.Instance.DecrementLife();
+                    //PointsManager.updateScoreboard();
                     BalloonSpawnManager.Instance.KillBalloon(other.gameObject);
                     Debug.Log("Lost a life. Remaining lives: " + BalloonGameplayManager.Instance.playerLives);
                     break;
                 case "OnionLayer1":
                 case "OnionLayer2":
                 case "OnionLayer3":
-                    --BalloonGameplayManager.Instance.playerLives;
+                    PlayerManager.Instance.DecrementLife();
                     BalloonSpawnManager.Instance.KillBalloon(other.gameObject.transform.parent.gameObject);
                     break;
                 case "SpawnStreamMember":
                 case "SpawnStreamMemberLast":
-                    --BalloonGameplayManager.Instance.playerLives;
+                    PlayerManager.Instance.DecrementLife();
                     BalloonSpawnManager.Instance.KillBalloonDelay(other.gameObject.transform.parent.gameObject, 2);
                     break;
                 case "Balloon_Stream_Powerup":
-                    --BalloonGameplayManager.Instance.playerLives;
+                    PlayerManager.Instance.DecrementLife();
                     BalloonSpawnManager.Instance.KillBalloon(other.gameObject);
                     break;
                 case "RestoreLife":
-                    --BalloonGameplayManager.Instance.playerLives;
+                    PlayerManager.Instance.DecrementLife();
                     BalloonSpawnManager.Instance.KillBalloon(other.gameObject);
                     break;
                 case "Target":
-                    --BalloonGameplayManager.Instance.playerLives;
+                    PlayerManager.Instance.DecrementLife();
                     BalloonSpawnManager.Instance.KillBalloon(other.gameObject.transform.parent.parent.gameObject);
                     break;
                 default:
@@ -70,7 +70,7 @@ namespace BalloonsGame
                               + "add a case for it in the BalloonKillZone class.");
                     break;
             }
-            PointsManager.updateScoreboard();
+            //PointsManager.updateScoreboard();
         }
     }
 }
