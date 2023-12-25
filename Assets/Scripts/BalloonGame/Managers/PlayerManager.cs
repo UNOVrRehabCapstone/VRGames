@@ -9,6 +9,7 @@ namespace BalloonsGame
     {
         public static PlayerManager Instance {get; private set;}
         public event EventHandler OnAllLivesLost;
+        public event EventHandler<int> OnUpdateLives;
 
         private int lives;
 
@@ -26,6 +27,8 @@ namespace BalloonsGame
         public void DecrementLife()
         {
             --this.lives;
+            OnUpdateLives?.Invoke(this, this.lives);
+
             if (this.lives < 1) {
                 OnAllLivesLost?.Invoke(this, EventArgs.Empty);
             }
@@ -34,6 +37,7 @@ namespace BalloonsGame
         public void IncrementLife()
         {
             ++this.lives;
+            OnUpdateLives?.Invoke(this, this.lives);
         }
     }
 }
