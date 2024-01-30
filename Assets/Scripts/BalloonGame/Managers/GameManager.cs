@@ -20,25 +20,38 @@ namespace BalloonsGame
                 Destroy(this);
 		    } else {
                 Instance = this;
-
-                /* Cast to the appropriate game manager. */
-                if (Instance.gameSettings.gameMode == GameSettingsSO.GameMode.CAREER) {
-                    Instance = (CareerGameManager) Instance;
-                } else if (Instance.gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM) {
-                    Instance = (CustomGameManager) Instance;
-                } else {
-                    Debug.LogError("Invalid game mode.");
-                }
             }  
 
             Debug.Log("Balloon game manager active.");
         }
 
-        public GameSettingsSO GetGameSettings()
+        private void Start()
         {
-            return this.gameSettings;
+            /* Cast to the appropriate game manager. */
+            if (gameSettings.gameMode == GameSettingsSO.GameMode.CAREER) {
+                //Instance = (CareerGameManager) Instance;
+                //Instance = Instantiate(CareerGameManager);
+            } else if (gameSettings.gameMode == GameSettingsSO.GameMode.CUSTOM) {
+                //Instance = (CustomGameManager) Instance;
+                //Instance = Instantiate(CustomGameManager);
+                this.PlayCustomGame();
+
+            } else {
+                Debug.LogError("Invalid game mode.");
+            }
         }
-        
+
+        private void PlayCustomGame()
+		{
+			if (this.gameSettings.maxLives < 50) {
+				PlayerManager.Instance.OnAllLivesLost += this.AllLivesLostHandler;
+			}
+
+			PointsManager.Instance.OnGoalReached += this.GoalReachedHandler;
+
+			BalloonSpawnManager.Instance.StartAutomaticSpawner(3.0f);
+		}
+
         protected void Restart()
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -52,6 +65,11 @@ namespace BalloonsGame
         protected void GoalReachedHandler(object sender, EventArgs e)
         {
             this.Restart();
+        }
+
+        public GameSettingsSO GetGameSettings()
+        {
+            return this.gameSettings;
         }
     }
 }
