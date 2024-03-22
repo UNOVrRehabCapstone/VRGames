@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17760342, g: 0.22233613, b: 0.304556, a: 1}
+  m_IndirectSpecularColor: {r: 0.177579, g: 0.22232251, b: 0.30451912, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -335,7 +335,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 0438adcdefc12d349a285d0ec6295fc2, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5140,6 +5139,7 @@ GameObject:
   - component: {fileID: 144854161}
   - component: {fileID: 144854160}
   - component: {fileID: 144854166}
+  - component: {fileID: 144854167}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -5162,12 +5162,10 @@ MonoBehaviour:
   difficulty: 1
   winConditionPoints: 50
   maxTime: 0
-  maxHoops: 100
+  gameSettings: {fileID: 0}
+  playerLives: 0
   planePrefab: {fileID: 7308743117189400344, guid: 989a4851b5b31794cbdfb57ab64c35d0,
     type: 3}
-  hoopPrefab: {fileID: 9213625987648024316, guid: e119da1f047eb434aacadc94a8c635ec,
-    type: 3}
-  hoopSpawn: {fileID: 627877402}
   leftTable: {fileID: 1706891650}
   rightTable: {fileID: 621470373}
   secondsTilDespawn: 2
@@ -5255,7 +5253,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 149247edb079a4f3899af224efa3ee33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vrcam: {fileID: 0}
+--- !u!114 &144854167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 144854159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3be77055395a43db8c61f02a667d1bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &285617015
 GameObject:
   m_ObjectHideFlags: 0
@@ -10894,6 +10903,54 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &679299535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679299536}
+  - component: {fileID: 679299537}
+  m_Layer: 0
+  m_Name: TargetManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679299536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679299535}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 68.87653, y: -76.66977, z: 25.416246}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &679299537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679299535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd78850b57bb75e4a9b2dd9f23a83119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetPrefab: {fileID: 9213625987648024316, guid: e119da1f047eb434aacadc94a8c635ec,
+    type: 3}
+  targetsAtOnce: 10
+  radius: 1
 --- !u!4 &709475017 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8450419207317404868, guid: 0052197c0568f52468091dc5d6fd8410,
@@ -17229,7 +17286,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 695873166113ab64997efed81c2426c7, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22623,7 +22679,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 6b22999712355474795091cef25021b4, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
