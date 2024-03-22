@@ -8,8 +8,7 @@ This application is a collection of games designed to help with the rehabilitati
 To use this application, the files must be built in the Unity engine and deployed to a virtual reality headset such as the Meta Quest 2.
 
 # Repository Notes
-Use Folder Reorg branch, main is considered legacy and Folder Reorg will be our main branch for this project.
-Folder Reorg is a continuation of Dante's work from last term, since he kept working on the project after Capstone finished with Dr. Ricks and is requested to be the branch we work in by both Dr. Ricks and by Dante.
+Use master now.
 
 # Release Notes:
 
