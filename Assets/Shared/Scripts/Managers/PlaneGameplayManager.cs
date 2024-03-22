@@ -8,19 +8,19 @@ using Random = System.Random;
 
 public class PlaneGameplayManager : GameplayManager
 {
-    public int maxHoops;
+    //public int maxHoops;
+    //public GameObject hoopPrefab;
+    //public GameObject hoopSpawn;
+    //private int currHoops = 0;
     public GameObject planePrefab;
-    public GameObject hoopPrefab;
-    public GameObject hoopSpawn;
     public GameObject leftTable;
     public GameObject rightTable;
     public float secondsTilDespawn;
-    private int currHoops = 0;
 
     [SerializeField]
     private List<GameObject> planes = new List<GameObject>();
 
-    private List<GameObject> hoops = new List<GameObject>();
+    //private List<GameObject> hoops = new List<GameObject>();
     private bool timedTargets;
     private bool gameIsOver;
 
@@ -46,10 +46,12 @@ public class PlaneGameplayManager : GameplayManager
 
     private void FixedUpdate()
     {
+        /*
         if (hoops.Count == 0)
         {
             StartSpawningHoops();
         }
+        */
     }
 
     public void ToggleTimedTargets()
@@ -98,11 +100,13 @@ public class PlaneGameplayManager : GameplayManager
         Destroy(plane);
     }
 
+    /*
     public void KillHoop(GameObject hoop)
     {
         hoops.Remove(hoop);
         Destroy(hoop, .5f);
     }
+    */
 
     //Kills the passed plane and creates a new one
     public void RespawnPlane( GameObject plane )
@@ -114,10 +118,11 @@ public class PlaneGameplayManager : GameplayManager
     //Kills all planes in scene
     public override void reset()
     {
-        ClearHoops();
+        //ClearHoops();
         ClearPlanes();
     }
 
+    /*
     void ClearHoops()
     {
         foreach (GameObject hoop in hoops.ToList())
@@ -125,6 +130,7 @@ public class PlaneGameplayManager : GameplayManager
             KillHoop(hoop);
         }
     }
+    */
 
     void ClearPlanes()
     {
@@ -168,6 +174,7 @@ public class PlaneGameplayManager : GameplayManager
         KillPlane( obj );
     }
     
+    /*
     private IEnumerator DespawnHoopCountdown( GameObject obj )
     {
         float endTime = Time.realtimeSinceStartup + 4;
@@ -177,7 +184,7 @@ public class PlaneGameplayManager : GameplayManager
         }
         KillHoop( obj );
     }
-
+    
     private void SpawnHoop()
     {
         Random rand = new Random();
@@ -215,4 +222,5 @@ public class PlaneGameplayManager : GameplayManager
            } 
         }
     }
+    */
 }

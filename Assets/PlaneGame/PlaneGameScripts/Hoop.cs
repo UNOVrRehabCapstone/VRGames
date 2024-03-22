@@ -22,8 +22,8 @@ namespace Classes
                 {
                     r.enabled = false;
                 }
-                manager.KillHoop(gameObject);
-                manager.StartSpawningHoops();
+                //manager.KillHoop(gameObject);
+                //manager.StartSpawningHoops();
             }
         }
     }
