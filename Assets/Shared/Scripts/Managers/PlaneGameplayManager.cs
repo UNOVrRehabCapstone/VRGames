@@ -15,7 +15,6 @@ public class PlaneGameplayManager : GameplayManager
     public GameObject planePrefab;
     public GameObject leftTable;
     public GameObject rightTable;
-    public GameObject centerTable;
     public float secondsTilDespawn;
 
     [SerializeField]
@@ -24,8 +23,9 @@ public class PlaneGameplayManager : GameplayManager
     //private List<GameObject> hoops = new List<GameObject>();
     private bool timedTargets;
     private bool gameIsOver;
-    Random rnd = new Random();
 
+
+   
     new void Start()
     {
         base.Start();
@@ -79,19 +79,18 @@ public class PlaneGameplayManager : GameplayManager
     
     public void OnPlaneReleased( GameObject plane )
     {
-        // if (!gameIsOver)
-        // {
-        //     if (plane.CompareTag("RightPlane"))
-        //     {
-        //         SpawnRightPlane();
-        //     }
-        //     else if (plane.CompareTag("LeftPlane"))
-        //     {
-        //         SpawnLeftPlane();
-        //     }
-        // }
-        // StartCoroutine( DespawnCountdown( plane ) );
-        SpawnPlanes();
+        if (!gameIsOver)
+        {
+            if (plane.CompareTag("RightPlane"))
+            {
+                SpawnRightPlane();
+            }
+            else if (plane.CompareTag("LeftPlane"))
+            {
+                SpawnLeftPlane();
+            }
+        }
+        StartCoroutine( DespawnCountdown( plane ) );
     }
 
     //Removes a Plane from the list and destroys it
@@ -144,38 +143,24 @@ public class PlaneGameplayManager : GameplayManager
     //Creates a new Plane GameObject and adds it to the list
     private void SpawnPlanes()
     {
-        GameObject plane = Instantiate(planePrefab);
-        plane.tag = "Plane";
-        int i = rnd.Next();
-        if (i % 3 == 0){
-            SpawnRightPlane(plane);
-        } else if (i % 3 == 1) {
-            SpawnLeftPlane(plane);
-        } else {
-            SpawnCenterPlane(plane);
-        }
+        SpawnRightPlane();
+        SpawnLeftPlane();
     }
 
-    void SpawnRightPlane(GameObject plane)
+    void SpawnRightPlane()
     {
-        //GameObject rightPlane = Instantiate(planePrefab);
-        //rightPlane.tag = "RightPlane";
-        plane.transform.position = rightTable.transform.position + new Vector3(0, rightTable.transform.localScale.y + .5f, 0);
-        planes.Add(plane);
+        GameObject rightPlane = Instantiate(planePrefab);
+        rightPlane.tag = "RightPlane";
+        rightPlane.transform.position = rightTable.transform.position + new Vector3(0, rightTable.transform.localScale.y + .5f, 0);
+        planes.Add(rightPlane);
     }
 
-    void SpawnLeftPlane(GameObject plane)
+    void SpawnLeftPlane()
     {
-        //GameObject leftPlane = Instantiate(planePrefab);
-        //leftPlane.tag = "LeftPlane";
-        plane.transform.position = leftTable.transform.position + new Vector3(0, leftTable.transform.localScale.y + .5f, 0);
-        planes.Add(plane);
-    }
-
-    void SpawnCenterPlane(GameObject plane)
-    {
-        plane.transform.position = centerTable.transform.position + new Vector3(0, centerTable.transform.localScale.y + .5f, 0);
-        planes.Add(plane);
+        GameObject leftPlane = Instantiate(planePrefab);
+        leftPlane.tag = "LeftPlane";
+        leftPlane.transform.position = leftTable.transform.position + new Vector3(0, leftTable.transform.localScale.y + .5f, 0);
+        planes.Add(leftPlane);
     }
 
     //Coroutine for counting down and despawning plane after certain amount of time
