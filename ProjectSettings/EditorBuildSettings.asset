@@ -6,28 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Calibration Sandbox.unity
+    path: Assets/Shared/Scenes/Calibration Sandbox.unity
     guid: aacfa5678c96618479d769d7b6f0584b
   - enabled: 0
-    path: Assets/Scenes (Unused)/VRArmIK-Demo.unity
+    path: Assets/Shared/Scenes (Unused)/VRArmIK-Demo.unity
     guid: 7652e061aab5f4d45b2b35d52b83ac95
   - enabled: 1
-    path: Assets/Scenes/Initialize.unity
+    path: Assets/Shared/Scenes/Initialize.unity
     guid: 62ae78aa7760b954395ac8e57277924c
-  - enabled: 0
-    path: Assets/Scenes/Planes.unity
+  - enabled: 1
+    path: Assets/PlaneGame/Scenes/Planes.unity
     guid: e82f9b44c6522ef44a6fc70bbf691710
-  - enabled: 0
-    path: Assets/Scenes/Blocks.unity
+  - enabled: 1
+    path: Assets/BlockGame/Scenes/Blocks.unity
     guid: 99836a4bcfaf0be459c79107774ba9d1
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/Climbing.unity
+  - enabled: 1
+    path: Assets/Shared/Scenes/Climbing.unity
     guid: 5663032ab91da084ab2fed1e9d26af84
   - enabled: 1
-    path: Assets/Scenes/Balloons.unity
+    path: Assets/BalloonGame/Scenes/Balloons.unity
     guid: 3f8a9512bf6ec2540ba023e2df88cb9c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d42f809b167fc5148b4094bd5506a6d6,
