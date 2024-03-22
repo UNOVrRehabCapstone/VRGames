@@ -13,10 +13,18 @@ Folder Reorg is a continuation of Dante's work from last term, since he kept wor
 
 # Release Notes:
 
-### 2/29/23
+### 2/29/24
 
 Fixed TextMesh Pro Metadata
 Connected client to new DB and local server
 Enabled old games to run
 Updated build settings to load game
 Updated Runtime settings and Resources metadata to fix issues preventing old games loading
+
+### 3/21/24
+
+Added randomized spawn locations for targets
+Added gripless grabbing of planes
+Added first iteration of 180 degree adjustable plane spawns from clinitian view
+Updated master to now reflect all changes
+Reworked some folders and script/manager locations to be more consistent with convention established by Baloons group
