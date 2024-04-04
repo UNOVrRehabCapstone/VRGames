@@ -16,6 +16,7 @@ public class PlaneGameplayManager : GameplayManager
     public GameObject leftTable;
     public GameObject rightTable;
     public GameObject centerTable;
+    public GameObject newTable;
     public float secondsTilDespawn;
     Random rnd = new Random();
 
@@ -148,14 +149,25 @@ public class PlaneGameplayManager : GameplayManager
     {
         GameObject plane = Instantiate(planePrefab);
         plane.tag = "Plane";
-        int i = rnd.Next();
-        if (i % 3 == 0){
-            SpawnRightPlane(plane);
-        } else if (i % 3 == 1) {
-            SpawnLeftPlane(plane);
-        } else {
-            SpawnCenterPlane(plane);
-        }
+        // int i = rnd.Next();
+        // if (i % 3 == 0){
+        //     SpawnRightPlane(plane);
+        // } else if (i % 3 == 1) {
+        //     SpawnLeftPlane(plane);
+        // } else {
+        //     SpawnCenterPlane(plane);
+        // }
+        SpawnPlane(plane);
+    }
+
+    void SpawnPlane(GameObject plane)
+    {
+        print("Spawning Plane");
+        plane.transform.position = new Vector3(0, 1, 0.65f);
+        int degrees = rnd.Next(0, 180);
+        degrees -= 90;
+        plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, 0);
+        planes.Add(plane);
     }
 
     void SpawnRightPlane(GameObject plane)
