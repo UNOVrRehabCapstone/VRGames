@@ -13,9 +13,10 @@ public class PlaneGameplayManager : GameplayManager
     //public GameObject hoopSpawn;
     //private int currHoops = 0;
     public GameObject planePrefab;
-    public GameObject leftTable;
-    public GameObject rightTable;
-    public GameObject centerTable;
+    // public GameObject leftTable;
+    // public GameObject rightTable;
+    // public GameObject centerTable;
+    public GameObject newTable;
     public float secondsTilDespawn;
     Random rnd = new Random();
 
@@ -148,37 +149,49 @@ public class PlaneGameplayManager : GameplayManager
     {
         GameObject plane = Instantiate(planePrefab);
         plane.tag = "Plane";
-        int i = rnd.Next();
-        if (i % 3 == 0){
-            SpawnRightPlane(plane);
-        } else if (i % 3 == 1) {
-            SpawnLeftPlane(plane);
-        } else {
-            SpawnCenterPlane(plane);
-        }
+        // int i = rnd.Next();
+        // if (i % 3 == 0){
+        //     SpawnRightPlane(plane);
+        // } else if (i % 3 == 1) {
+        //     SpawnLeftPlane(plane);
+        // } else {
+        //     SpawnCenterPlane(plane);
+        // }
+        SpawnPlane(plane);
     }
 
-    void SpawnRightPlane(GameObject plane)
+    void SpawnPlane(GameObject plane)
     {
-        //GameObject rightPlane = Instantiate(planePrefab);
-        //rightPlane.tag = "RightPlane";
-        plane.transform.position = rightTable.transform.position + new Vector3(0, rightTable.transform.localScale.y + .5f, 0);
+        plane.transform.position = new Vector3(0, 1, 0.65f);
+        int degrees = rnd.Next(0, 180);
+        degrees -= 90;
+        plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
         planes.Add(plane);
     }
 
-    void SpawnLeftPlane(GameObject plane)
-    {
-        //GameObject leftPlane = Instantiate(planePrefab);
-        //leftPlane.tag = "LeftPlane";
-        plane.transform.position = leftTable.transform.position + new Vector3(0, leftTable.transform.localScale.y + .5f, 0);
-        planes.Add(plane);
-    }
+    //  LEGACY SPAWN PLANE METHODS, DOES NOT WORK
+    //
+    // void SpawnRightPlane(GameObject plane)
+    // {
+    //     GameObject rightPlane = Instantiate(planePrefab);
+    //     rightPlane.tag = "RightPlane";
+    //     plane.transform.position = rightTable.transform.position + new Vector3(0, rightTable.transform.localScale.y + .5f, 0);
+    //     planes.Add(plane);
+    // }
 
-    void SpawnCenterPlane(GameObject plane)
-    {
-        plane.transform.position = centerTable.transform.position + new Vector3(0, centerTable.transform.localScale.y + .5f, 0);
-        planes.Add(plane);
-    }
+    // void SpawnLeftPlane(GameObject plane)
+    // {
+    //     GameObject leftPlane = Instantiate(planePrefab);
+    //     leftPlane.tag = "LeftPlane";
+    //     plane.transform.position = leftTable.transform.position + new Vector3(0, leftTable.transform.localScale.y + .5f, 0);
+    //     planes.Add(plane);
+    // }
+
+    // void SpawnCenterPlane(GameObject plane)
+    // {
+    //     plane.transform.position = centerTable.transform.position + new Vector3(0, centerTable.transform.localScale.y + .5f, 0);
+    //     planes.Add(plane);
+    // }
 
     //Coroutine for counting down and despawning plane after certain amount of time
     private IEnumerator DespawnCountdown( GameObject obj )

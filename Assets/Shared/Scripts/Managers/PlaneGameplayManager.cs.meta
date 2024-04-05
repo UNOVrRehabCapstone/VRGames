@@ -3,7 +3,14 @@ guid: 9cf355ea33272b64791d224adaeea121
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - gameSettings: {instanceID: 0}
+  - planePrefab: {instanceID: 0}
+  - leftTable: {instanceID: 0}
+  - rightTable: {instanceID: 0}
+  - centerTable: {instanceID: 0}
+  - newTable: {fileID: 616393819839770030, guid: d2abce3f9b318e84dac672f151dc7f6c,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
