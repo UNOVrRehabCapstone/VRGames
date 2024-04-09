@@ -1,7 +1,20 @@
+/**
+ * \file TargetSpawner.cs
+ * \brief Manages the spawning of target objects within specified spatial bounds, ensuring they do not overlap.
+ *
+ * The TargetSpawner class is responsible for generating targets in a designated area, with a mechanism to prevent overlap among spawned targets. It supports customizable spawn ranges, target quantities, and ensures conflict-free target placement.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * \class TargetSpawner
+ * \brief Spawns target objects within a specified area, ensuring they do not overlap.
+ *
+ * This class spawns a specified number of target objects within defined spatial bounds. It ensures that new targets do not overlap with existing ones by checking the intended spawn location for conflicts before instantiation.
+ */
 public class TargetSpawner : MonoBehaviour
 {
     //The Target GameObject
@@ -33,6 +46,12 @@ public class TargetSpawner : MonoBehaviour
 
     Quaternion targetOrientation = Quaternion.Euler(0, -90, 90);
 
+    /**
+     * \brief Initializes target spawning by defining bounds and instantiating initial targets.
+     *
+     * Start is called before the first frame update. It sets up the spawn range, calculates target dimensions, and spawns the initial set of targets.
+     */
+
     // Start is called before the first frame update
     void Start()
     {
@@ -58,12 +77,23 @@ public class TargetSpawner : MonoBehaviour
         SpawnConflictFree(targetsAtOnce);
     }
 
+    /**
+     * \brief Instantiates a target at a given position with a predefined orientation.
+     * 
+     * \param pos The position at which to spawn the target.
+     * \return The instantiated target GameObject.
+     */
     GameObject SpawnTarget (Vector3 pos)
     {
         return Instantiate(targetPrefab, pos, targetOrientation);
     }
 
     //Spawn n targets while checking that they are not occupying the same space.
+    /**
+     * \brief Spawns a specified number of targets, ensuring no spatial conflicts.
+     * 
+     * \param n The number of targets to spawn.
+     */
     void SpawnConflictFree(int n)
     {
         Vector3 spawnPos;
@@ -96,6 +126,11 @@ public class TargetSpawner : MonoBehaviour
     }
 
     //Use Random to generate a potential spawn position.
+    /**
+     * \brief Generates a random spawn position within the defined bounds.
+     * 
+     * \return A Vector3 representing the generated spawn position.
+     */
     Vector3 SpawnInRange()
     {
         float x = Random.Range(xSpawnRangeLo, xSpawnRangeHi);
@@ -108,6 +143,12 @@ public class TargetSpawner : MonoBehaviour
     }
 
     //Verify that a spawnPos does not collide with an existing target.
+    /**
+     * \brief Checks for collisions at a potential spawn position to prevent overlapping targets.
+     * 
+     * \param spawnPos The position to check for potential collisions.
+     * \return A boolean indicating whether a collision occurs at the given position.
+     */
     bool CollisionOccurs(Vector3 spawnPos)
     {
         bool collisionOccurs = false;
