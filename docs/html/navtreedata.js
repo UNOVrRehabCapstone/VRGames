@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "VRCapstoneGames", "index.html", [
+  [ "VRGames", "index.html", [
     [ "Overview", "md__c_1_2_users_2_lykos_2_desktop_2_projects_2_capstone_2_v_r_games_2_assets_2_third_party_2_ocu51a50e3fe462bc084db50acf62e0fe73.html", [
       [ "Application Setup", "md__c_1_2_users_2_lykos_2_desktop_2_projects_2_capstone_2_v_r_games_2_assets_2_third_party_2_ocu51a50e3fe462bc084db50acf62e0fe73.html#autotoc_md1", [
         [ "Rift", "md__c_1_2_users_2_lykos_2_desktop_2_projects_2_capstone_2_v_r_games_2_assets_2_third_party_2_ocu51a50e3fe462bc084db50acf62e0fe73.html#autotoc_md2", null ],
