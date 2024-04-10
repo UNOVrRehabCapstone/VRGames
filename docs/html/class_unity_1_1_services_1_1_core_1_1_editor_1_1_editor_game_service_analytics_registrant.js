@@ -1,0 +1,4 @@
+var class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_registrant =
+[
+    [ "RegisterEditorAnalyticsEventAsync", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_registrant.html#a92aa6be3e868c4825d0a957d8be436d9", null ]
+];

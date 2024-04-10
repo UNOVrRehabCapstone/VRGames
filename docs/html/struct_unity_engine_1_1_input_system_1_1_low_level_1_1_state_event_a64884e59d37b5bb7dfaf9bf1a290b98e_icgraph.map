@@ -1,0 +1,17 @@
+<map id="UnityEngine.InputSystem.LowLevel.StateEvent.From" name="UnityEngine.InputSystem.LowLevel.StateEvent.From">
+<area shape="rect" id="Node000001" title="Return the given InputEventPtr as a StateEvent pointer." alt="" coords="546,216,720,259"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#aedddbc8fa71e9d5414c357c84e5a00c3" title="Read the current state of device &#160;and create a state event from it." alt="" coords="300,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="612,204,566,132,534,94,496,62,473,49,476,45,500,58,538,91,570,129,617,201"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#ae3808f4dde60384196ddfe5c2f5fc3bd" title="Create a state event for the given device &#160;and copy the default state of the device into the event." alt="" coords="280,72,494,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="592,208,547,176,497,145,473,134,475,129,499,140,550,172,595,204"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#a008a470ef95fc13f946a83faf5eb7016" title="Retrieve the state stored in the event." alt="" coords="289,155,485,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,218,485,208,486,203,531,213"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_history.html#a40dea3c35793d5631f814aca3038a02f" title=" " alt="" coords="276,261,498,320"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="531,262,499,269,498,264,530,257"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_history.html#aefdaabdcb9fc6e92fdb8abb53cabe45b" title=" " alt="" coords="5,295,228,353"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="601,272,555,307,528,323,499,335,430,350,359,355,291,354,228,348,229,342,291,348,359,350,429,345,497,329,525,318,552,302,597,267"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a961a8ddf05ae12105d1a0506f7d28755" title="Set the control to the given value by sending a state event with the value to the control&#39;s device." alt="" coords="301,395,473,453"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="608,273,561,326,531,353,499,378,468,396,466,392,497,374,528,349,557,322,604,269"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="427,249,412,243,387,240,365,242,351,247,344,253,344,261,339,261,340,251,348,242,364,237,387,235,413,237,429,245"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="260,309,228,313,228,308,260,304"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseController.Update" name="UnityEngine.XR.Interaction.Toolkit.XRBaseController.Update">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,117,215,160"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a5d50842c6a25b3c762860f3f6ff2a188" title="Updates the controller every frame. This is called automatically from Update." alt="" coords="263,109,472,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,136,247,136,247,141,215,141"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#ae0acc93d2930cc317d87013ce1fb1023" title="Applies the given controller state to this XRBaseController. Depending on the update phase,..." alt="" coords="520,5,807,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,106,466,81,519,58,540,50,542,55,521,62,468,86,420,111"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#aa099edbbf8a6aacb664cbed24e225eea" title="Updates the animation on the model instance (if the model contains an Animator). Unity calls this aut..." alt="" coords="559,72,768,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="472,123,543,114,544,119,473,128"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a06e12c009edf72d76cf0acaaa6cae17a" title="Updates the XR Interaction states in the given controller state based on the current inputs of the co..." alt="" coords="545,155,782,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="473,149,530,156,529,162,472,155"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a2b7f290869b51aa0560046efd20b08d7" title="Updates the pose values in the given controller state based on the current tracking input of the cont..." alt="" coords="559,221,768,280"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="428,166,521,207,545,216,544,221,519,212,426,171"/>
+</map>

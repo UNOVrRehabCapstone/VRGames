@@ -1,0 +1,5 @@
+<map id="Oculus.Voice.AppVoiceExperience.Activate" name="Oculus.Voice.AppVoiceExperience.Activate">
+<area shape="rect" id="Node000001" title="Activate the microphone and send data for NLU processing with custom request options." alt="" coords="5,5,234,48"/>
+<area shape="rect" id="Node000002" href="$interface_facebook_1_1_wit_ai_1_1_i_voice_service.html#a2c4eac17bb864262e52975c76cc986db" title="Activate the microphone and send data for NLU processing." alt="" coords="282,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,24,266,24,266,29,234,29"/>
+</map>

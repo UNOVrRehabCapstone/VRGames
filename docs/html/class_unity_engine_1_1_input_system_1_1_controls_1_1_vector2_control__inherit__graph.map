@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.Controls.Vector2Control" name="UnityEngine.InputSystem.Controls.Vector2Control">
+<area shape="rect" id="Node000001" title="A floating&#45;point 2D vector control composed of two AxisControls." alt="" coords="213,39,385,81"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_dpad_control.html" title="A control made up of four discrete, directional buttons. Forms a vector but can also be addressed as ..." alt="" coords="433,5,605,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,42,432,37,433,42,401,47"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_stick_control.html" title="A two&#45;axis thumbstick control that can act as both a vector and a four&#45;way dpad." alt="" coords="433,72,605,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="401,73,433,78,432,83,400,78"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="5,47,165,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,57,212,57,212,63,180,63"/>
+</map>

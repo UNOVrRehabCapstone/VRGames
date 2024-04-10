@@ -1,0 +1,24 @@
+<map id="TMPro.TMP_Text.ParseInputText" name="TMPro.TMP_Text.ParseInputText">
+<area shape="rect" id="Node000001" title="Method to parse the input text based on its source." alt="" coords="766,80,980,107"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a754e5a230232f1ed55615e55a3ed32ad" title="Method to calculate the preferred height of a text object." alt="" coords="519,139,718,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,114,704,141,702,135,803,109"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___text.html#a214f876e2c3bbcfde711d95e4c79b821" title="Function to Calculate the Preferred Width and Height of the text object given the provided width and ..." alt="" coords="272,5,471,48"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="800,79,718,63,590,46,471,36,472,30,590,41,719,57,801,73"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___text.html#abb5c80b9a45b89007024c857593e12c8" title="Method to calculate the preferred width of a text object." alt="" coords="519,72,718,115"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="751,96,719,96,719,91,751,91"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#a9d3dbcb6ccf3ef97454b5ec89725eccb" title="Function to Calculate the Preferred Width and Height of the text object." alt="" coords="272,72,471,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="521,137,452,118,454,113,523,131"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="523,133,517,129,501,112,493,95,485,78,469,62,451,51,454,46,473,58,489,75,497,92,505,109,521,125,526,128"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#a039a0f623414b9972e2e123a81ddc003" title="Function to Calculate the Preferred Width and Height of the text object given a certain string." alt="" coords="272,139,471,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,163,471,163,471,157,503,157"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___text.html#a5bad2f9a6312f25cc94280a90b61f864" title="Function to Calculate the Preferred Width and Height of the text object given a certain string and si..." alt="" coords="272,205,471,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="523,189,454,207,452,202,521,183"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ea12a256e97a7ab1d66945b5f3a0a88" title=" " alt="" coords="21,55,208,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,85,208,80,209,75,256,79"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a963457c98b96eb2387dd43d40a7dcc57" title=" " alt="" coords="5,105,224,132"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="256,107,225,111,224,105,255,102"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="503,96,471,96,471,91,503,91"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="521,70,452,51,454,46,523,65"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="523,122,454,141,452,135,521,117"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="526,125,521,129,505,145,497,161,489,178,473,195,454,207,451,202,469,191,485,175,493,159,501,142,517,125,523,121"/>
+</map>

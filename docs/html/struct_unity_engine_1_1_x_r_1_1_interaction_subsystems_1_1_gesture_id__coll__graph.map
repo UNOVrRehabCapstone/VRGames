@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.InteractionSubsystems.GestureId" name="UnityEngine.XR.InteractionSubsystems.GestureId">
+<area shape="rect" id="Node000001" title="A gesture&#45;unique identifier for gestures. This identifies a single unique gesture across different ev..." alt="" coords="64,96,240,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,43,140,94,136,97,101,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="192,5,245,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,46,168,97,164,94,199,43"/>
+</map>

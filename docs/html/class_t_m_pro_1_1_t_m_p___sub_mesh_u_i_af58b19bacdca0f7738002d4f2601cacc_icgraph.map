@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_SubMeshUI.UpdateMaterial" name="TMPro.TMP_SubMeshUI.UpdateMaterial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="288,56,497,99"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#aa1918700dd7e78768075a88b31db98a2" title=" " alt="" coords="17,5,228,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,55,239,47,187,35,188,30,240,41,277,50"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#ac6bb1546f8b9fe175ba68e2d253935b5" title="Function to update the material from the parent text object." alt="" coords="16,56,229,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,80,229,80,229,75,272,75"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#a5aae214407f49b19377ba6b3c99bd3e9" title=" " alt="" coords="5,123,240,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,106,212,125,211,119,288,100"/>
+</map>

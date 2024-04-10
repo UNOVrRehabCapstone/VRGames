@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawEvents" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawEvents">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the event properties...." alt="" coords="5,88,207,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#ac792e1caa78805711b5440ed77c0ca7d" title="Draw the Interactor Events foldout." alt="" coords="255,88,456,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,115,239,115,239,120,207,120"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a38dbf7f132687d59066f25e112d90eab" title="Draw the nested contents of the Interactor Events foldout." alt="" coords="504,5,705,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,85,499,67,501,72,447,90"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a0ee94daca6be791ba7abd68172e6b60b" title="Get whether deprecated events are in use." alt="" coords="504,88,705,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="457,115,489,115,489,120,457,120"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#afbe158a4b3c91d18f220b2ebe7fd1068" title="Migrate the persistent listeners from the deprecated UnityEvent properties to the new events on an XR..." alt="" coords="504,171,705,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="447,145,501,163,499,168,445,150"/>
+</map>

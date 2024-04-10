@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.Controls.AxisControl.WriteValueIntoState" name="UnityEngine.InputSystem.Controls.AxisControl.WriteValueIntoState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,88,474,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_quaternion_control.html#a4b5730e894192163867cb980fb497ecd" title=" " alt="" coords="5,5,218,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,85,205,67,206,62,263,80"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector2_control.html#ad3ca2d231882997d845371c35612a2e2" title=" " alt="" coords="14,88,209,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,120,209,120,209,115,250,115"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector3_control.html#a7dcf6d516f0deab2f46f47c658b4641a" title=" " alt="" coords="14,171,209,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,154,206,173,205,167,261,149"/>
+</map>

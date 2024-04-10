@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.PoseDetection.Editor.FeatureListPropertyDrawer" name="Oculus.Interaction.PoseDetection.Editor.FeatureListPropertyDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,39,383,81"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_finger_feature_list_property_drawer.html" title=" " alt="" coords="431,5,680,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,43,430,39,431,44,399,48"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_transform_config_editor.html" title=" " alt="" coords="446,72,665,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,72,446,78,445,83,398,77"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,116,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,57,163,57,163,63,131,63"/>
+</map>

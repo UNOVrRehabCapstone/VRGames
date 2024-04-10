@@ -1,0 +1,15 @@
+<map id="UnityEditor.Timeline.AnimationTrackRecorder.PrepareTrack" name="UnityEditor.Timeline.AnimationTrackRecorder.PrepareTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,205,148"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#ae9a7eb659ce6f6bf1b2dacdb659d7bb7" title=" " alt="" coords="253,72,472,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,111,237,107,237,112,206,116"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a5a65196511de2353627a38bd9e6e09e2" title="Converts from global time to local time of the clip." alt="" coords="265,139,460,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="206,137,250,143,249,148,205,142"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html#ad32f07442ffee64b07211ee7936ad149" title="Creates a TimelineClip, AnimationPlayableAsset and an AnimationClip. Use this clip to record in a tim..." alt="" coords="558,5,763,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,69,547,49,548,55,461,74"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#a025d52cd573004d95ad0daec992f0194" title=" " alt="" coords="520,72,801,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="473,91,504,91,504,96,473,96"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a773c3585d8ee2c63765f06afa6536990" title=" " alt="" coords="567,139,754,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="461,113,552,133,551,138,460,118"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html#aefc9321cfccc75e488a4ea6cc7a8a9ae" title="Creates a TimelineClip on this track that uses an AnimationClip." alt="" coords="849,5,1055,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="764,24,834,24,834,29,764,29"/>
+</map>

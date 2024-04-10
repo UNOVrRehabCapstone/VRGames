@@ -1,0 +1,7 @@
+<map id="TeleportOrientationHandlerHMD.UpdateTeleportDestination" name="TeleportOrientationHandlerHMD.UpdateTeleportDestination">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,212,81"/>
+<area shape="rect" id="Node000002" href="$class_teleport_orientation_handler.html#a16fa732ad211ead717b4447f3c877986" title=" " alt="" coords="269,5,447,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,44,253,38,253,43,213,49"/>
+<area shape="rect" id="Node000003" href="$class_locomotion_teleport.html#a2868f89c5694a1d90192e52a0bbbf97c" title="When the active aim and orientation handler finishes preparing the data for the teleport destination,..." alt="" coords="260,72,456,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,71,245,76,244,81,212,76"/>
+</map>

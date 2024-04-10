@@ -1,0 +1,5 @@
+<map id="TeleportSupport.AddEventHandlers" name="TeleportSupport.AddEventHandlers">
+<area shape="rect" id="Node000001" title="Derived classes that need to use event handlers need to override this method and call the base class ..." alt="" coords="227,5,398,48"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html#a4e9697112be511a0dab4123e233222df" title="OnEnable is virtual so that derived classes can set up references to objects before AddEventHandlers ..." alt="" coords="5,13,179,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,29,179,29,179,24,211,24"/>
+</map>

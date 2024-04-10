@@ -1,0 +1,7 @@
+<map id="Facebook.WitAi.Lib.Mic" name="Facebook.WitAi.Lib.Mic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,80,211,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,120,78,117,81,81,45"/>
+<area shape="rect" id="Node000003" href="$interface_facebook_1_1_wit_ai_1_1_interfaces_1_1_i_audio_input_source.html" title=" " alt="" coords="138,5,265,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,45,145,81,141,78,177,41"/>
+</map>

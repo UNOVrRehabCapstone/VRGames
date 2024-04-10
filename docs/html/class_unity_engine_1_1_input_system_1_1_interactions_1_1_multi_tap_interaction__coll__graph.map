@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Interactions.MultiTapInteraction" name="UnityEngine.InputSystem.Interactions.MultiTapInteraction">
+<area shape="rect" id="Node000001" title="Interaction that requires multiple taps (press and release within tapTime) spaced no more than tapDel..." alt="" coords="5,96,207,139"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_interaction.html" title=" " alt="" coords="46,5,166,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,64,109,96,103,96,103,64"/>
+</map>

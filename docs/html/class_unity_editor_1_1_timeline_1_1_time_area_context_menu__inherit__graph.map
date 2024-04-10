@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.TimeAreaContextMenu" name="UnityEditor.Timeline.TimeAreaContextMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,175,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_manipulator.html" title=" " alt="" coords="46,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,48,93,80,87,80,87,48"/>
+</map>

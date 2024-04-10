@@ -1,0 +1,5 @@
+<map id="UnityEditor.SettingsManagement.PackageSettingsRepository" name="UnityEditor.SettingsManagement.PackageSettingsRepository">
+<area shape="rect" id="Node000001" title="A settings repository that stores data local to a Unity project." alt="" coords="5,80,222,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_settings_management_1_1_i_settings_repository.html" title="A settings repository is responsible for implementing the saving and loading of values." alt="" coords="46,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,48,116,80,111,80,111,48"/>
+</map>

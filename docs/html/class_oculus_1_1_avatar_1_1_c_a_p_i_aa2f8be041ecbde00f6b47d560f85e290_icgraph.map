@@ -1,0 +1,10 @@
+<map id="Oculus.Avatar.CAPI.ovrAvatarComponent_Get_Native" name="Oculus.Avatar.CAPI.ovrAvatarComponent_Get_Native">
+<area shape="rect" id="Node000001" title=" " alt="" coords="496,39,688,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_avatar_1_1_c_a_p_i.html#a3e65fe78f097d6bc1b496dfed02750fd" title=" " alt="" coords="256,39,448,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,63,448,63,448,57,481,57"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="391,26,376,20,352,17,329,19,315,24,310,30,312,38,306,39,305,29,312,20,328,14,352,12,377,14,393,21"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar_body.html#a64a62ac2333936631249f0ed0878c215" title=" " alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,47,208,43,208,38,241,42"/>
+<area shape="rect" id="Node000004" href="$class_ovr_avatar_component.html#aeb59f4f3c346b95894fb57d4218bb847" title=" " alt="" coords="13,72,200,115"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="241,78,201,83,200,78,240,72"/>
+</map>

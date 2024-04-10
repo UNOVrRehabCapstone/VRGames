@@ -1,0 +1,5 @@
+<map id="Anchor.SetAnchorHandle" name="Anchor.SetAnchorHandle">
+<area shape="rect" id="Node000001" title="Sets this anchor&#39;s handle." alt="" coords="244,13,411,40"/>
+<area shape="rect" id="Node000002" href="$class_anchor_spawner.html#a49fe9a08d4990a22cf89dd7356132c67" title="Spawns an anchor and parents it under the given transform." alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,29,196,29,196,24,228,24"/>
+</map>

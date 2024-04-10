@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.GraphicRegistry.DisableRaycastGraphicForCanvas" name="UnityEngine.UI.GraphicRegistry.DisableRaycastGraphicForCanvas">
+<area shape="rect" id="Node000001" title="Disables the raycast for a Graphic from a Canvas, disabling this association from the registry." alt="" coords="262,5,480,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_graphic_registry.html#a79bc08d2d7587ee1928fb2e5182f4df5" title="Disables a Graphic from a Canvas, disabling this association from the registry." alt="" coords="5,5,214,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,29,214,29,214,24,246,24"/>
+</map>

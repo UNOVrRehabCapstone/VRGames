@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual.Awake" name="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual.Awake">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,55,252,97"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_tint_interactable_visual.html#a8e31f4f72250905f77d9989ac9052f1f" title="Gets whether all shared materials on the Renderers used for tinting have emission enabled." alt="" coords="300,5,507,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,55,284,50,285,55,252,60"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_tint_interactable_visual.html#a6db3d04d5dc4fef70617f4c9a6792edf" title="Apply or remove a tint to all Renderers used for tinting." alt="" coords="300,88,507,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,92,285,97,284,102,252,97"/>
+</map>

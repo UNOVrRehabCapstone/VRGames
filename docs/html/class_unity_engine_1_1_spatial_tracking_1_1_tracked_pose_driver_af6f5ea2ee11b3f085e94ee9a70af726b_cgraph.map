@@ -1,0 +1,11 @@
+<map id="UnityEngine.SpatialTracking.TrackedPoseDriver.OnDisable" name="UnityEngine.SpatialTracking.TrackedPoseDriver.OnDisable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,199,85"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#acf714ef1bd2dbbd0ef0480e54eec03a8" title=" " alt="" coords="247,43,475,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,61,231,61,231,67,199,67"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a5594364290a0ef22ea95f241e2029ec9" title="PerformUpdate queries the data from the selected pose source, and then calls SetLocalTransform to app..." alt="" coords="523,43,742,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,61,507,61,507,67,476,67"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#aa79a0c10dac545fd0573eb3070e9b86b" title="Sets the transform that is being driven by the TrackedPoseDriver. will only correct set the rotation ..." alt="" coords="790,5,1032,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="743,47,774,42,775,48,743,52"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a193d4093614f050e1dee80da2dd4bfdf" title="This is only used when running in legacy mode, and will fake the behavior of the old implicit camera ..." alt="" coords="801,72,1021,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="743,76,786,82,785,87,743,81"/>
+</map>

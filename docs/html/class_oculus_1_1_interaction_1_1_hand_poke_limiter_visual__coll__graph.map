@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPokeLimiterVisual" name="Oculus.Interaction.HandPokeLimiterVisual">
+<area shape="rect" id="Node000001" title="HandPokeInteractorVisual forwards the finger state of an associated HandPokeInteractor to a HandGrabM..." alt="" coords="5,80,196,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,155,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,48,103,80,98,80,98,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.EdgeLookup" name="UnityEngine.ProBuilder.EdgeLookup">
+<area shape="rect" id="Node000001" title="Represents an edge composed of both the local index and the common index." alt="" coords="79,112,268,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,43,161,110,157,113,110,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="208,5,299,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,46,190,113,186,110,233,43"/>
+</map>

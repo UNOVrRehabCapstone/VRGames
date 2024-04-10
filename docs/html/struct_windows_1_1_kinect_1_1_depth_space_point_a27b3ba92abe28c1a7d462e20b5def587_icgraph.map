@@ -1,0 +1,8 @@
+<map id="Windows.Kinect.DepthSpacePoint.Equals" name="Windows.Kinect.DepthSpacePoint.Equals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,39,434,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="378,26,363,20,339,17,316,19,302,24,297,30,299,38,294,39,292,29,299,20,315,14,339,12,364,14,380,21"/>
+<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_depth_space_point.html#a0c5717bdd406915037b2b714a36ade85" title=" " alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="228,47,196,43,196,37,228,42"/>
+<area shape="rect" id="Node000003" href="$struct_windows_1_1_kinect_1_1_depth_space_point.html#a65f61952baa914a0b93dc16c4ad341b5" title=" " alt="" coords="5,72,196,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="228,78,196,83,196,77,228,73"/>
+</map>

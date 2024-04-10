@@ -1,0 +1,5 @@
+<map id="OVRLipSyncContext.PreprocessAudioSamples" name="OVRLipSyncContext.PreprocessAudioSamples">
+<area shape="rect" id="Node000001" title="Preprocess F32 PCM audio buffer." alt="" coords="247,5,458,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context.html#a13e57e8b57d2b293c03ca451a027499a" title="Process F32 audio sample and pass it to the lip sync module for computation." alt="" coords="5,5,199,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,29,199,29,199,24,231,24"/>
+</map>

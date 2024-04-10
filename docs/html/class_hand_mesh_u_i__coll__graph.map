@@ -1,0 +1,16 @@
+<map id="HandMeshUI" name="HandMeshUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,389,187,416"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="116,96,225,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,137,186,146,208,227,212,263,211,309,213,339,211,352,204,367,191,381,175,391,172,387,188,377,200,364,206,351,207,339,206,309,207,263,203,228,181,147,178,138"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_skeleton.html" title=" " alt="" coords="5,187,106,213"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="150,135,117,165,81,188,78,184,114,161,147,131"/>
+<area shape="rect" id="Node000006" href="$class_hand_mesh_mask.html" title=" " alt="" coords="82,280,197,307"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="170,138,153,254,146,280,141,279,148,253,165,138"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="37,227,26,245,16,266,13,288,18,308,36,334,60,356,110,386,108,391,56,360,32,338,13,310,7,288,11,265,21,243,33,224"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="57,228,65,252,80,266,99,277,97,282,77,271,61,255,52,230"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="6,96,92,123"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="54,138,57,186,52,186,48,139"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="22,5,76,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="52,48,52,95,46,95,46,48"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="142,323,142,389,137,389,137,323"/>
+</map>

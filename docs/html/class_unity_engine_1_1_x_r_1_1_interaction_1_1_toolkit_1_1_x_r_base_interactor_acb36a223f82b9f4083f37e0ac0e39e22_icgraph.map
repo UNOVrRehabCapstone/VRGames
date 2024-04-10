@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.CaptureAttachPose" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.CaptureAttachPose">
+<area shape="rect" id="Node000001" title="Capture the current Attach Transform pose. This method is automatically called by Unity to capture th..." alt="" coords="275,5,487,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#ada26ed303a31e627335f81b0dba6f6c1" title="The XRInteractionManager calls this method right before the Interactor first initiates selection of a..." alt="" coords="5,5,227,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,37,227,37,227,32,259,32"/>
+</map>

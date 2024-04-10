@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh" name="UnityEngine.ProBuilder.ProBuilderMesh">
+<area shape="rect" id="Node000001" title="Represents the ProBuilder MeshFilter component, which is responsible for storing all the data necessa..." alt="" coords="5,80,185,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,92,80,92,48"/>
+</map>

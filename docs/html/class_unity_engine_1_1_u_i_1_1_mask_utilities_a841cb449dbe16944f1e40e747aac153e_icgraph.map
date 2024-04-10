@@ -1,0 +1,19 @@
+<map id="UnityEngine.UI.MaskUtilities.FindRootSortOverrideCanvas" name="UnityEngine.UI.MaskUtilities.FindRootSortOverrideCanvas">
+<area shape="rect" id="Node000001" title="Find a root Canvas." alt="" coords="575,105,765,148"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ad9e0ee518fca96a5879709f7e2c378f1" title=" " alt="" coords="310,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="612,100,526,62,492,51,494,46,528,58,614,95"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#a687aa0d711bf32e50c11a403493c2667" title="Function returning the modified material for masking if necessary." alt="" coords="290,72,527,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="559,115,527,111,528,106,560,110"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_mask.html#a98c8adb07fbc3cf1e541f1110f8c3eeb" title="Stencil calculation time!" alt="" coords="300,139,517,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="560,143,517,149,517,144,559,138"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html#a08cdd6ba228d1c72132a5c7dbdfa4958" title="See IMaterialModifier.GetModifiedMaterial." alt="" coords="300,205,517,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="614,158,528,196,494,207,492,202,526,191,612,153"/>
+<area shape="rect" id="Node000005" href="$class_graphics_1_1_mask_tests.html#ad2fe2cbba1b38d2af2ca616ae384016d" title=" " alt="" coords="9,7,238,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,134,288,129,273,117,263,104,254,92,240,80,220,68,222,64,243,75,258,88,268,101,277,113,291,124,300,130"/>
+<area shape="rect" id="Node000006" href="$class_graphics_1_1_mask_tests.html#a369d62c5bf188a8e4d968dbcaf48f6ce" title=" " alt="" coords="9,89,238,148"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="284,145,238,138,239,133,285,139"/>
+<area shape="rect" id="Node000007" href="$class_graphics_1_1_mask_tests.html#a6ee4a43353ee5c5c98d0a672712597a9" title=" " alt="" coords="5,172,242,231"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="285,181,242,187,242,182,284,175"/>
+<area shape="rect" id="Node000008" href="$class_graphics_1_1_mask_tests.html#a402d9354cb62a7b4dd15e7bf8fc5ab8c" title=" " alt="" coords="5,255,242,313"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="300,190,291,196,277,207,268,219,258,232,243,245,222,256,220,252,240,240,254,228,263,216,273,203,288,191,298,186"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.DualShock.IDualShockHaptics" name="UnityEngine.InputSystem.DualShock.IDualShockHaptics">
+<area shape="rect" id="Node000001" title="Extended haptics interface for DualShock controllers." alt="" coords="10,155,208,197"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_dual_shock_1_1_dual_shock_gamepad.html" title="A Sony DualShock/DualSense controller." alt="" coords="5,245,213,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,213,112,245,106,245,106,213"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_haptics_1_1_i_dual_motor_rumble.html" title="A simple haptics interface that allows to control two motors individually." alt="" coords="45,80,173,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,122,112,154,106,154,106,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_haptics_1_1_i_haptics.html" title="Base interface for haptics on input devices." alt="" coords="75,5,143,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,48,112,80,106,80,106,48"/>
+</map>

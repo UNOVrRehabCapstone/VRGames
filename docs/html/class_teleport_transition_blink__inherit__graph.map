@@ -1,0 +1,9 @@
+<map id="TeleportTransitionBlink" name="TeleportTransitionBlink">
+<area shape="rect" id="Node000001" title="This transition will cause the screen to quickly fade to black, perform the repositioning,..." alt="" coords="5,229,158,256"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition.html" title="Teleport transitions manage the actual relocation of the player from the current position and orienta..." alt="" coords="20,155,143,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,197,84,229,79,229,79,197"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="25,80,138,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,122,84,154,79,154,79,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="27,5,136,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,48,84,80,79,80,79,48"/>
+</map>

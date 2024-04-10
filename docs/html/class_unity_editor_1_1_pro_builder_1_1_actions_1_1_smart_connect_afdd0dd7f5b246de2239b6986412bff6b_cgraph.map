@@ -1,0 +1,7 @@
+<map id="UnityEditor.ProBuilder.Actions.SmartConnect.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.SmartConnect.PerformActionImplementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,284,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="332,5,517,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,24,316,24,316,29,284,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="565,5,797,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,24,549,24,549,29,517,29"/>
+</map>

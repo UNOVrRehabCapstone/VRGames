@@ -1,0 +1,4 @@
+var struct_unity_1_1_services_1_1_core_1_1_configuration_1_1_serializable_project_configuration =
+[
+    [ "SerializableProjectConfiguration", "struct_unity_1_1_services_1_1_core_1_1_configuration_1_1_serializable_project_configuration.html#aa3abfcf4647f421393878b2594a3147d", null ]
+];

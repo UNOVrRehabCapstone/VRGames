@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.MinimalRotationPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.MinimalRotationPoseAtSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,252,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a8a3b34f6ea4eb36398ae5eaa4413661b" title=" " alt="" coords="300,5,555,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,56,284,52,285,57,252,62"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a9bcbb112c977ff7f24e5d8771729e646" title=" " alt="" coords="304,88,551,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,90,289,96,288,101,252,96"/>
+</map>

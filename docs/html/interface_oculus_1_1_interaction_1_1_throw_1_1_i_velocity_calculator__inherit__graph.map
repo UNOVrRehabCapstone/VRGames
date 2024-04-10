@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Throw.IVelocityCalculator" name="Oculus.Interaction.Throw.IVelocityCalculator">
+<area shape="rect" id="Node000001" title="Interface to velocity calculator used to make throwing possible." alt="" coords="10,5,179,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_throw_1_1_standard_velocity_calculator.html" title="Velocity calculator that depends only on an IPoseInputDevice, which means its input agnostic." alt="" coords="5,96,184,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,64,97,96,92,96,92,64"/>
+</map>

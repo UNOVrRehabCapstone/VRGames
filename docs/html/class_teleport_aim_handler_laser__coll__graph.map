@@ -1,0 +1,9 @@
+<map id="TeleportAimHandlerLaser" name="TeleportAimHandlerLaser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,172,256"/>
+<area shape="rect" id="Node000002" href="$class_teleport_aim_handler.html" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="21,155,156,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,197,91,229,86,229,86,197"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="32,80,145,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,122,91,154,86,154,86,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="34,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,48,91,80,86,80,86,48"/>
+</map>

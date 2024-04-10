@@ -1,0 +1,31 @@
+<map id="TMPro.TMP_FontAsset.ReadFontAssetDefinition" name="TMPro.TMP_FontAsset.ReadFontAssetDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="565,273,756,316"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a5dd445cf935c5dc8d48b2e4f4dcd12a3" title="Clears font asset data including the glyph and character tables and textures. Function might be chang..." alt="" coords="298,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,260,626,214,598,161,562,107,540,83,515,62,488,47,491,42,519,58,543,79,566,104,603,158,631,212,650,258"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a3763c422ed1d1ccdea665d862bcee7ca" title="Create new instance of a font asset." alt="" coords="294,72,493,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="637,262,587,193,554,159,516,129,492,117,494,112,518,124,557,155,591,190,641,258"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#af9bf0b22f0d6c1bd975723007170647c" title="Function to check if a character is contained in the font asset with the option to also check potenti..." alt="" coords="273,139,514,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="627,264,577,219,548,198,516,180,486,168,487,163,518,175,550,193,581,215,631,260"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ac34a1e5e756233491e66d73fb7072d2d" title="Function to check if the characters in the given string are contained in the font asset with the opti..." alt="" coords="270,189,517,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="605,268,516,231,475,219,476,214,518,225,607,263"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="294,240,493,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="549,283,492,276,493,271,550,278"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="292,307,495,349"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="550,311,496,318,495,313,549,306"/>
+<area shape="rect" id="Node000012" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___font_asset_editor.html#a73b246c279b3400a6efd902498c8083a" title=" " alt="" coords="302,373,485,416"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="605,326,518,364,483,375,481,370,516,359,603,321"/>
+<area shape="rect" id="Node000013" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___font_asset_editor.html#a6252b5aae39cc04893667c96c9960881" title=" " alt="" coords="284,440,503,483"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="634,330,584,382,552,408,518,430,494,442,491,437,516,426,549,404,580,378,630,326"/>
+<area shape="rect" id="Node000014" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a628a14946951b1585d4571f07cb3cbe9" title="Try adding the characters from the provided string to the font asset." alt="" coords="292,507,495,549"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="646,331,626,370,597,415,561,459,519,497,496,509,493,505,515,492,557,455,593,412,621,367,641,329"/>
+<area shape="rect" id="Node000015" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#a84696ac330200bc56ea91856c422ae06" title="Try adding the characters from the provided string to the font asset." alt="" coords="292,573,495,616"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="653,332,635,384,608,446,570,510,546,538,519,563,496,577,493,573,515,559,542,535,565,506,603,444,630,382,647,330"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="22,192,205,219"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="278,241,183,222,184,217,279,236"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="21,243,206,285"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="278,265,207,266,207,260,278,260"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a68396208120ce895ce53db26b8779c35" title=" " alt="" coords="6,311,221,337"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="276,329,221,328,221,323,276,324"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ac38b46e6697cbc9e1f8ba43350e97469" title=" " alt="" coords="5,361,222,404"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="277,353,223,364,222,359,276,348"/>
+</map>

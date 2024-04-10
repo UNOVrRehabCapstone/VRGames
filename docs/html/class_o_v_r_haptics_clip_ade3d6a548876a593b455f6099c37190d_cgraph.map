@@ -1,0 +1,5 @@
+<map id="OVRHapticsClip.OVRHapticsClip" name="OVRHapticsClip.OVRHapticsClip">
+<area shape="rect" id="Node000001" title="Creates a clip by mixing the specified clips." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_haptics_clip.html#a60e1b457d28f375908cac1e2ae8eec23" title="Adds the specified sample to the end of the clip." alt="" coords="267,5,461,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,16,251,16,251,21,219,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.Controls.DpadControl.MakeDpadVector" name="UnityEngine.InputSystem.Controls.DpadControl.MakeDpadVector">
+<area shape="rect" id="Node000001" title="Create a direction vector from the given four button states." alt="" coords="561,47,771,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_dpad_control.html#a6ad1a00acf908bcc50d118c9497f9f0a" title=" " alt="" coords="259,5,513,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,61,513,56,514,51,546,56"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_vector2_composite.html#a0ffc749e9ffd1b04481fbeaa9139d4f9" title=" " alt="" coords="283,88,489,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="546,96,489,105,488,100,545,91"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_vector2_composite.html#af71f39ed8ad6a79c0a4626b5666fc690" title="Determine the current level of actuation of the composite.This method by default returns &#45;1,..." alt="" coords="5,88,211,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,120,211,120,211,115,268,115"/>
+</map>

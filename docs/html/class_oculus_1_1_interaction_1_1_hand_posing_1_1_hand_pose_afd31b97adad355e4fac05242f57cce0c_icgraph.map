@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.HandPose.CopyFrom" name="Oculus.Interaction.HandPosing.HandPose.CopyFrom">
+<area shape="rect" id="Node000001" title="Copies the values over to the hand pose without requiring any new allocations." alt="" coords="258,39,462,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_pose.html#aac3198b6c4585cbfd1f4a884caa18231" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,47,210,43,211,38,243,42"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_address.html#a7bf85e5b8362c10f226ba0b22a719e22" title=" " alt="" coords="5,72,210,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,78,211,82,210,77,242,73"/>
+</map>

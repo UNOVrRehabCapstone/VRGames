@@ -1,0 +1,13 @@
+<map id="UnityEngine.InputSystem.InputTestFixture.Move" name="UnityEngine.InputSystem.InputTestFixture.Move">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,178,119"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a2130e1c517844e5ae729eba1cd798c94" title="Get the control&#39;s current value as read from InputControl.currentStatePtr" alt="" coords="241,43,414,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,82,225,76,226,81,179,88"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a5426e6f11ab6c29da5d90256c8e7fe96" title="Try to find a child control matching the given path." alt="" coords="226,109,429,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="179,107,210,111,210,117,178,112"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a841e10da47a82193f1741a90925515f1" title=" " alt="" coords="477,43,695,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,61,461,61,461,67,414,67"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a2170ca59db41f3dac8f60cda3eaa662d" title=" " alt="" coords="756,5,931,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,45,740,39,741,44,696,51"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a3a46a24407f3b1a9797b8a157a86c0bd" title=" " alt="" coords="743,72,944,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="696,77,728,82,727,87,695,83"/>
+</map>

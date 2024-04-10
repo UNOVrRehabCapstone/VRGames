@@ -1,0 +1,17 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRSimpleInteractable" name="UnityEngine.XR.Interaction.Toolkit.XRSimpleInteractable">
+<area shape="rect" id="Node000001" title="This is the simplest version of an Interactable object. It simply provides a concrete implementation ..." alt="" coords="208,229,395,272"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html" title="Abstract base class from which all interactable behaviours derive. This class hooks into the interact..." alt="" coords="234,155,369,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,197,304,229,299,229,299,197"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,109,260,151,258,157,116,114"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_activate_interactable.html" title="An interface that represents an Interactable component which Interactor components can activate...." alt="" coords="139,80,293,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,115,288,152,285,156,241,119"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactable.html" title="An interface that represents an Interactable component that controls how a GameObject interacts with ..." alt="" coords="333,5,440,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,41,247,82,245,77,342,36"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_hover_interactable.html" title="An interface that represents an Interactable component which Interactor components can hover over." alt="" coords="317,80,456,107"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="389,48,389,80,384,80,384,48"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactable.html" title="An interface that represents an Interactable component which an Interactor component can select." alt="" coords="480,80,624,107"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="431,36,524,77,522,82,428,41"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="362,119,318,156,314,152,359,115"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="494,114,346,157,345,151,493,109"/>
+</map>

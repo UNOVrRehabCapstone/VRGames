@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.FindAction" name="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.FindAction">
+<area shape="rect" id="Node000001" title="Find an InputAction in the collection by its InputAction.name or by its InputAction...." alt="" coords="5,5,236,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a70954eb0ab378a1f4d7dbf3162fc7e73" title="Find an InputAction by its name in one of the InputActionMaps in the asset." alt="" coords="284,13,470,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,268,32,268,37,236,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#af63d7ef83f7b7841fe6456da0e4e89f2" title="Find an action in the map by name or ID." alt="" coords="518,13,695,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,32,502,32,502,37,471,37"/>
+</map>

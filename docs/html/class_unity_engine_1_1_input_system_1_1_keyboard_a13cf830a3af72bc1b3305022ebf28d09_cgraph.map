@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Keyboard.RefreshConfiguration" name="UnityEngine.InputSystem.Keyboard.RefreshConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,205,93"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_query_keyboard_layout_command.html#a986de03d6e69c37e6c0f0563c1539add" title=" " alt="" coords="253,5,459,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,55,237,50,238,55,206,60"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_device.html#aeb560ad83630b5a581507bf6e2cfebb5" title=" " alt="" coords="257,88,455,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,84,241,90,241,95,205,89"/>
+</map>

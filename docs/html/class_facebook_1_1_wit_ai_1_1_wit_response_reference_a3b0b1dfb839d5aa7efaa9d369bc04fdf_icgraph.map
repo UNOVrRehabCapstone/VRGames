@@ -1,0 +1,14 @@
+<map id="Facebook.WitAi.WitResponseReference.GetIntValue" name="Facebook.WitAi.WitResponseReference.GetIntValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,105,667,148"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="608,92,593,86,569,84,547,86,533,91,527,97,529,104,524,105,522,95,530,86,545,81,569,79,595,81,610,87"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_wit_int_value.html#af0b4e10153362e7684080da0f8754e50" title=" " alt="" coords="238,39,422,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,103,409,85,410,79,477,98"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_array_node_reference.html#a9e14364dc46c8d0539aa4f962fbd3aee" title=" " alt="" coords="240,105,420,148"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="456,129,420,129,420,124,456,124"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_object_node_reference.html#aa57dc44d728a75a3f4e96a36d240cfc0" title=" " alt="" coords="237,172,423,215"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="477,155,410,174,409,169,475,150"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_wit_int_value.html#a0f5d4172ddb939e169cd8fe616de42c9" title=" " alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,47,189,42,189,37,223,42"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_wit_int_value.html#ae10f25d838b6c224fc9c5d76c2d332d5" title=" " alt="" coords="5,72,189,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,78,189,83,189,78,222,73"/>
+</map>

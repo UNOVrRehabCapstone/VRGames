@@ -1,0 +1,17 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.DrawDerivedProperties" name="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.DrawDerivedProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the property fields of derived classes t..." alt="" coords="293,253,513,312"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html#a44bf5c2f1ad8ae6b9ef7e2d598fd0284" title=" " alt="" coords="24,5,226,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,241,353,202,323,159,286,115,243,78,225,67,227,62,246,74,289,112,327,155,358,199,382,239"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recording_editor.html#a39402fbb153b56bd0e0e24e808260a67" title=" " alt="" coords="10,88,240,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,245,305,202,243,161,220,150,222,145,246,156,308,197,361,241"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#a9f5ba925c9e0f64e24e4424d14ca2370" title=" " alt="" coords="18,171,232,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,251,225,233,227,227,288,246"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html#af9009738edd28dd26bf2d745443d0d7f" title=" " alt="" coords="9,253,241,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="277,285,241,285,241,280,277,280"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aae36f715bd5ef9034b8218c1b3d6d783" title=" " alt="" coords="24,336,226,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="288,320,227,338,225,333,286,314"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_snap_turn_provider_editor.html#a5ac22f42ec34e5cdcfcf0fdfdf68302f" title=" " alt="" coords="5,419,245,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="361,324,308,368,246,409,222,420,220,416,243,404,305,364,358,320"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#aa802a62e933d028336cf18bd602e1221" title=" " alt="" coords="16,501,234,544"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="382,327,359,367,328,411,290,455,246,492,226,503,223,498,243,487,286,451,324,408,354,364,378,324"/>
+</map>

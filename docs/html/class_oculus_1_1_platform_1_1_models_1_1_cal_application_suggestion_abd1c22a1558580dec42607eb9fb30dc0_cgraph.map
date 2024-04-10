@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.Models.CalApplicationSuggestion.CalApplicationSuggestion" name="Oculus.Platform.Models.CalApplicationSuggestion.CalApplicationSuggestion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,243,93"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#afbde726095ecf8036ed474fdda30d6ed" title=" " alt="" coords="291,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,45,275,41,276,46,243,50"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ad9ac3c5a92eb3216470000cc8f7a417b" title=" " alt="" coords="311,72,487,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,78,296,85,295,90,243,83"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="555,80,741,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="487,99,539,99,539,104,487,104"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="789,72,990,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,99,774,99,774,104,742,104"/>
+</map>

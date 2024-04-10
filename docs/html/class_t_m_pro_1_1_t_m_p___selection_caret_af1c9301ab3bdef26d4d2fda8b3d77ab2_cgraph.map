@@ -1,0 +1,5 @@
+<map id="TMPro.TMP_SelectionCaret.Cull" name="TMPro.TMP_SelectionCaret.Cull">
+<area shape="rect" id="Node000001" title="Override to Cull function of MaskableGraphic to prevent Culling." alt="" coords="5,21,214,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="262,5,492,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,32,246,32,246,37,214,37"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TryGetCurrentRaycast" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TryGetCurrentRaycast">
+<area shape="rect" id="Node000001" title="Gets the first 3D and UI ray cast hits, if any ray cast hits are available." alt="" coords="5,83,247,141"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a6112c56356a3e84bffd0a2699af1cc7e" title=" " alt="" coords="295,29,543,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,87,279,81,280,87,248,93"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#ab81c7b8e9e8220de51763dc0aef41b5d" title=" " alt="" coords="298,136,540,195"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="248,131,283,138,282,143,247,137"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="362,29,363,19,374,10,392,5,419,3,450,5,468,13,466,17,448,11,419,8,393,10,376,15,368,21,367,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="362,135,363,125,374,117,392,111,419,109,450,112,468,119,466,124,448,117,419,115,393,117,376,121,368,128,367,136"/>
+</map>

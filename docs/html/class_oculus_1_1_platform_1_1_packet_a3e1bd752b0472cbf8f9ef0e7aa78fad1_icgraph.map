@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.Packet.ReadBytes" name="Oculus.Platform.Packet.ReadBytes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="545,80,738,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_p2_p_manager.html#a0bb56d1e1fd675c8d7c7439bc597751e" title=" " alt="" coords="254,5,497,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,78,494,67,496,62,540,73"/>
+<area shape="rect" id="Node000003" href="$class_p2_p_manager.html#a7e1361a5e0b34c2b86f5ddd3345731c6" title=" " alt="" coords="268,88,483,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="529,104,483,104,483,99,529,99"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_hoops_1_1_p2_p_manager.html#a76024e5fd7cb8211165fc168663bc95b" title=" " alt="" coords="254,139,497,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="530,129,476,141,475,135,529,123"/>
+<area shape="rect" id="Node000004" href="$class_social_platform_manager.html#a9413ac3a0cdbea7cf45375a541634df2" title=" " alt="" coords="5,88,206,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,104,206,104,206,99,252,99"/>
+</map>

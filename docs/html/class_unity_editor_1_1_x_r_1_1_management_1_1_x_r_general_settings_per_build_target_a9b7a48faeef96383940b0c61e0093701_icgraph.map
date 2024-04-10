@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.SetSettingsForBuildTarget" name="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.SetSettingsForBuildTarget">
+<area shape="rect" id="Node000001" title="Set specific settings for a given build target." alt="" coords="638,80,857,139"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#ae812e1cfa4ee1d8e92559789e3b1ea81" title="Create default settings for a given build target." alt="" coords="347,5,578,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="622,79,576,67,578,62,624,74"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_package_management_tests.html#aa3803867f823140f86e49472480c33f8" title=" " alt="" coords="335,88,590,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="622,112,590,112,590,107,622,107"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_management_test_setup.html#aceffed7a14610718bcac8f2226dcb7b6" title=" " alt="" coords="352,155,573,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="624,141,557,157,556,151,622,136"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a583455d59450e7993c18af3ff35dd1ce" title="Create a new default instance of XRManagerSettings for a build target. Requires that the there exists..." alt="" coords="5,5,287,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,37,287,37,287,32,331,32"/>
+</map>

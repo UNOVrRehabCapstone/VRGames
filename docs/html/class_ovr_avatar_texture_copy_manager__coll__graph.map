@@ -1,0 +1,7 @@
+<map id="OvrAvatarTextureCopyManager" name="OvrAvatarTextureCopyManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,112,249,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,50,140,110,136,114,80,53"/>
+<area shape="rect" id="Node000003" href="$struct_ovr_avatar_texture_copy_manager_1_1_fallback_texture_set.html" title=" " alt="" coords="138,5,342,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,61,163,113,159,110,208,58"/>
+</map>

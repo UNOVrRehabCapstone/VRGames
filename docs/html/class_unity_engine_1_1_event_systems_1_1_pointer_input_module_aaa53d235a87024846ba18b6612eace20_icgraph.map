@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.GetLastPointerEventData" name="UnityEngine.EventSystems.PointerInputModule.GetLastPointerEventData">
+<area shape="rect" id="Node000001" title="Return the last PointerEventData for the given touch / mouse id." alt="" coords="267,43,490,101"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#aa96698ff32c65f6f0e69b2792bf805b2" title=" " alt="" coords="5,5,219,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,57,219,52,219,47,252,52"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_touch_input_module.html#a9d8f3ed6701b6c405aaa3eab5336328d" title=" " alt="" coords="20,88,204,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,92,205,99,204,94,251,87"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.ICandidatePosition" name="Oculus.Interaction.ICandidatePosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_ray_interactor.html" title=" " alt="" coords="5,96,213,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,64,112,95,106,95,106,64"/>
+</map>

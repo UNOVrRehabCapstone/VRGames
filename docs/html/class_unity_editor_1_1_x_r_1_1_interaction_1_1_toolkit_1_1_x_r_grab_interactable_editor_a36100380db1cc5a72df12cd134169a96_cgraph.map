@@ -1,0 +1,13 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.DrawProperties" name="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.DrawProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,129,218,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#a6ebd3e88d15714a081e5b4a93264b46a" title="Draw property fields related to attach configuration." alt="" coords="266,5,478,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,126,265,74,277,68,279,73,267,78,166,131"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#a8e96cb38e45c186371b2e89749259a4c" title="Draw property fields related to detach configuration." alt="" coords="266,88,478,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,139,250,134,251,139,218,144"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#ad6515eb21b12b03729516cedbfdc8729" title="Draw the property fields related to grab configuration." alt="" coords="266,171,478,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,173,251,178,250,183,218,178"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#afe0bf2dc1f0a29af68ebd2c9cbb56920" title="Draw the property fields related to tracking configuration." alt="" coords="266,253,478,312"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="166,186,267,239,279,244,277,249,265,244,163,191"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#a32a8b2605213e20a5fb7530a7b536caa" title="Checks if the object has a non&#45;uniformly scaled parent and draws a message if necessary." alt="" coords="526,171,738,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,197,510,197,510,203,478,203"/>
+</map>

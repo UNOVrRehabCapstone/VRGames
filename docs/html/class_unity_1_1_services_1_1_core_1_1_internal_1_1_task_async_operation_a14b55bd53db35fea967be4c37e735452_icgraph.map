@@ -1,0 +1,6 @@
+<map id="Unity.Services.Core.Internal.TaskAsyncOperation.TaskAsyncOperation" name="Unity.Services.Core.Internal.TaskAsyncOperation.TaskAsyncOperation">
+<area shape="rect" id="Node000001" title="Creates a new TaskAsyncOperation from a provided Task. Returns on Unity&#39;s main thread context." alt="" coords="239,29,506,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="417,16,401,10,372,8,346,10,330,15,324,21,326,28,321,29,319,19,327,10,345,5,372,3,402,5,419,11"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_task_async_operation.html#a8d7a67e8b3695a5e4b25f25d50d996ff" title="Creates and starts a task from the provided Action executing on the C# thread pool...." alt="" coords="5,29,191,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,53,191,53,191,48,223,48"/>
+</map>

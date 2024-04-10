@@ -1,0 +1,9 @@
+<map id="LocomotionTeleport.AimCollisionTest" name="LocomotionTeleport.AimCollisionTest">
+<area shape="rect" id="Node000001" title="AimCollisionTest is used by many of the aim handlers to standardize the testing of aiming beams...." alt="" coords="255,80,490,107"/>
+<area shape="rect" id="Node000002" href="$class_teleport_target_handler_nav_mesh.html#a0f02db2bb34dcc73c849a1b63fac7553" title="This method will be called while the LocmotionTeleport component is in the aiming state,..." alt="" coords="22,5,190,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,78,190,50,191,45,302,73"/>
+<area shape="rect" id="Node000003" href="$class_teleport_target_handler_node.html#af1a3c937265c124b01913a4a907808e5" title="This method will be called while the LocmotionTeleport component is in the aiming state,..." alt="" coords="15,72,197,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,96,197,96,197,91,239,91"/>
+<area shape="rect" id="Node000004" href="$class_teleport_target_handler_physical.html#ab4a6ac8ce98795153802422118681611" title="This method will be called while the LocmotionTeleport component is in the aiming state,..." alt="" coords="5,139,207,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,114,195,141,194,135,301,108"/>
+</map>

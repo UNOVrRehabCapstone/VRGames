@@ -1,0 +1,7 @@
+<map id="Unity.XR.CoreUtils.XROrigin.MatchOriginUp" name="Unity.XR.CoreUtils.XROrigin.MatchOriginUp">
+<area shape="rect" id="Node000001" title="This function will rotate the XR Origin object such that the XR Origin&#39;s up vector will match the pro..." alt="" coords="252,39,438,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#a9c9c819c27070d90656c8851874edcaa" title="This function will rotate the XR Origin object around the camera object using the destinationUp &#160;vect..." alt="" coords="5,5,204,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,48,204,43,205,38,237,42"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#ae49f9c9bd06b51584bd2d96f7ffaff5b" title="This function will rotate the XR Origin object around the camera object using the destinationUp &#160;vect..." alt="" coords="11,72,198,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,78,199,83,198,78,236,72"/>
+</map>

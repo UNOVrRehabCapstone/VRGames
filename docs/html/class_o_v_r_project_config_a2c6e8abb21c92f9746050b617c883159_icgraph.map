@@ -1,0 +1,13 @@
+<map id="OVRProjectConfig.CommitProjectConfig" name="OVRProjectConfig.CommitProjectConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="524,39,740,81"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_project_config_editor.html#ab033b4f2a33f8b39c71c740aec5b9fcc" title=" " alt="" coords="283,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="508,46,476,42,477,37,509,41"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_project_config_editor.html#a0a430f2eb2b4df0bb06616f135d9bec6" title=" " alt="" coords="283,72,476,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="509,79,477,83,476,78,508,74"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_manager_editor.html#a226e1eebb84638c246cd99de074a7301" title=" " alt="" coords="5,16,235,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,30,235,31,235,25,267,25"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_project_config_editor.html#ae440dfcd0362f550ab2c54abdcc29335" title=" " alt="" coords="29,68,211,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,55,212,70,210,65,273,50"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="280,70,234,59,181,46,183,41,235,53,281,65"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="267,94,211,93,211,88,267,89"/>
+</map>

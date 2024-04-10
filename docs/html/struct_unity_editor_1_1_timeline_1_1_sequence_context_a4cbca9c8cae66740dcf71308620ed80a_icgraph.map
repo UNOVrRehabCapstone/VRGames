@@ -1,0 +1,6 @@
+<map id="UnityEditor.Timeline.SequenceContext.Equals" name="UnityEditor.Timeline.SequenceContext.Equals">
+<area shape="rect" id="Node000001" title="Indicates whether the current object is equal to another object of the same type." alt="" coords="253,29,452,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="393,16,377,10,352,8,329,10,315,15,309,21,311,28,306,29,304,19,312,10,328,5,352,3,379,5,395,11"/>
+<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_sequence_context.html#ac8b97f22b12872a50b3cf72403e8e18f" title="Indicates whether the current object is equal to another object of indeterminate type." alt="" coords="5,29,205,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,53,205,53,205,48,237,48"/>
+</map>

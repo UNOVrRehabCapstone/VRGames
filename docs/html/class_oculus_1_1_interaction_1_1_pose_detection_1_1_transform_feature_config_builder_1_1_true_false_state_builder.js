@@ -1,0 +1,6 @@
+var class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder =
+[
+    [ "TrueFalseStateBuilder", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder.html#ae24c2ffa31c4a6602b42f42606d3fa3d", null ],
+    [ "Closed", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder.html#a3b465e39c75ef481bfe2d9901f75b416", null ],
+    [ "Open", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder.html#ae7218b991d76bb043b1a128284339b27", null ]
+];

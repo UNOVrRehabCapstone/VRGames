@@ -1,0 +1,12 @@
+<map id="UnityEngine.InputSystem.InputRecorder.OnDisable" name="UnityEngine.InputSystem.InputRecorder.OnDisable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,178,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#ac16d188234d2bc6a4903d19a06de07c5" title=" " alt="" coords="468,5,645,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,51,452,31,452,37,178,57"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#afbed62e175e7da3b94855921e9595577" title=" " alt="" coords="226,68,398,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,69,211,73,210,78,178,74"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a8a05ae4f06393c5076fa1869a90d3c5b" title="Stop recording events." alt="" coords="714,39,931,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="646,35,699,42,699,47,645,40"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a38416148dcc4329ebfc2c537542d86c7" title="Stop recording, if necessary, and clear the trace such that it released unmanaged memory which might ..." alt="" coords="446,72,666,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="398,88,430,89,430,94,398,93"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="666,77,698,73,699,78,667,82"/>
+</map>

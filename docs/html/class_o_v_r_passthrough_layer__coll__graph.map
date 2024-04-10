@@ -1,0 +1,15 @@
+<map id="OVRPassthroughLayer" name="OVRPassthroughLayer">
+<area shape="rect" id="Node000001" title="A layer used for passthrough." alt="" coords="14,277,168,304"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,115,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,137,91,277,86,277,62,138"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_overlay.html" title="Add OVROverlay script to an object with an optional mesh primitive rendered as a TimeWarp overlay ins..." alt="" coords="117,187,209,213"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="88,131,150,184,146,188,84,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,227,103,278,99,275,141,224"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="247,96,332,123"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="260,134,182,188,179,184,257,130"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="157,5,211,32"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="183,48,177,96,167,186,161,186,172,96,178,47"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="212,40,276,93,273,97,209,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="356,96,423,123"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="382,138,373,153,360,165,333,176,294,186,209,197,209,192,293,180,332,171,357,160,368,149,377,136"/>
+</map>

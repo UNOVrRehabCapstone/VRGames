@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Models.SendInvitesResult" name="Oculus.Platform.Models.SendInvitesResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,204,217,247"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_application_invite_list.html" title=" " alt="" coords="5,97,234,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,156,122,203,117,203,117,156"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html" title=" " alt="" coords="50,5,189,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,64,122,97,117,97,117,64"/>
+</map>

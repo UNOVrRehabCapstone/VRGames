@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.TwoGrabPlaneTransformer.TwoGrabPlaneConstraints" name="Oculus.Interaction.TwoGrabPlaneTransformer.TwoGrabPlaneConstraints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,282,203"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_float_constraint.html" title=" " alt="" coords="64,5,223,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,64,146,159,141,159,141,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.Tests.SelectableTests.OnPointerDownWithNoEventSystemShouldNotCrash" name="UnityEngine.UI.Tests.SelectableTests.OnPointerDownWithNoEventSystemShouldNotCrash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,273,64"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_down_handler.html#a18d183648f495d70fdcf81467f0c3715" title="Use this callback to detect pointer down events." alt="" coords="321,13,556,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,32,305,32,305,37,273,37"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.HandRef" name="Oculus.Interaction.Input.HandRef">
+<area shape="rect" id="Node000001" title="HandRef is a utility component that delegates all of its IHand implementation to the provided Hand ob..." alt="" coords="84,80,247,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,40,140,77,137,82,87,44"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="138,5,193,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,48,168,80,163,80,163,48"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="216,5,307,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,44,192,82,188,77,233,40"/>
+</map>

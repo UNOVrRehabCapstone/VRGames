@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.TrimStart" name="UnityEditor.Timeline.TrimStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,172,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_clip_action.html" title="Base class for a clip action. Inherit from this class to make an action that would react on selected ..." alt="" coords="48,80,129,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,122,91,154,86,154,86,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="58,5,119,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,48,91,80,86,80,86,48"/>
+</map>

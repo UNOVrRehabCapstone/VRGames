@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.GetMetadataForPackage" name="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.GetMetadataForPackage">
+<area shape="rect" id="Node000001" title="Given a package id, return the metadata for that package." alt="" coords="293,5,528,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_metadata_tests.html#afd5dcddfd3690c9f041c3887bc9a9a10" title=" " alt="" coords="5,13,245,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,37,245,37,245,32,277,32"/>
+</map>

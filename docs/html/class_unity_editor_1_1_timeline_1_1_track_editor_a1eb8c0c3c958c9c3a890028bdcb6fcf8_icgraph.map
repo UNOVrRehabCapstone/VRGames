@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.TrackEditor.GetBindingType" name="UnityEditor.Timeline.TrackEditor.GetBindingType">
+<area shape="rect" id="Node000001" title="Gets the binding type for a track." alt="" coords="481,72,654,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#afedf9fabc95d39487ecb22a7eaaec627" title="Override this method to determine which object to bind to track . A binding object should be determin..." alt="" coords="243,5,417,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,70,408,51,409,46,476,65"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#aea1e22bf8942adb19f776b525c933433" title="Gets the error text for the specified track." alt="" coords="243,72,417,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,96,417,96,417,91,465,91"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a01cd3e762b94345a904b15e23f7f78d8" title="Override this method to validate if a binding for track &#160;can be determined from candidate ." alt="" coords="227,139,433,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="476,122,409,141,408,135,474,117"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a3d36fb306a9a0ee9b15dff285d330036" title="Implement this method to override the default options for drawing a track." alt="" coords="5,72,179,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,96,179,96,179,91,228,91"/>
+</map>

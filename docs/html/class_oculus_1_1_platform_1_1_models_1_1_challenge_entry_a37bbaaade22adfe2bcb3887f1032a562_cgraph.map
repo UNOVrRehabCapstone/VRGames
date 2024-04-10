@@ -1,0 +1,27 @@
+<map id="Oculus.Platform.Models.ChallengeEntry.ChallengeEntry" name="Oculus.Platform.Models.ChallengeEntry.ChallengeEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,227,256"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae1c21329b0cd652731980cc34cb79683" title=" " alt="" coords="275,13,496,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,211,187,140,228,100,273,66,282,61,284,66,276,70,231,104,191,144,134,215"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a06a626624a97b8182286e0b21eb247be" title=" " alt="" coords="284,80,487,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="145,211,203,171,273,132,288,126,290,131,276,137,205,176,148,215"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a6175593d31cd76bac1315a32498ad3b3" title=" " alt="" coords="301,147,470,189"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="204,210,286,190,287,195,206,215"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5cbc56e77f72e4b2430bf223690d6d00" title=" " alt="" coords="298,213,473,256"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="227,232,283,232,283,237,227,237"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a9d2b31fd61580457de1e001e8ea98de2" title=" " alt="" coords="296,280,475,323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="206,254,282,273,281,278,204,259"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#addf89484a96444237ae3a4fc9271921c" title=" " alt="" coords="281,347,490,389"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="148,254,205,293,276,332,290,338,288,343,273,337,203,298,145,259"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#add15028b61d603f49947a39fbf8f6a81" title=" " alt="" coords="300,413,471,456"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="134,255,191,326,231,365,276,399,287,405,284,410,273,404,228,369,187,329,130,258"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="559,13,745,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,32,543,32,543,37,496,37"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="808,5,1009,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="746,32,793,32,793,37,746,37"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5d97490a1868977b5930fe17a48fcff6" title=" " alt="" coords="563,80,741,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="487,99,547,99,547,104,487,104"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a8f940031afc72e0803d0a87337938d36" title=" " alt="" coords="544,147,760,205"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="465,121,531,139,530,145,464,126"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#af11ff8bd92f61037f047b8f3d6ef3eb9" title=" " alt="" coords="563,347,742,389"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="490,365,547,365,547,371,490,371"/>
+</map>

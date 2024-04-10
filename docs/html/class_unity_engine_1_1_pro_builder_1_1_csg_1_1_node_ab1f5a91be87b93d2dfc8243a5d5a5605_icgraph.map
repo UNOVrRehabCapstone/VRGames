@@ -1,0 +1,19 @@
+<map id="UnityEngine.ProBuilder.Csg.Node.Node" name="UnityEngine.ProBuilder.Csg.Node.Node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="474,98,660,141"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a87824cd8e16aff9dfd2dea9542d87aaf" title=" " alt="" coords="240,32,426,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,96,410,78,411,73,476,91"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a4b767ad2f42a9eccb0b912bef33c6249" title=" " alt="" coords="5,98,192,141"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="474,148,426,156,333,163,239,156,177,144,178,139,240,150,333,158,426,150,473,142"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a9b6379fccd8028006bbda7e5cbf52a12" title=" " alt="" coords="5,165,192,208"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="498,149,427,169,305,185,192,190,192,184,304,179,425,164,496,144"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a957ca9ac8ec66abbe01d7aea1402e112" title=" " alt="" coords="5,32,192,74"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="532,90,484,52,455,35,425,22,392,14,358,10,288,10,222,20,166,34,165,29,221,15,288,5,358,4,393,9,427,17,458,30,487,47,535,85"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#abc1c12b403f870f179095ac0e3e8b7c2" title=" " alt="" coords="240,98,426,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="459,122,426,122,426,117,459,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,82,177,100,176,95,240,77"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,85,241,88,226,105,218,121,210,138,193,155,175,167,172,162,190,151,205,135,213,119,222,102,238,84,244,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="224,56,192,56,192,50,224,50"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="224,122,192,122,192,117,224,117"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="242,148,177,167,176,162,240,143"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="240,96,176,78,177,73,242,91"/>
+</map>

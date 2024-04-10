@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Input.HandRef.GetCenterEyePose" name="Oculus.Interaction.Input.HandRef.GetCenterEyePose">
+<area shape="rect" id="Node000001" title="Gets the pose of the center eye (HMD), in world space. Will return true if a pose was available; fals..." alt="" coords="5,13,192,56"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a2198cac79b64bcbcdc71ee69760922f2" title="Gets the pose of the center eye (HMD), in world space. Will return true if a pose was available; fals..." alt="" coords="240,13,407,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,32,224,32,224,37,192,37"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html#a6fabc13dec25262ed7a9fa05da327afc" title="Converts a tracking space pose to a pose in in Unity&#39;s world coordinate space (i.e...." alt="" coords="455,5,662,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,32,439,32,439,37,407,37"/>
+</map>

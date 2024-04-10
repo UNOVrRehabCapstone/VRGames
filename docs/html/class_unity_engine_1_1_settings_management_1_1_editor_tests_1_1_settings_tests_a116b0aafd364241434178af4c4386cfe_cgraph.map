@@ -1,0 +1,8 @@
+<map id="UnityEngine.SettingsManagement.EditorTests.SettingsTests.ChangingClassValuesSaves" name="UnityEngine.SettingsManagement.EditorTests.SettingsTests.ChangingClassValuesSaves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,235,80"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_settings_management_1_1_user_setting.html#a32a5633cbb273f24fbe99fcc5c371a96" title="Set the current value back to the default." alt="" coords="283,29,499,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,48,267,48,267,53,235,53"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_settings_management_1_1_user_setting.html#a51f6c0399ef3deb35151ed650b27312c" title="Set the value for this setting." alt="" coords="547,29,763,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,48,531,48,531,53,499,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="605,29,603,19,612,10,629,5,655,3,683,5,700,11,698,16,682,10,655,8,630,10,615,15,609,21,611,28"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="TMPro.TMP_Dropdown.RefreshShownValue" name="TMPro.TMP_Dropdown.RefreshShownValue">
+<area shape="rect" id="Node000001" title="Refreshes the text and image (if available) of the currently selected option." alt="" coords="280,99,482,141"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#aca7bde337dd9fb565f2a8ed96bf4bb25" title="Add multiple options to the options of the Dropdown based on a list of OptionData objects." alt="" coords="5,5,232,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,93,282,69,231,47,193,35,194,30,233,41,285,64,332,88"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a369717c09b1e1fa94f5e7dfa19ae9c1f" title="Add multiple image&#45;only options to the options of the Dropdown based on a list of Sprites." alt="" coords="5,56,232,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,100,191,86,192,81,265,95"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#afedde3cc300c5e96287f0e9d8731e34d" title="Add multiple text&#45;only options to the options of the Dropdown based on a list of strings." alt="" coords="5,107,232,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,123,232,123,232,117,264,117"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a031c8b8c5711c7fdb8a64bad0d139a0d" title="Clear the list of options in the Dropdown." alt="" coords="24,157,213,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,148,214,160,213,155,267,143"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#ad5f10181747d1751111539353dc2d3f6" title=" " alt="" coords="25,224,212,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="340,153,290,185,233,214,198,226,196,221,231,210,288,181,337,148"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.EnhancedTouch.Touch" name="UnityEngine.InputSystem.EnhancedTouch.Touch">
+<area shape="rect" id="Node000001" title="A high&#45;level representation of a touch which automatically keeps track of a touch over time." alt="" coords="5,80,178,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,162,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
+</map>

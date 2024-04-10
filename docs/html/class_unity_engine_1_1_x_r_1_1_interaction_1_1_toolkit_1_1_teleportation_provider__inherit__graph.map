@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.TeleportationProvider" name="UnityEngine.XR.Interaction.Toolkit.TeleportationProvider">
+<area shape="rect" id="Node000001" title="The TeleportationProvider is responsible for moving the XR Origin to the desired location on the user..." alt="" coords="5,155,189,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html" title="The LocomotionProvider is the base class for various locomotion implementations. This class provides ..." alt="" coords="30,80,164,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,122,100,154,94,154,94,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,5,152,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,48,100,80,94,80,94,48"/>
+</map>

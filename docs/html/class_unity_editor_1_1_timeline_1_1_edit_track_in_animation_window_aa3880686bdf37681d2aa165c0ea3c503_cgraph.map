@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.EditTrackInAnimationWindow.Execute" name="UnityEditor.Timeline.EditTrackInAnimationWindow.Execute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,225,85"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_edit_track_in_animation_window.html#ae092d90e3b5c7eb469872c35abf57ea1" title=" " alt="" coords="273,43,460,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,61,257,61,257,67,225,67"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#aba3253d25f32efbab85eb98d7947067e" title=" " alt="" coords="508,5,755,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,48,492,44,493,49,461,53"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a5b3c7d6e4ba1c8e675ea5b362a099bd2" title=" " alt="" coords="528,72,735,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="461,75,513,82,512,87,460,80"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_window_time_control.html#a03d793fa0b51d708b208b40373a8cabe" title=" " alt="" coords="803,5,993,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,24,788,24,788,29,756,29"/>
+</map>

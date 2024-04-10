@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.WingedEdge.ToString" name="UnityEngine.ProBuilder.WingedEdge.ToString">
+<area shape="rect" id="Node000001" title="Returns a string representation of the winged edge." alt="" coords="5,5,209,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_face.html#abe09941c4fef65b162f66ffcba58995a" title="Returns a string representation of the face." alt="" coords="257,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,24,241,24,241,29,209,29"/>
+</map>

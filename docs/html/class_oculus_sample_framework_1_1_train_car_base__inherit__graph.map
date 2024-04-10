@@ -1,0 +1,9 @@
+<map id="OculusSampleFramework.TrainCarBase" name="OculusSampleFramework.TrainCarBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,80,335,123"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_train_car.html" title=" " alt="" coords="5,179,228,205"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,134,135,180,131,176,193,130"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_train_locomotive.html" title=" " alt="" coords="251,171,454,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,130,326,168,323,172,272,134"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="179,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,48,237,80,231,80,231,48"/>
+</map>

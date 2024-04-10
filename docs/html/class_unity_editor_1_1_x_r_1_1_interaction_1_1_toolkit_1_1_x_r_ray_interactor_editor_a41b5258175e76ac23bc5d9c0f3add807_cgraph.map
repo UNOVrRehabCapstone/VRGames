@@ -1,0 +1,17 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRRayInteractorEditor.DrawProperties" name="UnityEditor.XR.Interaction.Toolkit.XRRayInteractorEditor.DrawProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,129,229,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a3e68279f80eebb34b181229817484c4f" title="Draw the property fields related to interaction configuration." alt="" coords="277,5,500,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,126,276,74,289,68,291,73,278,78,173,131"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a7de7516647212fdd843c0a7f302ac8a8" title="Draw the property fields related to interaction management." alt="" coords="288,88,489,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,139,272,132,273,138,230,144"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#af699cbb6c0cd401eddb2800e50681af1" title="Draw the Raycast Configuration foldout." alt="" coords="277,171,500,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,173,262,178,261,183,229,178"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#abb7db59b9fc4b284f23b79a8571395df" title="Draw the Selection Configuration foldout." alt="" coords="277,253,500,312"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,186,278,239,291,245,289,250,276,244,171,191"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a06ea17016af764fbca7942e1d438bbf3" title="Draw the nested contents of the Raycast Configuration foldout." alt="" coords="548,171,771,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,197,533,197,533,203,500,203"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a31092b464d39c6d67ec2f23e86c495c6" title="Draw the nested contents of the Selection Configuration foldout." alt="" coords="548,253,771,312"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="500,280,533,280,533,285,500,285"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a0d3c5e7842a6fb3184cc7c03d6d0b8d6" title="Draw the Select Action Trigger property and display a warning box if misconfigured." alt="" coords="819,253,1038,312"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="772,280,804,280,804,285,772,285"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="UnityEngine.UI.ToggleGroup.OnEnable" name="UnityEngine.UI.ToggleGroup.OnEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,62,194,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a135c5a4b893fac7ab99b3f8ccc34fb22" title="Ensure that the toggle group still has a valid state. This is only relevant when a ToggleGroup is Sta..." alt="" coords="242,62,430,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,81,226,81,226,86,194,86"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#aa4b1d7d085fb2101f4f6b000694ff862" title="Returns the toggles in this group that are active." alt="" coords="714,33,903,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,59,420,34,477,14,530,5,572,3,667,14,725,26,723,31,666,19,572,8,530,10,479,19,422,39,373,64"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a6043a7b489a71fc5908ee5827a0aba9b" title="Are any of the toggles on?" alt="" coords="478,29,666,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="430,67,462,63,463,68,431,73"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#ac1005ce10a4784b460071c3e5d822366" title="Returns the toggle that is the first in the list of active toggles." alt="" coords="478,95,666,138"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="431,94,463,99,462,104,430,99"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a68bf1d1f68cadb784797c93f9894cf88" title="Notify the group that the given toggle is enabled." alt="" coords="478,162,666,205"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="382,103,479,148,494,154,492,159,477,153,379,108"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="655,92,710,77,712,82,656,97"/>
+</map>

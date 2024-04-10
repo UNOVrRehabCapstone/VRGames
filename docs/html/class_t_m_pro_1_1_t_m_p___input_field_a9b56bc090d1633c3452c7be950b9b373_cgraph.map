@@ -1,0 +1,19 @@
+<map id="TMPro.TMP_InputField.OnPointerDown" name="TMPro.TMP_InputField.OnPointerDown">
+<area shape="rect" id="Node000001" title="Use this callback to detect pointer down events." alt="" coords="5,147,253,173"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a7bfcd4822d6fa704e155a822fd357879" title=" " alt="" coords="301,80,512,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,143,332,108,333,113,189,149"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="307,139,506,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="253,157,291,157,291,163,253,163"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_event_systems_1_1_abstract_event_data.html#a05fb9a52e72ca37254247d66b466716b" title="Use the event." alt="" coords="315,205,498,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="189,171,300,198,299,204,187,177"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ac9c67e94d54028f82f604b75bdeac336" title=" " alt="" coords="563,5,766,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,77,563,50,565,55,462,82"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ac542ca4fb9d53a6a8c37b16dc07bb60a" title=" " alt="" coords="571,72,758,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="513,91,555,91,555,96,513,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="816,5,1000,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="766,24,800,24,800,29,766,29"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="569,139,760,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="506,157,553,157,553,163,506,163"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="560,205,768,248"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="492,179,565,198,563,203,491,185"/>
+</map>

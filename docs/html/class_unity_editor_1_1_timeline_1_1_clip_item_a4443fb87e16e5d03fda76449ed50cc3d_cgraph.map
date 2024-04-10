@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.ClipItem.Equals" name="UnityEditor.Timeline.ClipItem.Equals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,169,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_clip_item.html#aa42a155cda7dfc7b0c6e3b9932b9cb83" title=" " alt="" coords="217,5,380,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,52,201,45,202,50,170,57"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_clip_item.html#a091bd6a75df2240c8fbc3ade24626f9c" title=" " alt="" coords="217,96,380,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,87,202,94,201,99,168,92"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="258,96,256,86,263,77,277,71,298,69,321,72,335,78,332,83,320,77,298,75,278,77,266,81,262,87,263,95"/>
+</map>

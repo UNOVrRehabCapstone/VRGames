@@ -1,0 +1,5 @@
+<map id="Oculus.Voice.Demo.BuiltInDemo.TimerController.GetTimerIntent" name="Oculus.Voice.Demo.BuiltInDemo.TimerController.GetTimerIntent">
+<area shape="rect" id="Node000001" title="Displays current timer value. It corresponds to &quot;wit$get_timer&quot;." alt="" coords="5,13,241,56"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_demo_1_1_built_in_demo_1_1_timer_controller.html#acfbc7c5d35f4f6ff5d780145a7d89d10" title="Returns time in the format of min:sec." alt="" coords="289,5,519,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,32,273,32,273,37,241,37"/>
+</map>

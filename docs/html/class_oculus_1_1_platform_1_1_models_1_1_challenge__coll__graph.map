@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.Models.Challenge" name="Oculus.Platform.Models.Challenge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,267,346,293"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_user_list.html" title=" " alt="" coords="5,128,218,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,166,156,203,189,241,218,264,214,268,185,245,152,206,125,169"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html" title=" " alt="" coords="50,5,173,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,64,114,128,109,128,109,64"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_models_1_1_leaderboard.html" title=" " alt="" coords="242,128,477,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="352,171,334,208,307,245,289,258,270,268,268,264,286,254,303,241,330,205,348,168"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_models_1_1_destination.html" title=" " alt="" coords="245,13,474,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="362,56,362,128,357,128,357,56"/>
+</map>

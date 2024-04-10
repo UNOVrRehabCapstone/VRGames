@@ -1,0 +1,7 @@
+<map id="UnityEditor.UI.TextEditor" name="UnityEditor.UI.TextEditor">
+<area shape="rect" id="Node000001" title="Custom Editor for the Text Component. Extend this class to write a custom editor for a component deri..." alt="" coords="5,155,170,181"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html" title="Editor class used to edit UI Graphics. Extend this class to write your own graphic editor." alt="" coords="37,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,122,90,154,85,154,85,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,5,115,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,48,90,80,85,80,85,48"/>
+</map>

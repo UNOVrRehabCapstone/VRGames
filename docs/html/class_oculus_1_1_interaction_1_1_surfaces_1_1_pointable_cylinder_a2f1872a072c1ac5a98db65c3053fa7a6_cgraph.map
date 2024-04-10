@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Surfaces.PointableCylinder.InjectAllPointableCylinder" name="Oculus.Interaction.Surfaces.PointableCylinder.InjectAllPointableCylinder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,232,156"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_cylinder.html#af83ddee53b009bad6872b78ec6aafc3d" title=" " alt="" coords="296,5,501,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,94,279,57,300,51,301,56,281,63,187,99"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_cylinder.html#a9110508903b68f4fbed52d86fb6c24c4" title=" " alt="" coords="301,72,496,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,111,285,104,286,109,232,116"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_cylinder.html#ab8638bcc6dc0d9d8377c5bfce8489144" title=" " alt="" coords="280,139,517,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,138,264,141,264,147,232,143"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_cylinder.html#acab5145654df844cfc106b4c56f258bd" title=" " alt="" coords="298,205,499,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="190,154,281,191,297,197,295,202,279,196,188,159"/>
+</map>

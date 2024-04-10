@@ -1,0 +1,6 @@
+<map id="UnityEditor.Timeline.TimelineTrackBaseGUI.DrawMuteButton" name="UnityEditor.Timeline.TimelineTrackBaseGUI.DrawMuteButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,211,72"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_mute_track.html#ab6daa4e874e38b9cf413c9b8249b9c10" title=" " alt="" coords="259,29,429,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,48,243,48,243,53,211,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,29,297,19,305,10,320,5,344,3,369,5,384,11,382,16,368,10,344,8,322,10,308,15,303,21,304,28"/>
+</map>

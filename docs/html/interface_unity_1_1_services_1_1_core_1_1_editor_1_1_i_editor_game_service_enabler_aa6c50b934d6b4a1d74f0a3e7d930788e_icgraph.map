@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Editor.IEditorGameServiceEnabler.IsEnabled" name="Unity.Services.Core.Editor.IEditorGameServiceEnabler.IsEnabled">
+<area shape="rect" id="Node000001" title="Gets the enablement status of the service." alt="" coords="591,13,831,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals.html#adf8d6591b5bc02033483871a9ad81f5e" title=" " alt="" coords="313,5,543,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,37,544,37,544,32,575,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_settings_provider.html#afab2fbbd2301284af4940a1d34866fc2" title=" " alt="" coords="5,5,265,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,37,265,37,265,32,297,32"/>
+</map>

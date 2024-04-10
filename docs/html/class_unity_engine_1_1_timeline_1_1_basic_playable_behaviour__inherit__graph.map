@@ -1,0 +1,9 @@
+<map id="UnityEngine.Timeline.BasicPlayableBehaviour" name="UnityEngine.Timeline.BasicPlayableBehaviour">
+<area shape="rect" id="Node000001" title="This class is deprecated. It is recommended to use Playable Asset and Playable Behaviour derived clas..." alt="" coords="111,80,292,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,38,167,77,165,82,97,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,256,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,48,204,80,199,80,199,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="280,5,411,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,42,240,82,237,77,308,38"/>
+</map>

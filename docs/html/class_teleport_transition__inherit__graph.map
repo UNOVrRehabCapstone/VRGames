@@ -1,0 +1,13 @@
+<map id="TeleportTransition" name="TeleportTransition">
+<area shape="rect" id="Node000001" title="Teleport transitions manage the actual relocation of the player from the current position and orienta..." alt="" coords="201,155,325,181"/>
+<area shape="rect" id="Node000004" href="$class_teleport_transition_blink.html" title="This transition will cause the screen to quickly fade to black, perform the repositioning,..." alt="" coords="5,229,158,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,190,114,231,112,226,216,185"/>
+<area shape="rect" id="Node000005" href="$class_teleport_transition_instant.html" title="This transition will move the player with no other side effects." alt="" coords="182,229,344,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,197,266,229,260,229,260,197"/>
+<area shape="rect" id="Node000006" href="$class_teleport_transition_warp.html" title="This transition will move the player to the destination over the span of a fixed amount of time...." alt="" coords="368,229,523,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="310,185,414,226,412,231,308,190"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="207,80,319,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,122,266,154,260,154,260,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="208,5,318,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,48,266,80,260,80,260,48"/>
+</map>

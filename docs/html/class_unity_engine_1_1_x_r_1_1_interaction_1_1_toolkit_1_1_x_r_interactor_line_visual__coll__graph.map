@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual" name="UnityEngine.XR.Interaction.Toolkit.XRInteractorLineVisual">
+<area shape="rect" id="Node000001" title="Interactor helper object aligns a LineRenderer with the Interactor." alt="" coords="45,80,238,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,123,78,119,82,82,45"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_custom_reticle_provider.html" title="An interface that allows Interactables to request that an Interactor use a custom reticle." alt="" coords="138,5,310,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,45,164,82,160,78,198,41"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.HandRef.GetJointPoseFromWrist" name="Oculus.Interaction.Input.HandRef.GetJointPoseFromWrist">
+<area shape="rect" id="Node000001" title="Attempts to calculate the pose of the requested hand joint relative to the wrist. Returns false if th..." alt="" coords="5,5,219,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#aba9ff336576057d89b8fb54b1fe2cc48" title="Attempts to calculate the pose of the requested hand joint relative to the wrist. Returns false if th..." alt="" coords="267,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,24,251,24,251,29,219,29"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a622df11e0934d0980aef145450c69b58" title="Returns an array containing the pose of each joint relative to the wrist. The poses do not have the r..." alt="" coords="509,5,710,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,24,493,24,493,29,462,29"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_cache.html#a8e328a85dcea32d44bdb0e25afa252c5" title=" " alt="" coords="758,5,1012,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="711,24,743,24,743,29,711,29"/>
+</map>

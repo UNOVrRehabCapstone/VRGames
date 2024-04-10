@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.TimelineMarkerGUI.SnappableEdgesFor" name="UnityEditor.Timeline.TimelineMarkerGUI.SnappableEdgesFor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,210,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html#ad3127d8e45fbe58eac6fb893cb989682" title=" " alt="" coords="258,39,455,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,57,242,57,242,63,210,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#aa28059a4141cfdc02a9edc2d9e3a3de1" title=" " alt="" coords="503,5,742,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,45,487,41,488,46,456,50"/>
+<area shape="rect" id="Node000004" href="$interface_unity_editor_1_1_timeline_1_1_i_z_order_provider.html#a49e0c99b9528891646569e0214fe6fa5" title=" " alt="" coords="531,72,714,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,70,516,77,515,83,455,75"/>
+</map>

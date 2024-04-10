@@ -1,0 +1,23 @@
+<map id="UnityEngine.InputSystem.Processors.NormalizeProcessor.Normalize" name="UnityEngine.InputSystem.Processors.NormalizeProcessor.Normalize">
+<area shape="rect" id="Node000001" title="Normalize value &#160;with respect to min &#160;and max ." alt="" coords="846,133,1059,192"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_axis_composite.html#a398d33e69c44ea183cb401d863a77df5" title="Determine the current level of actuation of the composite.This method by default returns &#45;1,..." alt="" coords="563,13,798,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,128,797,86,769,75,771,70,799,82,885,123"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#ac0447d1a40286ab720e85ed63ab47dbd" title="Compute an absolute, normalized magnitude value that indicates the extent to which the control is act..." alt="" coords="584,96,777,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="831,149,778,141,778,136,831,143"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#a0cf64f26366611bba0bf3ce1bc09767d" title="Apply modifications to the given value according to the parameters configured on the control (clamp,..." alt="" coords="576,179,786,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="831,182,787,188,786,183,831,177"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html#a7713eab3764f8afc88989faa6bf7eaa7" title="Normalize value &#160;with respect to min and max." alt="" coords="575,245,787,304"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="877,201,799,236,770,247,768,242,797,231,875,197"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#a12da87d115557ed11d9f0cf0265f6e82" title=" " alt="" coords="265,88,515,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="588,177,562,169,494,150,496,145,564,164,589,171"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_discrete_button_control.html#a8dd4f4a9749bc3e08b8761c51f420553" title=" " alt="" coords="279,171,501,229"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="560,203,501,203,501,197,560,197"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_touch_press_control.html#a05577dd2dc673720c8a09141187c96dc" title=" " alt="" coords="281,253,499,312"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="589,229,564,236,496,255,494,250,562,231,588,223"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_quaternion_control.html#a0330176457a08c6fc8e1f9c2dab41bbe" title=" " alt="" coords="5,5,217,64"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="273,86,212,67,213,62,275,80"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector2_control.html#a60dd4992db223553b8ee56bd8bc0456d" title=" " alt="" coords="14,88,208,147"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="249,120,208,120,208,115,249,115"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector3_control.html#aaec128ee37c0eb91f7a21d23f1cc1c09" title=" " alt="" coords="14,171,208,229"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="275,154,209,174,207,169,273,149"/>
+</map>

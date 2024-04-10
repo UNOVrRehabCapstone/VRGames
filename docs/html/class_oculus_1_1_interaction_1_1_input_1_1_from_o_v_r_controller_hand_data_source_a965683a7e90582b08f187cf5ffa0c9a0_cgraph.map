@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.FromOVRControllerHandDataSource.InjectAllFromOVRControllerHandDataSource" name="Oculus.Interaction.Input.FromOVRControllerHandDataSource.InjectAllFromOVRControllerHandDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,253,284,312"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a171a31d7975721fb7cff085967b03a03" title=" " alt="" coords="332,5,568,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,251,192,212,231,164,277,116,330,74,337,70,340,74,333,78,281,120,235,168,196,215,168,254"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a3051400cef5f4a18bdd115bc37076a19" title=" " alt="" coords="332,88,568,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,251,250,203,330,156,342,151,344,156,333,161,253,208,186,255"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a59c2a870f05731224f89edda1d13893e" title=" " alt="" coords="332,171,568,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,250,323,231,325,237,256,255"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a563c0366ef2620488a08ece50fda748d" title=" " alt="" coords="332,253,568,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,280,316,280,316,285,284,285"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a77830b55442c44de0fecd4720e1fa8bb" title=" " alt="" coords="332,336,568,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="256,310,325,329,323,334,255,315"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a73e782933454798790f1f1740c193536" title=" " alt="" coords="332,419,568,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="186,310,253,357,333,404,344,410,342,414,330,409,250,362,183,315"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#a6489cf3b5bc88f86257a7467b02a9ac9" title=" " alt="" coords="332,501,568,560"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="168,311,196,351,235,398,281,445,333,487,340,491,337,496,330,492,277,449,231,401,192,354,163,314"/>
+</map>

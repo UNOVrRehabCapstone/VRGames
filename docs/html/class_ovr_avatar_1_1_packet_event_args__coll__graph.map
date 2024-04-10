@@ -1,0 +1,7 @@
+<map id="OvrAvatar.PacketEventArgs" name="OvrAvatar.PacketEventArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,96,197,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,86,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,44,100,94,96,97,61,47"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar_packet.html" title=" " alt="" coords="110,5,227,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,47,118,97,113,94,148,44"/>
+</map>

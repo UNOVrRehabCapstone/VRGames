@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.TrainCarBase.RotateCarWheels" name="OculusSampleFramework.TrainCarBase.RotateCarWheels">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,39,458,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_train_car.html#a252d97437d4c54683d619561f7cdbbb4" title=" " alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,47,208,43,208,37,240,42"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_train_locomotive.html#a7dc6684acae023519c45c2ee9fd9179b" title=" " alt="" coords="5,72,208,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,78,208,83,208,77,240,73"/>
+</map>

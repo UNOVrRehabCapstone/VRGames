@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.ClipBackgroundRegion.Equals" name="UnityEditor.Timeline.ClipBackgroundRegion.Equals">
+<area shape="rect" id="Node000001" title="Indicates whether this instance and a specified object are equal." alt="" coords="251,39,425,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="376,26,362,20,338,17,316,19,302,24,297,30,299,38,293,39,292,29,299,20,315,14,338,12,363,14,378,21"/>
+<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_clip_background_region.html#ab0684b133f6f030e298da1ccf15fa88d" title="Compares two ClipBackgroundRegion objects." alt="" coords="8,5,200,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="235,48,200,43,201,38,236,43"/>
+<area shape="rect" id="Node000003" href="$struct_unity_editor_1_1_timeline_1_1_clip_background_region.html#a7cefb690812a8d947fe38e795718bfef" title="Compares two ClipBackgroundRegion objects." alt="" coords="5,72,203,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="236,77,204,82,203,77,235,72"/>
+</map>

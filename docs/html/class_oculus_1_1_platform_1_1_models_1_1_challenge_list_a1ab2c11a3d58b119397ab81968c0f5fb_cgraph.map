@@ -1,0 +1,18 @@
+<map id="Oculus.Platform.Models.ChallengeList.ChallengeList" name="Oculus.Platform.Models.ChallengeList.ChallengeList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,227,181"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#aa4b99db010bd5d31482885b458966bf6" title=" " alt="" coords="283,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,136,203,97,273,58,287,52,289,56,276,62,206,101,148,140"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a4ee5084b6fb2f9e504d992fc46d8ebfd" title=" " alt="" coords="286,72,473,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,135,277,116,278,122,204,141"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a572c840ba9ba5c4670c3146c18eccd63" title=" " alt="" coords="275,139,484,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="227,157,259,157,259,163,227,163"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1555cd33db1168007a3dfd9301d8ab5f" title=" " alt="" coords="294,205,465,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="204,179,279,199,278,204,202,185"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a727eacb2a3ac8c72af9441170ed4a312" title=" " alt="" coords="276,272,483,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="148,180,206,219,276,258,289,264,287,268,273,262,203,223,145,184"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="532,105,718,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,103,517,109,516,115,473,109"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="766,97,967,156"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="719,124,751,124,751,129,719,129"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="484,143,516,139,517,144,485,148"/>
+</map>

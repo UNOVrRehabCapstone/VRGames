@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Threading.Internal.IUnityThreadUtils" name="Unity.Services.Core.Threading.Internal.IUnityThreadUtils">
+<area shape="rect" id="Node000001" title="This component is an utility to simplify working with the Unity thread." alt="" coords="5,80,205,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="39,5,171,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,48,108,80,102,80,102,48"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="UnityEditor.Timeline.TimelineGroupGUI.Draw" name="UnityEditor.Timeline.TimelineGroupGUI.Draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,195,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html#a3083d956f452a068e3e4d3740980c798" title=" " alt="" coords="243,39,444,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,78,227,73,227,79,195,83"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ae086aef433dbe7bc582a5e174ee6ed32" title=" " alt="" coords="250,105,437,148"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="195,104,235,109,234,114,195,109"/>
+<area shape="rect" id="Node000003" href="$struct_unity_editor_1_1_timeline_1_1_overlay_drawer.html#a3265b2f91cd38df723f5bbb9d7869b60" title=" " alt="" coords="495,5,679,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,44,479,39,480,44,445,49"/>
+<area shape="rect" id="Node000005" href="$struct_unity_editor_1_1_timeline_1_1_overlay_drawer.html#ade13a5e1412fec64f44a1271dd3fa576" title=" " alt="" coords="492,72,681,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,71,477,76,476,81,444,76"/>
+<area shape="rect" id="Node000004" href="$struct_unity_editor_1_1_timeline_1_1_overlay_drawer.html#ad0fb51cf60ed55bfa506bd07b331113f" title=" " alt="" coords="729,39,914,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="679,37,714,42,713,47,679,42"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="681,77,713,73,714,78,682,83"/>
+</map>

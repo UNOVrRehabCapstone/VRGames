@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,160,107"/>
+<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title="A binding that synthesizes a value from from several component bindings." alt="" coords="208,64,380,123"/>
+<area shape="poly" id="edge241_Node000000_Node000001" title=" " alt="" coords="175,91,207,91,207,96,175,96"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_one_modifier_composite.html" title="A binding with an additional modifier. The bound controls only trigger when the modifier is pressed." alt="" coords="431,5,656,48"/>
+<area shape="poly" id="edge242_Node000001_Node000002" title=" " alt="" coords="394,64,460,46,462,51,396,69"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_two_modifiers_composite.html" title="A binding with two additional modifiers modifier. The bound controls only trigger when both modifiers..." alt="" coords="428,72,659,115"/>
+<area shape="poly" id="edge243_Node000001_Node000003" title=" " alt="" coords="396,91,428,91,428,96,396,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_fallback_composite.html" title="Base class for a composite that returns a single value computed from an ordered list of bindings." alt="" coords="432,139,656,197"/>
+<area shape="poly" id="edge244_Node000001_Node000004" title=" " alt="" coords="396,121,444,136,443,141,394,126"/>
+</map>

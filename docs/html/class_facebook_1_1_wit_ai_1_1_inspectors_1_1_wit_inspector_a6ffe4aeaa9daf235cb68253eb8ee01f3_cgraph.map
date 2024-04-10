@@ -1,0 +1,7 @@
+<map id="Facebook.WitAi.Inspectors.WitInspector.OnInspectorGUI" name="Facebook.WitAi.Inspectors.WitInspector.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,196,81"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_voice_service.html#a9104e39ca7927ed5662001c87f8a003e" title="Start listening for sound or speech from the user and start sending data to Wit.ai once sound or spee..." alt="" coords="244,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,44,228,40,229,45,196,50"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_voice_service.html#a84b1a637e7e61131576184b50995605e" title="Stop listening and submit any remaining buffered microphone data for processing." alt="" coords="244,72,441,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,70,229,75,228,80,196,76"/>
+</map>

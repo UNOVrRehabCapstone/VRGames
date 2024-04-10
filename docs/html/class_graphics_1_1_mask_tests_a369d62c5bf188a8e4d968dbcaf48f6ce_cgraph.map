@@ -1,0 +1,13 @@
+<map id="Graphics.MaskTests.GetModifiedMaterialReturnsDesiredMaterialWithSingleMask" name="Graphics.MaskTests.GetModifiedMaterialReturnsDesiredMaterialWithSingleMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,235,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask.html#a98c8adb07fbc3cf1e541f1110f8c3eeb" title="Stencil calculation time!" alt="" coords="283,72,499,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,91,267,91,267,96,235,96"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a841cb449dbe16944f1e40e747aac153e" title="Find a root Canvas." alt="" coords="547,5,737,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,69,544,50,545,55,475,74"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a91c518e0d8a9ba77444e8b93da16cf6c" title="Find the stencil depth for a given element." alt="" coords="547,72,737,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="499,91,531,91,531,96,499,96"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_mask.html#ad168f1833c9792a8b11938b2735e698b" title=" " alt="" coords="553,139,732,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="475,113,545,132,544,137,473,118"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="785,139,969,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="732,157,770,157,770,163,732,163"/>
+</map>

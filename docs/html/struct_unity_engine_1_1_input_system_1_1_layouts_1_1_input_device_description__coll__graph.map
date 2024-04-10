@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Layouts.InputDeviceDescription" name="UnityEngine.InputSystem.Layouts.InputDeviceDescription">
+<area shape="rect" id="Node000001" title="Metadata for an input device." alt="" coords="23,80,225,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,243,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,48,127,80,121,80,121,48"/>
+</map>

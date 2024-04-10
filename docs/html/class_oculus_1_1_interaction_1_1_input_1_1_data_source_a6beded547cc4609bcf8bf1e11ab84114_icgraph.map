@@ -1,0 +1,16 @@
+<map id="Oculus.Interaction.Input.DataSource.MarkInputDataRequiresUpdate" name="Oculus.Interaction.Input.DataSource.MarkInputDataRequiresUpdate">
+<area shape="rect" id="Node000001" title="Marks the DataAsset stored as outdated, which means it will be re&#45;processed JIT during the next call ..." alt="" coords="463,131,691,189"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#a828d03d864052d6f0814bbcc28887b14" title=" " alt="" coords="249,5,415,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,124,414,62,389,51,392,46,416,58,521,120"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#aa029d1ce4aa7e2a71e0b807e8810fec3" title=" " alt="" coords="251,72,413,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,129,412,118,414,113,453,124"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#aa2f3e0677cce2bdb6a9a07103237d323" title=" " alt="" coords="251,139,413,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,163,414,163,414,157,448,157"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#a17baee0cf95646667d87020678cc32c4" title=" " alt="" coords="251,205,413,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="453,196,414,207,412,202,452,191"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#ab8d91a46991b907be898cdeeb1fcfcb3" title=" " alt="" coords="251,272,413,315"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="521,200,416,262,392,274,389,269,414,258,518,196"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#af8f4e7cae63c2866edad0f4ef9e0378d" title=" " alt="" coords="5,172,201,215"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,177,201,182,201,176,235,171"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="235,215,201,210,201,205,235,210"/>
+</map>

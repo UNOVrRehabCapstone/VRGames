@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.SetSelectedEdges" name="UnityEngine.ProBuilder.ProBuilderMesh.SetSelectedEdges">
+<area shape="rect" id="Node000001" title="Sets the edge selection for this mesh. Also sets the vertex selection to match and clears the selecte..." alt="" coords="5,5,211,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a668d5e19ed7a3cd92a5b6346bf16caba" title="Clears the arrays of selected faces, edges, and vertices. You don&#39;t need to call this when setting an..." alt="" coords="259,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
+</map>

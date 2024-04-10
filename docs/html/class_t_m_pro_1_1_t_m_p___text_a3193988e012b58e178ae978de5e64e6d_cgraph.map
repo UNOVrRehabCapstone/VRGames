@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_Text.GetEllipsisSpecialCharacter" name="TMPro.TMP_Text.GetEllipsisSpecialCharacter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,195,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="243,5,447,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,44,227,40,228,45,196,50"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="243,72,447,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,70,228,75,227,80,195,76"/>
+</map>

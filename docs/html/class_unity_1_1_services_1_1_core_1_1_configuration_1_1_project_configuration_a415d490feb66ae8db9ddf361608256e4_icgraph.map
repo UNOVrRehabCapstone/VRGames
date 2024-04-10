@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Configuration.ProjectConfiguration.ToJson" name="Unity.Services.Core.Configuration.ProjectConfiguration.ToJson">
+<area shape="rect" id="Node000001" title=" " alt="" coords="286,51,504,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_registration_1_1_core_package_initializer.html#abf47818ac834a955b73e50e1b362376d" title=" " alt="" coords="5,5,238,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,58,238,53,238,48,271,52"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_registration_1_1_core_package_initializer.html#a1fc38b8c1b5cdf84cbed28e72e614c77" title="This is the Initialize callback that will be triggered by the Core package. This method will be invok..." alt="" coords="15,88,228,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,92,229,97,228,92,270,86"/>
+</map>

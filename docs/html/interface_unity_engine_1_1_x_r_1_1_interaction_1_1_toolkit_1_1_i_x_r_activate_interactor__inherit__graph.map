@@ -1,0 +1,11 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractor" name="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractor">
+<area shape="rect" id="Node000001" title="An interface that represents an Interactor component that can activate an Interactable component...." alt="" coords="148,39,330,81"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor.html" title="Abstract base class from which all interactors that are controller&#45;driven derive. This class hooks in..." alt="" coords="378,39,596,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,57,378,57,378,63,346,63"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactor.html" title="An interface that represents an Interactor component that controls how a GameObject interacts with an..." alt="" coords="5,47,100,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,57,147,57,147,63,115,63"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_direct_interactor.html" title="Interactor used for directly interacting with interactables that are touching. This is handled via tr..." alt="" coords="644,5,824,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="611,41,644,36,644,41,612,46"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html" title="Interactor used for interacting with interactables at a distance. This is handled via ray casts that ..." alt="" coords="644,72,824,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="612,74,644,79,644,84,611,79"/>
+</map>

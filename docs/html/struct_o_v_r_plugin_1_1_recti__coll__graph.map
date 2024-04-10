@@ -1,0 +1,11 @@
+<map id="OVRPlugin.Recti" name="OVRPlugin.Recti">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,187,162,213"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_vector2i.html" title=" " alt="" coords="5,96,143,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,137,101,185,95,187,80,139"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_sizei.html" title=" " alt="" coords="167,96,285,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,134,121,188,118,184,194,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="100,5,235,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,44,220,94,215,97,182,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="259,5,313,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="271,47,237,97,232,94,267,44"/>
+</map>

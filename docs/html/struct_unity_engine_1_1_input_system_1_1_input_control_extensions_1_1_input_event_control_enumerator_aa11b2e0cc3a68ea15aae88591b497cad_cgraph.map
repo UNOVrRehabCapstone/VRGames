@@ -1,0 +1,6 @@
+<map id="UnityEngine.InputSystem.InputControlExtensions.InputEventControlEnumerator.MoveNext" name="UnityEngine.InputSystem.InputControlExtensions.InputEventControlEnumerator.MoveNext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,228,80"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a5c3a30406c52cd811f35931b15aa1d5c" title="Compute an absolute, normalized magnitude value that indicates the extent to which the control is act..." alt="" coords="276,29,479,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,48,260,48,260,53,228,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="328,29,326,19,334,10,352,5,377,3,405,5,422,11,420,16,404,10,377,8,353,10,337,15,331,21,333,28"/>
+</map>

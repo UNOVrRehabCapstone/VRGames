@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.GraphicRegistry.RegisterGraphicForCanvas" name="UnityEngine.UI.GraphicRegistry.RegisterGraphicForCanvas">
+<area shape="rect" id="Node000001" title="Associates a Graphic with a Canvas and stores this association in the registry." alt="" coords="246,5,454,48"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aa7530af860a3f8775e4b0abe97275478" title=" " alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Management.Tests.Standalone.StandaloneLoader" name="UnityEngine.XR.Management.Tests.Standalone.StandaloneLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,236,272"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html" title="XR Loader abstract subclass used as a base class for specific provider implementations...." alt="" coords="64,155,177,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,197,123,229,118,229,118,197"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html" title="XR Loader abstract class used as a base class for specific provider implementations...." alt="" coords="82,80,159,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,122,123,154,118,154,118,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="62,5,179,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,48,123,80,118,80,118,48"/>
+</map>

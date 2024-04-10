@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.InteractableRegistry&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.InteractableRegistry&lt; TInteractor, TInteractable &gt;">
+<area shape="rect" id="Node000001" title="A registry that houses a set of concrete Interactables." alt="" coords="5,96,242,139"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_interactable_registry.html" title="A interface for a registry that houses a set of concrete Interactables." alt="" coords="29,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,64,126,96,121,96,121,64"/>
+</map>

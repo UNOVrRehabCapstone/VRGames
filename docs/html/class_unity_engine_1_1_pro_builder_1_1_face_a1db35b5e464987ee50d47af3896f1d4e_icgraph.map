@@ -1,0 +1,15 @@
+<map id="UnityEngine.ProBuilder.Face.Reverse" name="UnityEngine.ProBuilder.Face.Reverse">
+<area shape="rect" id="Node000001" title="Reverses the order of the triangle array. This has the effect of reversing the direction that this fa..." alt="" coords="347,172,539,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_flip_face_normals.html#a4e6f52d037ad28a62c3732f5f21d7eca" title=" " alt="" coords="5,5,299,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="413,162,363,110,331,84,297,62,272,51,274,46,300,58,335,80,367,106,417,158"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_freeze_transform.html#a9db4a6f4487f762625267d75459035d6" title=" " alt="" coords="6,72,298,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,167,298,129,260,118,262,113,300,124,388,162"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_arch.html#a3961aeefc478d54122608c3143ed08d2" title=" " alt="" coords="48,139,256,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,183,256,175,257,169,332,178"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cone.html#af49df71a91faffe3696da44aafafd8b1" title=" " alt="" coords="48,205,256,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="332,209,257,217,256,212,331,203"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_door.html#a5d20f9c6c49b579dceaa86abd697be8c" title=" " alt="" coords="48,272,256,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="388,224,300,263,257,275,255,270,298,257,386,220"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_prism.html#a68285e969cdb685140c1829a322e3e37" title=" " alt="" coords="48,339,256,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="417,228,367,281,335,307,300,329,257,346,255,341,297,324,331,303,363,277,413,225"/>
+</map>

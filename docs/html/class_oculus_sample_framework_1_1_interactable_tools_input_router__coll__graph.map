@@ -1,0 +1,5 @@
+<map id="OculusSampleFramework.InteractableToolsInputRouter" name="OculusSampleFramework.InteractableToolsInputRouter">
+<area shape="rect" id="Node000001" title="Routes all collisions from interactable tools to the interactables themselves. We want to do this in ..." alt="" coords="5,80,247,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,48,129,80,123,80,123,48"/>
+</map>

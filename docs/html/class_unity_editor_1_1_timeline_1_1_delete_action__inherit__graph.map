@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.DeleteAction" name="UnityEditor.Timeline.DeleteAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,184,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_timeline_action.html" title="Base class for a timeline action. Inherit from this class to make an action on a timeline after a men..." alt="" coords="41,80,148,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,122,97,154,92,154,92,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="64,5,125,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,48,97,80,92,80,92,48"/>
+</map>

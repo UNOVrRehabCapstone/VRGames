@@ -1,0 +1,12 @@
+<map id="UnityEngine.InputSystem.XR.TrackedPoseDriver.UpdateCallback" name="UnityEngine.InputSystem.XR.TrackedPoseDriver.UpdateCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,250,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#aa8b540b614906b14e323f5b01e4be21d" title=" " alt="" coords="300,5,507,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,53,284,48,285,53,251,58"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a1ef69e8fa44d23c5de17b9a5d486b949" title=" " alt="" coords="298,88,509,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="251,86,283,90,282,96,250,91"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a224ce1fe4364317ddac12c080a42aaa3" title=" " alt="" coords="557,43,755,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,47,542,52,541,58,507,53"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a5a876b0f518129d4f9bef89aa8c97ca9" title=" " alt="" coords="803,43,1008,101"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,69,788,69,788,75,756,75"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="509,91,541,86,542,92,510,96"/>
+</map>

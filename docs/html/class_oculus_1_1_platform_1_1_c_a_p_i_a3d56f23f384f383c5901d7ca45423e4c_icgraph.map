@@ -1,0 +1,5 @@
+<map id="Oculus.Platform.CAPI.ovr_MicrophoneAvailabilityState_GetMicrophoneAvailable" name="Oculus.Platform.CAPI.ovr_MicrophoneAvailabilityState_GetMicrophoneAvailable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="330,5,517,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_microphone_availability_state.html#afc7550749dd4b739cdd115d5f016c4f5" title=" " alt="" coords="5,13,282,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,37,282,37,282,32,314,32"/>
+</map>

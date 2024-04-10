@@ -1,0 +1,10 @@
+<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.Equals" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.Equals">
+<area shape="rect" id="Node000001" title="Compare this value to the value of obj ." alt="" coords="5,47,200,89"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aef220e022f508492313013ce63c0fef6" title="Create a PrimitiveValue from a boxed value." alt="" coords="248,39,432,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,65,232,65,232,71,200,71"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a46edcc5d376009b4c83f5e48c6454a95" title="Parse the given string into a PrimitiveValue." alt="" coords="480,5,664,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,52,464,47,465,53,433,57"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aa81e228bae2b8ee3fa2745a3a0b54c0e" title="Create a PrimitiveValue holding a bool." alt="" coords="712,47,949,89"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="433,71,480,73,664,73,696,72,696,78,664,79,480,79,433,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,44,697,48,697,53,664,49"/>
+</map>

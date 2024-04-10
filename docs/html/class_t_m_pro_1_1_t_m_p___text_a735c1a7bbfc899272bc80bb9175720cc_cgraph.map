@@ -1,0 +1,11 @@
+<map id="TMPro.TMP_Text.DrawUnderlineMesh" name="TMPro.TMP_Text.DrawUnderlineMesh">
+<area shape="rect" id="Node000001" title="Method to add the underline geometry." alt="" coords="5,72,247,99"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="295,5,496,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,69,279,49,280,54,191,74"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___text.html#ab3678ea5e10c2193b87d1ee79f8ef5c3" title="Function to pack scale information in the UV2 Channel." alt="" coords="308,72,483,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,83,293,83,293,88,247,88"/>
+<area shape="rect" id="Node000005" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#ac2631e006b2107ce543716541a48e5d1" title="Function to resized the content of MeshData and re&#45;assign normals, tangents and triangles." alt="" coords="299,123,492,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,97,284,117,283,122,190,102"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="544,5,748,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,24,529,24,529,29,497,29"/>
+</map>

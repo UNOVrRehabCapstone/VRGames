@@ -1,0 +1,7 @@
+<map id="BalloonsGame.GameManager.Restart" name="BalloonsGame.GameManager.Restart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,39,452,81"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_game_manager.html#a252d11e5194acb7a9ee26d6a4294b42d" title=" " alt="" coords="5,5,205,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,47,205,43,205,37,238,42"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_game_manager.html#adca1ec15cc79ec99fca46b148cabc669" title=" " alt="" coords="5,72,205,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,78,205,83,205,77,237,73"/>
+</map>

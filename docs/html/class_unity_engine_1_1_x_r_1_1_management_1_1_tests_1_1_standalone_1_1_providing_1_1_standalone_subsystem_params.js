@@ -1,0 +1,6 @@
+var class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing_1_1_standalone_subsystem_params =
+[
+    [ "StandaloneSubsystemParams", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing_1_1_standalone_subsystem_params.html#a5783e5a0cd2588ad5afc9e8f34787bec", null ],
+    [ "id", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing_1_1_standalone_subsystem_params.html#ab31194a7a933167aa11dd6a6b2593820", null ],
+    [ "subsystemImplementationType", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing_1_1_standalone_subsystem_params.html#a6dd73dd2a4d90bef6703f6667424b6eb", null ]
+];

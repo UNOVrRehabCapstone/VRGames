@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseController.UpdateInput" name="UnityEngine.XR.Interaction.Toolkit.XRBaseController.UpdateInput">
+<area shape="rect" id="Node000001" title="Updates the XR Interaction states in the given controller state based on the current inputs of the co..." alt="" coords="520,13,757,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a5d50842c6a25b3c762860f3f6ff2a188" title="Updates the controller every frame. This is called automatically from Update." alt="" coords="263,5,472,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,37,472,37,472,32,504,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a958f53c796569da98070d4da5def4fae" title="See MonoBehaviour." alt="" coords="5,13,215,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,37,215,37,215,32,247,32"/>
+</map>

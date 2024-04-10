@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.OnSelectEntering" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.OnSelectEntering">
+<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor first initiates selection of a..." alt="" coords="5,5,227,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#acb36a223f82b9f4083f37e0ac0e39e22" title="Capture the current Attach Transform pose. This method is automatically called by Unity to capture th..." alt="" coords="275,5,487,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,32,259,32,259,37,227,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#af32e58ea9bab577b29ce3f8fcb1c8052" title="Gets the Transform that is used as the attachment point for a given Interactable.Returns the attachme..." alt="" coords="535,5,761,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,32,519,32,519,37,488,37"/>
+</map>

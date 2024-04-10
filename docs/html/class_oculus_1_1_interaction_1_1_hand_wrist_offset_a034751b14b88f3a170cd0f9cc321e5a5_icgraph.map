@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandWristOffset.GetWorldPose" name="Oculus.Interaction.HandWristOffset.GetWorldPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,5,471,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#af7f0da20e1bfca9d0f216c543e9827c3" title="During the update event, move the current interactor (containing also the trigger for detecting nearb..." alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,29,232,29,232,24,264,24"/>
+</map>

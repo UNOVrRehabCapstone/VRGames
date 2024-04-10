@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurfaceData.Clone" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurfaceData.Clone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,13,830,56"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface_data.html#ae7dbc651c9bf308b15739971b9e71974" title=" " alt="" coords="293,5,521,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,37,521,37,521,32,553,32"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a88c060d618f5ed2ee320759cb3042491" title="Creates a new ISnapSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,245,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,37,245,37,245,32,277,32"/>
+</map>

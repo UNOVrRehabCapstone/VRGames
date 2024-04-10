@@ -1,0 +1,9 @@
+<map id="UnityEngine.Timeline.DiscreteTime.SnapToNearestTick" name="UnityEngine.Timeline.DiscreteTime.SnapToNearestTick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,201,81"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a93fb7b917fe68ce9372e1732d2cf2a9d" title=" " alt="" coords="249,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,233,39,234,45,202,49"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a092821f11a04b058c199a955adeba648" title=" " alt="" coords="249,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,71,234,75,233,81,201,76"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#afa7cb3c1f388d0a983a6f701d9ebdb3f" title=" " alt="" coords="492,72,687,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,91,477,91,477,96,445,96"/>
+</map>

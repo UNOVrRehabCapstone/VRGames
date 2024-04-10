@@ -1,0 +1,20 @@
+<map id="UnityEngine.UI.MaskUtilities.GetStencilDepth" name="UnityEngine.UI.MaskUtilities.GetStencilDepth">
+<area shape="rect" id="Node000001" title="Find the stencil depth for a given element." alt="" coords="575,131,765,173"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ad9e0ee518fca96a5879709f7e2c378f1" title=" " alt="" coords="310,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,124,580,92,526,62,497,51,499,46,528,58,583,87,630,119"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#a687aa0d711bf32e50c11a403493c2667" title="Function returning the modified material for masking if necessary." alt="" coords="290,72,527,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="559,130,506,118,507,113,560,125"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_mask.html#a98c8adb07fbc3cf1e541f1110f8c3eeb" title="Stencil calculation time!" alt="" coords="300,189,517,232"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="560,179,507,191,506,186,559,174"/>
+<area shape="rect" id="Node000005" href="$class_graphics_1_1_mask_tests.html#ad2fe2cbba1b38d2af2ca616ae384016d" title=" " alt="" coords="9,99,238,157"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="559,150,238,136,239,130,560,145"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html#a08cdd6ba228d1c72132a5c7dbdfa4958" title="See IMaterialModifier.GetModifiedMaterial." alt="" coords="300,256,517,299"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="630,185,583,217,528,246,499,258,497,253,526,242,580,212,627,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,187,226,161,228,155,318,182"/>
+<area shape="rect" id="Node000006" href="$class_graphics_1_1_mask_tests.html#a369d62c5bf188a8e4d968dbcaf48f6ce" title=" " alt="" coords="9,181,238,240"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="284,213,239,213,239,208,284,208"/>
+<area shape="rect" id="Node000007" href="$class_graphics_1_1_mask_tests.html#a6ee4a43353ee5c5c98d0a672712597a9" title=" " alt="" coords="5,264,242,323"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="316,239,290,247,225,266,223,261,289,241,314,234"/>
+<area shape="rect" id="Node000008" href="$class_graphics_1_1_mask_tests.html#a402d9354cb62a7b4dd15e7bf8fc5ab8c" title=" " alt="" coords="5,347,242,405"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="296,243,292,246,274,267,268,290,261,313,244,337,227,348,224,344,240,333,256,311,263,288,270,265,288,242,293,238"/>
+</map>

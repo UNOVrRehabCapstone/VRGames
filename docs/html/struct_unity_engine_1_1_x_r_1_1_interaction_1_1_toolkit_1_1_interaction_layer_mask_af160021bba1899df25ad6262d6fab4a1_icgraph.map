@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.InteractionLayerMask.NameToLayer" name="UnityEngine.XR.Interaction.Toolkit.InteractionLayerMask.NameToLayer">
+<area shape="rect" id="Node000001" title="Given an Interaction Layer name, returns the index as defined by either a Builtin or a User Layer." alt="" coords="298,80,523,139"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_interaction_layer_updater_test.html#af12763d64c3e08a8c70df0509b0e9e59" title=" " alt="" coords="9,5,246,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,78,240,67,242,62,283,73"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interaction_layer_mask.html#a5aa915c93b06d7b26c49e8151d14794b" title="Given a set of Interaction Layer names, returns the equivalent mask for all of them." alt="" coords="5,88,250,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,112,250,112,250,107,282,107"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_interaction_layer_updater_test.html#abb2ce3cab4597967ae6dda1fd1624b0a" title=" " alt="" coords="9,155,246,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,146,242,157,240,152,282,141"/>
+</map>

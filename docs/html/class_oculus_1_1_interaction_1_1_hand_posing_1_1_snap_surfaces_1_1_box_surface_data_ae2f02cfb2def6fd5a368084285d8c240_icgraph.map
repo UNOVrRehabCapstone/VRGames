@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurfaceData.Clone" name="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurfaceData.Clone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="601,13,838,56"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_box_surface_data.html#ab93287e65af1cd619608fa051fd752bb" title=" " alt="" coords="316,13,553,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,37,553,37,553,32,585,32"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_box_surface.html#a94a0b25aec7d026ea89195eb275268d4" title="Creates a new ISnapSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,268,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,37,268,37,268,32,300,32"/>
+</map>

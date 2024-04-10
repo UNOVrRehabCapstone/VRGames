@@ -1,0 +1,35 @@
+<map id="UnityEngine.UI.ILayoutElement" name="UnityEngine.UI.ILayoutElement">
+<area shape="rect" id="Node000001" title="A component is treated as a layout element by the auto layout system if it implements ILayoutElement." alt="" coords="5,183,207,209"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html" title="Editable text input field." alt="" coords="277,5,431,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,168,176,105,213,71,253,42,279,30,281,35,256,46,216,75,180,108,127,172"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html" title=" " alt="" coords="268,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,170,187,130,254,92,285,81,287,86,256,97,190,135,137,175"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_image.html" title="Image is a textured element in the UI hierarchy." alt="" coords="281,107,427,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,174,254,143,295,131,296,137,255,148,160,179"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_u_i_1_1_input_field.html" title="Turn a simple label into a interactable input field." alt="" coords="270,157,438,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="222,181,269,177,270,182,223,187"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_u_i_1_1_layout_element.html" title="Add this component to a GameObject to make it into a layout element or override values on an existing..." alt="" coords="255,208,453,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="222,205,254,209,254,214,222,211"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html" title="Abstract base class to use for layout groups." alt="" coords="261,259,447,285"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="160,213,255,244,296,255,295,261,254,249,159,218"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_u_i_1_1_scroll_rect.html" title="A component for making a child RectTransform scroll." alt="" coords="268,309,440,336"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="137,217,190,257,256,295,287,306,285,311,254,300,187,262,134,222"/>
+<area shape="rect" id="Node000017" href="$class_unity_engine_1_1_u_i_1_1_text.html" title="The default Graphic to draw font data to screen." alt="" coords="286,360,422,387"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="127,220,180,284,216,317,256,346,286,359,284,364,253,350,213,321,176,287,123,224"/>
+<area shape="rect" id="Node000005" href="$class_media_player_image.html" title=" " alt="" coords="543,16,671,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,99,452,92,466,83,475,73,485,62,500,52,542,37,544,42,502,57,488,66,479,76,469,87,454,97,440,104"/>
+<area shape="rect" id="Node000006" href="$class_testable_image.html" title=" " alt="" coords="555,67,660,93"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="442,103,554,86,554,91,443,109"/>
+<area shape="rect" id="Node000007" href="$class_toggle_test_image_hook.html" title=" " alt="" coords="533,117,682,144"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="442,121,532,125,532,130,442,126"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_tests_1_1_image_hook.html" title=" " alt="" coords="501,168,713,195"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="427,135,502,153,549,165,548,170,500,159,426,140"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_u_i_1_1_grid_layout_group.html" title="Layout class to arrange child elements in a grid format." alt="" coords="520,229,694,272"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="462,260,519,255,520,261,462,266"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_u_i_1_1_horizontal_or_vertical_layout_group.html" title="Abstract base class for HorizontalLayoutGroup and VerticalLayoutGroup to generalize common functional..." alt="" coords="523,296,692,339"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="448,286,522,300,521,305,447,291"/>
+<area shape="rect" id="Node000014" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html" title="Layout class for arranging child elements side by side." alt="" coords="774,263,943,305"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="707,301,773,293,774,298,708,307"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_u_i_1_1_vertical_layout_group.html" title="Layout child layout elements below each other." alt="" coords="761,329,956,372"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="708,328,761,335,760,340,707,333"/>
+</map>

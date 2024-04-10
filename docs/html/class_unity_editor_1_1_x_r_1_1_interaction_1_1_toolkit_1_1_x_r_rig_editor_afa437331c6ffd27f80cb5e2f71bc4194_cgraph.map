@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRRigEditor.DrawProperties" name="UnityEditor.XR.Interaction.Toolkit.XRRigEditor.DrawProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,13,230,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#a4bcf2effd8987f3509f27e9fc9471f72" title="Draw the current Tracking Origin Mode while the application is playing." alt="" coords="278,5,485,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,32,262,32,262,37,230,37"/>
+</map>

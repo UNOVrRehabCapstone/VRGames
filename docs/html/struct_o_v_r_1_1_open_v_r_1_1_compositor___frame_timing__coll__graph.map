@@ -1,0 +1,9 @@
+<map id="OVR.OpenVR.Compositor_FrameTiming" name="OVR.OpenVR.Compositor_FrameTiming">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,219,297,261"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_1_1_open_v_r_1_1_tracked_device_pose__t.html" title=" " alt="" coords="115,112,306,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,170,213,218,208,218,208,170"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_1_1_open_v_r_1_1_hmd_matrix34__t.html" title=" " alt="" coords="5,5,200,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,47,114,67,124,86,154,109,150,114,120,90,109,69,103,48"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_1_1_open_v_r_1_1_hmd_vector3__t.html" title=" " alt="" coords="224,5,413,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,48,305,69,291,90,261,113,257,109,287,86,300,67,309,46"/>
+</map>

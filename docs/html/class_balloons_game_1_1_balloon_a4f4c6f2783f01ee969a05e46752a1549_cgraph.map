@@ -1,0 +1,11 @@
+<map id="BalloonsGame.Balloon.OnMouseDown" name="BalloonsGame.Balloon.OnMouseDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,251,107"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a5ab8890469c1ebb8c2818be5c41e2189" title=" " alt="" coords="303,5,483,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,77,290,50,291,55,185,82"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon.html#a8c6da0cf9041a755cdadfedbc90fe824" title=" " alt="" coords="299,72,487,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,91,283,91,283,96,251,96"/>
+<area shape="rect" id="Node000005" href="$class_balloons_game_1_1_balloon.html#a26a9f99c60948605155a2e3b269760be" title=" " alt="" coords="301,139,485,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,105,291,132,290,137,184,110"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="535,72,715,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,91,519,91,519,96,488,96"/>
+</map>

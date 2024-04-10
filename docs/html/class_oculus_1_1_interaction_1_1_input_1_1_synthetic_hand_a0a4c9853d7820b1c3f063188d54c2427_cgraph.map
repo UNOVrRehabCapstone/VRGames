@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.SyntheticHand.LockFingerAtCurrent" name="Oculus.Interaction.Input.SyntheticHand.LockFingerAtCurrent">
+<area shape="rect" id="Node000001" title="Immediately locks an individual finger (all its internal joints) at the last known value." alt="" coords="5,5,235,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a10cf1687329d30906d38fec86de654de" title="To use in conjunction with OverrideAllJoints, it sets the freedom state for a provided finger...." alt="" coords="283,5,500,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,24,267,24,267,29,235,29"/>
+</map>

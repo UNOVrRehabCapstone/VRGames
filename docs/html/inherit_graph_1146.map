@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_unity_editor_1_1_timeline_1_1_clip_editor.html" title="Use this class to customize clip types in the TimelineEditor." alt="" coords="5,139,169,181"/>
+<area shape="rect" id="Node000001" href="$class_timeline_1_1_samples_1_1_tween_clip_editor.html" title=" " alt="" coords="223,5,410,48"/>
+<area shape="poly" id="edge2226_Node000000_Node000001" title=" " alt="" coords="121,126,164,91,215,58,240,46,242,51,218,62,167,95,124,130"/>
+<area shape="rect" id="Node000002" href="$class_timeline_1_1_samples_1_1_video_asset_clip_editor.html" title=" " alt="" coords="219,72,414,115"/>
+<area shape="poly" id="edge2227_Node000000_Node000002" title=" " alt="" coords="176,131,239,113,241,118,178,137"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_animation_playable_asset_editor.html" title=" " alt="" coords="217,139,416,181"/>
+<area shape="poly" id="edge2228_Node000000_Node000003" title=" " alt="" coords="184,157,216,157,216,163,184,163"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_audio_playable_asset_editor.html" title=" " alt="" coords="229,205,404,248"/>
+<area shape="poly" id="edge2229_Node000000_Node000004" title=" " alt="" coords="178,183,241,202,239,207,176,189"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_control_playable_asset_editor.html" title=" " alt="" coords="225,272,408,315"/>
+<area shape="poly" id="edge2230_Node000000_Node000005" title=" " alt="" coords="124,190,167,225,218,258,242,269,240,274,215,262,164,229,121,194"/>
+</map>

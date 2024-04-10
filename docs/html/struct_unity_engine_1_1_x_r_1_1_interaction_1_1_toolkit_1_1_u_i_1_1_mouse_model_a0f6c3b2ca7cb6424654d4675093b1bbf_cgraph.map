@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.UI.MouseModel.MouseModel" name="UnityEngine.XR.Interaction.Toolkit.UI.MouseModel.MouseModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,237,48"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_mouse_button_model.html#a40bb273d9865c932e64918f10d09d217" title="Resets this object to it&#39;s default, unused state." alt="" coords="285,5,514,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,24,269,24,269,29,237,29"/>
+</map>

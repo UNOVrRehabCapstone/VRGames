@@ -1,0 +1,31 @@
+<map id="UnityEngine.UI.IMaskable" name="UnityEngine.UI.IMaskable">
+<area shape="rect" id="Node000001" title="This element is capable of being masked out." alt="" coords="5,132,176,159"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html" title="A Graphic that is capable of being masked out." alt="" coords="224,132,436,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,143,223,143,223,148,192,148"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___selection_caret.html" title="A simple component that can be added to a newly created object where inheriting from MaskableGraphic ..." alt="" coords="484,5,666,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,120,414,80,483,42,513,30,515,35,485,46,417,85,361,125"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html" title=" " alt="" coords="493,56,657,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,124,483,92,522,81,524,86,485,97,387,129"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___text.html" title="Base class which contains common properties and functions shared between the TextMeshPro and TextMesh..." alt="" coords="514,107,636,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="451,130,513,124,514,129,452,135"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_image.html" title="Image is a textured element in the UI hierarchy." alt="" coords="502,157,648,184"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="452,155,502,160,501,166,451,161"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_u_i_1_1_raw_image.html" title="Displays a Texture2D for the UI System." alt="" coords="490,208,661,235"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="387,162,485,193,524,205,522,210,483,199,385,167"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_u_i_1_1_text.html" title="The default Graphic to draw font data to screen." alt="" coords="507,259,643,285"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="361,166,417,206,485,244,515,256,513,261,483,249,414,210,358,170"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro.html" title=" " alt="" coords="750,5,891,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="650,100,665,92,679,80,688,68,697,54,713,42,749,27,751,32,716,46,701,58,692,71,683,84,668,97,652,105"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html" title=" " alt="" coords="735,56,906,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="651,102,752,81,753,86,652,107"/>
+<area shape="rect" id="Node000009" href="$class_media_player_image.html" title=" " alt="" coords="756,107,885,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="658,151,755,131,756,136,659,156"/>
+<area shape="rect" id="Node000010" href="$class_testable_image.html" title=" " alt="" coords="768,157,873,184"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="664,168,767,168,767,173,664,173"/>
+<area shape="rect" id="Node000011" href="$class_toggle_test_image_hook.html" title=" " alt="" coords="746,208,895,235"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="659,185,753,205,752,210,658,190"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_u_i_1_1_tests_1_1_image_hook.html" title=" " alt="" coords="714,259,927,285"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="657,188,668,194,683,207,692,220,701,233,716,244,741,256,739,261,713,249,697,236,688,223,679,210,665,198,655,193"/>
+<area shape="rect" id="Node000014" href="$class_raw_image_test_hook.html" title=" " alt="" coords="752,309,889,336"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="657,239,668,244,683,257,692,271,701,283,716,295,753,310,751,315,713,300,697,287,688,274,679,261,665,249,655,244"/>
+</map>

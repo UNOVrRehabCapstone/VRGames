@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.Editor.HandAnimatorWizard" name="Oculus.Interaction.HandPosing.Editor.HandAnimatorWizard">
+<area shape="rect" id="Node000001" title="This wizard helps creating a set of fixed Animation Clips using HandTracking to be used in a skinned ..." alt="" coords="5,80,210,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
+</map>

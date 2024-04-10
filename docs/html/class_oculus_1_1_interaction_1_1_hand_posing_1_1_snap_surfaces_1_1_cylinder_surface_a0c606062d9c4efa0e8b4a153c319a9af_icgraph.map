@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.MinimalTranslationPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.MinimalTranslationPoseAtSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,47,555,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#aae50ef52461c02dbeb8251f744b843ea" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="5,5,261,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,59,261,55,261,50,294,54"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#abb3dfa520713c40b803c532b1e8a2f34" title="Finds the Pose at the surface that is the closest to the given ray." alt="" coords="5,88,261,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,98,261,102,261,97,293,93"/>
+</map>

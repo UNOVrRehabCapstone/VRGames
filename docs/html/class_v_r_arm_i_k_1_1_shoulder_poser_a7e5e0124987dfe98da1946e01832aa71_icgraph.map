@@ -1,0 +1,11 @@
+<map id="VRArmIK.ShoulderPoser.rotateShoulderUp" name="VRArmIK.ShoulderPoser.rotateShoulderUp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="512,64,713,107"/>
+<area shape="rect" id="Node000002" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a625839c056735f3b9b6a1ceeac332f1c" title=" " alt="" coords="263,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,62,457,51,458,46,505,57"/>
+<area shape="rect" id="Node000003" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#af4c5f109795b330f03c02c368debca63" title=" " alt="" coords="5,72,215,99"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="496,88,215,88,215,83,496,83"/>
+<area shape="rect" id="Node000004" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a6a9c79d54706120216d19f1a0bcda690" title=" " alt="" coords="263,123,464,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="505,113,458,125,457,119,504,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,55,172,74,171,69,253,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="253,121,171,102,172,97,254,116"/>
+</map>

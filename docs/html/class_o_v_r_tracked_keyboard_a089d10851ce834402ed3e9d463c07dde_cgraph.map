@@ -1,0 +1,7 @@
+<map id="OVRTrackedKeyboard.Dispose" name="OVRTrackedKeyboard.Dispose">
+<area shape="rect" id="Node000001" title="Stops keyboard tracking and cleans up associated resources." alt="" coords="5,47,207,73"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_passthrough_layer.html#a01a31cdef5033b3f216d1452017c630b" title="Checks if the given gameobject is a surface geometry (If called with AddSurfaceGeometry)." alt="" coords="255,5,467,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,44,239,40,240,45,207,49"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_passthrough_layer.html#a9eab443b65558594a7f3413cf1a833b5" title="Removes a GameObject that was previously added using AddSurfaceGeometry from the projection surface." alt="" coords="259,72,463,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,71,243,75,243,81,207,76"/>
+</map>

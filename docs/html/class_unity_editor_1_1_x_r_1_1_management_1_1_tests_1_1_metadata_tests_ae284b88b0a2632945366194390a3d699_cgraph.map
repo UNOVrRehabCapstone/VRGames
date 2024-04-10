@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Management.Tests.MetadataTests.FilteringAllMetadataByBuildTargetGroupReturnsSameSet" name="UnityEditor.XR.Management.Tests.MetadataTests.FilteringAllMetadataByBuildTargetGroupReturnsSameSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,296,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_metadata_1_1_x_r_package_metadata_store.html#a9c875635f0592627224d063b6aa5a7e3" title="Return a read only list of all package metadata information currently known that has loaders that sup..." alt="" coords="344,5,590,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,32,328,32,328,37,296,37"/>
+</map>

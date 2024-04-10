@@ -1,0 +1,5 @@
+<map id="BalloonsGame.BalloonSpawnManager.AdjustRightSpawn" name="BalloonsGame.BalloonSpawnManager.AdjustRightSpawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="246,5,438,48"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon_spawn_manager.html#ae937c48cbf690573e4534c95a8818583" title=" " alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

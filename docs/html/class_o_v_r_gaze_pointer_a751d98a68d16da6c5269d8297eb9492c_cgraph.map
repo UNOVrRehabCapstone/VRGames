@@ -1,0 +1,5 @@
+<map id="OVRGazePointer.SetCursorStartDest" name="OVRGazePointer.SetCursorStartDest">
+<area shape="rect" id="Node000001" title="Set position and orientation of pointer." alt="" coords="5,5,189,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_gaze_pointer.html#adc40869b8148bba2e984731152bce972" title="Request the pointer be shown. Hide requests take priority." alt="" coords="237,13,442,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,24,221,24,221,29,189,29"/>
+</map>

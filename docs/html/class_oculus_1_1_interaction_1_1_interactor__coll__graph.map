@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.Interactor&lt; TInteractor, TInteractable &gt;">
+<area shape="rect" id="Node000001" title="Interactor provides a base template for any kind of interaction. Interactions can be wholly defined b..." alt="" coords="168,229,357,272"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,155,151,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,186,221,226,219,231,134,191"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactor.html" title="IInteractor defines an object that can interact with other objects and can handle selection events to..." alt="" coords="174,155,351,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,197,265,229,260,229,260,197"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="5,80,112,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,110,228,152,226,157,108,115"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="128,80,135,85,138,94,130,105,113,110,112,105,127,101,133,93,131,89,125,85"/>
+<area shape="rect" id="Node000005" href="$interface_oculus_1_1_interaction_1_1_i_component.html" title=" " alt="" coords="115,5,205,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,44,78,82,75,77,128,39"/>
+<area shape="rect" id="Node000007" href="$interface_oculus_1_1_interaction_1_1_i_interactor_view.html" title=" " alt="" coords="160,80,365,107"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="192,39,246,77,243,82,189,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="389,80,467,107"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="386,116,293,156,290,152,384,111"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="265,122,265,154,260,154,260,122"/>
+<area shape="rect" id="Node000008" href="$interface_oculus_1_1_interaction_1_1_i_interactor_driver.html" title="IInteractionDriver drives the update loop of an Interaction." alt="" coords="375,155,486,181"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="392,191,307,231,304,226,389,186"/>
+</map>

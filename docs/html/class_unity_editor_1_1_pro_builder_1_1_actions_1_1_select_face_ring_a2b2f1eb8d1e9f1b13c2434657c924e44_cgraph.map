@@ -1,0 +1,8 @@
+<map id="UnityEditor.ProBuilder.Actions.SelectFaceRing.MenuRingAndLoopFaces" name="UnityEditor.ProBuilder.Actions.SelectFaceRing.MenuRingAndLoopFaces">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,268,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="331,5,505,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,48,316,40,317,46,269,53"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a97a433d48049fc9477def1465f17c57f" title="Sets the face selection for this mesh. Also sets the vertex and edge selection to match." alt="" coords="316,96,520,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,91,301,96,300,101,268,96"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="365,96,363,86,372,77,390,71,418,69,448,72,466,78,464,83,447,77,418,75,391,77,374,81,368,87,370,95"/>
+</map>

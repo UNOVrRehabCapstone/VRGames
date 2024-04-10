@@ -1,0 +1,8 @@
+<map id="SimpleCapsuleWithStickMovement" name="SimpleCapsuleWithStickMovement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,230,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,47,120,171,114,172,110,47"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="134,81,248,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="138,41,180,79,176,83,135,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,122,130,173,126,170,169,118"/>
+</map>

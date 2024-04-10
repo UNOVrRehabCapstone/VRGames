@@ -1,0 +1,5 @@
+<map id="SimpleControls.Enable" name="SimpleControls.Enable">
+<area shape="rect" id="Node000001" title="Enable all actions in the collection." alt="" coords="5,13,159,40"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#ae31d59300c207c696f79acb9622da917" title="Enable all action maps in the asset." alt="" coords="207,5,379,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,24,191,24,191,29,159,29"/>
+</map>

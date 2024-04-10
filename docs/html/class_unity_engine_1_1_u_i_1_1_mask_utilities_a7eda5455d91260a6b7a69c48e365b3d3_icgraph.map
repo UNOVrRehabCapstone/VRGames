@@ -1,0 +1,9 @@
+<map id="UnityEngine.UI.MaskUtilities.IsDescendantOrSelf" name="UnityEngine.UI.MaskUtilities.IsDescendantOrSelf">
+<area shape="rect" id="Node000001" title="Helper function to determine if the child is a descendant of father or is father." alt="" coords="469,39,659,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a3cfb7e121fc4a2099e9cd6ac27270fc4" title="Find the correct RectMask2D for a given IClippable." alt="" coords="231,5,421,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,47,421,43,422,37,454,42"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a9f19d31d50561a4fb00bbdc03d630eaf" title="Search for all RectMask2D that apply to the given RectMask2D (includes self)." alt="" coords="231,72,421,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="454,78,422,83,421,77,453,73"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_rect_mask2_d.html#adbb2c797676f41e6d85e8a25d6435268" title="Function to to cull / clip children elements." alt="" coords="5,72,183,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,96,183,96,183,91,215,91"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawEvents" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawEvents">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the event properties...." alt="" coords="5,47,224,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a2a7685ae135b7c0e98d50658b4639f1e" title="Draw the Audio Events foldout." alt="" coords="272,5,490,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,56,256,51,257,57,225,62"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#abafab957882c38e9c5ccd287ad3a7826" title="Draw the Haptic Events foldout." alt="" coords="272,88,490,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,90,257,95,256,101,224,96"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#ae2bd03916e7ef96ecfbbdab84b37c0c9" title="Draw the nested contents of the Audio Events foldout." alt="" coords="538,5,756,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,32,522,32,522,37,491,37"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a342049c7fa5fc9695e412a27008be7da" title="Draw the nested contents of the Haptic Events foldout." alt="" coords="538,88,756,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="491,115,522,115,522,120,491,120"/>
+</map>

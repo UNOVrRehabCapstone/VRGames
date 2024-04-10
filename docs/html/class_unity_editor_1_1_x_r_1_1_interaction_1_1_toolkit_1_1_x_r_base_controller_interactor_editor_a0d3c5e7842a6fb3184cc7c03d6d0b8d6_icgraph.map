@@ -1,0 +1,15 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawSelectActionTrigger" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawSelectActionTrigger">
+<area shape="rect" id="Node000001" title="Draw the Select Action Trigger property and display a warning box if misconfigured." alt="" coords="819,88,1038,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#aef22fbe263ca68c4774c9b68c70198a2" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="551,5,769,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,86,757,67,758,62,817,80"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_direct_interactor_editor.html#aea39e243ae91180fc506bd48122e0c53" title="Draw the property fields related to selection configuration." alt="" coords="557,88,762,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="804,120,763,120,763,115,804,115"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a31092b464d39c6d67ec2f23e86c495c6" title="Draw the nested contents of the Selection Configuration foldout." alt="" coords="548,171,771,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="817,154,758,173,757,167,816,149"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_direct_interactor_editor.html#acc4abc1921a3dfad4ac91f647cfc1ae0" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="286,88,491,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="541,120,492,120,492,115,541,115"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#abb7db59b9fc4b284f23b79a8571395df" title="Draw the Selection Configuration foldout." alt="" coords="277,171,500,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="532,203,500,203,500,197,532,197"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a41b5258175e76ac23bc5d9c0f3add807" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,171,229,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="261,203,229,203,229,197,261,197"/>
+</map>

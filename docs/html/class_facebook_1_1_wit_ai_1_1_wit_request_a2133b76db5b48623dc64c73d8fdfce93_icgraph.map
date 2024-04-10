@@ -1,0 +1,5 @@
+<map id="Facebook.WitAi.WitRequest.Request" name="Facebook.WitAi.WitRequest.Request">
+<area shape="rect" id="Node000001" title="Start the async request for data from the Wit.ai servers." alt="" coords="242,5,432,48"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_wit.html#a52f2048b3d63328dcf822132512f2b8b" title=" " alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,29,194,29,194,24,226,24"/>
+</map>

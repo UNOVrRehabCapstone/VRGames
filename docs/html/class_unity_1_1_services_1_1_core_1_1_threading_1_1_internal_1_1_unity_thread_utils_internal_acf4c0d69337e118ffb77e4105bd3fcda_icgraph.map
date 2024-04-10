@@ -1,0 +1,11 @@
+<map id="Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal.PostAsync" name="Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal.PostAsync">
+<area shape="rect" id="Node000001" title="Create a task out of the given action &#160;that will be invoked on the Unity thread." alt="" coords="292,101,500,160"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_threading_1_1_internal_1_1_unity_thread_utils_internal.html#a5915fdff4afe24463240b2b36b90e5f8" title="Execute the given action &#160;on the Unity thread. Wait for the execution to finish before resuming this ..." alt="" coords="5,5,244,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,97,243,62,209,51,210,46,245,58,324,92"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_threading_1_1_internal_1_1_unity_thread_utils_internal.html#acfb30ea685028be2c9a5568ce04ff7be" title="Execute the given action &#160;on the Unity thread. Wait for the execution to finish before resuming this ..." alt="" coords="5,72,244,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,117,244,112,244,107,276,112"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_threading_1_1_internal_1_1_unity_thread_utils_internal.html#afa85fcec3a6a6cc9b1577c9cb8451ed5" title="Execute the given action &#160;on the Unity thread. Wait for the execution to finish before resuming this ..." alt="" coords="20,139,229,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,150,230,156,229,151,276,144"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_services_1_1_core_1_1_threading_1_1_internal_1_1_unity_thread_utils_internal.html#a8dc63ef1712d069a4fef67d82ef73ed9" title="Execute the given action &#160;on the Unity thread. Wait for the execution to finish before resuming this ..." alt="" coords="20,221,229,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="330,170,245,212,216,223,214,218,243,207,327,165"/>
+</map>

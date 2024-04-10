@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.TrackEditor.GetBindingFrom" name="UnityEditor.Timeline.TrackEditor.GetBindingFrom">
+<area shape="rect" id="Node000001" title="Override this method to determine which object to bind to track . A binding object should be determin..." alt="" coords="5,5,179,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a1eb8c0c3c958c9c3a890028bdcb6fcf8" title="Gets the binding type for a track." alt="" coords="227,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,24,211,24,211,29,179,29"/>
+</map>

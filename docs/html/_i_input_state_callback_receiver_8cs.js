@@ -1,0 +1,4 @@
+var _i_input_state_callback_receiver_8cs =
+[
+    [ "UnityEngine.InputSystem.LowLevel.IInputStateCallbackReceiver", "interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_state_callback_receiver.html", "interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_state_callback_receiver" ]
+];

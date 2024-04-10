@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRControllerState.ResetFrameDependentStates" name="UnityEngine.XR.Interaction.Toolkit.XRControllerState.ResetFrameDependentStates">
+<area shape="rect" id="Node000001" title="Resets all the interaction states that are based on whether they occurred &quot;this frame&quot;." alt="" coords="5,5,209,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interaction_state.html#a483743f3b16beb83c9f75665da32977d" title="Resets the interaction states that are based on whether they occurred &quot;this frame&quot;." alt="" coords="257,5,486,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,241,32,241,37,209,37"/>
+</map>

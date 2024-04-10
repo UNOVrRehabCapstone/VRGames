@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.EdgeIndex" name="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.EdgeIndex">
+<area shape="rect" id="Node000001" title="Get the index of the neighbor that shares this edge (or &#45;1 if it isn&#39;t shared)" alt="" coords="324,5,527,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#aaa86c5012df82d8529a959b7810a949a" title="Mark edge as constrained." alt="" coords="5,5,276,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,29,276,29,276,24,308,24"/>
+</map>

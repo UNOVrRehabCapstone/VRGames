@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.RayTool" name="OculusSampleFramework.RayTool">
+<area shape="rect" id="Node000001" title="Ray tool used for far&#45;field interactions." alt="" coords="5,155,227,181"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="60,80,172,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,122,119,154,113,154,113,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="61,5,171,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,48,119,80,113,80,113,48"/>
+</map>

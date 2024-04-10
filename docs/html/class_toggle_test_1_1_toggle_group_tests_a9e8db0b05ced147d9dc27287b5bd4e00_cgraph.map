@@ -1,0 +1,5 @@
+<map id="ToggleTest.ToggleGroupTests.DisabledToggleGroupDoesntControlChildren" name="ToggleTest.ToggleGroupTests.DisabledToggleGroupDoesntControlChildren">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,232,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#aa4b1d7d085fb2101f4f6b000694ff862" title="Returns the toggles in this group that are active." alt="" coords="280,13,468,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,32,264,32,264,37,232,37"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="UnityEditor.Timeline.PropertyCollector.Reset" name="UnityEditor.Timeline.PropertyCollector.Reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1002,135,1192,177"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a1f9998b0966727995f7fae56654ae710" title=" " alt="" coords="766,135,954,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="986,159,954,159,954,153,986,153"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ab469068a54205d03f681a4ca66919395" title=" " alt="" coords="531,75,718,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,133,710,120,712,115,760,128"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_timeline_1_1_timeline_window.html#acc50183d8d8bb06a0714764d62452f77" title=" " alt="" coords="266,139,483,181"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="751,160,484,162,483,156,751,154"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a099f959958a82eb50ee7e35644888908" title=" " alt="" coords="531,193,718,236"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="758,184,714,195,712,190,757,179"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#a584bdd0d566071b66460cdbf2c518833" title=" " alt="" coords="285,5,464,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="530,73,453,51,455,46,531,67"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#aecb8a0d92c548adb53b2ccc269fac49b" title=" " alt="" coords="285,72,464,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="515,98,464,97,464,92,515,92"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="525,124,461,141,460,136,523,119"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#acc43f51dc81e97926496cbcd5f3d0056" title=" " alt="" coords="22,72,201,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="270,96,201,96,201,91,270,91"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#a380c9200939121de63d86333cd1a6ebb" title=" " alt="" coords="5,168,218,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="250,177,218,180,218,175,250,171"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="515,193,475,185,476,179,516,188"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="516,212,218,197,218,192,516,207"/>
+</map>

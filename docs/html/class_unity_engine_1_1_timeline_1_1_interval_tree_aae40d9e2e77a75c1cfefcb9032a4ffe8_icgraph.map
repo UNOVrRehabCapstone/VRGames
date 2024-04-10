@@ -1,0 +1,9 @@
+<map id="UnityEngine.Timeline.IntervalTree.IntersectsWithRange" name="UnityEngine.Timeline.IntervalTree.IntersectsWithRange">
+<area shape="rect" id="Node000001" title="Query the tree at a particular range of time." alt="" coords="535,39,722,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#afb3347abe9d4657374c74f19cf89c47f" title=" " alt="" coords="295,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,48,473,41,474,36,520,42"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#a43b992e475facb8f3035f9c51d1cd5a6" title=" " alt="" coords="282,72,487,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,78,488,82,487,77,519,72"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#a708d1b40345b2d53a9c65733e23529da" title="Get items of type T at a given position." alt="" coords="5,72,234,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,96,234,96,234,91,266,91"/>
+</map>

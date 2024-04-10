@@ -1,0 +1,9 @@
+<map id="OVR.OpenVR.VRTextureWithDepth_t" name="OVR.OpenVR.VRTextureWithDepth_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,203,308,245"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_1_1_open_v_r_1_1_v_r_texture_depth_info__t.html" title=" " alt="" coords="110,96,311,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,154,213,202,208,202,208,154"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_1_1_open_v_r_1_1_hmd_matrix44__t.html" title=" " alt="" coords="5,5,200,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,41,189,93,186,97,126,45"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_1_1_open_v_r_1_1_hmd_vector2__t.html" title=" " alt="" coords="224,5,413,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="295,45,235,97,232,93,291,41"/>
+</map>

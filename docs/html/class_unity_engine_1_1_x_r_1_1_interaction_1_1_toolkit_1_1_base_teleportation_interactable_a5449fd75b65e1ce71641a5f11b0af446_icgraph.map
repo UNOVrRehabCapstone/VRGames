@@ -1,0 +1,4 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.BaseTeleportationInteractable.GenerateTeleportRequest" name="UnityEngine.XR.Interaction.Toolkit.BaseTeleportationInteractable.GenerateTeleportRequest">
+<area shape="rect" id="Node000001" title="Automatically called upon the teleport trigger event occurring to generate the teleport request...." alt="" coords="5,29,244,88"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="163,17,148,11,124,8,104,10,90,15,83,21,83,29,78,29,79,19,87,10,103,5,125,3,150,5,165,13"/>
+</map>

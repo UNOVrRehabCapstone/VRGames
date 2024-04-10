@@ -1,0 +1,5 @@
+<map id="TeleportAimHandlerParabolic.GetPoints" name="TeleportAimHandlerParabolic.GetPoints">
+<area shape="rect" id="Node000001" title="Return the set of points that represent the aiming line." alt="" coords="5,5,198,48"/>
+<area shape="rect" id="Node000002" href="$class_teleport_input_handler.html#ad6acef5fbaa90488d6f1d584a406da66" title="Returns the aim ray for pointing at targets, which is generally based on a touch controller or HMD po..." alt="" coords="246,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
+</map>

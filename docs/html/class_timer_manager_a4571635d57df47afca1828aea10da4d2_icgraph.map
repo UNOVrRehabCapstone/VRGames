@@ -1,0 +1,9 @@
+<map id="TimerManager.pauseTimer" name="TimerManager.pauseTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="463,31,637,57"/>
+<area shape="rect" id="Node000002" href="$class_timer_manager.html#ade90d697c2c2dca3d6fe54d0f6e064e2" title=" " alt="" coords="251,31,415,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,47,415,47,415,41,448,41"/>
+<area shape="rect" id="Node000003" href="$class_timer_manager.html#ab97cf6a4e57f936bd6c64e730a42d89f" title=" " alt="" coords="5,5,203,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,36,203,32,203,27,236,31"/>
+<area shape="rect" id="Node000004" href="$class_timer_manager.html#a668b4b9bb07db67effc87f8fd8af1f9f" title=" " alt="" coords="21,56,187,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,57,188,63,187,58,235,52"/>
+</map>

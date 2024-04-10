@@ -1,0 +1,13 @@
+<map id="UnityEngine.XR.Management.XRManagerSettings.TryRemoveLoader" name="UnityEngine.XR.Management.XRManagerSettings.TryRemoveLoader">
+<area shape="rect" id="Node000001" title="Attempts to remove the first instance of a given loader from the list of loaders." alt="" coords="717,137,959,180"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_editor_active_loaders_manipulation_tests.html#ae801546e907df25eec36f4df3bc00c89" title=" " alt="" coords="321,5,646,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,132,729,104,668,79,632,67,634,62,670,73,732,99,787,127"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_runtime_active_loaders_manipulation_tests.html#a9fc4e5637604c32774d3ae66328b5c8f" title=" " alt="" coords="321,88,646,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="701,145,646,139,646,134,702,140"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_editor_active_loaders_manipulation_tests.html#af1f5468d1a8769cdbe3926e8819f314e" title=" " alt="" coords="298,171,669,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="702,177,670,181,669,176,701,172"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_metadata_1_1_x_r_package_metadata_store.html#ab3e919b006dd6566090240bc48f50995" title="Remove a previously assigned loader from settings. If the loader type is unknown or an instance of th..." alt="" coords="366,253,601,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="787,190,732,218,670,244,602,263,601,258,668,239,729,213,785,185"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_package_management_tests.html#a6317b194820bd4166f272347f9df5850" title=" " alt="" coords="5,253,250,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,285,250,285,250,280,350,280"/>
+</map>

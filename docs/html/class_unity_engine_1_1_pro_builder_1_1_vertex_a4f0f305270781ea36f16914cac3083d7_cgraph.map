@@ -1,0 +1,6 @@
+<map id="UnityEngine.ProBuilder.Vertex.Multiply" name="UnityEngine.ProBuilder.Vertex.Multiply">
+<area shape="rect" id="Node000001" title="Multiples a Vertex object by the specified value and returns the result in a new Vertex object...." alt="" coords="5,29,207,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,29,57,19,65,10,81,5,106,3,133,5,149,11,147,16,131,10,106,8,82,10,68,15,62,21,64,28"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html#a7d99cad2529c7b7e1736a7c39932fe66" title="Initializes a Vertex with no values." alt="" coords="255,29,456,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="207,48,239,48,239,53,207,53"/>
+</map>

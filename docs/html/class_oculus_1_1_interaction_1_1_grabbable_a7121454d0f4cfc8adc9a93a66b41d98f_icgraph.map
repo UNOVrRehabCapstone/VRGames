@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.Grabbable.RemoveGrabPoint" name="Oculus.Interaction.Grabbable.RemoveGrabPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="626,105,819,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grabbable.html#a5fe3f6159f98f9293d08c47498b8ae32" title=" " alt="" coords="347,39,540,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="615,104,535,85,536,79,616,99"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#a0cdf212edf5f3d4d163f6741a3b3af78" title=" " alt="" coords="335,105,552,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="610,129,552,129,552,124,610,124"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#a9f9aa4d76d07e9da439ac9b9716464bd" title="When releasing an active interactable, calculate the releasing point in similar fashion to Interactab..." alt="" coords="309,172,578,215"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="616,155,536,174,535,169,615,150"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#ac0d0fee1b439697cfa6b004c8290db22" title=" " alt="" coords="25,5,241,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,51,241,41,242,36,332,45"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#ac91740cb7b6eb9d0ab1c8a2dba3dc9e7" title="When a new interactable is selected, start the grab at the ideal point. When snapping is involved tha..." alt="" coords="5,72,261,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="332,75,261,82,261,77,331,69"/>
+</map>

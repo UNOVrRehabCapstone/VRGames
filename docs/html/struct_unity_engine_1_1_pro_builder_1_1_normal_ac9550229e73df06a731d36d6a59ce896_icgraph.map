@@ -1,0 +1,6 @@
+<map id="UnityEngine.ProBuilder.Normal.Equals" name="UnityEngine.ProBuilder.Normal.Equals">
+<area shape="rect" id="Node000001" title="Tests whether this object is equal to another object." alt="" coords="321,29,525,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="470,16,452,10,423,8,396,10,379,15,373,21,375,28,370,29,367,19,376,10,395,5,423,3,453,5,471,11"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_pro_builder_1_1_normal.html#a51639bcc4d56e71b6290564a9f104080" title="Compares two objects for equality." alt="" coords="5,37,273,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="305,53,273,53,273,48,305,48"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Oculus.Platform.Samples.VrVoiceChat.RoomManager.LeaveCurrentRoom" name="Oculus.Platform.Samples.VrVoiceChat.RoomManager.LeaveCurrentRoom">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,88,473,147"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#ac431808177921c305e61ccba52c1ed8e" title=" " alt="" coords="5,5,206,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,85,199,67,200,62,256,80"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#af23996830d97e78a87f0639d8b794a64" title=" " alt="" coords="5,88,206,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,129,206,129,206,123,238,124"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="221,106,253,106,253,111,221,111"/>
+</map>

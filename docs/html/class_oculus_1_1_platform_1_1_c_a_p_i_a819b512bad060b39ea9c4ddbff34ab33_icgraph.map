@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.CAPI.ovr_Message_GetDataStore" name="Oculus.Platform.CAPI.ovr_Message_GetDataStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="295,55,463,97"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message_with_data_store_under_private_user_data_store.html#a799bab2d05fc724e1a6ac6857a6cef9e" title=" " alt="" coords="5,5,247,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,62,247,57,248,52,280,57"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_message_with_data_store_under_public_user_data_store.html#a6deb2363c98c4568beade0c6d5ab70e5" title=" " alt="" coords="7,88,245,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,95,246,100,245,95,279,90"/>
+</map>

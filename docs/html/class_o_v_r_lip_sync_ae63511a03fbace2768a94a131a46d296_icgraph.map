@@ -1,0 +1,42 @@
+<map id="OVRLipSync.IsInitialized" name="OVRLipSync.IsInitialized">
+<area shape="rect" id="Node000001" title="Determines if is initialized." alt="" coords="1071,249,1235,276"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync.html#a3a3ee7ee2ca29f198842be84e414a74d" title="Creates a lip&#45;sync context." alt="" coords="836,5,1019,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1140,235,1124,193,1099,142,1065,90,1044,66,1021,46,1001,35,1004,30,1024,42,1048,63,1069,87,1104,139,1129,191,1145,233"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync.html#a33aa82edcae1e6f7c71c0ec7527c7996" title="Creates a lip&#45;sync context with specified model file." alt="" coords="836,56,1019,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1133,238,1087,175,1056,142,1021,113,1001,101,1004,97,1024,108,1060,138,1091,172,1137,234"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_lip_sync.html#a7e1554ff937e8dc8b1d03db0a9519a8e" title="Destroy a lip&#45;sync context." alt="" coords="832,123,1023,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1123,241,1077,205,1021,170,978,152,980,147,1024,166,1080,201,1126,237"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_lip_sync_context.html#a13e57e8b57d2b293c03ca451a027499a" title="Process F32 audio sample and pass it to the lip sync module for computation." alt="" coords="309,165,502,208"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1075,248,1022,239,881,220,740,207,503,193,503,187,740,202,882,215,1023,233,1076,243"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_lip_sync_context.html#a99394e6ca2f2e49881dc3720d4e9677b" title="Pass F32 PCM audio buffer to the lip sync module." alt="" coords="583,224,776,267"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1055,262,777,252,777,246,1055,256"/>
+<area shape="rect" id="Node000010" href="$class_o_v_r_lip_sync_context.html#ac6fc0cfc672289b1ba665e4254c1a6b7" title="Pass S16 PCM audio buffer to the lip sync module." alt="" coords="583,304,776,347"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1112,285,1070,302,1023,316,960,326,895,332,777,333,777,328,895,326,959,321,1022,311,1068,297,1110,280"/>
+<area shape="rect" id="Node000011" href="$class_o_v_r_lip_sync.html#a5de8606b28e6b130cd7cbef58315fff9" title="Process float[] audio buffer by lip&#45;sync engine." alt="" coords="835,275,1020,301"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1056,276,1021,280,1020,275,1055,271"/>
+<area shape="rect" id="Node000012" href="$class_o_v_r_lip_sync.html#a5d830ffade0b6fa4f6285baad3a981f2" title="Process short[] audio buffer by lip&#45;sync engine." alt="" coords="835,376,1020,403"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="1126,288,1080,324,1024,360,980,378,978,373,1021,355,1077,320,1123,284"/>
+<area shape="rect" id="Node000013" href="$class_o_v_r_lip_sync.html#a14acb0e2fc85c2bb644aa95551028e23" title="Resets the context." alt="" coords="838,427,1017,453"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1138,291,1093,354,1061,388,1024,417,1000,429,998,424,1021,412,1057,384,1088,351,1134,288"/>
+<area shape="rect" id="Node000017" href="$class_o_v_r_lip_sync.html#a68f403c474a05e328364540c8c60f32f" title="Sends a signal to the lip&#45;sync engine." alt="" coords="844,485,1011,512"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="1143,291,1126,330,1100,377,1066,426,1024,467,988,487,986,482,1021,463,1062,422,1095,375,1121,328,1139,289"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="567,224,502,210,503,205,568,219"/>
+<area shape="rect" id="Node000007" href="$class_ovr_avatar.html#a32eeabe1e9af0bd8a7cea771f8a8115d" title=" " alt="" coords="315,232,496,259"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="567,248,497,248,497,243,567,243"/>
+<area shape="rect" id="Node000008" href="$class_ovr_avatar.html#a6ea20e188420b28e47a01840d8cd61a9" title=" " alt="" coords="315,283,496,309"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="568,269,482,285,481,279,567,263"/>
+<area shape="rect" id="Node000009" href="$class_social_platform_manager.html#abb85ab22972fd7052f72805f1be1da26" title=" " alt="" coords="20,275,221,317"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="299,299,221,299,221,293,299,293"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="831,274,776,265,777,259,832,269"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="820,307,777,313,776,308,819,302"/>
+<area shape="rect" id="Node000014" href="$class_o_v_r_lip_sync_context_base.html#af1caeeabc44f2b620bc4c3625bff20a5" title="Resets the context." alt="" coords="575,411,784,453"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="822,439,785,438,785,433,822,434"/>
+<area shape="rect" id="Node000015" href="$class_o_v_r_lip_sync_mic_input.html#afc113fb9eccc45c9f4931da0ad27e3e0" title="Stops the microphone." alt="" coords="284,419,527,445"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="559,435,527,435,527,429,559,429"/>
+<area shape="rect" id="Node000016" href="$class_o_v_r_lip_sync_mic_input.html#ae079a0d93dd09374fee8ae27f28fa629" title="Mics the device GU." alt="" coords="5,419,236,445"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="268,435,236,435,236,429,268,429"/>
+<area shape="rect" id="Node000018" href="$class_o_v_r_lip_sync_context_base.html#a1aa71252254fae5ce45097a782d70dba" title="Sets a given viseme id blend weight to a given amount." alt="" coords="582,477,777,520"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="829,501,778,501,778,496,829,496"/>
+<area shape="rect" id="Node000019" href="$class_o_v_r_lip_sync_context_base.html#a76a56e5d2831a9e56debb8f4064df270" title="Sets a given viseme id blend weight to a given amount." alt="" coords="582,544,777,587"/>
+<area shape="poly" id="edge21_Node000017_Node000019" title=" " alt="" coords="861,519,762,546,761,541,859,514"/>
+</map>

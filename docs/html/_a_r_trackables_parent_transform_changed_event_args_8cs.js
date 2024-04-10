@@ -1,0 +1,4 @@
+var _a_r_trackables_parent_transform_changed_event_args_8cs =
+[
+    [ "Unity.XR.CoreUtils.ARTrackablesParentTransformChangedEventArgs", "struct_unity_1_1_x_r_1_1_core_utils_1_1_a_r_trackables_parent_transform_changed_event_args.html", "struct_unity_1_1_x_r_1_1_core_utils_1_1_a_r_trackables_parent_transform_changed_event_args" ]
+];

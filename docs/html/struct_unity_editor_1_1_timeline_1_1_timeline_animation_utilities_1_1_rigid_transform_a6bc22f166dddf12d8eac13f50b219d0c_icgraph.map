@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.TimelineAnimationUtilities.RigidTransform.Compose" name="UnityEditor.Timeline.TimelineAnimationUtilities.RigidTransform.Compose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="543,31,759,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a58da9013379b38d26075f85ace3c3abb" title=" " alt="" coords="270,5,490,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,47,490,43,491,38,528,42"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#ab78781ab97ad2ae5a66a40ef3413b59f" title=" " alt="" coords="265,72,495,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="528,78,496,82,495,77,527,73"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a9dbd25128bd78bb5e10709a4cdcd0881" title=" " alt="" coords="16,39,206,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,80,206,74,207,69,249,74"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a4ce9e83b3d357e4a4ffafdb48e86a372" title=" " alt="" coords="5,105,217,148"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="249,112,217,116,217,111,249,107"/>
+</map>

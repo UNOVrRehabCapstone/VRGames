@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRDirectInteractorEditor.DrawSelectionConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRDirectInteractorEditor.DrawSelectionConfiguration">
+<area shape="rect" id="Node000001" title="Draw the property fields related to selection configuration." alt="" coords="5,5,211,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a0d3c5e7842a6fb3184cc7c03d6d0b8d6" title="Draw the Select Action Trigger property and display a warning box if misconfigured." alt="" coords="259,5,477,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
+</map>

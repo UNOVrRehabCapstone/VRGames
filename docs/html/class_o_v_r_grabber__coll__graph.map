@@ -1,0 +1,16 @@
+<map id="OVRGrabber" name="OVRGrabber">
+<area shape="rect" id="Node000001" title="Allows grabbing and throwing of objects with the OVRGrabbable component on them." alt="" coords="116,283,212,309"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="229,287,238,296,230,304,213,307,212,302,228,300,233,296,226,292"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_grabbable.html" title="An object that can be grabbed and thrown by OVRGrabber." alt="" coords="50,373,158,400"/>
+<area shape="poly" id="edge8_Node000006_Node000001" title=" " alt="" coords="191,320,199,335,196,351,180,367,160,377,158,372,176,362,191,348,193,336,187,322"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,115,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,135,159,281,155,284,72,138"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="66,138,81,258,99,349,104,372,98,373,93,350,76,259,60,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,96,216,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,138,169,147,163,224,166,282,160,282,158,224,163,146,165,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="151,5,204,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,48,180,95,175,95,175,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="252,96,343,123"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="302,138,302,167,298,199,288,231,270,260,243,280,213,291,211,286,241,276,266,257,283,229,292,198,296,166,297,138"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="97,357,103,332,115,318,130,308,133,312,118,322,108,335,102,359"/>
+</map>

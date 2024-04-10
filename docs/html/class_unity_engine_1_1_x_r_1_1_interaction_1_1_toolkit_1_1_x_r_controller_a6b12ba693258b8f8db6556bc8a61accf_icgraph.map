@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRController.ReadValue" name="UnityEngine.XR.Interaction.Toolkit.XRController.ReadValue">
+<area shape="rect" id="Node000001" title="Reads and returns the given action value." alt="" coords="261,5,462,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller.html#a24cb6c146e1d81e76485e494ea8c6f41" title="Updates the XR Interaction states in the given controller state based on the current inputs of the co..." alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,29,213,29,213,24,245,24"/>
+</map>

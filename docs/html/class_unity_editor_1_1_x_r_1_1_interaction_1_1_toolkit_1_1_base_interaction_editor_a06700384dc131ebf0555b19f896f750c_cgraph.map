@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.InitializeKnownSerializedPropertyNames" name="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.InitializeKnownSerializedPropertyNames">
+<area shape="rect" id="Node000001" title="This method is automatically called by OnInspectorGUI to initialize knownSerializedPropertyNames if n..." alt="" coords="5,5,244,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#a0e771cf1b63ea4e7a7b8a33394cc8955" title="Returns a list containing the SerializeField names of all SerializedProperty fields defined in the Ed..." alt="" coords="292,5,504,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,32,276,32,276,37,244,37"/>
+</map>

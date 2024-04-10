@@ -1,0 +1,5 @@
+var namespace_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints =
+[
+    [ "InGameHintsActions", "class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html", "class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions" ],
+    [ "InGameHintsExample", "class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_example.html", "class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_example" ]
+];

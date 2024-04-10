@@ -1,0 +1,7 @@
+<map id="ovrAvatarSkinnedMeshPose" name="ovrAvatarSkinnedMeshPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,188,245"/>
+<area shape="rect" id="Node000002" href="$structovr_avatar_transform.html" title=" " alt="" coords="31,128,162,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,170,99,218,94,218,94,170"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,48,99,127,94,127,94,48"/>
+</map>

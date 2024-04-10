@@ -1,0 +1,5 @@
+<map id="LocomotionTeleport.AimData" name="LocomotionTeleport.AimData">
+<area shape="rect" id="Node000001" title="The AimData contains data provided by the Aim Handler which represents the final set of points that w..." alt="" coords="5,96,194,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,145,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,48,102,95,97,95,97,48"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Interactor.UpdateHover" name="Oculus.Interaction.Interactor.UpdateHover">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,194,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html#a403e810e1454972156c2f496b7148258" title=" " alt="" coords="242,39,430,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,77,226,73,227,78,195,83"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_interactor.html#a216610183b44defd026ca20cc84391de" title=" " alt="" coords="242,105,430,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,104,227,109,226,114,194,109"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactor.html#a76085d3da7f6ec22b486e077f256d343" title=" " alt="" coords="478,5,666,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,44,462,39,463,45,431,49"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_interactor.html#a233ff602107a2571da135db00548a9dc" title=" " alt="" coords="478,72,666,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="431,71,463,75,462,81,430,76"/>
+</map>

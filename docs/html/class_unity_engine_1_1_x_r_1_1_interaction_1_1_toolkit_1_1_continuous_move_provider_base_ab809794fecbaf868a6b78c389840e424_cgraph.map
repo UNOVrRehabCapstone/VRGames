@@ -1,0 +1,19 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase.Update" name="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase.Update">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,88,244,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#a61b4c050d876b03863a64325e5757162" title="Determines how much to slide the rig due to input &#160;vector." alt="" coords="292,5,530,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,85,291,66,293,71,229,90"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#a86db8dfcf816d67f32f7ea7d43a576d7" title="Creates a locomotion event to move the rig by translationInWorldSpace , and optionally applies gravit..." alt="" coords="292,88,530,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,115,276,115,276,120,244,120"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#a58ebdf5cf92df5a7b8f589aad2589a29" title="Reads the current value of the move input." alt="" coords="292,171,530,229"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="229,145,293,163,291,168,228,150"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#a987a1e35afc3dc54701603b9e0eadd95" title="Invokes begin locomotion events." alt="" coords="607,5,820,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="520,85,591,65,592,70,521,90"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#a5e71e52f563c871785bdf9205ea35b6b" title="Checks if locomotion can begin." alt="" coords="595,88,831,147"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="531,115,580,115,580,120,531,120"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#ab6d4e2d0a04fc224fa686e53cb2f0300" title="Invokes end locomotion events." alt="" coords="578,171,848,213"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="531,144,579,156,610,164,608,169,577,161,530,149"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_system.html#a2182c03618f24f1f29a457789eaada7a" title="Attempt to &quot;lock&quot; access to the XR Origin for the provider ." alt="" coords="896,5,1124,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="820,32,881,32,881,37,820,37"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_system.html#ad32d72df076bc9c629e437bb5d9430f0" title="Informs the LocomotionSystem that exclusive access to the XR Origin is no longer required." alt="" coords="903,163,1117,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="849,189,887,189,887,195,849,195"/>
+</map>

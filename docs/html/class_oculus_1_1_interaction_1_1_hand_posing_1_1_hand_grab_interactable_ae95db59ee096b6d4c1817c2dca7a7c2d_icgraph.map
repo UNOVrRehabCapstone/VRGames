@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.ApplyVelocities" name="Oculus.Interaction.HandPosing.HandGrabInteractable.ApplyVelocities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,5,563,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#a9f9aa4d76d07e9da439ac9b9716464bd" title="When releasing an active interactable, calculate the releasing point in similar fashion to Interactab..." alt="" coords="5,5,275,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,29,275,29,275,24,307,24"/>
+</map>

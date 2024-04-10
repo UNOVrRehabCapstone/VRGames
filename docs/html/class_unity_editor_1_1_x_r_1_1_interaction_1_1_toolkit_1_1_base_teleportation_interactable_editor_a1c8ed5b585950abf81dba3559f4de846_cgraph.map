@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor.DrawTeleportationConfiguration" name="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor.DrawTeleportationConfiguration">
+<area shape="rect" id="Node000001" title="Draw the Teleportation Configuration foldout." alt="" coords="5,5,243,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable_editor.html#a04e1c795e773337c297d76825bae03d1" title="Draw the nested contents of the Teleportation Configuration foldout." alt="" coords="291,5,569,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,32,275,32,275,37,243,37"/>
+</map>

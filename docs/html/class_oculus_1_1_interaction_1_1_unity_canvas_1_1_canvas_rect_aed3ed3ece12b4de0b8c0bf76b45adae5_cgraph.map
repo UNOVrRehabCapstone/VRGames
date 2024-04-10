@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRect.UpdateOverlayPositionAndScale" name="Oculus.Interaction.UnityCanvas.CanvasRect.UpdateOverlayPositionAndScale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,230,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#ae2a4a7ba409d6f57d946835cb1d5551a" title=" " alt="" coords="285,5,504,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,57,270,51,270,56,230,62"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a4b89fdf732dcc265712e611d49a53aab" title=" " alt="" coords="278,88,511,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,90,263,95,262,100,230,95"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#ac6a81511052ff3182623d2dad079a825" title=" " alt="" coords="559,5,782,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,32,543,32,543,37,504,37"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a05cd2adf265bb8921364c1d0f3919a3c" title=" " alt="" coords="830,5,1058,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="783,32,815,32,815,37,783,37"/>
+</map>

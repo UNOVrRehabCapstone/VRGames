@@ -1,0 +1,19 @@
+<map id="UnityEngine.Timeline.RuntimeClip.EvaluateAt" name="UnityEngine.Timeline.RuntimeClip.EvaluateAt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,201,232"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#ab3ed921d48ee9b5b49a2a8577ce3c513" title="Given a time, returns the weight from the mix in." alt="" coords="249,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,187,170,124,207,89,247,58,255,53,258,57,250,62,210,93,174,128,122,191"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a2f40592786d437df0032d9b318947220" title="Given a time, returns the weight from the mix out." alt="" coords="249,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,187,247,131,274,119,277,124,250,136,144,191"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a7f54df7e4c0accdefa6dfbc83068083e" title="Given a time, returns whether it falls within the clip&#39;s post&#45;extrapolation." alt="" coords="492,160,687,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,186,248,175,366,168,476,170,476,176,366,173,249,180,185,191"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a9b9ff4aba84f327c2822983ac3cdf50b" title="Given a time, returns whether it falls within the clip&#39;s pre&#45;extrapolation." alt="" coords="492,289,687,332"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,231,137,265,167,306,204,345,226,362,250,375,301,393,344,395,388,388,443,375,493,359,538,337,540,342,495,364,445,380,389,393,344,401,300,398,248,380,223,366,201,349,162,309,133,268,113,234"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_timeline_1_1_runtime_clip.html#af1030424e6fceac564f3e33e735db5fd" title=" " alt="" coords="249,256,444,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,230,252,249,251,254,183,235"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_timeline_1_1_runtime_clip.html#a83be86440f6899d1f846bcd80cfc6061" title=" " alt="" coords="249,323,444,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="133,230,185,269,250,308,262,314,259,319,247,313,182,274,130,235"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#a0e93badf4d11e12235eec8e938263184" title="Converts from global time to a clips local time." alt="" coords="249,189,444,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="201,208,233,208,233,213,201,213"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="444,196,476,192,477,198,445,202"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="415,230,445,242,532,280,529,285,443,246,413,235"/>
+</map>

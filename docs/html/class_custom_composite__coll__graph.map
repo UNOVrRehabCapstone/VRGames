@@ -1,0 +1,7 @@
+<map id="CustomComposite" name="CustomComposite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,188,147,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="5,96,160,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,154,85,188,80,188,80,154"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,5,109,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,48,85,95,80,95,80,48"/>
+</map>

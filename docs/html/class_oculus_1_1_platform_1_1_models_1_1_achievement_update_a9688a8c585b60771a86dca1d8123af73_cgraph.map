@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.Models.AchievementUpdate.AchievementUpdate" name="Oculus.Platform.Models.AchievementUpdate.AchievementUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,244,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a63cdf0fb0431b3187300cc0225074c85" title=" " alt="" coords="292,5,541,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,44,276,40,276,45,245,49"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a21910b09d645a1c6e3a3931716449323" title=" " alt="" coords="314,72,519,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,71,299,77,298,83,244,76"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="589,72,775,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="519,91,574,91,574,96,519,96"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="823,64,1024,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="776,91,808,91,808,96,776,96"/>
+</map>

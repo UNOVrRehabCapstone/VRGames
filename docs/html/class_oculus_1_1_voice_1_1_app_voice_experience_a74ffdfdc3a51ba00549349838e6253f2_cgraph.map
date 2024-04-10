@@ -1,0 +1,5 @@
+<map id="Oculus.Voice.AppVoiceExperience.Deactivate" name="Oculus.Voice.AppVoiceExperience.Deactivate">
+<area shape="rect" id="Node000001" title="Stop listening and submit the collected microphone data for processing." alt="" coords="5,5,234,48"/>
+<area shape="rect" id="Node000002" href="$interface_facebook_1_1_wit_ai_1_1_i_voice_service.html#a756cfc69bc38d1a5e8e05596d8be1a8a" title="Stop listening and submit the collected microphone data for processing." alt="" coords="282,5,482,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,24,266,24,266,29,234,29"/>
+</map>

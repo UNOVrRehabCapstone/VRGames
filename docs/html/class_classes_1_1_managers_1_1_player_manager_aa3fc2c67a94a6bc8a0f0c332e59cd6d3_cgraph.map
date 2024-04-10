@@ -1,0 +1,5 @@
+<map id="Classes.Managers.PlayerManager.ToggleIKSkeleton" name="Classes.Managers.PlayerManager.ToggleIKSkeleton">
+<area shape="rect" id="Node000001" title="When called, toggles the view of the player&#39;s IK skeleton." alt="" coords="5,5,230,48"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_player_manager.html#aa8fbb802715b1838db9b9bf331d8dc15" title="Shows or hides the player IK rig based on the passed boolean value." alt="" coords="278,5,502,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,24,262,24,262,29,230,29"/>
+</map>

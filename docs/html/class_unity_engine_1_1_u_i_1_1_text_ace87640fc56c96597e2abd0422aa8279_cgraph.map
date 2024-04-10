@@ -1,0 +1,7 @@
+<map id="UnityEngine.UI.Text.FontTextureChanged" name="UnityEngine.UI.Text.FontTextureChanged">
+<area shape="rect" id="Node000001" title="Called by the FontUpdateTracker when the texture associated with a font is modified." alt="" coords="5,39,172,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="220,5,415,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,45,204,41,204,46,173,51"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a7110fea683a9fa7d04434d88876ebdfb" title="Are graphics layouts currently being calculated.." alt="" coords="220,72,415,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,69,205,74,204,80,172,75"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.Hand.GetPointerPose" name="Oculus.Interaction.Input.Hand.GetPointerPose">
+<area shape="rect" id="Node000001" title="Attempts to calculate the pose that can be used as a root for raycasting, in world space Returns fals..." alt="" coords="220,5,382,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#aed7cdf3fd60bb7b861c318daf04d1df8" title="Attempts to calculate the pose that can be used as a root for raycasting, in world space Returns fals..." alt="" coords="5,5,172,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,29,172,29,172,24,204,24"/>
+</map>

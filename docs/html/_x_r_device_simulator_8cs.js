@@ -1,0 +1,4 @@
+var _x_r_device_simulator_8cs =
+[
+    [ "UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator" ]
+];

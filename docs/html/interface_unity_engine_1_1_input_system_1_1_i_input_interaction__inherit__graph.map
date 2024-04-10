@@ -1,0 +1,13 @@
+<map id="UnityEngine.InputSystem.IInputInteraction&lt; TValue &gt;" name="UnityEngine.InputSystem.IInputInteraction&lt; TValue &gt;">
+<area shape="rect" id="Node000001" title="Interface for interaction patterns that drive actions." alt="" coords="166,105,342,148"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_interactions_1_1_hold_interaction.html" title="Performs the action if the control is pressed and held for at least the set duration (which defaults ..." alt="" coords="402,5,580,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,95,389,58,419,46,421,51,391,62,310,100"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_interactions_1_1_press_interaction.html" title="Performs the action at specific points in a button press&#45;and&#45;release sequence according top behavior." alt="" coords="398,72,584,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="357,110,397,104,397,109,358,115"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_interactions_1_1_slow_tap_interaction.html" title="Performs the action if the control is pressed and held for at least the set duration (which defaults ..." alt="" coords="390,139,591,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="358,139,390,143,389,148,357,144"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_interactions_1_1_tap_interaction.html" title="Performs the action if the control is pressed held for at least the set duration (which defaults to I..." alt="" coords="404,205,577,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="310,153,391,191,421,202,419,207,389,196,308,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,113,118,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,124,165,124,165,129,134,129"/>
+</map>

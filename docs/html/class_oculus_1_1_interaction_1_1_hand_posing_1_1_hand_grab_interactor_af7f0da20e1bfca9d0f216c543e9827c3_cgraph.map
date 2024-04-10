@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractor.DoEveryUpdate" name="Oculus.Interaction.HandPosing.HandGrabInteractor.DoEveryUpdate">
+<area shape="rect" id="Node000001" title="During the update event, move the current interactor (containing also the trigger for detecting nearb..." alt="" coords="5,72,232,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html#ac22b45588ee25c29cb74febf94cded0f" title=" " alt="" coords="286,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,69,279,50,281,55,206,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html#a034751b14b88f3a170cd0f9cc321e5a5" title=" " alt="" coords="286,72,478,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,91,270,91,270,96,232,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_address.html#a9544ab29d2333ade94effbffb92554bc" title=" " alt="" coords="280,139,484,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,113,281,132,279,137,205,118"/>
+</map>

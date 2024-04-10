@@ -1,0 +1,9 @@
+<map id="UnityEngine.UI.RectMask2D.OnDisable" name="UnityEngine.UI.RectMask2D.OnDisable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,183,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_clipper_registry.html#a47da89943f63ff4a19481950593c3385" title="Disable a IClipper element." alt="" coords="231,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,45,215,40,215,46,183,50"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a394e02beae27c2e3fc69d3a533ab7a35" title="Notify all IClippables under the given component that they need to recalculate clipping." alt="" coords="237,72,428,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,70,222,75,221,81,183,75"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html#a2885e0f0ea8e2ac2f6e02a940c29dcb5" title="Will be called when the state of a parent IClippable changed." alt="" coords="482,72,653,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="428,91,466,91,466,96,428,96"/>
+</map>

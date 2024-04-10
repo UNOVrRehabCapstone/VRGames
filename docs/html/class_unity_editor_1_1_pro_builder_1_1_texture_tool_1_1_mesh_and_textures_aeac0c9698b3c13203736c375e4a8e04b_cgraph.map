@@ -1,0 +1,7 @@
+<map id="UnityEditor.ProBuilder.TextureTool.MeshAndTextures.MeshAndTextures" name="UnityEditor.ProBuilder.TextureTool.MeshAndTextures.MeshAndTextures">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,269,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_bounds2_d.html#ade5998d0d4b3dd0b2c8bfc0b1690ce36" title="Returns the center of the bounding box of points. Optional parameter @length limits the bounds calcul..." alt="" coords="317,5,527,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,42,301,38,302,43,269,47"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#acb06e770b36d60cbd0fef677704766d4" title="Copies values from the specified UV channel to the list of texture UVs." alt="" coords="332,72,512,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,73,317,78,316,84,269,78"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRInteractorLineVisualEditor.DrawReticle" name="UnityEditor.XR.Interaction.Toolkit.XRInteractorLineVisualEditor.DrawReticle">
+<area shape="rect" id="Node000001" title="Draw property fields related to the reticle." alt="" coords="564,5,795,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html#ac7d82925cc09b5344198177a9d00d8c2" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="285,5,516,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="548,37,516,37,516,32,548,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html#af9009738edd28dd26bf2d745443d0d7f" title=" " alt="" coords="5,5,237,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,37,237,37,237,32,269,32"/>
+</map>

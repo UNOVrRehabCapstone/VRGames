@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawBeforeProperties" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawBeforeProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="5,5,224,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a7471229ee142452ec299c6d29eedc4ac" title="Verify that the required XRBaseController component is present and display a warning box if missing." alt="" coords="272,5,490,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,32,256,32,256,37,224,37"/>
+</map>

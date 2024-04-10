@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.TransformFeatureStateThresholds" name="Oculus.Interaction.PoseDetection.TransformFeatureStateThresholds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,112,250,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,21,123,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,59,126,110,122,113,81,62"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_feature_thresholds.html" title=" " alt="" coords="147,5,285,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,78,158,113,154,110,182,75"/>
+</map>

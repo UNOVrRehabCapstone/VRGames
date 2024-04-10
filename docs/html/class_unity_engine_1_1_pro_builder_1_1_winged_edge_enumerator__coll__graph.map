@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.WingedEdgeEnumerator" name="UnityEngine.ProBuilder.WingedEdgeEnumerator">
+<area shape="rect" id="Node000001" title="Provides a way to enumerate a WingedEdge by walking the WingedEdge.next property." alt="" coords="5,80,209,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,5,202,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
+</map>

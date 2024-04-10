@@ -1,0 +1,13 @@
+<map id="UnityEditor.Timeline.TimelineClipGUI.SnappableEdgesFor" name="UnityEditor.Timeline.TimelineClipGUI.SnappableEdgesFor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,195,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#abbaa8f73f61309320a146c0af4ab517a" title="Get the TrackAsset to which this clip is attached." alt="" coords="243,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,44,227,40,228,45,196,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_g_u_i.html#aed5542dfd22517837433c94a6fb24009" title=" " alt="" coords="246,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,71,231,75,230,81,195,76"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#a4b7f59487a7014735342fd15c71413f1" title=" " alt="" coords="486,39,707,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,78,470,74,471,79,436,84"/>
+<area shape="rect" id="Node000006" href="$interface_unity_editor_1_1_timeline_1_1_i_z_order_provider.html#a49e0c99b9528891646569e0214fe6fa5" title=" " alt="" coords="505,105,688,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="436,103,490,110,489,115,435,108"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#a1965c36388ba999d52895befcac64496" title=" " alt="" coords="755,31,983,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="708,57,740,57,740,63,708,63"/>
+</map>

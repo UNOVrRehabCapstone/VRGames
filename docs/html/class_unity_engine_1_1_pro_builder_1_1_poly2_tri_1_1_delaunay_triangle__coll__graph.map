@@ -1,0 +1,11 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle" name="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="588,96,781,139"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_fixed_array3.html" title=" " alt="" coords="196,5,427,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,61,588,93,587,99,442,66"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_fixed_array3.html" title=" " alt="" coords="198,88,425,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="440,115,588,115,588,120,440,120"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_fixed_bit_array3.html" title=" " alt="" coords="216,171,408,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="422,177,564,152,619,137,621,142,565,157,423,182"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,179,147,205"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,189,215,189,215,195,163,195"/>
+</map>

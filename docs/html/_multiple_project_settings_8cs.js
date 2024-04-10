@@ -1,0 +1,4 @@
+var _multiple_project_settings_8cs =
+[
+    [ "UnityEngine.SettingsManagement.EditorTests.MultipleProjectSettings", "class_unity_engine_1_1_settings_management_1_1_editor_tests_1_1_multiple_project_settings.html", "class_unity_engine_1_1_settings_management_1_1_editor_tests_1_1_multiple_project_settings" ]
+];

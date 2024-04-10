@@ -1,0 +1,20 @@
+<map id="LocomotionTeleport.PostTeleportStateCoroutine" name="LocomotionTeleport.PostTeleportStateCoroutine">
+<area shape="rect" id="Node000001" title="The PostTeleport coroutine is typically just a single frame state that deactivates the destination in..." alt="" coords="1214,93,1425,136"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a89ee6f4110ffa8a836fc64fed42bf520" title="This coroutine will yield until IsTransitioning back to false, which will be immediately unless there..." alt="" coords="965,64,1166,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1198,103,1166,100,1167,94,1199,98"/>
+<area shape="rect" id="Node000003" href="$class_locomotion_teleport.html#a44c1dd4ab1c6f8a9d0456e391aa7eec5" title="This coroutine will be active while the system is in the PreTeleport state. At this point,..." alt="" coords="712,64,917,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="949,88,917,88,917,83,949,83"/>
+<area shape="rect" id="Node000004" href="$class_locomotion_teleport.html#aa90d9f287ba058ad29a64a679ffcf48f" title="This coroutine will be running while the aim state is active. The teleport destination will become ac..." alt="" coords="472,64,664,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="697,88,665,88,665,83,697,83"/>
+<area shape="rect" id="Node000005" href="$class_locomotion_teleport.html#a3327ea28ec00149ed89628747065e560" title="This coroutine will be running while the component is in the Ready state." alt="" coords="249,123,424,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,114,424,125,423,119,466,108"/>
+<area shape="poly" id="edge10_Node000005_Node000001" title=" " alt="" coords="440,138,1213,115,1213,120,440,144"/>
+<area shape="rect" id="Node000006" href="$class_locomotion_teleport.html#aede92ac3eec9427c189a4b8f7c80947e" title="This coroutine will be executed when the aim state is cancelled." alt="" coords="14,72,192,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,124,192,115,193,110,234,119"/>
+<area shape="rect" id="Node000007" href="$class_locomotion_teleport.html#a155b3a0fa7d99a6117b56ffa5ed84ac4" title="This coroutine will be executed when the pre&#45;teleport state is unabled to transition to the teleporti..." alt="" coords="14,5,192,48"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="291,116,247,88,200,62,172,51,175,46,202,58,250,84,293,111"/>
+<area shape="rect" id="Node000008" href="$class_locomotion_teleport.html#a788df8cf8c2b8829ac3ca443701b74dd" title="Start the state machine coroutines." alt="" coords="5,139,201,165"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="233,150,201,151,201,146,233,145"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="208,89,472,84,472,90,208,94"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="208,23,419,29,542,36,665,49,728,61,727,66,664,55,542,42,419,34,208,29"/>
+</map>

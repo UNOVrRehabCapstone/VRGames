@@ -1,0 +1,7 @@
+<map id="UnityEngine.UI.CanvasScaler.HandleConstantPhysicalSize" name="UnityEngine.UI.CanvasScaler.HandleConstantPhysicalSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,200,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_canvas_scaler.html#a4cad7a6bc77afa5cf79f059c9705c3fe" title="Sets the referencePixelsPerUnit on the Canvas." alt="" coords="248,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,44,232,39,233,45,201,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_canvas_scaler.html#a508a82268e876c7056c0f824f30492f9" title="Sets the scale factor on the canvas." alt="" coords="248,72,442,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,71,233,75,232,81,200,76"/>
+</map>

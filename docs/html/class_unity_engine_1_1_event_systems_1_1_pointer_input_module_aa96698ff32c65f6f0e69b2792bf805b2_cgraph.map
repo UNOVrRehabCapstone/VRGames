@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.IsPointerOverGameObject" name="UnityEngine.EventSystems.PointerInputModule.IsPointerOverGameObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,219,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#aaa53d235a87024846ba18b6612eace20" title="Return the last PointerEventData for the given touch / mouse id." alt="" coords="267,5,490,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,32,251,32,251,37,219,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a9bfbf3091dc432b4223a52d7d277381d" title="Search the cache for currently active pointers, return true if found." alt="" coords="538,13,763,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,32,523,32,523,37,491,37"/>
+</map>

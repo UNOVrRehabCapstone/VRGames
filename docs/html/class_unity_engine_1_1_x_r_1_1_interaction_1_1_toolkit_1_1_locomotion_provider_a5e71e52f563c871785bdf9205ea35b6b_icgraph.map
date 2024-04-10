@@ -1,0 +1,15 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider.CanBeginLocomotion" name="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider.CanBeginLocomotion">
+<area shape="rect" id="Node000001" title="Checks if locomotion can begin." alt="" coords="592,80,828,139"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#a86db8dfcf816d67f32f7ea7d43a576d7" title="Creates a locomotion event to move the rig by translationInWorldSpace , and optionally applies gravit..." alt="" coords="299,5,538,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,78,535,67,536,62,579,73"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html#a9b07b66fb0a617431001d660747d4f8c" title="Begins turning locomotion." alt="" coords="293,88,544,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,112,545,112,545,107,577,107"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_turn_provider_base.html#ad3af2cfb6d503721d32ff2e3852448d2" title="Rotates the rig by turnAmount &#160;degrees." alt="" coords="302,155,535,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="579,146,536,157,535,151,578,140"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#ab809794fecbaf868a6b78c389840e424" title="See MonoBehaviour." alt="" coords="6,5,244,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,37,244,37,244,32,284,32"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html#add09196e6f8228c9ae4060294149e50f" title="See MonoBehaviour." alt="" coords="5,88,245,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="277,112,245,112,245,107,277,107"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_turn_provider_base.html#a422ec7fd6baad1eeec5f643e23dec589" title="See MonoBehaviour." alt="" coords="8,155,242,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="286,187,242,187,242,181,286,181"/>
+</map>

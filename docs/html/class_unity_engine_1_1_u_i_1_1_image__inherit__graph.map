@@ -1,0 +1,27 @@
+<map id="UnityEngine.UI.Image" name="UnityEngine.UI.Image">
+<area shape="rect" id="Node000001" title="Image is a textured element in the UI hierarchy." alt="" coords="383,155,529,181"/>
+<area shape="rect" id="Node000010" href="$class_media_player_image.html" title=" " alt="" coords="174,229,303,256"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="405,189,277,231,276,226,403,184"/>
+<area shape="rect" id="Node000011" href="$class_testable_image.html" title=" " alt="" coords="327,229,433,256"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="434,194,395,231,391,227,430,190"/>
+<area shape="rect" id="Node000012" href="$class_toggle_test_image_hook.html" title=" " alt="" coords="457,229,607,256"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="482,190,521,227,517,231,478,194"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_u_i_1_1_tests_1_1_image_hook.html" title=" " alt="" coords="631,229,843,256"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="520,183,688,226,687,231,519,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html" title="A Graphic that is capable of being masked out." alt="" coords="124,80,246,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,109,409,151,408,157,246,114"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,72,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,37,161,77,158,82,76,42"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html" title="Interface for elements that can be clipped if they are under an IClipper." alt="" coords="96,5,173,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="154,43,179,78,174,81,150,46"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_u_i_1_1_i_maskable.html" title="This element is capable of being masked out." alt="" coords="197,5,277,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,46,196,81,192,78,217,43"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_u_i_1_1_i_material_modifier.html" title="Use this interface to modify a Material that renders a Graphic. The Material is modified before the i..." alt="" coords="301,5,416,32"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="315,41,217,82,215,77,313,36"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="271,80,465,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="397,115,442,152,439,156,393,119"/>
+<area shape="rect" id="Node000008" href="$interface_unity_engine_1_1_u_i_1_1_i_layout_element.html" title="A component is treated as a layout element by the auto layout system if it implements ILayoutElement." alt="" coords="490,80,601,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="519,119,473,156,470,152,516,115"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="626,80,769,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="641,114,499,157,497,151,640,109"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="Facebook.WitAi.Configuration.WitConfigurationData" name="Facebook.WitAi.Configuration.WitConfigurationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="757,203,954,245"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_configuration.html" title=" " alt="" coords="379,349,607,392"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="552,340,644,298,749,255,781,243,783,248,751,260,646,303,555,345"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_configuration_1_1_wit_configuration_data.html" title=" " alt="" coords="784,400,927,427"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="623,383,783,402,783,408,622,389"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,328,163,355"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,344,378,359,378,365,178,350"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_configuration_1_1_wit_application.html" title=" " alt="" coords="1067,476,1296,519"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1051,495,906,482,827,471,749,457,641,428,548,395,550,390,643,423,751,452,828,466,906,477,1052,489"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="920,429,985,447,1089,473,1087,478,984,452,918,434"/>
+<area shape="rect" id="Node000007" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_entity.html" title=" " alt="" coords="1083,133,1280,176"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="927,392,959,379,994,358,1028,333,1087,276,1133,220,1164,175,1169,178,1137,223,1091,280,1031,337,997,363,962,384,929,397"/>
+<area shape="rect" id="Node000010" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_intents_1_1_wit_intent.html" title=" " alt="" coords="1390,413,1582,456"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="943,414,1390,429,1389,434,942,419"/>
+<area shape="rect" id="Node000011" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_traits_1_1_wit_trait.html" title=" " alt="" coords="1089,313,1274,356"/>
+<area shape="poly" id="edge15_Node000011_Node000005" title=" " alt="" coords="942,400,1043,380,1124,354,1126,359,1044,385,943,405"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_configuration_1_1_wit_endpoint_config.html" title=" " alt="" coords="5,379,203,421"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="218,389,354,379,378,377,378,382,355,384,218,394"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="1068,156,915,164,832,175,751,193,689,215,633,250,567,302,516,351,513,347,563,298,629,246,686,210,749,188,831,170,915,159,1067,150"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="1219,185,1463,411,1459,415,1216,189"/>
+<area shape="rect" id="Node000008" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_entity_role.html" title=" " alt="" coords="757,5,954,48"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="943,51,961,58,1134,130,1132,135,959,62,941,56"/>
+<area shape="rect" id="Node000009" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_keywords_1_1_wit_keyword.html" title=" " alt="" coords="750,72,960,115"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="976,113,1083,133,1082,139,975,119"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="1441,467,1375,504,1336,521,1296,533,1196,555,1108,567,1030,571,956,566,884,552,808,529,725,497,630,456,572,426,524,395,526,390,575,421,632,451,727,492,810,524,885,547,957,561,1030,566,1108,562,1195,550,1295,528,1334,516,1373,499,1439,462"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="1073,343,608,367,607,362,1073,338"/>
+<area shape="rect" id="Node000012" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_traits_1_1_wit_trait_value.html" title=" " alt="" coords="763,269,948,312"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="963,303,1089,320,1088,325,963,308"/>
+</map>

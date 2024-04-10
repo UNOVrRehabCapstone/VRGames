@@ -1,0 +1,5 @@
+<map id="GraphicRaycasterWorldSpaceCanvasTests.GraphicRaycasterDoesNotHitGraphicBehindCameraFarClipPlane" name="GraphicRaycasterWorldSpaceCanvasTests.GraphicRaycasterDoesNotHitGraphicBehindCameraFarClipPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,267,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_event_system.html#acbdd6c190c973c0a56e643a8ea7cee47" title="Raycast into the scene using all configured BaseRaycasters." alt="" coords="315,13,498,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,32,299,32,299,37,267,37"/>
+</map>

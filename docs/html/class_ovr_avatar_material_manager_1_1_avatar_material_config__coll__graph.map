@@ -1,0 +1,7 @@
+<map id="OvrAvatarMaterialManager.AvatarMaterialConfig" name="OvrAvatarMaterialManager.AvatarMaterialConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,39,633,81"/>
+<area shape="rect" id="Node000002" href="$struct_ovr_avatar_material_manager_1_1_avatar_component_material_properties.html" title=" " alt="" coords="5,5,234,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,34,456,50,456,56,249,39"/>
+<area shape="rect" id="Node000003" href="$struct_ovr_avatar_material_manager_1_1_avatar_material_property_block.html" title=" " alt="" coords="27,72,212,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,85,432,71,456,68,457,74,433,76,228,91"/>
+</map>

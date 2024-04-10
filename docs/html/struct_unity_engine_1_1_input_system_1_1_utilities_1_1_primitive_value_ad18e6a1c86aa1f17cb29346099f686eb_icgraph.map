@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToString" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToString">
+<area shape="rect" id="Node000001" title="Return a string representation of the value." alt="" coords="256,5,458,48"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a03a8c65c8d2e9d081ea2dad662c1031a" title="Convert the value to a string." alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,29,208,29,208,24,240,24"/>
+</map>

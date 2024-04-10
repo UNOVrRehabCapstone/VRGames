@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputRecorder.OnDestroy" name="UnityEngine.InputSystem.InputRecorder.OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,178,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a38416148dcc4329ebfc2c537542d86c7" title="Stop recording, if necessary, and clear the trace such that it released unmanaged memory which might ..." alt="" coords="226,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,24,210,24,210,29,178,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a8a05ae4f06393c5076fa1869a90d3c5b" title="Stop recording events." alt="" coords="494,5,710,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,24,478,24,478,29,446,29"/>
+</map>

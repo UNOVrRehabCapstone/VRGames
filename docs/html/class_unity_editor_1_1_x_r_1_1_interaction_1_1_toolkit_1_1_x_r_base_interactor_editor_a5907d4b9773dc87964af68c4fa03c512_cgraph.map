@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawCoreConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawCoreConfiguration">
+<area shape="rect" id="Node000001" title="Draw the core group of property fields. These are the main properties that appear before any other sp..." alt="" coords="5,5,207,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a7de7516647212fdd843c0a7f302ac8a8" title="Draw the property fields related to interaction management." alt="" coords="255,5,456,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,32,239,32,239,37,207,37"/>
+</map>

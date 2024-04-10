@@ -1,0 +1,11 @@
+<map id="TeleportInputHandlerTouch" name="TeleportInputHandlerTouch">
+<area shape="rect" id="Node000001" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using Oc..." alt="" coords="5,304,180,331"/>
+<area shape="rect" id="Node000002" href="$class_teleport_input_handler_h_m_d.html" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using HM..." alt="" coords="8,229,177,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,272,95,304,90,304,90,272"/>
+<area shape="rect" id="Node000003" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="23,155,162,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,197,95,229,90,229,90,197"/>
+<area shape="rect" id="Node000004" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="36,80,149,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,122,95,154,90,154,90,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="38,5,147,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,48,95,80,90,80,90,48"/>
+</map>

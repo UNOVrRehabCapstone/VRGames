@@ -1,0 +1,15 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.HandleUpdateRenderTexture" name="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.HandleUpdateRenderTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,235,147"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a636c83ebaf2875915527c9d5f17e9ee0" title=" " alt="" coords="283,5,512,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,85,281,66,283,72,222,90"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a727a3a33de136dc274caa3e947c02269" title=" " alt="" coords="283,88,512,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,115,267,115,267,120,235,120"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a70d6410b898a591f26df657ec6976888" title=" " alt="" coords="287,171,508,229"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="222,145,283,163,281,168,220,150"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#aa1e0b47d3c2e12b6cd7f8c0e17b8bf1f" title=" " alt="" coords="560,5,789,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,32,545,32,545,37,512,37"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a9852a99ef759d1e3b3420382ca3e52ff" title=" " alt="" coords="560,88,789,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="512,115,545,115,545,120,512,120"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#ad30fee71700776cd590899a576d353ed" title=" " alt="" coords="560,171,789,229"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="499,145,560,163,558,168,497,150"/>
+</map>

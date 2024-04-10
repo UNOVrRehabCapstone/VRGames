@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.UI.TrackedDeviceModel" name="UnityEngine.XR.Interaction.Toolkit.UI.TrackedDeviceModel">
+<area shape="rect" id="Node000001" title="Models a tracked device." alt="" coords="508,37,706,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,323,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,37,507,49,507,54,338,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="118,76,210,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,91,345,93,414,91,483,85,526,78,526,83,484,91,415,96,345,99,225,96"/>
+</map>

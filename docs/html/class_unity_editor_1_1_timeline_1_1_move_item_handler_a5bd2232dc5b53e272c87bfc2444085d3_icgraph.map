@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.MoveItemHandler.RefreshPreviewItems" name="UnityEditor.Timeline.MoveItemHandler.RefreshPreviewItems">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,39,697,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_move_item_handler.html#a544e7f85d72a7ad51bf348973c40ff12" title=" " alt="" coords="236,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,47,430,42,431,37,468,41"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_move_item_handler.html#ab1639c22edd815e767d83be8a89c07cc" title=" " alt="" coords="232,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="468,79,436,83,435,77,467,73"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#a584bdd0d566071b66460cdbf2c518833" title=" " alt="" coords="5,72,184,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,96,184,96,184,91,216,91"/>
+</map>

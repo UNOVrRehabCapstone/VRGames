@@ -1,0 +1,8 @@
+<map id="Facebook.WitAi.Data.WitStringValue.Equals" name="Facebook.WitAi.Data.WitStringValue.Equals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,209,72"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_wit_string_value.html#af166b54fde954a36a7ff28261e026f08" title=" " alt="" coords="257,29,460,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,48,241,48,241,53,209,53"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_wit_response_reference.html#a8c57de0de2bb9e311fff4ebba7d929f9" title=" " alt="" coords="508,29,704,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,48,493,48,493,53,460,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="559,29,557,19,565,10,582,5,606,3,633,5,648,11,646,16,631,10,606,8,583,10,568,15,563,21,565,28"/>
+</map>

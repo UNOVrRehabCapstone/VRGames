@@ -1,0 +1,9 @@
+<map id="SpatialAnchorSession" name="SpatialAnchorSession">
+<area shape="rect" id="Node000001" title="Handles calls to and from Spatial Anchor SDK." alt="" coords="37,172,187,199"/>
+<area shape="rect" id="Node000002" href="$class_anchor_session.html" title=" " alt="" coords="57,96,167,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,138,115,172,109,172,109,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,107,94,102,97,73,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="139,5,192,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="152,47,122,97,117,94,148,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Facebook.WitAi.Lib.Mic.StopRecording" name="Facebook.WitAi.Lib.Mic.StopRecording">
+<area shape="rect" id="Node000001" title="Ends the Mic stream." alt="" coords="246,5,437,48"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_mic.html#a792c7ac1bccedd0fd3a50bc18069f81c" title="Starts to stream the input of the current Mic device." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="UnityEditor.Timeline.WindowState.PixelToTime" name="UnityEditor.Timeline.WindowState.PixelToTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="714,205,902,248"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ab85b38edb8da83b1867273ce79bd36a5" title=" " alt="" coords="464,5,666,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="784,194,734,127,702,92,665,62,645,51,647,46,668,58,705,88,739,124,788,191"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_zoom_manipulator.html#ae000b074a1093c89215db745abd9603f" title=" " alt="" coords="468,72,663,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="768,198,720,162,665,129,640,118,642,113,668,124,723,158,771,193"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_zoom_manipulator.html#a4214baeb3bcbf2f5df40a632d3bd9d76" title=" " alt="" coords="465,139,665,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="713,203,645,185,646,179,714,198"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_rectangle_zoom.html#a9273e391ce4168ce646878db4a0bfed3" title=" " alt="" coords="466,205,665,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="699,229,665,229,665,224,699,224"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a931c9a7c353584119fd61853d88f561d" title=" " alt="" coords="472,272,659,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="714,255,646,274,645,269,713,250"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a63e22e0de474b9cbaf150f24694bd004" title=" " alt="" coords="472,339,659,381"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="771,260,723,295,668,329,642,340,640,336,665,324,720,291,768,256"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a7f316d2cd49fe6eeec5c60a432dd4611" title=" " alt="" coords="472,405,659,448"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="788,263,739,330,705,365,668,396,647,407,645,402,665,391,702,361,734,326,784,260"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_timeline_1_1_items_layer.html#a472e0a1fd148342eea480ebf6cbd7803" title=" " alt="" coords="243,239,416,281"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="456,281,416,275,417,270,456,275"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_timeline_1_1_ease_clip.html#abc041c1f6de46e2fbe806eedebff895b" title=" " alt="" coords="244,305,415,348"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="456,311,416,317,415,312,455,306"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html#a4022d171772644b993a12fdad1b42c8c" title=" " alt="" coords="5,239,195,281"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="227,263,195,263,195,257,227,257"/>
+</map>

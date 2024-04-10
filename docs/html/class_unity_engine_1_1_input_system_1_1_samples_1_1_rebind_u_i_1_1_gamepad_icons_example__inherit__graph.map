@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Samples.RebindUI.GamepadIconsExample" name="UnityEngine.InputSystem.Samples.RebindUI.GamepadIconsExample">
+<area shape="rect" id="Node000001" title="This is an example for how to override the default display behavior of bindings. The component hooks ..." alt="" coords="5,80,225,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,48,118,79,112,79,112,48"/>
+</map>

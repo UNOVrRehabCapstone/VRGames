@@ -1,0 +1,36 @@
+<map id="UnityEngine.UI.Toggle" name="UnityEngine.UI.Toggle">
+<area shape="rect" id="Node000001" title="A standard toggle that has an on / off state." alt="" coords="690,284,839,311"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_selectable.html" title="Simple selectable object &#45; derived from to create a selectable control." alt="" coords="530,208,613,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="626,238,642,244,732,281,730,286,640,249,624,243"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="226,5,315,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,30,406,56,444,75,480,98,508,124,533,154,565,206,561,209,528,157,504,128,477,102,442,79,403,61,330,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,5,133,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,16,225,16,225,21,148,21"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="222,56,320,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="335,82,406,105,480,139,525,173,560,206,556,210,522,177,477,144,404,110,334,87"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_down_handler.html" title="Interface to implement if you wish to receive OnPointerDown callbacks." alt="" coords="200,107,341,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="351,135,414,152,479,174,547,205,544,210,477,178,413,157,350,140"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_event_systems_1_1_i_event_system_handler.html" title="Base class that all EventSystem events inherit from." alt="" coords="5,181,151,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="125,172,199,143,229,131,231,136,201,148,127,177"/>
+<area shape="rect" id="Node000008" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_up_handler.html" title="Interface to implement if you wish to receive OnPointerUp callbacks. Note: In order to receive OnPoin..." alt="" coords="208,157,333,184"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="166,181,207,176,208,181,166,186"/>
+<area shape="rect" id="Node000009" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_enter_handler.html" title="Interface to implement if you wish to receive OnPointerEnter callbacks." alt="" coords="201,208,341,235"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="167,204,200,209,200,214,166,210"/>
+<area shape="rect" id="Node000010" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_exit_handler.html" title="Interface to implement if you wish to receive OnPointerExit callbacks." alt="" coords="205,259,337,285"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="125,212,201,244,231,256,229,261,199,249,123,217"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="349,179,479,200,531,210,530,215,478,205,349,184"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="356,219,530,219,530,224,356,224"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="352,256,530,226,531,231,353,261"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="218,309,323,336"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="338,304,406,284,477,258,501,244,529,233,531,238,503,249,479,262,408,289,339,309"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="211,360,330,387"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="345,361,413,340,447,323,476,301,485,288,488,274,491,260,500,245,528,228,531,233,504,249,496,262,493,275,490,290,480,305,450,327,415,345,346,366"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="244,411,297,437"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="313,428,352,431,396,428,440,417,459,406,476,393,489,376,494,359,490,323,485,285,489,265,500,245,513,234,529,226,531,231,516,238,504,248,494,267,490,285,495,322,499,359,494,378,480,397,462,411,442,422,397,434,352,436,313,434"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="502,259,641,285"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="656,280,690,285,689,290,656,286"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="517,309,626,336"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="641,311,689,305,690,310,642,316"/>
+<area shape="rect" id="Node000016" href="$interface_unity_engine_1_1_u_i_1_1_i_canvas_element.html" title="This is an element that can live on a Canvas." alt="" coords="514,360,629,387"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="624,352,640,346,730,309,732,314,642,350,626,357"/>
+</map>

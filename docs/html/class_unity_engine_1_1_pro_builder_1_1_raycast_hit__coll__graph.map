@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.RaycastHit" name="UnityEngine.ProBuilder.RaycastHit">
+<area shape="rect" id="Node000001" title="The results of a raycast hit." alt="" coords="5,112,229,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,47,120,112,114,112,114,47"/>
+</map>

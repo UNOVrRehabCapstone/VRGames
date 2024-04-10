@@ -1,0 +1,7 @@
+<map id="UnityEngine.Timeline.IPropertyCollector.AddFromName" name="UnityEngine.Timeline.IPropertyCollector.AddFromName">
+<area shape="rect" id="Node000001" title="Add property modifications using the serialized property name." alt="" coords="257,39,456,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_activation_track.html#af4cf30aaabb54e30d80694a248dd32ff" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="5,5,209,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,47,209,43,210,38,242,42"/>
+<area shape="rect" id="Node000003" href="$class_timeline_1_1_samples_1_1_tween_clip.html#ac660975224d75fe3bb02bd31ee2db9e1" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="11,72,203,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,78,204,83,203,78,241,73"/>
+</map>

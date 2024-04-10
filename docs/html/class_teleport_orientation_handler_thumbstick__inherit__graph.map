@@ -1,0 +1,9 @@
+<map id="TeleportOrientationHandlerThumbstick" name="TeleportOrientationHandlerThumbstick">
+<area shape="rect" id="Node000001" title="This orientation handler will use the specified thumbstick to adjust the landing orientation of the t..." alt="" coords="5,229,180,272"/>
+<area shape="rect" id="Node000002" href="$class_teleport_orientation_handler.html" title="The orientation handler is what determines the final rotation of the player after the teleport." alt="" coords="5,155,180,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,197,95,229,90,229,90,197"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="36,80,149,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,122,95,154,90,154,90,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,147,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,48,95,80,90,80,90,48"/>
+</map>

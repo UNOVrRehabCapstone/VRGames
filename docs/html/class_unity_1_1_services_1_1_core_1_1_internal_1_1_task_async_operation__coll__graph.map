@@ -1,0 +1,30 @@
+<map id="Unity.Services.Core.Internal.TaskAsyncOperation&lt; T &gt;" name="Unity.Services.Core.Internal.TaskAsyncOperation&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Task&#45;based implementation of IAsyncOperation." alt="" coords="447,248,632,291"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_async_operation_base.html" title="Base class for asynchronous operations." alt="" coords="187,157,332,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,187,480,245,478,250,309,192"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,81,333,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,123,255,157,249,157,246,123"/>
+<area shape="poly" id="edge7_Node000002_Node000003" title=" " alt="" coords="268,123,268,157,263,157,263,123"/>
+<area shape="rect" id="Node000008" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_async_operation_base.html" title="Base class for asynchronous operations." alt="" coords="356,157,531,184"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="293,112,338,130,402,154,401,159,336,134,291,117"/>
+<area shape="poly" id="edge16_Node000008_Node000003" title=" " alt="" coords="314,111,362,130,423,154,421,159,360,134,312,116"/>
+<area shape="rect" id="Node000004" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation.html" title="Contract for an asynchronous operation with no result." alt="" coords="357,81,474,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="376,118,287,159,285,154,374,113"/>
+<area shape="poly" id="edge14_Node000008_Node000004" title=" " alt="" coords="428,121,441,156,436,158,423,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="370,5,461,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="409,47,411,81,406,81,404,47"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="427,47,425,81,420,81,422,47"/>
+<area shape="rect" id="Node000007" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation.html" title=" " alt="" coords="5,81,154,108"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="355,36,138,83,137,78,354,31"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="498,81,621,108"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="559,124,545,248,539,247,554,123"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="487,115,305,159,303,154,486,109"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="501,115,319,159,317,154,500,110"/>
+<area shape="poly" id="edge15_Node000008_Node000006" title=" " alt="" coords="521,118,458,159,455,155,518,114"/>
+<area shape="poly" id="edge18_Node000008_Node000006" title=" " alt="" coords="536,119,472,159,469,155,533,115"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="126,112,230,154,228,159,124,117"/>
+<area shape="poly" id="edge17_Node000008_Node000007" title=" " alt="" coords="157,109,382,154,381,159,156,114"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="468,193,521,245,517,249,465,197"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="610,157,664,184"/>
+<area shape="poly" id="edge19_Node000001_Node000009" title=" " alt="" coords="619,198,593,226,567,250,563,246,590,222,615,194"/>
+</map>

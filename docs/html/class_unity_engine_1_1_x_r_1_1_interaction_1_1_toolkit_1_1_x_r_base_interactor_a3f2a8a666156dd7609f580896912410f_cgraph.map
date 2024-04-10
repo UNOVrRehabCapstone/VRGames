@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.EndManualInteraction" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.EndManualInteraction">
+<area shape="rect" id="Node000001" title="Ends the manually initiated selection of an Interactable." alt="" coords="5,5,238,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a1da0da72d945fecced547808fa1615bd" title="Initiates ending selection of an Interactable by an Interactor." alt="" coords="286,13,539,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,32,270,32,270,37,238,37"/>
+</map>

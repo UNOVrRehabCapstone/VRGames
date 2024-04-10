@@ -1,0 +1,76 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_inputfield_tests_1_1_base_input_field_tests.html" title=" " alt="" coords="32,272,199,315"/>
+<area shape="rect" id="Node000001" href="$class_inputfield_tests_1_1_desktop_input_field_tests.html" title=" " alt="" coords="306,205,490,248"/>
+<area shape="poly" id="edge245_Node000000_Node000001" title=" " alt="" coords="213,268,305,246,306,251,215,273"/>
+<area shape="rect" id="Node000010" href="$class_inputfield_tests_1_1_generic_input_field_tests.html" title=" " alt="" coords="307,272,489,315"/>
+<area shape="poly" id="edge246_Node000000_Node000010" title=" " alt="" coords="214,291,307,291,307,296,214,296"/>
+<area shape="rect" id="Node000011" href="$class_inputfield_tests_1_1_touch_input_field_tests.html" title=" " alt="" coords="312,339,484,381"/>
+<area shape="poly" id="edge247_Node000000_Node000011" title=" " alt="" coords="215,314,312,337,311,342,213,319"/>
+<area shape="rect" id="Node000031" href="$interface_unity_engine_1_1_test_tools_1_1_i_post_build_cleanup.html" title="Implement this interface if you want to define a set of actions to execute as a post&#45;build step...." alt="" coords="23,139,208,181"/>
+<area shape="rect" id="Node000030" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_loader_test_setup.html" title=" " alt="" coords="306,72,490,115"/>
+<area shape="poly" id="edge248_Node000031_Node000030" title=" " alt="" coords="223,132,305,112,306,118,224,137"/>
+<area shape="rect" id="Node000032" href="$class_unity_engine_1_1_settings_management_1_1_editor_tests_1_1_settings_tests.html" title=" " alt="" coords="287,139,509,181"/>
+<area shape="poly" id="edge249_Node000031_Node000032" title=" " alt="" coords="224,157,286,157,286,163,224,163"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_test_tools_1_1_i_prebuild_setup.html" title="Implement this interface if you want to define a set of actions to run as a pre&#45;build step." alt="" coords="13,968,218,1011"/>
+<area shape="poly" id="edge257_Node000002_Node000001" title=" " alt="" coords="117,952,132,802,162,594,183,488,208,392,237,313,254,282,272,258,287,246,304,237,307,241,290,250,276,262,258,285,242,315,213,393,188,489,167,595,138,803,122,953"/>
+<area shape="poly" id="edge258_Node000002_Node000010" title=" " alt="" coords="118,952,135,814,166,626,187,531,212,445,240,374,255,346,272,325,288,312,306,303,308,308,291,317,276,329,260,349,245,376,217,446,192,532,172,627,141,815,123,953"/>
+<area shape="poly" id="edge259_Node000002_Node000011" title=" " alt="" coords="119,952,138,827,171,659,192,574,216,498,242,435,272,392,290,378,310,368,313,373,293,382,276,395,247,437,221,499,197,576,176,660,144,828,124,953"/>
+<area shape="poly" id="edge278_Node000002_Node000030" title=" " alt="" coords="120,952,194,491,239,246,257,164,271,125,287,112,304,103,307,108,290,117,276,128,262,165,244,247,199,492,125,953"/>
+<area shape="poly" id="edge279_Node000002_Node000032" title=" " alt="" coords="119,952,144,778,183,538,228,314,250,235,261,208,272,192,286,180,289,184,276,195,266,211,255,237,233,316,188,539,149,779,124,953"/>
+<area shape="rect" id="Node000003" href="$class_button_tests.html" title=" " alt="" coords="352,1397,444,1424"/>
+<area shape="poly" id="edge250_Node000002_Node000003" title=" " alt="" coords="123,1026,135,1102,161,1199,180,1250,206,1299,237,1344,275,1383,293,1394,312,1402,352,1409,351,1414,310,1407,290,1399,272,1387,233,1348,201,1302,176,1252,156,1201,129,1103,117,1027"/>
+<area shape="rect" id="Node000004" href="$class_canvas_size_correct_in_awake_and_start.html" title=" " alt="" coords="308,1448,488,1491"/>
+<area shape="poly" id="edge251_Node000002_Node000004" title=" " alt="" coords="121,1026,131,1110,141,1163,156,1220,175,1278,201,1335,235,1388,275,1434,309,1454,306,1459,272,1438,230,1391,197,1338,170,1280,150,1221,136,1164,126,1111,116,1026"/>
+<area shape="rect" id="Node000005" href="$class_dropdown_tests.html" title=" " alt="" coords="343,1515,453,1541"/>
+<area shape="poly" id="edge252_Node000002_Node000005" title=" " alt="" coords="119,1026,124,1122,132,1184,145,1251,164,1319,192,1386,228,1447,275,1501,290,1511,307,1519,343,1526,342,1531,305,1524,288,1516,272,1505,224,1451,187,1388,159,1321,139,1252,126,1185,118,1123,114,1026"/>
+<area shape="rect" id="Node000006" href="$class_graphics_1_1_graphic_tests.html" title=" " alt="" coords="321,1565,475,1592"/>
+<area shape="poly" id="edge253_Node000002_Node000006" title=" " alt="" coords="125,1026,144,1146,177,1304,198,1383,222,1455,247,1513,276,1551,296,1565,321,1574,319,1579,294,1570,272,1555,243,1515,217,1457,193,1385,172,1305,139,1146,119,1027"/>
+<area shape="rect" id="Node000007" href="$class_graphics_1_1_mask_tests.html" title=" " alt="" coords="327,1616,469,1643"/>
+<area shape="poly" id="edge254_Node000002_Node000007" title=" " alt="" coords="124,1026,142,1155,174,1329,194,1416,218,1495,246,1559,260,1584,275,1602,300,1618,328,1626,326,1631,297,1622,272,1606,256,1587,241,1562,213,1497,189,1418,168,1330,137,1156,119,1027"/>
+<area shape="rect" id="Node000008" href="$class_graphics_1_1_raw_image_test.html" title=" " alt="" coords="317,1667,479,1693"/>
+<area shape="poly" id="edge255_Node000002_Node000008" title=" " alt="" coords="123,1026,139,1165,170,1354,191,1449,215,1536,244,1606,259,1633,275,1653,295,1666,317,1674,315,1679,292,1671,272,1657,255,1636,239,1608,210,1537,186,1451,165,1355,134,1166,118,1027"/>
+<area shape="rect" id="Node000009" href="$class_grid_layout_group_tests.html" title=" " alt="" coords="322,1717,474,1744"/>
+<area shape="poly" id="edge256_Node000002_Node000009" title=" " alt="" coords="122,1026,137,1175,167,1379,187,1482,212,1576,242,1653,258,1682,275,1703,297,1718,322,1726,321,1732,295,1723,272,1707,254,1685,237,1655,207,1578,182,1483,161,1380,132,1175,117,1027"/>
+<area shape="rect" id="Node000012" href="$class_layout_tests_1_1_aspect_ratio_fitter_tests.html" title=" " alt="" coords="299,1768,497,1811"/>
+<area shape="poly" id="edge260_Node000002_Node000012" title=" " alt="" coords="122,1026,136,1183,165,1402,185,1513,211,1615,241,1698,258,1730,276,1754,300,1772,297,1776,272,1758,253,1733,236,1700,206,1616,180,1514,160,1403,131,1184,117,1026"/>
+<area shape="rect" id="Node000013" href="$class_layout_tests_1_1_content_size_fitter_tests.html" title=" " alt="" coords="299,405,497,448"/>
+<area shape="poly" id="edge261_Node000002_Node000013" title=" " alt="" coords="114,952,119,854,126,791,140,722,159,650,187,581,224,515,272,458,297,441,300,445,275,462,229,518,192,583,164,652,145,723,132,791,124,855,119,953"/>
+<area shape="rect" id="Node000014" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html" title=" " alt="" coords="301,472,495,515"/>
+<area shape="poly" id="edge262_Node000002_Node000014" title=" " alt="" coords="115,952,124,865,134,810,148,750,168,689,195,629,229,574,272,525,299,507,302,511,275,529,233,577,200,632,173,691,153,752,139,811,130,866,121,953"/>
+<area shape="rect" id="Node000015" href="$class_layout_tests_1_1_layout_group_scaling.html" title=" " alt="" coords="291,539,505,565"/>
+<area shape="poly" id="edge263_Node000002_Node000015" title=" " alt="" coords="117,952,128,873,153,771,173,717,199,665,232,617,272,575,290,564,293,568,275,579,236,620,204,668,178,719,158,773,133,874,122,953"/>
+<area shape="rect" id="Node000016" href="$class_layout_tests_1_1_vertical_layout_group_tests.html" title=" " alt="" coords="308,589,488,632"/>
+<area shape="poly" id="edge264_Node000002_Node000016" title=" " alt="" coords="120,952,136,886,164,802,184,758,209,716,238,676,272,642,307,622,309,627,275,646,242,680,213,719,189,761,169,804,141,887,125,953"/>
+<area shape="rect" id="Node000017" href="$class_nested_canvas.html" title=" " alt="" coords="346,656,450,683"/>
+<area shape="poly" id="edge265_Node000002_Node000017" title=" " alt="" coords="123,952,141,894,171,823,190,787,214,752,241,720,272,692,307,675,345,668,346,673,309,680,275,697,245,724,218,755,195,790,175,826,146,896,128,954"/>
+<area shape="rect" id="Node000018" href="$class_nested_canvas_maintains_correct_size.html" title=" " alt="" coords="284,707,512,733"/>
+<area shape="poly" id="edge266_Node000002_Node000018" title=" " alt="" coords="127,952,148,904,179,847,220,790,245,765,272,743,294,732,296,736,275,748,248,769,224,794,183,850,153,906,132,954"/>
+<area shape="rect" id="Node000019" href="$class_no_active_camera_in_scene_does_not_crash_editor.html" title=" " alt="" coords="301,757,495,800"/>
+<area shape="poly" id="edge267_Node000002_Node000019" title=" " alt="" coords="136,953,192,881,229,842,272,810,299,796,301,801,275,814,233,846,196,884,140,957"/>
+<area shape="rect" id="Node000020" href="$class_raycast_sorting_tests.html" title=" " alt="" coords="327,824,469,851"/>
+<area shape="poly" id="edge268_Node000002_Node000020" title=" " alt="" coords="146,955,202,905,236,881,273,860,326,843,327,848,275,865,239,885,205,910,149,959"/>
+<area shape="rect" id="Node000021" href="$class_rect_transform_valid_after_enable.html" title=" " alt="" coords="297,875,499,901"/>
+<area shape="poly" id="edge269_Node000002_Node000021" title=" " alt="" coords="167,958,218,933,273,911,314,899,315,905,275,916,220,938,170,963"/>
+<area shape="rect" id="Node000022" href="$class_scene_with_nested_layout_elements_load.html" title=" " alt="" coords="274,925,522,952"/>
+<area shape="poly" id="edge270_Node000002_Node000022" title=" " alt="" coords="233,966,319,950,320,955,234,971"/>
+<area shape="rect" id="Node000023" href="$class_scroll_bar_clamp.html" title=" " alt="" coords="342,976,454,1003"/>
+<area shape="poly" id="edge271_Node000002_Node000023" title=" " alt="" coords="234,987,342,987,342,992,234,992"/>
+<area shape="rect" id="Node000024" href="$class_scroll_bar_tests.html" title=" " alt="" coords="345,1027,451,1053"/>
+<area shape="poly" id="edge272_Node000002_Node000024" title=" " alt="" coords="234,1008,345,1028,344,1033,233,1013"/>
+<area shape="rect" id="Node000025" href="$class_scroll_rect_scale.html" title=" " alt="" coords="341,1077,455,1104"/>
+<area shape="poly" id="edge273_Node000002_Node000025" title=" " alt="" coords="170,1016,220,1041,274,1063,341,1079,339,1085,273,1068,218,1046,167,1021"/>
+<area shape="rect" id="Node000026" href="$class_scroll_rect_stable_layout.html" title=" " alt="" coords="319,1128,477,1155"/>
+<area shape="poly" id="edge274_Node000002_Node000026" title=" " alt="" coords="149,1020,205,1069,239,1093,275,1114,320,1129,318,1134,273,1118,236,1098,202,1073,146,1024"/>
+<area shape="rect" id="Node000027" href="$class_scroll_rect_tests.html" title=" " alt="" coords="341,1179,455,1205"/>
+<area shape="poly" id="edge275_Node000002_Node000027" title=" " alt="" coords="139,1022,163,1057,195,1095,232,1133,275,1164,307,1178,341,1186,340,1191,306,1183,272,1169,229,1137,191,1099,159,1060,135,1025"/>
+<area shape="rect" id="Node000028" href="$class_toggle_test_1_1_toggle_group_tests.html" title=" " alt="" coords="301,1229,495,1256"/>
+<area shape="poly" id="edge276_Node000002_Node000028" title=" " alt="" coords="133,1024,155,1069,186,1121,226,1172,249,1195,275,1215,302,1228,300,1233,272,1220,246,1199,222,1176,181,1124,150,1071,129,1026"/>
+<area shape="rect" id="Node000029" href="$class_toggle_test_1_1_toggle_tests.html" title=" " alt="" coords="319,1280,477,1307"/>
+<area shape="poly" id="edge277_Node000002_Node000029" title=" " alt="" coords="129,1025,148,1080,178,1145,220,1211,246,1241,275,1266,296,1277,319,1285,317,1290,294,1282,272,1270,242,1244,216,1215,173,1148,143,1082,124,1027"/>
+<area shape="rect" id="Node000035" href="$class_unity_engine_1_1_u_i_1_1_tests_1_1_rect_mask2_d_clipping.html" title=" " alt="" coords="311,1331,485,1373"/>
+<area shape="poly" id="edge280_Node000002_Node000035" title=" " alt="" coords="126,1025,143,1089,172,1168,191,1209,215,1248,243,1285,275,1317,292,1328,312,1337,309,1341,290,1333,272,1321,239,1288,211,1251,187,1211,167,1170,138,1090,121,1027"/>
+<area shape="rect" id="Node000033" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_management_test_setup.html" title=" " alt="" coords="5,39,226,81"/>
+<area shape="poly" id="edge281_Node000033_Node000030" title=" " alt="" coords="241,72,306,80,305,85,241,77"/>
+<area shape="rect" id="Node000034" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_x_r_general_settings_tests.html" title=" " alt="" coords="299,5,497,48"/>
+<area shape="poly" id="edge282_Node000033_Node000034" title=" " alt="" coords="241,43,298,36,298,41,242,48"/>
+</map>

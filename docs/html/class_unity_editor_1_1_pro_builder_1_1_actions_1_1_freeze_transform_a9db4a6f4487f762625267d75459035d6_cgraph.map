@@ -1,0 +1,9 @@
+<map id="UnityEditor.ProBuilder.Actions.FreezeTransform.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.FreezeTransform.PerformActionImplementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,298,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="369,5,542,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,69,353,46,354,52,252,74"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_face.html#a1db35b5e464987ee50d47af3896f1d4e" title="Reverses the order of the triangle array. This has the effect of reversing the direction that this fa..." alt="" coords="359,72,552,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,91,344,91,344,96,298,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_freeze_transform.html#a39ce0d50624e741882513c86d851441d" title=" " alt="" coords="346,139,565,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,113,341,132,339,137,251,118"/>
+</map>

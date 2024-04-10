@@ -1,0 +1,7 @@
+<map id="Unity.XR.Oculus.OculusLoader.Initialize" name="Unity.XR.Oculus.OculusLoader.Initialize">
+<area shape="rect" id="Node000001" title="Initialize the loader. This should initialize all subsystems to support the desired runtime setup thi..." alt="" coords="5,39,210,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_oculus_1_1_oculus_loader.html#a6ae3ddc9ecf5d48ce09118970396f94d" title=" " alt="" coords="262,5,467,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,44,247,39,247,45,210,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_oculus_1_1_oculus_settings.html#a331a8244908c0e0dfb0a1467c3f9f764" title=" " alt="" coords="258,72,471,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,71,242,75,242,80,210,76"/>
+</map>

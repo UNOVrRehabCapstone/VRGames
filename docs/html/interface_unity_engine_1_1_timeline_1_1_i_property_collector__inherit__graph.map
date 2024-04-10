@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.IPropertyCollector" name="UnityEngine.Timeline.IPropertyCollector">
+<area shape="rect" id="Node000001" title="Interface used to inform the Timeline Editor about potential property modifications that may occur wh..." alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_property_collector.html" title=" " alt="" coords="10,96,200,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,64,108,96,102,96,102,64"/>
+</map>

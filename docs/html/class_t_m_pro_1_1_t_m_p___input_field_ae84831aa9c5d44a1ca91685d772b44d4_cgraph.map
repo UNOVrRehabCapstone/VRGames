@@ -1,0 +1,19 @@
+<map id="TMPro.TMP_InputField.OnDisable" name="TMPro.TMP_InputField.OnDisable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,223,148"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#af972523ea46f02204c7471f54ccd61b6" title=" " alt="" coords="276,39,493,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,118,289,83,291,88,166,123"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a754c72c5b27625e5b88e42c7c6c1865d" title="Remove the given element from both the graphic and the layout rebuild lists." alt="" coords="271,105,498,164"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,132,255,132,255,137,223,137"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="285,188,484,231"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="166,146,291,181,289,186,164,151"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a0ca70769250b44af1ef6a8c743f5563e" title=" " alt="" coords="548,39,752,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,57,532,57,532,63,493,63"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___input_field.html#adba4a85e3c7777a5573ed2ff139e4517" title="Submit the input field&#39;s text." alt="" coords="802,5,990,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="753,43,787,39,788,44,753,49"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ac3305c44c797f1f8c62d81851e8f118c" title=" " alt="" coords="802,72,990,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="753,71,788,76,787,81,753,77"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="555,155,746,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="484,194,539,187,539,193,484,200"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="546,221,754,264"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="484,219,531,225,531,230,484,224"/>
+</map>

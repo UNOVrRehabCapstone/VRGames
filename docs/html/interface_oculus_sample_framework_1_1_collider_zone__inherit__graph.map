@@ -1,0 +1,5 @@
+<map id="OculusSampleFramework.ColliderZone" name="OculusSampleFramework.ColliderZone">
+<area shape="rect" id="Node000001" title="Zone that can be collided with in example code." alt="" coords="5,5,251,32"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_button_trigger_zone.html" title="Trigger zone of button, can be proximity, contact or action." alt="" coords="22,80,234,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,48,131,80,125,80,125,48"/>
+</map>

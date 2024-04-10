@@ -1,0 +1,11 @@
+<map id="TMPro.TextMeshPro.GetTextContainerLocalCorners" name="TMPro.TextMeshPro.GetTextContainerLocalCorners">
+<area shape="rect" id="Node000001" title="Method to return the local corners of the Text Container or RectTransform." alt="" coords="508,48,698,91"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#af98c43be93b6f588b2086aff6957197e" title="Update the margin width and height." alt="" coords="264,48,460,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,72,460,72,460,67,492,67"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,5,216,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,49,180,35,181,30,249,44"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a4d5bc19335502eec964edd5fd7c71f2f" title=" " alt="" coords="10,56,211,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="248,72,211,72,211,67,248,67"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro.html#a65ff2fbd27378e530d78792ef5c517e0" title=" " alt="" coords="15,107,206,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="254,97,206,109,204,103,252,92"/>
+</map>

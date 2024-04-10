@@ -1,0 +1,37 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,523,170,549"/>
+<area shape="rect" id="Node000001" href="$class_windows_1_1_kinect_1_1_audio_beam_frame.html" title=" " alt="" coords="226,5,412,48"/>
+<area shape="poly" id="edge1738_Node000000_Node000001" title=" " alt="" coords="85,507,88,421,93,364,104,301,120,236,143,172,175,112,216,58,230,46,233,51,220,62,179,115,148,174,125,238,109,302,99,364,93,421,91,507"/>
+<area shape="rect" id="Node000002" href="$class_windows_1_1_kinect_1_1_audio_beam_frame_list.html" title=" " alt="" coords="226,72,412,115"/>
+<area shape="poly" id="edge1739_Node000000_Node000002" title=" " alt="" coords="87,507,93,431,112,329,128,274,150,220,179,170,216,125,231,113,234,117,220,129,184,173,155,223,133,276,117,330,98,432,92,507"/>
+<area shape="rect" id="Node000003" href="$class_windows_1_1_kinect_1_1_audio_beam_frame_reader.html" title=" " alt="" coords="226,139,412,181"/>
+<area shape="poly" id="edge1740_Node000000_Node000003" title=" " alt="" coords="89,507,99,443,120,358,137,313,158,269,184,228,216,191,231,180,235,184,219,195,188,231,163,272,142,315,125,360,104,444,94,508"/>
+<area shape="rect" id="Node000004" href="$class_windows_1_1_kinect_1_1_audio_beam_sub_frame.html" title=" " alt="" coords="226,205,412,248"/>
+<area shape="poly" id="edge1741_Node000000_Node000004" title=" " alt="" coords="92,507,105,454,129,387,166,318,189,286,216,258,232,246,235,251,219,262,193,290,170,321,134,389,111,455,97,508"/>
+<area shape="rect" id="Node000005" href="$class_windows_1_1_kinect_1_1_body_frame.html" title=" " alt="" coords="226,272,412,299"/>
+<area shape="poly" id="edge1742_Node000000_Node000005" title=" " alt="" coords="94,507,110,463,135,409,170,355,192,330,216,309,236,297,239,302,219,313,196,334,175,358,140,412,115,465,99,509"/>
+<area shape="rect" id="Node000006" href="$class_windows_1_1_kinect_1_1_body_frame_reader.html" title=" " alt="" coords="226,323,412,365"/>
+<area shape="poly" id="edge1743_Node000000_Node000006" title=" " alt="" coords="102,508,147,442,179,406,216,375,237,363,239,368,219,380,183,410,151,445,106,511"/>
+<area shape="rect" id="Node000007" href="$class_windows_1_1_kinect_1_1_body_index_frame.html" title=" " alt="" coords="229,389,409,432"/>
+<area shape="poly" id="edge1744_Node000000_Node000007" title=" " alt="" coords="115,510,161,475,216,442,242,430,244,435,219,446,164,480,118,514"/>
+<area shape="rect" id="Node000008" href="$class_windows_1_1_kinect_1_1_body_index_frame_reader.html" title=" " alt="" coords="229,456,409,499"/>
+<area shape="poly" id="edge1745_Node000000_Node000008" title=" " alt="" coords="157,516,231,497,233,502,159,521"/>
+<area shape="rect" id="Node000009" href="$class_windows_1_1_kinect_1_1_color_frame.html" title=" " alt="" coords="226,523,412,549"/>
+<area shape="poly" id="edge1746_Node000000_Node000009" title=" " alt="" coords="185,533,225,533,225,539,185,539"/>
+<area shape="rect" id="Node000010" href="$class_windows_1_1_kinect_1_1_color_frame_reader.html" title=" " alt="" coords="226,573,412,616"/>
+<area shape="poly" id="edge1747_Node000000_Node000010" title=" " alt="" coords="159,551,233,570,231,575,157,556"/>
+<area shape="rect" id="Node000011" href="$class_windows_1_1_kinect_1_1_depth_frame.html" title=" " alt="" coords="224,640,414,667"/>
+<area shape="poly" id="edge1748_Node000000_Node000011" title=" " alt="" coords="117,558,163,593,219,626,250,637,248,642,217,630,160,597,114,562"/>
+<area shape="rect" id="Node000012" href="$class_windows_1_1_kinect_1_1_depth_frame_reader.html" title=" " alt="" coords="224,691,414,733"/>
+<area shape="poly" id="edge1749_Node000000_Node000012" title=" " alt="" coords="108,561,154,619,185,650,219,676,240,688,238,692,216,681,182,654,150,623,104,564"/>
+<area shape="rect" id="Node000013" href="$class_windows_1_1_kinect_1_1_infrared_frame.html" title=" " alt="" coords="220,757,418,784"/>
+<area shape="poly" id="edge1750_Node000000_Node000013" title=" " alt="" coords="101,563,117,604,142,653,176,702,219,743,239,754,237,759,216,747,172,705,138,655,112,606,96,565"/>
+<area shape="rect" id="Node000014" href="$class_windows_1_1_kinect_1_1_infrared_frame_reader.html" title=" " alt="" coords="220,808,418,851"/>
+<area shape="poly" id="edge1751_Node000000_Node000014" title=" " alt="" coords="98,563,112,613,136,675,172,739,194,768,219,794,236,805,233,810,216,798,190,772,167,742,132,677,107,615,93,565"/>
+<area shape="rect" id="Node000015" href="$class_windows_1_1_kinect_1_1_long_exposure_infrared_frame.html" title=" " alt="" coords="218,875,420,917"/>
+<area shape="poly" id="edge1752_Node000000_Node000015" title=" " alt="" coords="95,564,105,626,128,705,144,747,164,788,189,827,219,861,235,872,232,876,216,865,185,830,160,791,139,749,122,707,100,627,89,565"/>
+<area shape="rect" id="Node000016" href="$class_windows_1_1_kinect_1_1_long_exposure_infrared_frame_reader.html" title=" " alt="" coords="218,941,420,984"/>
+<area shape="poly" id="edge1753_Node000000_Node000016" title=" " alt="" coords="92,565,100,637,119,735,135,786,157,837,185,885,220,927,234,939,231,943,216,931,180,888,152,840,130,788,114,736,94,638,87,565"/>
+<area shape="rect" id="Node000017" href="$class_windows_1_1_kinect_1_1_multi_source_frame_reader.html" title=" " alt="" coords="225,1008,413,1051"/>
+<area shape="poly" id="edge1754_Node000000_Node000017" title=" " alt="" coords="91,565,94,648,100,703,111,763,127,825,150,886,180,943,220,994,233,1005,230,1010,216,998,176,946,145,888,122,827,106,764,95,704,89,649,86,565"/>
+</map>

@@ -1,0 +1,63 @@
+<map id="UnityEngine.InputSystem.InputControl&lt; TValue &gt;" name="UnityEngine.InputSystem.InputControl&lt; TValue &gt;">
+<area shape="rect" id="Node000001" title="A typed and named source of input values in a hierarchy of controls." alt="" coords="144,223,316,265"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_device.html" title="Represents an input device which is always the root of a hierarchy of InputControl instances." alt="" coords="364,223,536,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,241,364,241,364,247,332,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,231,96,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,241,143,241,143,247,111,247"/>
+<area shape="rect" id="Node000004" href="$class_custom_device.html" title=" " alt="" coords="618,5,723,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,207,482,169,509,124,542,80,583,42,617,25,619,30,586,46,546,83,513,127,487,171,468,210"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_gamepad.html" title="An Xbox&#45;style gamepad with two sticks, a D&#45;Pad, four face buttons, two triggers, two shoulder buttons..." alt="" coords="584,56,757,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="476,209,523,158,552,132,583,108,604,97,606,101,586,113,555,136,527,162,480,212"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_input_system_1_1_h_i_d_1_1_h_i_d.html" title="A generic HID input device." alt="" coords="584,123,757,165"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="505,213,583,175,610,163,612,168,585,180,507,218"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_input_system_1_1_joystick.html" title="A joystick with an arbitrary number of buttons and axes." alt="" coords="584,189,757,232"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="552,226,584,221,584,226,552,231"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_input_system_1_1_keyboard.html" title="Represents a standard, physical PC&#45;type keyboard." alt="" coords="584,256,757,299"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="552,257,584,262,584,267,552,262"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_input_system_1_1_pointer.html" title="Base class for pointer&#45;style devices moving on a 2D screen." alt="" coords="584,323,757,365"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="507,270,585,308,612,320,610,325,583,313,505,275"/>
+<area shape="rect" id="Node000018" href="$class_unity_engine_1_1_input_system_1_1_sensor.html" title="Base class representing any sensor kind of input device." alt="" coords="584,719,757,761"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="470,279,662,717,657,719,465,281"/>
+<area shape="rect" id="Node000031" href="$class_unity_engine_1_1_input_system_1_1_tracked_device.html" title="An input device that has its orientation and position in space tracked." alt="" coords="584,785,757,828"/>
+<area shape="poly" id="edge30_Node000003_Node000031" title=" " alt="" coords="459,280,476,392,504,539,521,612,541,679,563,734,586,772,599,783,596,787,582,775,558,736,536,681,516,614,499,540,471,393,454,281"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_dual_shock_1_1_dual_shock_gamepad.html" title="A Sony DualShock/DualSense controller." alt="" coords="805,12,1012,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="771,56,804,50,805,55,772,61"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_x_input_1_1_x_input_controller.html" title="An XInput&#45;compatible game controller." alt="" coords="822,79,995,121"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="772,84,822,89,822,94,772,90"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="822,168,995,211"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="742,247,756,242,804,220,836,209,838,214,806,225,758,246,744,252"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_input_system_1_1_mouse.html" title="An input device representing a mouse." alt="" coords="822,235,995,277"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="742,314,756,308,804,287,836,275,838,280,806,292,758,313,744,319"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_input_system_1_1_pen.html" title="Represents a pen/stylus input device." alt="" coords="811,301,1006,328"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="771,329,810,324,811,329,772,334"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_input_system_1_1_touchscreen.html" title="A multi&#45;touch surface." alt="" coords="822,352,995,395"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="772,354,822,360,821,365,772,359"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1060,235,1232,277"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1010,253,1060,253,1060,259,1010,259"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1060,352,1232,395"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1010,371,1060,371,1060,376,1010,376"/>
+<area shape="rect" id="Node000019" href="$class_unity_engine_1_1_input_system_1_1_accelerometer.html" title="Input device representing an accelerometer sensor." alt="" coords="822,419,995,461"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="678,703,693,651,719,589,755,526,777,497,803,471,820,459,823,464,806,475,781,501,759,529,724,591,698,653,683,704"/>
+<area shape="rect" id="Node000020" href="$class_unity_engine_1_1_input_system_1_1_ambient_temperature_sensor.html" title="Input device representing the ambient air temperature measured by the device playing the content." alt="" coords="817,485,1000,528"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="684,703,703,665,729,620,763,576,803,538,822,526,825,531,806,542,767,580,734,623,708,667,689,706"/>
+<area shape="rect" id="Node000021" href="$class_unity_engine_1_1_input_system_1_1_attitude_sensor.html" title="Input device representing an attitude sensor." alt="" coords="822,552,995,595"/>
+<area shape="poly" id="edge20_Node000018_Node000021" title=" " alt="" coords="695,705,742,653,772,627,803,604,826,593,828,598,806,609,775,631,746,657,699,708"/>
+<area shape="rect" id="Node000022" href="$class_unity_engine_1_1_input_system_1_1_gravity_sensor.html" title="Input device representing a gravity sensor." alt="" coords="822,619,995,661"/>
+<area shape="poly" id="edge21_Node000018_Node000022" title=" " alt="" coords="724,709,804,671,834,659,836,664,806,676,726,714"/>
+<area shape="rect" id="Node000023" href="$class_unity_engine_1_1_input_system_1_1_gyroscope.html" title="Input device representing a gyroscope sensor." alt="" coords="822,685,995,728"/>
+<area shape="poly" id="edge22_Node000018_Node000023" title=" " alt="" coords="771,723,821,716,822,721,772,728"/>
+<area shape="rect" id="Node000024" href="$class_unity_engine_1_1_input_system_1_1_humidity_sensor.html" title="Input device representing the ambient air humidity measured by the device playing the content." alt="" coords="822,752,995,795"/>
+<area shape="poly" id="edge23_Node000018_Node000024" title=" " alt="" coords="772,752,822,759,821,764,771,757"/>
+<area shape="rect" id="Node000025" href="$class_unity_engine_1_1_input_system_1_1_light_sensor.html" title="Input device representing the ambient light measured by the device playing the content." alt="" coords="822,819,995,861"/>
+<area shape="poly" id="edge24_Node000018_Node000025" title=" " alt="" coords="748,766,758,771,782,788,806,804,832,816,830,821,803,809,779,792,755,776,745,771"/>
+<area shape="rect" id="Node000026" href="$class_unity_engine_1_1_input_system_1_1_linear_acceleration_sensor.html" title="Input device representing linear acceleration affecting the device playing the content." alt="" coords="822,885,995,928"/>
+<area shape="poly" id="edge25_Node000018_Node000026" title=" " alt="" coords="755,769,759,772,777,797,783,823,789,848,796,860,806,871,823,883,820,887,803,875,791,863,784,850,778,824,772,800,755,775,752,773"/>
+<area shape="rect" id="Node000027" href="$class_unity_engine_1_1_input_system_1_1_magnetic_field_sensor.html" title="Input device representing the magnetic field affecting the device playing the content." alt="" coords="822,952,995,995"/>
+<area shape="poly" id="edge26_Node000018_Node000027" title=" " alt="" coords="757,770,759,772,774,793,781,815,783,857,784,898,792,918,807,938,824,951,820,955,803,942,787,921,779,899,777,857,776,816,769,796,755,775,753,773"/>
+<area shape="rect" id="Node000028" href="$class_unity_engine_1_1_input_system_1_1_pressure_sensor.html" title="Input device representing the atmospheric pressure measured by the device playing the content." alt="" coords="822,1019,995,1061"/>
+<area shape="poly" id="edge27_Node000018_Node000028" title=" " alt="" coords="757,770,759,772,778,802,786,833,786,862,782,891,779,920,780,948,788,976,807,1005,823,1018,820,1023,803,1008,783,978,774,949,774,919,777,890,781,862,780,833,773,804,755,775,753,773"/>
+<area shape="rect" id="Node000029" href="$class_unity_engine_1_1_input_system_1_1_proximity_sensor.html" title="Input device representing the proximity of the device playing the content to the user." alt="" coords="822,1085,995,1128"/>
+<area shape="poly" id="edge28_Node000018_Node000029" title=" " alt="" coords="758,770,759,772,782,811,790,850,789,888,782,925,776,961,775,998,783,1034,807,1072,823,1086,820,1090,803,1075,778,1036,769,998,771,961,777,924,783,887,785,850,777,813,754,775,754,774"/>
+<area shape="rect" id="Node000030" href="$class_unity_engine_1_1_input_system_1_1_step_counter.html" title="Input device representing the foot steps taken by the user as measured by the device playing the cont..." alt="" coords="822,1152,995,1195"/>
+<area shape="poly" id="edge29_Node000018_Node000030" title=" " alt="" coords="758,770,759,772,775,796,786,820,795,867,791,913,782,958,773,1003,770,1047,779,1092,790,1115,807,1138,823,1152,820,1156,803,1142,786,1118,774,1094,764,1048,767,1002,777,957,786,913,789,868,781,822,770,799,755,775,754,774"/>
+</map>

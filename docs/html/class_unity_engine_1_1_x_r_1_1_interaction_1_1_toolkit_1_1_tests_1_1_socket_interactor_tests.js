@@ -1,0 +1,12 @@
+var class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests =
+[
+    [ "SocketInteractorCanDirectInteractorStealMultipleModeInteractableFromSocket", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#ac729f37cc38d53932f228fc687f381a8", null ],
+    [ "SocketInteractorCanDirectInteractorStealSingleModeInteractableFromSocket", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#a1ea8e4bb40595d2240f077876cc5c322", null ],
+    [ "SocketInteractorCanSelectInteractable", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#a55d9ea5cb5ba2fbc3dfac07bdc4a85f9", null ],
+    [ "SocketInteractorHandlesUnregisteredInteractable", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#aaba58d13f089578c718b2180650cb614", null ],
+    [ "SocketInteractorReportsValidTargetWhenInteractableRegisteredAfterContact", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#ad7172aec5775ddd70ea6c5d797ae41af", null ],
+    [ "SocketInteractorUpdatesStayedCollidersOnDeactivatingInteractableObject", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#a0dec96ff4c896a22eb3ccc5310103001", null ],
+    [ "SocketInteractorUpdatesStayedCollidersOnDestroyingInteractableObject", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#aec2ddf71564e09743b3e06d90814e7bc", null ],
+    [ "SocketInteractorUpdatesStayedCollidersOnDisablingInteractableCollider", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#a220aeab9505de6396a22c9754dbb73ba", null ],
+    [ "TearDown", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_socket_interactor_tests.html#a32674c6532951126ed75eb624dd28118", null ]
+];

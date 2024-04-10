@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.TransformFeatureValueProvider.GetValue" name="Oculus.Interaction.PoseDetection.TransformFeatureValueProvider.GetValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="684,5,943,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_provider.html#aa62f914f6bca0a67792d2b155fdce37a" title="Returns the current value of the feature. If the hand joints are not populated with valid data (for i..." alt="" coords="335,5,636,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="668,29,637,29,637,24,668,24"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_transform_feature_debug_visual.html#af986f575bf491a9dc4762a31aef2be08" title=" " alt="" coords="5,5,287,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,29,287,29,287,24,319,24"/>
+</map>

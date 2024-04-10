@@ -1,0 +1,17 @@
+<map id="Facebook.WitAi.WitAuthUtility.GetAppServerToken" name="Facebook.WitAi.WitAuthUtility.GetAppServerToken">
+<area shape="rect" id="Node000001" title=" " alt="" coords="766,72,969,115"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="908,59,893,53,867,51,844,53,830,57,824,63,826,71,821,72,819,62,827,53,843,47,868,45,894,48,910,54"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#a2ef8f31a9b6bdcb73bb1378f2f2e7200" title=" " alt="" coords="523,39,718,81"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="750,80,718,76,719,71,751,75"/>
+<area shape="rect" id="Node000007" href="$class_facebook_1_1_wit_ai_1_1_wit_request.html#ac0120c3b22949182c34111fbfddf5b48" title=" " alt="" coords="526,105,716,148"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="751,112,717,116,716,111,750,106"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#a909bdf63ad6028c3a0a0dc36213477bb" title=" " alt="" coords="249,5,475,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="507,48,475,44,476,39,508,43"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_window.html#aeba6b6a82c906b12ded402736ec00c00" title=" " alt="" coords="264,72,460,115"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="508,77,460,83,460,78,507,72"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_window.html#ad1218f7c18c16e21670de0a2fb4bde01" title=" " alt="" coords="5,5,201,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="233,29,201,29,201,24,233,24"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="261,70,188,51,189,46,262,65"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_window.html#a4fe61445e17fff757111b68d5d09c3a3" title=" " alt="" coords="5,72,201,115"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="249,96,201,96,201,91,249,91"/>
+</map>

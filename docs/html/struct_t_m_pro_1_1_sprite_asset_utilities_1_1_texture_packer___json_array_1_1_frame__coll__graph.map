@@ -1,0 +1,7 @@
+<map id="TMPro.SpriteAssetUtilities.TexturePacker_JsonArray.Frame" name="TMPro.SpriteAssetUtilities.TexturePacker_JsonArray.Frame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="398,39,609,81"/>
+<area shape="rect" id="Node000002" href="$struct_t_m_pro_1_1_sprite_asset_utilities_1_1_texture_packer___json_array_1_1_sprite_frame.html" title=" " alt="" coords="5,5,251,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,36,398,48,397,53,266,42"/>
+<area shape="rect" id="Node000003" href="$struct_t_m_pro_1_1_sprite_asset_utilities_1_1_texture_packer___json_array_1_1_sprite_size.html" title=" " alt="" coords="11,72,245,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,79,397,67,397,72,261,84"/>
+</map>

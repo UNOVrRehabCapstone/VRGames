@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.InitiateUserAccountPairingCommand" name="UnityEngine.InputSystem.LowLevel.InitiateUserAccountPairingCommand">
+<area shape="rect" id="Node000001" title="Device command to instruct the underlying platform to pair a user account to the targeted device." alt="" coords="5,80,196,139"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="16,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,48,103,79,98,79,98,48"/>
+</map>

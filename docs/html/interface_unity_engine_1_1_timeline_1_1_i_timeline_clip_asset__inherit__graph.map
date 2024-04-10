@@ -1,0 +1,19 @@
+<map id="UnityEngine.Timeline.ITimelineClipAsset" name="UnityEngine.Timeline.ITimelineClipAsset">
+<area shape="rect" id="Node000001" title="Implement this interface to support advanced features of timeline clips." alt="" coords="5,223,204,265"/>
+<area shape="rect" id="Node000002" href="$class_timeline_1_1_samples_1_1_time_dilation_playable_asset.html" title=" " alt="" coords="258,5,457,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,208,174,132,209,92,250,58,271,46,273,51,253,62,213,96,178,136,127,211"/>
+<area shape="rect" id="Node000003" href="$class_timeline_1_1_samples_1_1_tween_clip.html" title=" " alt="" coords="264,72,451,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,209,183,157,215,131,250,108,278,97,280,102,253,113,218,135,186,161,135,213"/>
+<area shape="rect" id="Node000004" href="$class_timeline_1_1_samples_1_1_video_playable_asset.html" title=" " alt="" coords="252,123,463,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,213,251,175,283,163,285,168,253,180,165,218"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_timeline_1_1_activation_playable_asset.html" title="Playable Asset class for Activation Tracks." alt="" coords="256,189,459,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,226,255,221,256,227,219,232"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_timeline_1_1_animation_playable_asset.html" title="A Playable Asset that represents a single AnimationClip clip." alt="" coords="255,256,460,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,256,254,261,254,266,219,262"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_timeline_1_1_audio_playable_asset.html" title="PlayableAsset wrapper for an AudioClip in Timeline." alt="" coords="267,323,448,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="165,270,253,308,285,320,283,325,251,313,163,275"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_timeline_1_1_control_playable_asset.html" title="Playable Asset that generates playables for controlling time&#45;related elements on a GameObject." alt="" coords="263,389,452,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="136,275,187,326,219,352,253,375,276,386,274,391,250,380,216,357,184,330,132,279"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html" title="A PlayableAsset that represents a timeline." alt="" coords="260,456,455,499"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="125,278,146,316,175,360,211,404,253,442,273,453,270,458,250,446,207,408,171,363,141,319,120,280"/>
+</map>

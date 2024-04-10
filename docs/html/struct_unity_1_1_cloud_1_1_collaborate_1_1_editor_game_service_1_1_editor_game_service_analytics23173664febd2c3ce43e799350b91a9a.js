@@ -1,0 +1,6 @@
+var struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_editor_game_service_analytics23173664febd2c3ce43e799350b91a9a =
+[
+    [ "action", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_editor_game_service_analytics23173664febd2c3ce43e799350b91a9a.html#a760aa974aec91f0c2adb35eba5b342e2", null ],
+    [ "component", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_editor_game_service_analytics23173664febd2c3ce43e799350b91a9a.html#afa631c0303d5146fb2791103c69ff28e", null ],
+    [ "package", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_editor_game_service_analytics23173664febd2c3ce43e799350b91a9a.html#ae9f08053fde278e612b3eb1ddf4569c5", null ]
+];

@@ -1,0 +1,19 @@
+<map id="Oculus.Platform.Models.CloudStorageData.CloudStorageData" name="Oculus.Platform.Models.CloudStorageData.CloudStorageData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,208,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#aabcdda05b1e0f7f253011ddf8f11d17f" title=" " alt="" coords="256,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,102,255,58,272,51,274,56,257,62,154,107"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a022eab92472a36a216e00867468649a1" title=" " alt="" coords="263,139,451,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,138,247,143,247,148,208,143"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae3b9d60ef63b55f2342b7e54c4904479" title=" " alt="" coords="506,197,720,240"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="147,146,198,170,256,191,315,203,376,211,491,218,490,223,375,216,314,208,255,196,196,175,145,151"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1cefc1a34ba20dd97504d50527a01ddb" title=" " alt="" coords="265,72,449,115"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="208,111,249,105,249,110,209,116"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="520,35,706,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,36,505,41,504,46,458,41"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="768,27,969,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,53,753,53,753,59,707,59"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5a817ccee55f336146a606bdc475b9a1" title=" " alt="" coords="514,131,712,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="451,154,499,153,499,158,452,160"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="452,179,503,191,502,196,451,184"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="449,77,505,69,505,74,450,83"/>
+</map>

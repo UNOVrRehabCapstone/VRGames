@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_Asset" name="TMPro.TMP_Asset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,80,242,107"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___font_asset.html" title=" " alt="" coords="5,155,163,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,119,101,156,98,152,147,114"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html" title=" " alt="" coords="187,155,352,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,114,255,152,252,156,203,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,5,235,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,48,179,80,173,80,173,48"/>
+</map>

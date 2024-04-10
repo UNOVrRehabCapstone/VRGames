@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Management.XRManagerSettings.DeinitializeLoader" name="UnityEngine.XR.Management.XRManagerSettings.DeinitializeLoader">
+<area shape="rect" id="Node000001" title="If there is an active loader, this function will deinitialize it and remove the active loader instanc..." alt="" coords="5,31,208,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#a453233ff749d06034c2cff5dbb62db66" title="Ask loader to deinitialize all initialized subsystems." alt="" coords="278,5,473,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,45,262,38,263,43,208,50"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a2991cb670b0721521b5cf14e401659ed" title="If there is an active loader, this will request the loader to stop all the subsystems that it is mana..." alt="" coords="256,72,495,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,70,240,74,240,79,208,75"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#ae44c5f7511f9fffef8f79e8fef45d683" title="Ask loader to stop all initialized subsystems." alt="" coords="543,72,737,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,91,527,91,527,96,495,96"/>
+</map>

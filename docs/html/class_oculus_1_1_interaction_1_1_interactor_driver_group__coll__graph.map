@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.InteractorDriverGroup" name="Oculus.Interaction.InteractorDriverGroup">
+<area shape="rect" id="Node000001" title="InteractorDriverGroup coordinates between a set of InteractorDrivers to determine which InteractorDri..." alt="" coords="101,112,286,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,115,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,47,169,109,165,114,86,52"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactor_driver.html" title="IInteractionDriver drives the update loop of an Interaction." alt="" coords="138,13,249,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,55,196,111,191,111,191,55"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactor_comparer.html" title=" " alt="" coords="273,5,460,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,58,229,114,226,109,318,54"/>
+</map>

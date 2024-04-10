@@ -1,0 +1,10 @@
+<map id="Oculus.Interaction.Editor.PointablePlaneEditor.Draw" name="Oculus.Interaction.Editor.PointablePlaneEditor.Draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,181,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#aba5e7deafd9943554120ba2d9d57cee2" title="Find nearest point to surface." alt="" coords="229,5,459,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,24,213,24,213,29,181,29"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#a124137e389d495b25868fe6d0039fc68" title=" " alt="" coords="786,5,972,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,21,507,20,738,20,771,21,770,26,738,25,507,25,460,26"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#ad3f6280668fc92a0ab5a00303da55af1" title="Check if a point is on the normal&#45;side of the collider (is raycast hit possible from this origin poin..." alt="" coords="507,35,738,77"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,36,492,40,491,45,459,41"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="739,40,770,36,771,42,739,45"/>
+</map>

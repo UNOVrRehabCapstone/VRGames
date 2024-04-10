@@ -1,0 +1,24 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRect" name="Oculus.Interaction.UnityCanvas.CanvasRect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1130,62,1290,104"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html" title=" " alt="" coords="901,70,1081,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1096,80,1130,80,1130,86,1096,86"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,28,115,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,22,138,20,197,15,256,14,431,7,569,3,635,6,706,13,785,25,878,44,953,67,951,72,877,50,784,30,705,18,635,11,569,9,432,12,256,19,197,20,139,26,129,27"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="256,28,345,55"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="130,39,255,39,255,44,130,44"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_overlay.html" title="Add OVROverlay script to an object with an optional mesh primitive rendered as a TimeWarp overlay ins..." alt="" coords="576,123,668,150"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="130,51,576,126,575,131,129,56"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html" title=" " alt="" coords="525,38,718,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="734,64,901,75,901,80,734,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,42,525,51,525,56,360,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="576,174,667,200"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="682,178,775,163,876,136,924,116,965,95,968,99,927,121,878,141,776,168,683,183"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="683,125,900,93,901,99,684,130"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="258,194,343,220"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="358,205,428,198,465,190,500,178,511,169,524,159,574,142,576,147,526,164,515,173,502,183,466,195,428,203,359,210"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="33,156,87,183"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="102,164,139,162,575,136,575,141,139,167,102,169"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="102,173,258,198,257,203,102,179"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="267,244,334,271"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="349,260,385,261,425,256,465,245,499,225,509,210,511,194,512,177,523,160,548,145,575,137,576,142,550,150,527,164,518,179,516,195,514,212,503,229,467,250,426,262,386,266,349,266"/>
+</map>

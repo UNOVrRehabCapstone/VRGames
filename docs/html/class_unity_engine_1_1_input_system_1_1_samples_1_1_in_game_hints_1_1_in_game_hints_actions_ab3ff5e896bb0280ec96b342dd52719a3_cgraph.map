@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.InGameHintsActions" name="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.InGameHintsActions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,236,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#af63d7ef83f7b7841fe6456da0e4e89f2" title="Find an action in the map by name or ID." alt="" coords="301,5,478,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,62,285,50,286,55,237,67"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a1d650ccc70ff717661f895fe341c0df0" title="Find an InputActionMap in the asset by its name or ID." alt="" coords="284,72,495,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,91,268,91,268,96,236,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a85dffa2d7f4e53a8a2b15e1ac53d4411" title="Replace the contents of the asset with the data in the given JSON string." alt="" coords="299,139,480,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,119,286,132,285,137,236,125"/>
+</map>

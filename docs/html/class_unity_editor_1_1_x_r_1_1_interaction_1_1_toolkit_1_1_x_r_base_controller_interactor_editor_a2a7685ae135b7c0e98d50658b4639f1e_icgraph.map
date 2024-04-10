@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawAudioEvents" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor.DrawAudioEvents">
+<area shape="rect" id="Node000001" title="Draw the Audio Events foldout." alt="" coords="272,5,490,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#a0d452e484bb24392ca2e3226fb1539d0" title="This method is automatically called by DrawInspector to draw the event properties...." alt="" coords="5,5,224,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,37,224,37,224,32,256,32"/>
+</map>

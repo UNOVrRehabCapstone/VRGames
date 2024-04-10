@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Composites.Vector3Composite" name="UnityEngine.InputSystem.Composites.Vector3Composite">
+<area shape="rect" id="Node000001" title="A 3D vector formed from six floating&#45;point inputs." alt="" coords="5,188,207,231"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="29,96,183,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,154,109,188,103,188,103,154"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,133,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,48,109,95,103,95,103,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OVRLipSync.SendSignal" name="OVRLipSync.SendSignal">
+<area shape="rect" id="Node000001" title="Sends a signal to the lip&#45;sync engine." alt="" coords="249,47,415,73"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync_context_base.html#a1aa71252254fae5ce45097a782d70dba" title="Sets a given viseme id blend weight to a given amount." alt="" coords="5,5,201,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,48,201,44,202,38,234,43"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync_context_base.html#a76a56e5d2831a9e56debb8f4064df270" title="Sets a given viseme id blend weight to a given amount." alt="" coords="5,72,201,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,77,202,82,201,76,233,72"/>
+</map>

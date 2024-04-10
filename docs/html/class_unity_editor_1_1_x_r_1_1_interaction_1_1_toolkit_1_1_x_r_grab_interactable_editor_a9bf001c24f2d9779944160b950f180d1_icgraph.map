@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.OnPostprocessModifications" name="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.OnPostprocessModifications">
+<area shape="rect" id="Node000001" title="Callback registered to be triggered whenever a new set of property modifications is created." alt="" coords="266,47,478,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#aaf4ceb88498daa04743381d0ec6f3cfa" title="This function is called when the object becomes disabled." alt="" coords="5,5,218,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,59,218,54,219,49,251,54"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#aad668a5958df8136269e2e00075d5a03" title="This function is called when the object becomes enabled and active.MonoBehaviour" alt="" coords="5,88,218,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,98,219,103,218,98,250,93"/>
+</map>

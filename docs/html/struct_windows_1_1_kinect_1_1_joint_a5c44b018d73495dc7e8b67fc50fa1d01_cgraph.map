@@ -1,0 +1,6 @@
+<map id="Windows.Kinect.Joint.operator==" name="Windows.Kinect.Joint.operator==">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,56"/>
+<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_joint.html#acc1fe162094ef20e35afe63735dfe43a" title=" " alt="" coords="267,29,457,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,40,251,40,251,45,219,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="320,31,312,21,318,11,334,5,362,3,392,5,408,12,405,17,391,10,362,8,335,10,321,15,318,20,324,27"/>
+</map>

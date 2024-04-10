@@ -1,0 +1,17 @@
+<map id="UnityEngine.UI.CanvasUpdateRegistry.IsRebuildingLayout" name="UnityEngine.UI.CanvasUpdateRegistry.IsRebuildingLayout">
+<area shape="rect" id="Node000001" title="Are graphics layouts currently being calculated.." alt="" coords="525,105,719,148"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_text.html#ace87640fc56c96597e2abd0422aa8279" title="Called by the FontUpdateTracker when the texture associated with a font is modified." alt="" coords="299,72,466,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,114,466,108,466,102,510,108"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a76d1c0ccf54705406e0f27f49f8fd8bd" title="Mark the LayoutGroup as dirty." alt="" coords="288,139,477,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="510,145,478,149,477,144,509,140"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#af2dbb52ea3181cf869ae9cf8e4d37b8e" title="Callback for when properties have been changed by animation." alt="" coords="19,5,226,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,133,286,129,270,111,262,94,253,78,238,62,218,51,221,46,241,58,258,75,266,92,274,108,289,125,295,128"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a34b80e4e9d2a4e0fbfe0a10b8dfac007" title=" " alt="" coords="28,72,217,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="281,137,208,118,209,113,282,132"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6219a761156aec0bc5a2bd240b04eb19" title="This callback is called when the dimensions of an associated RectTransform change...." alt="" coords="5,139,240,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="272,163,240,163,240,157,272,157"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#ad3c6a58cbb4ba1998c275d516bfa12e1" title=" " alt="" coords="26,205,219,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="282,188,209,207,208,202,281,183"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#adf54836016cf119d6ab5f4a478464534" title="Helper method used to set a given property if it has changed." alt="" coords="28,272,217,315"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="346,193,298,229,241,262,213,274,211,269,238,258,295,225,343,189"/>
+</map>

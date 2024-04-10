@@ -1,0 +1,12 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.GenerateMesh" name="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.GenerateMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="837,55,1067,113"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a636c83ebaf2875915527c9d5f17e9ee0" title=" " alt="" coords="560,55,789,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="822,87,790,87,790,81,822,81"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#afcfba44967e1382da67b9dc6fe0e642e" title=" " alt="" coords="283,21,512,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,71,512,67,513,62,545,66"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a6ad61ebd9be3c7ce17969f361a14e117" title=" " alt="" coords="5,88,235,147"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="545,94,235,113,235,108,545,89"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a09f2749e4ecc17ba02e1e642dec1e0ee" title=" " alt="" coords="5,5,235,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,46,235,44,235,39,267,40"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="268,84,236,92,234,87,267,79"/>
+</map>

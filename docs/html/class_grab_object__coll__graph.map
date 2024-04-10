@@ -1,0 +1,7 @@
+<map id="GrabObject" name="GrabObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,96,165,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,44,115,94,110,97,75,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,230,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,46,132,97,128,94,164,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Unity.XR.CoreUtils.Editor.XROriginEditor.DrawBeforeProperties" name="Unity.XR.CoreUtils.Editor.XROriginEditor.DrawBeforeProperties">
+<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="5,5,240,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a79c0889b3173043c70ad0eeb67012031" title="Draw the standard read&#45;only Script property." alt="" coords="288,5,460,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,24,272,24,272,29,240,29"/>
+</map>

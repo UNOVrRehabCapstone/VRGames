@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRRayInteractorEditor.DrawInteractionConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRRayInteractorEditor.DrawInteractionConfiguration">
+<area shape="rect" id="Node000001" title="Draw the property fields related to interaction configuration." alt="" coords="277,5,500,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html#a41b5258175e76ac23bc5d9c0f3add807" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,5,229,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,37,229,37,229,32,261,32"/>
+</map>

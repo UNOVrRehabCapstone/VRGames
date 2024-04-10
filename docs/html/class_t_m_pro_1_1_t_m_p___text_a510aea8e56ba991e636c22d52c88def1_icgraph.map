@@ -1,0 +1,11 @@
+<map id="TMPro.TMP_Text.InsertNewLine" name="TMPro.TMP_Text.InsertNewLine">
+<area shape="rect" id="Node000001" title="Function used in conjunction with GetTextInfo to figure out Array allocations." alt="" coords="540,47,747,73"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#a11969b2c0dafdce44a5ce7d48b7664c8" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,5,477,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,48,476,42,477,36,525,42"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aaaecdfcf8651816c94084873e48c0b4c" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,72,492,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="525,78,493,82,492,76,524,72"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,13,216,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,29,216,29,216,24,264,24"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,72,209,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="248,96,209,96,209,91,248,91"/>
+</map>

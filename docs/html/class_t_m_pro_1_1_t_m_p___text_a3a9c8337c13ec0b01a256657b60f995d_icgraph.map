@@ -1,0 +1,8 @@
+<map id="TMPro.TMP_Text.SetCharArray" name="TMPro.TMP_Text.SetCharArray">
+<area shape="rect" id="Node000001" title="Set the text using a char array." alt="" coords="225,31,429,57"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="368,18,354,12,327,9,302,11,288,16,285,21,291,29,287,32,280,22,285,12,301,6,327,4,355,7,370,13"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a9a6a9ff002343f9fc22ccd79225548b5" title="Set the text using a char array." alt="" coords="5,5,177,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="209,34,177,31,177,25,209,29"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#ad8f048c990cbd96793bbc9a2a3974818" title="Set the text using a char array and specifying the starting character index and length." alt="" coords="5,56,177,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="209,59,177,63,177,57,209,54"/>
+</map>

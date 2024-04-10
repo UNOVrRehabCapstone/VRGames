@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Detach" name="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Detach">
+<area shape="rect" id="Node000001" title="Updates the state of the object to finish the detach after being dropped. Automatically called during..." alt="" coords="280,13,499,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#a52f5d2db0490be76890528a0d9065b37" title="The XRInteractionManager calls this method to update the Interactable.Please see the XRInteractionMan..." alt="" coords="5,5,232,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,37,232,37,232,32,264,32"/>
+</map>

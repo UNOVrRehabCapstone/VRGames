@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.ResetToDefault" name="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.ResetToDefault">
+<area shape="rect" id="Node000001" title="Remove currently applied binding overrides." alt="" coords="5,47,215,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_rebind_u_i_1_1_rebind_action_u_i.html#a33057a964bce859ac46c56def9524a97" title="Return the action and binding index for the binding that is targeted by the component according to." alt="" coords="263,5,472,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,56,247,51,248,57,216,62"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_rebind_u_i_1_1_rebind_action_u_i.html#a0681ad6c26dacab63775584f5ab7df54" title="Trigger a refresh of the currently displayed binding." alt="" coords="263,88,472,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,90,248,95,247,101,215,96"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.RectangleZoom.OnFinish" name="UnityEditor.Timeline.RectangleZoom.OnFinish">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,205,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a4f51264da0ea7a603a9d6efeecbe1f75" title=" " alt="" coords="263,5,450,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,44,247,38,247,44,206,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a94a4eb656945f98c6c57c6801b507b29" title=" " alt="" coords="253,72,460,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,71,238,75,237,80,205,76"/>
+</map>

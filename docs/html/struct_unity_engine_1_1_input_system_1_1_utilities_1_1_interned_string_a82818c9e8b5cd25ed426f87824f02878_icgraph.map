@@ -1,0 +1,15 @@
+<map id="UnityEngine.InputSystem.Utilities.InternedString.IsEmpty" name="UnityEngine.InputSystem.Utilities.InternedString.IsEmpty">
+<area shape="rect" id="Node000001" title="Whether the string is empty, i.e. has a length of zero. If so, the InternedString corresponds to defa..." alt="" coords="278,220,478,263"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_control_item.html#a4d086ae4bdb7b97e468b34f842ec3074" title="For any property not set on this control layout, take the setting from other ." alt="" coords="5,5,230,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,209,299,143,266,108,228,78,209,67,212,62,231,74,269,104,303,139,356,205"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout.html#a0ced0f5c55402d7401c10cf313c82808" title="Merge the settings from other &#160;into the layout such that they become the base settings." alt="" coords="8,88,227,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,214,229,161,202,150,204,145,231,156,329,209"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_input_control_extensions_1_1_device_builder.html#a8112dcbaf96b2d8276d9147f1835372b" title=" " alt="" coords="19,171,216,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,226,216,218,217,213,263,220"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_input_control_extensions_1_1_device_builder.html#ac9c8e4e3e7a06ae933f8ade80cc04348" title=" " alt="" coords="19,253,216,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="263,262,217,270,216,264,262,257"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_input_control_extensions_1_1_control_builder.html#ad52a00762d9805ca897232dff6ffecc0" title=" " alt="" coords="17,336,218,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="329,274,231,326,204,338,202,333,229,322,327,269"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_input_system_1_1_input_control_extensions_1_1_device_builder.html#a5050d05fa0df16eeafa3f994db596b1e" title=" " alt="" coords="19,419,216,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="356,277,303,343,269,378,231,409,212,420,209,416,228,404,266,374,299,340,352,274"/>
+</map>

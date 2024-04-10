@@ -1,0 +1,30 @@
+<map id="TMPro.TMP_InputField.UpdateLabel" name="TMPro.TMP_InputField.UpdateLabel">
+<area shape="rect" id="Node000001" title="Update the visual text Text." alt="" coords="792,291,991,333"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a3d0b5e6b105dd61c4cfb9cfeb7956133" title=" " alt="" coords="520,5,721,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="878,276,861,224,834,161,794,98,770,70,743,46,720,34,723,29,746,42,774,66,799,95,838,159,866,222,884,275"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___input_field.html#aa9dfe88bdbfa9c6490c14833711d604f" title=" " alt="" coords="526,56,716,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="870,278,849,241,820,198,784,156,743,120,709,101,712,97,746,115,788,152,824,195,853,238,875,276"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a9ef972ef2261f10383fd4a900a9c3449" title=" " alt="" coords="269,269,449,312"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="855,282,805,244,775,227,743,215,676,197,621,192,566,198,498,215,467,225,438,240,390,271,387,266,436,235,465,220,496,209,565,193,621,186,677,192,745,209,777,222,808,240,858,278"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a6daaf6eadebb182f92aa088d7abb86dc" title=" " alt="" coords="5,159,221,201"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="863,280,812,228,779,204,743,185,677,164,607,150,536,143,466,140,333,146,221,161,221,156,332,141,466,135,537,137,608,145,678,159,745,180,782,199,815,224,867,277"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a0470349eb9f2156696cd6a921b558ba7" title="Move to the end of the text." alt="" coords="527,224,714,267"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="787,289,710,270,711,265,788,284"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___input_field.html#aff69df0c224c73b666addf48c10eec44" title="Move to the start of the text." alt="" coords="527,291,714,333"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="777,315,715,315,715,309,777,309"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a817cdcf34d7711275ffa8643b02a73fa" title="Move to the end of the current line of text." alt="" coords="527,357,714,400"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="788,340,711,359,710,354,787,335"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad0c485854da42ede16b5127258120c40" title="Move to the start of the current line of text." alt="" coords="527,424,714,467"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="854,345,804,381,745,414,716,426,714,421,743,410,801,377,851,341"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ae84831aa9c5d44a1ca91685d772b44d4" title=" " alt="" coords="512,491,729,517"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="872,348,821,417,786,452,746,481,720,493,718,488,743,476,782,448,817,413,868,345"/>
+<area shape="rect" id="Node000012" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad2ff861cc6eb60e636a7dc4cb8280437" title=" " alt="" coords="514,541,728,568"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="879,349,859,392,830,441,792,491,746,532,723,543,721,538,743,527,788,487,826,438,854,389,874,346"/>
+<area shape="rect" id="Node000013" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a9b56bc090d1633c3452c7be950b9b373" title="Use this callback to detect pointer down events." alt="" coords="497,592,744,619"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="884,349,866,402,838,465,799,529,774,558,746,582,726,594,723,589,743,578,770,554,794,526,834,463,861,400,878,348"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,265,161,204,163,199,297,260"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___input_field.html#abdbb932fc8d6aa12272b0a480ad13504" title=" " alt="" coords="10,269,216,312"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="253,293,216,293,216,288,253,288"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="519,355,496,348,410,315,412,310,498,343,520,350"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="511,422,496,414,460,391,427,365,377,314,381,311,431,361,463,387,498,410,514,417"/>
+</map>

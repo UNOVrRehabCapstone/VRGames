@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.LowLevel.KeyboardState.Set" name="UnityEngine.InputSystem.LowLevel.KeyboardState.Set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,39,455,81"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_keyboard_state.html#a5c105547084ebe17cf5b951c874c823f" title=" " alt="" coords="12,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,48,213,43,214,38,253,43"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_keyboard_state.html#a9b7629ff3225c3f270095f1e5b1d7085" title=" " alt="" coords="5,72,220,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,77,220,82,220,76,252,72"/>
+</map>

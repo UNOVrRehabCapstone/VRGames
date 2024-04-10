@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurfaceData" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurfaceData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,230,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="22,5,104,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,45,110,110,105,113,73,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="128,5,219,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,47,130,113,125,110,158,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.PlayerInputManager.JoinPlayer" name="UnityEngine.InputSystem.PlayerInputManager.JoinPlayer">
+<area shape="rect" id="Node000001" title="Spawn a new player from playerPrefab." alt="" coords="5,5,206,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a7d9b31c551c52f2b455262115660822c" title="Instantiate a player object and set up and enable its inputs." alt="" coords="254,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,24,238,24,238,29,206,29"/>
+</map>

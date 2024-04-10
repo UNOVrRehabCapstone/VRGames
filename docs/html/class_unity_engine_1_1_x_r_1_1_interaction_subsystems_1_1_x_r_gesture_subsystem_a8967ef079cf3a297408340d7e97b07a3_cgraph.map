@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.XRGestureSubsystem" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.XRGestureSubsystem">
+<area shape="rect" id="Node000001" title="Do not call this directly. Call create on a valid XRGestureSubsystemDescriptor instead." alt="" coords="5,5,236,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem.html#a869de6d2fc980783cf91eab3ba7e30d0" title="Implement this to provide this class with an interface to platform specific implementations." alt="" coords="284,5,514,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,268,32,268,37,236,37"/>
+</map>

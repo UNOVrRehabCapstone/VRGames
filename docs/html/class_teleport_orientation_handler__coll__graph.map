@@ -1,0 +1,22 @@
+<map id="TeleportOrientationHandler" name="TeleportOrientationHandler">
+<area shape="rect" id="Node000001" title="The orientation handler is what determines the final rotation of the player after the teleport." alt="" coords="5,355,180,381"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="159,81,271,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,116,121,134,97,159,86,184,79,211,76,267,82,317,91,353,86,355,77,318,70,267,73,210,81,182,93,156,118,130,149,112"/>
+<area shape="rect" id="Node000005" href="$class_teleport_aim_handler.html" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="107,157,241,184"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="203,122,183,158,178,156,199,120"/>
+<area shape="rect" id="Node000008" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="266,157,405,184"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="250,114,316,155,313,159,247,119"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="387,5,497,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,40,255,83,253,78,388,35"/>
+<area shape="rect" id="Node000004" href="$class_locomotion_teleport.html" title="The LocomotionTeleport class controls and centralizes functionality for the various types of teleport..." alt="" coords="185,248,320,275"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="445,48,439,112,431,149,419,185,406,209,385,226,354,242,321,252,319,247,352,237,382,222,402,206,414,183,426,148,434,111,439,48"/>
+<area shape="rect" id="Node000006" href="$class_teleport_destination.html" title="The teleport system uses a prefab with an TeleportDestination component, which will track the target ..." alt="" coords="366,355,499,381"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="484,38,510,61,519,76,522,93,522,263,520,300,514,315,503,332,488,346,470,356,468,352,484,342,498,329,509,313,515,299,517,263,517,94,514,78,506,65,481,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,273,143,284,118,301,108,313,102,327,96,355,91,354,97,325,104,310,114,297,140,279,170,268"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="211,285,198,300,192,315,198,329,208,337,223,344,266,354,366,363,366,369,265,359,222,349,205,342,193,332,187,315,193,297,207,282"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="189,196,207,222,235,245,231,249,204,226,185,199"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="379,351,347,333,331,317,316,301,278,278,281,273,320,297,335,313,350,329,382,346"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="556,248,648,275"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="586,289,565,312,539,333,513,346,487,357,485,352,511,342,536,328,561,308,582,285"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="315,197,266,249,262,246,311,194"/>
+</map>

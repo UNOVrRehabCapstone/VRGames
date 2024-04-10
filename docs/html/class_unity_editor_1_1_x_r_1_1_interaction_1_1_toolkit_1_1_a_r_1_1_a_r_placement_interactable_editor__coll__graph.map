@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.AR.ARPlacementInteractableEditor" name="UnityEditor.XR.Interaction.Toolkit.AR.ARPlacementInteractableEditor">
+<area shape="rect" id="Node000001" title="Custom editor for an ARPlacementInteractable." alt="" coords="5,320,238,379"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_base_gesture_interactable_editor.html" title="Custom editor for an ARBaseGestureInteractable." alt="" coords="30,229,213,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,287,124,320,119,320,119,287"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html" title="Custom editor for an XRBaseInteractable." alt="" coords="37,155,206,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,197,124,229,119,229,119,197"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="49,80,194,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,122,124,154,119,154,119,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="94,5,149,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="124,48,124,80,119,80,119,48"/>
+</map>

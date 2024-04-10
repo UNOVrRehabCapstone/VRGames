@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Management.Tests.PackageManagementTests.TestLoaderRemoval" name="UnityEditor.XR.Management.Tests.PackageManagementTests.TestLoaderRemoval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,250,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_metadata_1_1_x_r_package_metadata_store.html#ab3e919b006dd6566090240bc48f50995" title="Remove a previously assigned loader from settings. If the loader type is unknown or an instance of th..." alt="" coords="298,5,533,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,32,282,32,282,37,250,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#ac2aceedbbc1741710b4f942d2ae997bb" title="Attempts to remove the first instance of a given loader from the list of loaders." alt="" coords="581,13,823,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="533,32,565,32,565,37,533,37"/>
+</map>

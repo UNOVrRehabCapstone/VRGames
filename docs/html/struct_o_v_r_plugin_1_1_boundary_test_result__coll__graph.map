@@ -1,0 +1,7 @@
+<map id="OVRPlugin.BoundaryTestResult" name="OVRPlugin.BoundaryTestResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,212,229"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="40,96,177,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,138,111,202,106,202,106,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,5,135,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,48,111,95,106,95,106,48"/>
+</map>

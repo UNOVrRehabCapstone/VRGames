@@ -1,0 +1,9 @@
+<map id="UnityEditor.TestTools.TestRunner.Api.TestRunnerApi" name="UnityEditor.TestTools.TestRunner.Api.TestRunnerApi">
+<area shape="rect" id="Node000001" title="The TestRunnerApi retrieves and runs tests programmatically from code inside the project,..." alt="" coords="336,48,510,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,27,312,48,336,52,335,57,311,53,172,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="44,56,153,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,67,335,67,335,72,169,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,107,192,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,107,311,88,335,84,336,89,312,93,208,112"/>
+</map>

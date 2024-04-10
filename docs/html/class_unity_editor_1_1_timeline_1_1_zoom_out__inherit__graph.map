@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.ZoomOut" name="UnityEditor.Timeline.ZoomOut">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,200,181"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_timeline_action.html" title="Base class for a timeline action. Inherit from this class to make an action on a timeline after a men..." alt="" coords="49,80,156,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,122,105,154,100,154,100,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="72,5,133,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,48,105,80,100,80,100,48"/>
+</map>

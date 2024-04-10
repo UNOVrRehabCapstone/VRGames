@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Editor.IEditorGameService" name="Unity.Services.Core.Editor.IEditorGameService">
+<area shape="rect" id="Node000001" title="Base contract for all editor game services defined by Core.Editor package." alt="" coords="19,5,197,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service.html" title=" " alt="" coords="5,96,211,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,63,111,96,105,96,105,63"/>
+</map>

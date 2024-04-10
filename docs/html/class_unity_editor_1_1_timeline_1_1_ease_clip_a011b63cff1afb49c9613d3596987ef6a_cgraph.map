@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.EaseClip.MouseDown" name="UnityEditor.Timeline.EaseClip.MouseDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,177,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_ease_clip.html#a94467bad195f5199fc21aa1cea7a346c" title=" " alt="" coords="225,39,396,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,57,209,57,209,63,177,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#aea2f15e02d1c279836c9147416a00fc8" title=" " alt="" coords="445,5,632,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,45,429,40,430,45,397,50"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_cursors.html#af3aaa89dd70528922d3b286f8d18bed7" title=" " alt="" coords="444,72,633,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,70,429,75,428,80,396,75"/>
+</map>

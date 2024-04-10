@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Throw.IVelocityCalculator.CalculateThrowVelocity" name="Oculus.Interaction.Throw.IVelocityCalculator.CalculateThrowVelocity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,31,544,89"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#a0cdf212edf5f3d4d163f6741a3b3af78" title=" " alt="" coords="32,5,248,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,48,248,42,249,36,308,43"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#a9f9aa4d76d07e9da439ac9b9716464bd" title="When releasing an active interactable, calculate the releasing point in similar fashion to Interactab..." alt="" coords="5,72,275,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,77,275,81,275,75,307,72"/>
+</map>

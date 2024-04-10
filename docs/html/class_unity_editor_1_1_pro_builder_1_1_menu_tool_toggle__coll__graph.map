@@ -1,0 +1,7 @@
+<map id="UnityEditor.ProBuilder.MenuToolToggle" name="UnityEditor.ProBuilder.MenuToolToggle">
+<area shape="rect" id="Node000001" title="Base class from which any action that is represented in the ProBuilder toolbar inherits." alt="" coords="5,172,191,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html" title="Base class for any action that appears on the ProBuilder toolbar." alt="" coords="53,96,143,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,138,101,172,95,172,95,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="71,5,125,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,48,101,95,95,95,95,48"/>
+</map>

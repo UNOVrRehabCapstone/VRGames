@@ -1,0 +1,4 @@
+var class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_enabled_visuals =
+[
+    [ "GetVisuals", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_enabled_visuals.html#a4ffe60231118c15df05eaf61ae251c40", null ]
+];

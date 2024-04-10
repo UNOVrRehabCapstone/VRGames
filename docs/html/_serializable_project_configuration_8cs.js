@@ -1,0 +1,4 @@
+var _serializable_project_configuration_8cs =
+[
+    [ "Unity.Services.Core.Configuration.SerializableProjectConfiguration", "struct_unity_1_1_services_1_1_core_1_1_configuration_1_1_serializable_project_configuration.html", "struct_unity_1_1_services_1_1_core_1_1_configuration_1_1_serializable_project_configuration" ]
+];

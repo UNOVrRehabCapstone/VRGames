@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.GetResetScale" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.GetResetScale">
+<area shape="rect" id="Node000001" title="Gets a Vector3 that can be multiplied component&#45;wise with another Vector3 to reset components of the ..." alt="" coords="544,5,765,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#a2cf6f3f95be82fd79083fff3b01ff766" title="Process input from the user and update the state of manipulated device(s) related to position and rot..." alt="" coords="275,5,496,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,37,496,37,496,32,529,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#ae82c245592bc326c58fc47a4693f6d2e" title="See MonoBehaviour." alt="" coords="5,5,227,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,37,227,37,227,32,259,32"/>
+</map>

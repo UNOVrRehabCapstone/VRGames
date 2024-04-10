@@ -1,0 +1,5 @@
+<map id="Unity.XR.CoreUtils.ObjectPool.Recycle" name="Unity.XR.CoreUtils.ObjectPool.Recycle">
+<area shape="rect" id="Node000001" title="Return an object instance to the pool." alt="" coords="5,5,176,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_object_pool.html#ac1cd2fd9ab85bfd6be77ecd9b10008cd" title="Implement a clearing function in this in a derived class to have the Recyclemethod automatically clea..." alt="" coords="224,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,24,208,24,208,29,176,29"/>
+</map>

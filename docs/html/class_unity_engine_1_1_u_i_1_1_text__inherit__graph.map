@@ -1,0 +1,15 @@
+<map id="UnityEngine.UI.Text" name="UnityEngine.UI.Text">
+<area shape="rect" id="Node000001" title="The default Graphic to draw font data to screen." alt="" coords="188,155,324,181"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html" title="A Graphic that is capable of being masked out." alt="" coords="124,80,246,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,116,246,152,242,156,206,120"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,72,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,37,161,77,158,82,76,42"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html" title="Interface for elements that can be clipped if they are under an IClipper." alt="" coords="96,5,173,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="154,43,179,78,174,81,150,46"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_u_i_1_1_i_maskable.html" title="This element is capable of being masked out." alt="" coords="197,5,277,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,46,196,81,192,78,217,43"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_u_i_1_1_i_material_modifier.html" title="Use this interface to modify a Material that renders a Graphic. The Material is modified before the i..." alt="" coords="301,5,416,32"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="315,41,217,82,215,77,313,36"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_u_i_1_1_i_layout_element.html" title="A component is treated as a layout element by the auto layout system if it implements ILayoutElement." alt="" coords="271,80,382,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="306,120,270,156,266,152,302,116"/>
+</map>

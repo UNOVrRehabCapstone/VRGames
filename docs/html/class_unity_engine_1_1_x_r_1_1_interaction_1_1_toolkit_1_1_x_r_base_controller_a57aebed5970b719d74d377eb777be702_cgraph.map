@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseController.OnEnable" name="UnityEngine.XR.Interaction.Toolkit.XRBaseController.OnEnable">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,43,231,85"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a4363195db09c0de9d44a0659dff99be2" title="This method is automatically called for &quot;Just Before Render&quot; input updates for VR devices." alt="" coords="279,35,501,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,61,263,61,263,67,231,67"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#ae0acc93d2930cc317d87013ce1fb1023" title="Applies the given controller state to this XRBaseController. Depending on the update phase,..." alt="" coords="549,5,836,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,48,533,44,534,49,502,53"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a2b7f290869b51aa0560046efd20b08d7" title="Updates the pose values in the given controller state based on the current tracking input of the cont..." alt="" coords="588,72,797,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="502,75,573,84,572,89,501,80"/>
+</map>

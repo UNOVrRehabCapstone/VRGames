@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_Dropdown.CreateBlocker" name="TMPro.TMP_Dropdown.CreateBlocker">
+<area shape="rect" id="Node000001" title="Create a blocker that blocks clicks to other controls while the dropdown list is open." alt="" coords="5,39,202,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a7b1a625bbfae2222ce459deb2df40afd" title="Hide the dropdown list. I.e. close it." alt="" coords="250,47,434,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,57,234,57,234,63,202,63"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a1bf1e08099436573116705840810dc3f" title="Convenience method to explicitly destroy the previously generated blocker object." alt="" coords="482,5,685,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,45,466,40,467,45,435,50"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="492,72,675,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,70,477,76,476,81,434,75"/>
+</map>

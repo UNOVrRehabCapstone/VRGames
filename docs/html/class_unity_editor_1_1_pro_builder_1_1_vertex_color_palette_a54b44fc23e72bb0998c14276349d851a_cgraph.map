@@ -1,0 +1,24 @@
+<map id="UnityEditor.ProBuilder.VertexColorPalette.SetFaceColors" name="UnityEditor.ProBuilder.VertexColorPalette.SetFaceColors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,197,189"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a9e52ae7b3eda704ccfcb7f180fddb507" title="Returns a list of vertices that are coincident to any of the specified vertices." alt="" coords="245,29,472,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,144,244,88,275,75,277,80,246,93,140,148"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#ab9abda7416169eede733a304d9584a47" title="Returns the Color values from the mesh." alt="" coords="540,77,719,120"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="187,143,244,132,390,113,524,102,524,107,391,119,245,137,188,149"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a17ffb69e5c2eb62539ce1570b067a4ac" title="Recalculates mesh attributes: normals, collisions, UVs, tangents, and colors." alt="" coords="269,147,448,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="197,165,253,165,253,171,197,171"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a5edc6a2c08733bd3f56e456d13456413" title="Applies a vertex color to the specified Face." alt="" coords="540,211,719,253"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="187,187,245,199,391,216,524,225,524,231,390,221,244,204,186,193"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a002304bd6a6491a0702fee01b4cf1769" title="Rebuilds the mesh positions and submeshes." alt="" coords="269,269,448,312"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="140,187,246,244,284,261,282,266,244,249,137,192"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="310,29,308,19,316,10,333,5,358,3,386,5,402,11,400,16,385,10,358,8,334,10,319,15,313,21,315,28"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a22325d02ae395b43a073c458cab49191" title="Tests whether the mesh contains the requested arrays." alt="" coords="806,144,985,187"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="718,118,793,137,792,142,717,123"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#afa107be8165b2617bc37cfac621ff533" title="Rebuilds the UV arrays on the specified faces." alt="" coords="540,144,719,187"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="449,164,524,164,524,169,449,170"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="719,163,790,163,790,168,719,168"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="717,207,792,188,793,194,718,213"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html#a15a5b3d7594310fb320f7b0b4f86252d" title="Creates an array of submeshes from a set of faces. Currently only Quads and Triangles are supported." alt="" coords="520,277,738,320"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="449,291,505,292,504,298,449,296"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html#aea4a56123f219339841e7412c7fae891" title="Creates a new Submesh from a submesh index for the material, the topology, and a set of indices." alt="" coords="786,277,1005,320"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="739,296,771,296,771,301,739,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_InputField.UpdateLabel" name="TMPro.TMP_InputField.UpdateLabel">
+<area shape="rect" id="Node000001" title="Update the visual text Text." alt="" coords="5,39,204,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="260,5,452,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,44,244,39,245,44,204,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="252,72,460,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,71,236,75,236,80,204,76"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Oculus.Platform.Models.Product.Product" name="Oculus.Platform.Models.Product.Product">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,219,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a99c7431948efc8a612e791e90ae67273" title=" " alt="" coords="278,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,102,266,58,282,51,284,56,268,62,162,107"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a9ee7dfc0ab13ff1b443373e2e4f07c6b" title=" " alt="" coords="267,72,457,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,110,251,105,252,111,220,115"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1fe4d6b679a5024ca671e433d83aaa38" title=" " alt="" coords="278,139,446,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="220,138,262,144,262,149,219,144"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#aed655265cc4587ffc981b88292d1b3fc" title=" " alt="" coords="278,205,446,248"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="162,146,268,191,284,197,282,202,266,196,160,151"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="505,105,691,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,46,458,58,542,96,539,101,456,62,427,51"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="739,97,940,156"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="692,124,724,124,724,129,692,129"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="458,104,490,109,489,114,457,109"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="446,146,489,139,490,145,447,151"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="427,202,456,191,539,153,542,158,458,196,429,207"/>
+</map>

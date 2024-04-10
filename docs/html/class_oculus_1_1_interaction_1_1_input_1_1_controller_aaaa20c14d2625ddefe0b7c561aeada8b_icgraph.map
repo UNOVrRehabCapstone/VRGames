@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Input.Controller.TryGetPose" name="Oculus.Interaction.Input.Controller.TryGetPose">
+<area shape="rect" id="Node000001" title="Retrieves the current controller pose, in world space." alt="" coords="308,39,470,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_throw_1_1_controller_pose_input_device.html#a2b0aa61397b8281af77acc426c06851d" title=" " alt="" coords="5,5,260,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,50,260,46,260,41,292,45"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_controller_ref.html#a01366d5f8fb7b546d093bd72a76c540d" title=" " alt="" coords="48,72,217,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,75,217,85,217,80,292,70"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="UnityEditor.UI.ImageEditor.OnInspectorGUI" name="UnityEditor.UI.ImageEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,184,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a2e366355d0b3e50f48e78a0ac3e3739f" title="GUI related to the appearance of the Graphic. Color and Material properties appear here." alt="" coords="232,5,420,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,170,161,115,194,84,230,58,239,53,241,57,233,62,197,88,165,118,115,173"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#ab515cbefb5f3a5fdc30db0655f3e872b" title=" " alt="" coords="232,72,420,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,169,231,124,245,118,247,123,233,129,139,174"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#af20ddcdaaaeb7f67adf7493a00d26d71" title="GUI for showing a button that sets the size of the RectTransform to the native size for this Graphic." alt="" coords="232,139,420,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,178,216,173,216,178,185,183"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a927a8bb929a1f5b891300de317be6596" title="GUI related to the Raycasting settings for the graphic." alt="" coords="232,205,420,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,204,216,208,216,213,184,209"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_u_i_1_1_image_editor.html#abdef42140ee734ddeaf3197f2ac3f066" title="Draw the atlas and Image selection fields." alt="" coords="237,272,415,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="139,213,233,258,247,264,245,269,231,262,136,218"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_u_i_1_1_image_editor.html#abfcf372cc810b6ae590d86cdc56e93b7" title="Sprites&#39;s custom properties based on the type." alt="" coords="237,339,415,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,213,165,268,197,298,233,324,241,329,239,334,230,329,194,302,161,272,111,217"/>
+</map>

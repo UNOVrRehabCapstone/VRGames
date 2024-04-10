@@ -1,0 +1,7 @@
+<map id="OVRSkeleton.BoneLabelFromBoneId" name="OVRSkeleton.BoneLabelFromBoneId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,27,437,69"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_skeleton.html#a35d8e30dbd79a1d1ce26870ca1c8d69e" title=" " alt="" coords="5,5,194,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,37,194,33,195,28,227,32"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_custom_skeleton_editor.html#affefc1089feeb610ada9ac31343358e2" title=" " alt="" coords="8,56,191,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,64,192,69,191,63,226,59"/>
+</map>

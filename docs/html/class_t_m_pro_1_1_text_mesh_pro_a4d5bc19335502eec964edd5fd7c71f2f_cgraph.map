@@ -1,0 +1,23 @@
+<map id="TMPro.TextMeshPro.OnEnable" name="TMPro.TextMeshPro.OnEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,207,107"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#af98c43be93b6f588b2086aff6957197e" title="Update the margin width and height." alt="" coords="256,5,453,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,77,257,50,258,55,160,82"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a47054b0daf19b59c438eb804917997ab" title="Method to Enable or Disable child SubMesh objects." alt="" coords="255,72,454,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,91,239,91,239,96,207,96"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro.html#a28274571ae3e165a5db057949ae2f3ea" title=" " alt="" coords="265,139,444,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,105,258,131,257,137,158,110"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3a23dd485b188879e15bbf270e7d134f" title="Method to return the local corners of the Text Container or RectTransform." alt="" coords="513,5,703,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,24,497,24,497,29,453,29"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro.html#ab11edb348c490d22eca925f2a96029e3" title=" " alt="" coords="507,72,710,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="438,136,509,117,510,122,439,141"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_text_mesh_pro.html#af2177065726b878773a7798a3e4aedf7" title="Schedule updating of the material used by the text object." alt="" coords="503,139,713,181"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="445,157,488,157,488,163,445,163"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ca7b09fd7f2319069c84e72c0db0fa8" title="Schedule rebuilding of the text geometry." alt="" coords="502,209,714,252"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="434,179,515,202,514,207,433,185"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="762,72,971,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="710,91,747,91,747,96,710,96"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae087fd09b3ce4bb5bfea21e7207f3d56" title=" " alt="" coords="774,139,959,181"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="714,157,758,157,758,163,714,163"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_t_m_p___update_manager.html#a110903981e6a8c00d95957b707cc3c99" title="Function to register elements which require a layout rebuild." alt="" coords="763,205,970,264"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="715,230,748,230,748,235,715,235"/>
+</map>

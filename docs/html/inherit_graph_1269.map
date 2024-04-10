@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="5,72,183,115"/>
+<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_invert_vector3_processor.html" title="Inverts the x and/or y and/or z channel of a Vector3." alt="" coords="245,5,470,48"/>
+<area shape="poly" id="edge2373_Node000000_Node000001" title=" " alt="" coords="195,65,270,46,271,51,196,70"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_vector3_processor.html" title="Normalizes a Vector3 input value." alt="" coords="231,72,484,115"/>
+<area shape="poly" id="edge2374_Node000000_Node000002" title=" " alt="" coords="198,91,230,91,230,96,198,96"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_scale_vector3_processor.html" title="Scale the components of a Vector3 by constant factors." alt="" coords="243,139,472,181"/>
+<area shape="poly" id="edge2375_Node000000_Node000003" title=" " alt="" coords="196,116,271,135,270,141,195,122"/>
+</map>

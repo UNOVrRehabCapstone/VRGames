@@ -1,0 +1,7 @@
+<map id="OVRGrabber.MoveGrabbedObject" name="OVRGrabber.MoveGrabbedObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,13,675,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_grabber.html#ace656d0de5618618bc07f2f389fb51a9" title=" " alt="" coords="251,13,411,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,29,412,29,412,24,443,24"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_grabber.html#a2323d97b994c20a8d2205b067ee9313a" title=" " alt="" coords="5,5,203,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,29,203,29,203,24,235,24"/>
+</map>

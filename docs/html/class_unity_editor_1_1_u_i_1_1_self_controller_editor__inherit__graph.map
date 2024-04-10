@@ -1,0 +1,9 @@
+<map id="UnityEditor.UI.SelfControllerEditor" name="UnityEditor.UI.SelfControllerEditor">
+<area shape="rect" id="Node000001" title="Base class for custom editors that are for components that implement the SelfControllerEditor interfa..." alt="" coords="102,80,285,123"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_u_i_1_1_aspect_ratio_fitter_editor.html" title="Custom Editor for the AspectRatioFitter component. Extend this class to write a custom editor for a c..." alt="" coords="5,171,182,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,135,119,172,115,168,157,131"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_u_i_1_1_content_size_fitter_editor.html" title="Custom Editor for the ContentSizeFitter Component. Extend this class to write a custom editor for a c..." alt="" coords="205,171,382,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,131,272,168,268,172,226,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="166,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,48,196,80,191,80,191,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.Enable" name="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.Enable">
+<area shape="rect" id="Node000001" title="Enable all actions in the collection." alt="" coords="5,5,236,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#ae31d59300c207c696f79acb9622da917" title="Enable all action maps in the asset." alt="" coords="284,13,456,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,268,32,268,37,236,37"/>
+</map>

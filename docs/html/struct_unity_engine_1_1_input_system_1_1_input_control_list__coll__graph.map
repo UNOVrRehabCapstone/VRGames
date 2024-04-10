@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.InputControlList&lt; TControl &gt;" name="UnityEngine.InputSystem.InputControlList&lt; TControl &gt;">
+<area shape="rect" id="Node000001" title="Keep a list of InputControls without allocating managed memory." alt="" coords="142,80,325,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,37,191,77,189,82,103,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,5,321,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,48,236,80,231,80,231,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="345,5,434,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="353,42,275,82,272,77,350,37"/>
+</map>

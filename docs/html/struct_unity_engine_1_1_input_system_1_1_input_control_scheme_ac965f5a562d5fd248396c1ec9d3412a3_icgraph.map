@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputControlScheme.Equals" name="UnityEngine.InputSystem.InputControlScheme.Equals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,39,441,81"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_input_control_scheme.html#acbdb65781c8c3efeb055cf473cfe2a62" title=" " alt="" coords="8,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,48,208,43,209,38,244,43"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_input_control_scheme.html#a78ccd27a2a865064dd95aef432fb596d" title=" " alt="" coords="5,72,211,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,77,211,82,211,77,243,72"/>
+</map>

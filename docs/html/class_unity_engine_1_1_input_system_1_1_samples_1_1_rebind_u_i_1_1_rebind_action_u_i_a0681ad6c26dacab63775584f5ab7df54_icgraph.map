@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.UpdateBindingDisplay" name="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.UpdateBindingDisplay">
+<area shape="rect" id="Node000001" title="Trigger a refresh of the currently displayed binding." alt="" coords="263,5,472,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_rebind_u_i_1_1_rebind_action_u_i.html#a2329c72d08ccf672d70be9dd72726bb9" title="Remove currently applied binding overrides." alt="" coords="5,5,215,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,37,215,37,215,32,247,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Surfaces.PointablePlane.ClosestSurfacePoint" name="Oculus.Interaction.Surfaces.PointablePlane.ClosestSurfacePoint">
+<area shape="rect" id="Node000001" title="Find nearest point to surface." alt="" coords="499,5,729,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_pointable_plane_editor.html#a7d401c41c644f89d05f4e1eab500e44e" title=" " alt="" coords="276,5,451,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,29,452,29,452,24,483,24"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_pointable_plane_editor.html#ac6f1ba4aff7a1048acf00984692f9861" title=" " alt="" coords="5,5,228,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,29,228,29,228,24,260,24"/>
+</map>

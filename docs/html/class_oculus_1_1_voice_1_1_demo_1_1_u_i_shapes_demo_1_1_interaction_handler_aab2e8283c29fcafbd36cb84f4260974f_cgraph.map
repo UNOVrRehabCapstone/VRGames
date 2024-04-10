@@ -1,0 +1,11 @@
+<map id="Oculus.Voice.Demo.UIShapesDemo.InteractionHandler.ToggleActivation" name="Oculus.Voice.Demo.UIShapesDemo.InteractionHandler.ToggleActivation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,211,89"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html#a3f53e35438f2c7864ee0db2878dbbfd7" title="Activate the microphone and send data for NLU processing." alt="" coords="259,5,487,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,44,243,40,243,46,211,50"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html#a74ffdfdc3a51ba00549349838e6253f2" title="Stop listening and submit the collected microphone data for processing." alt="" coords="259,72,487,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,70,243,74,243,80,211,76"/>
+<area shape="rect" id="Node000003" href="$interface_facebook_1_1_wit_ai_1_1_i_voice_service.html#a2c4eac17bb864262e52975c76cc986db" title="Activate the microphone and send data for NLU processing." alt="" coords="535,5,735,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,24,520,24,520,29,487,29"/>
+<area shape="rect" id="Node000005" href="$interface_facebook_1_1_wit_ai_1_1_i_voice_service.html#a756cfc69bc38d1a5e8e05596d8be1a8a" title="Stop listening and submit the collected microphone data for processing." alt="" coords="535,72,735,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="487,91,520,91,520,96,487,96"/>
+</map>

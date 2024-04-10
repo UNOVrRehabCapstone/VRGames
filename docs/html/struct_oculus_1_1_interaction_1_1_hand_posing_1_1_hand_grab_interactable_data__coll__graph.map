@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractableData" name="Oculus.Interaction.HandPosing.HandGrabInteractableData">
+<area shape="rect" id="Node000001" title="Serializable data&#45;only version of the HandGrabInteractable so it can be stored when they are generate..." alt="" coords="351,39,555,81"/>
+<area shape="rect" id="Node000002" href="$struct_oculus_1_1_interaction_1_1_hand_posing_1_1_pose_measure_parameters.html" title=" " alt="" coords="5,5,210,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,35,351,48,350,53,225,41"/>
+<area shape="rect" id="Node000003" href="$struct_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_grabbing_rule.html" title=" " alt="" coords="16,72,199,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,90,326,83,350,79,351,85,327,88,215,96"/>
+</map>

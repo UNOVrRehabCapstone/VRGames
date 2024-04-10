@@ -1,0 +1,11 @@
+<map id="OculusSampleFramework.ColliderZoneArgs" name="OculusSampleFramework.ColliderZoneArgs">
+<area shape="rect" id="Node000001" title="Arguments for object interacting with collider zone." alt="" coords="554,48,772,91"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="257,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,22,531,45,554,49,553,54,530,51,352,28"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_sample_framework_1_1_collider_zone.html" title="Zone that can be collided with in example code." alt="" coords="174,56,419,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,67,554,67,554,72,435,72"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="164,107,429,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="430,102,530,88,553,85,554,90,531,93,430,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,107,115,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="130,117,163,117,163,123,130,123"/>
+</map>

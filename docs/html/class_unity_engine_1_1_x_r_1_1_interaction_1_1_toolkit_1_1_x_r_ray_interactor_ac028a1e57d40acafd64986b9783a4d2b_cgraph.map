@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.CanSelect" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.CanSelect">
+<area shape="rect" id="Node000001" title="Determines if the Interactable is valid for selection this frame.Returns true if the Interactable can..." alt="" coords="5,5,226,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#ae6206cc2f8a7bf81a38946784bda2fbf" title="Determines whether this Interactor is currently selecting the Interactable.Returns true if this Inter..." alt="" coords="274,5,505,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
+</map>

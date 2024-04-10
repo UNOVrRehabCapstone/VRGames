@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.EnhancedTouch.TouchSimulation" name="UnityEngine.InputSystem.EnhancedTouch.TouchSimulation">
+<area shape="rect" id="Node000001" title="Adds a Touchscreen with input simulated from other types of Pointer devices (e.g. Mouse or Pen)." alt="" coords="117,96,331,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,38,190,93,187,98,93,42"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_state_change_monitor.html" title="Interface used to monitor input system state changes." alt="" coords="139,5,309,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,48,227,95,221,95,221,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="333,5,387,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,43,255,98,252,93,328,39"/>
+</map>

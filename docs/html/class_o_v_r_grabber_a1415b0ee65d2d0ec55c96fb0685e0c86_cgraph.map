@@ -1,0 +1,12 @@
+<map id="OVRGrabber.GrabEnd" name="OVRGrabber.GrabEnd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_grabber.html#ab3e02792ee5332674aaf06979c3661bf" title=" " alt="" coords="207,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,53,230,33,232,39,145,58"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_grabber.html#abaa2d146816832a66fa9f38e1feb30f2" title=" " alt="" coords="204,56,415,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,67,188,67,188,72,156,72"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_pose.html#acd28049398308ccc5947e2c92964a906" title="Computes the inverse of the given pose." alt="" coords="248,131,371,157"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,81,252,123,250,128,123,86"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_grabbable.html#a46043145bdb935782492a85df9e7b374" title="Notifies the object that it has been released." alt="" coords="463,5,626,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,447,16,447,21,412,21"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="271,132,264,122,269,112,284,106,309,104,337,107,351,113,349,118,336,112,309,109,285,111,272,116,269,121,275,129"/>
+</map>

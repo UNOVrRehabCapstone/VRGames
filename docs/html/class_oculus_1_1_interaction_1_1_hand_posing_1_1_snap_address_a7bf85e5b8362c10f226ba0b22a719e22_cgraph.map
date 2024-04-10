@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.SnapAddress.Set" name="Oculus.Interaction.HandPosing.SnapAddress.Set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,210,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_pose.html#afd31b97adad355e4fac05242f57cce0c" title="Copies the values over to the hand pose without requiring any new allocations." alt="" coords="258,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
+</map>

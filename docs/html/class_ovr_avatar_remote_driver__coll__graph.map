@@ -1,0 +1,13 @@
+<map id="OvrAvatarRemoteDriver" name="OvrAvatarRemoteDriver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,343,159,369"/>
+<area shape="rect" id="Node000002" href="$class_ovr_avatar_driver.html" title=" " alt="" coords="28,267,136,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,308,85,342,79,342,79,308"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="6,176,115,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,217,82,265,76,267,65,218"/>
+<area shape="rect" id="Node000004" href="$struct_ovr_avatar_driver_1_1_pose_frame.html" title=" " alt="" coords="139,176,318,203"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="196,213,104,268,102,264,193,209"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="99,5,190,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,47,157,98,166,125,180,150,191,163,205,173,202,178,188,167,175,154,161,127,152,99,143,48"/>
+<area shape="rect" id="Node000006" href="$struct_ovr_avatar_driver_1_1_controller_pose.html" title=" " alt="" coords="214,5,411,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="315,48,308,99,299,127,286,154,273,167,257,178,254,173,269,163,281,150,294,125,303,98,310,47"/>
+</map>

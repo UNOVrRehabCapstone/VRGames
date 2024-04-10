@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.EaseClip" name="UnityEditor.Timeline.EaseClip">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,199,187"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_manipulator.html" title=" " alt="" coords="11,5,100,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,46,101,159,96,160,61,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,5,177,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,47,109,160,103,159,139,46"/>
+</map>

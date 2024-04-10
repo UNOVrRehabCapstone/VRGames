@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Processors.ScaleVector2Processor" name="UnityEngine.InputSystem.Processors.ScaleVector2Processor">
+<area shape="rect" id="Node000001" title="Scale the components of a Vector2 by constant factors." alt="" coords="5,172,234,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="31,96,208,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,138,122,172,117,172,117,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,48,122,95,117,95,117,48"/>
+</map>

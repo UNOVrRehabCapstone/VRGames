@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.Dropdown.DropdownEvent" name="UnityEngine.UI.Dropdown.DropdownEvent">
+<area shape="rect" id="Node000001" title="UnityEvent callback for when a dropdown current option is changed." alt="" coords="5,80,178,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,5,152,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
+</map>

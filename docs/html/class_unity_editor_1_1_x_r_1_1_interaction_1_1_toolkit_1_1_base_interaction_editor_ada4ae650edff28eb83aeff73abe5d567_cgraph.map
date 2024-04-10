@@ -1,0 +1,9 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.OnInspectorGUI" name="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,214,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#ad225ea96cf53bae21dc68161ce30e3c0" title="This method is automatically called by OnInspectorGUI to draw the custom inspector...." alt="" coords="271,5,491,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,57,255,51,256,56,215,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#a06700384dc131ebf0555b19f896f750c" title="This method is automatically called by OnInspectorGUI to initialize knownSerializedPropertyNames if n..." alt="" coords="262,88,500,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,89,247,94,246,99,214,95"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#a0e771cf1b63ea4e7a7b8a33394cc8955" title="Returns a list containing the SerializeField names of all SerializedProperty fields defined in the Ed..." alt="" coords="548,88,760,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="500,115,532,115,532,120,500,120"/>
+</map>

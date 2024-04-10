@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRHoverInteractor.CanHover" name="UnityEngine.XR.Interaction.Toolkit.IXRHoverInteractor.CanHover">
+<area shape="rect" id="Node000001" title="Determines if the Interactable is valid for hover this frame." alt="" coords="277,13,504,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a23097996cfc512dc63fd12e8493bb924" title="Automatically called each frame during Update to clear the hover state of the Interactor if necessary..." alt="" coords="5,5,229,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,37,229,37,229,32,261,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.ITrackingToWorldTransformer.ToTrackingPose" name="Oculus.Interaction.Input.ITrackingToWorldTransformer.ToTrackingPose">
+<area shape="rect" id="Node000001" title="Converts a world space pose in Unity&#39;s coordinate space to a pose in tracking space (i...." alt="" coords="253,5,460,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a5516bce91d08c01dde544e5fb272396b" title="Stores the desired pose to set the wrist of the hand to. This is not necessarily the final pose of th..." alt="" coords="5,13,205,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,37,205,37,205,32,237,32"/>
+</map>

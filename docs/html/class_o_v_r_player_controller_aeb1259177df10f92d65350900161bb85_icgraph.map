@@ -1,0 +1,7 @@
+<map id="OVRPlayerController.UpdateMovement" name="OVRPlayerController.UpdateMovement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="474,5,660,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_player_controller.html#a93c8be87d6ac15dc48b212b86a7f536b" title=" " alt="" coords="240,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,29,426,29,426,24,459,24"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_player_controller.html#a948ea9ddea7aba20746fb918f3162be5" title="Invoked by OVRCameraRig&#39;s UpdatedAnchors callback. Allows the Hmd rotation to update the facing direc..." alt="" coords="5,5,192,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,29,192,29,192,24,224,24"/>
+</map>

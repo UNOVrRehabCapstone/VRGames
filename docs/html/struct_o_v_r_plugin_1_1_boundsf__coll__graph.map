@@ -1,0 +1,10 @@
+<map id="OVRPlugin.Boundsf" name="OVRPlugin.Boundsf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,187,220,213"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="5,96,143,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,133,142,184,138,188,93,136"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,178,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,45,87,97,83,94,129,42"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_plugin_1_1_size3f.html" title=" " alt="" coords="167,96,293,123"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="174,42,221,94,217,97,171,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,136,165,188,161,184,207,133"/>
+</map>

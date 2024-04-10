@@ -1,0 +1,11 @@
+<map id="UnityEngine.XR.InteractionSubsystems.Tests.XRGestureSubsystemTestFixture.RunningStateTests" name="UnityEngine.XR.InteractionSubsystems.Tests.XRGestureSubsystemTestFixture.RunningStateTests">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,268,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem.html#acdc7081891ad7bf2314e9e2b621c134d" title="Starts or resumes the Gesture subsystem." alt="" coords="316,17,574,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,57,300,54,300,59,268,63"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem.html#aa4fd0c98a2d4300dd85ab24117528b66" title="Pauses the Gesture subsystem." alt="" coords="316,88,574,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,88,301,91,301,96,268,93"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem_1_1_provider.html#a6e4032fa9a70ac70cb892012989c3fb6" title="Invoked to start or resume a Gesture subsystem." alt="" coords="622,5,852,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,34,607,34,607,39,575,40"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem_1_1_provider.html#aa31d30208d391cbc1383495c01c0ada9" title="Invoked to stop a running Gesture subsystem." alt="" coords="622,88,852,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="574,110,606,111,606,116,574,116"/>
+</map>

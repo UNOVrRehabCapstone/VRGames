@@ -1,0 +1,23 @@
+<map id="UnityEngine.InputSystem.DefaultInputActions.UIActions.SetCallbacks" name="UnityEngine.InputSystem.DefaultInputActions.UIActions.SetCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,377,203,436"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a2bd8d8d8cbd617cbec72f1a971cf41c6" title=" " alt="" coords="251,5,451,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,376,123,314,150,234,168,191,191,149,218,110,249,74,251,72,255,76,253,78,222,113,196,152,173,194,155,236,128,316,113,377"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a926f4201f97151e99c391cfcbe4c0a06" title=" " alt="" coords="251,88,451,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,376,132,329,161,271,200,210,249,157,252,154,256,158,253,161,204,213,166,273,137,331,118,378"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a6254cc76f080569ff3bcf251663b9149" title=" " alt="" coords="251,171,451,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,375,176,308,210,272,249,239,255,235,258,240,252,243,214,275,180,311,127,378"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a18dffeba9926b35596b97bfcb55d9f42" title=" " alt="" coords="251,253,451,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,375,249,322,260,317,262,321,252,326,156,379"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a023d3996e2766f43d6e76a46a326d614" title=" " alt="" coords="251,336,451,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,387,235,382,236,387,204,393"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a4365af97b0056cca9eda40111f184cf1" title=" " alt="" coords="251,419,451,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,421,236,426,235,431,203,426"/>
+<area shape="rect" id="Node000008" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#aa4e8d6d718bab2f4ba6b68ce93c354b4" title=" " alt="" coords="251,501,451,560"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="156,434,252,487,262,492,260,497,249,492,153,439"/>
+<area shape="rect" id="Node000009" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a5c78ade4b34f99ccb58edcdde7f7db8d" title=" " alt="" coords="251,584,451,643"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="127,435,180,502,214,538,252,570,258,574,255,578,249,574,210,542,176,505,123,438"/>
+<area shape="rect" id="Node000010" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#aa17924b292788b79263ffe80e8735850" title=" " alt="" coords="251,667,451,725"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="118,435,137,482,166,540,204,600,253,653,256,655,252,659,249,657,200,603,161,543,132,484,113,437"/>
+<area shape="rect" id="Node000011" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_u_i_actions.html#a6aee0a272cc5991f3a8a4b445f2f070d" title=" " alt="" coords="251,749,451,808"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="113,436,128,497,155,577,173,620,196,661,222,700,253,735,255,737,251,741,249,739,218,704,191,664,168,622,150,579,123,499,108,437"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRRigEditor.DrawInspector" name="UnityEditor.XR.Interaction.Toolkit.XRRigEditor.DrawInspector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,224,131"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#a8076b6bd1c9822ce5dcb3a3624fe2235" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="272,13,533,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,85,271,65,300,58,301,63,272,71,199,90"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#a20f440c39ce19b77e2e2856154cc85ec" title="This method is automatically called by DrawInspector to draw the property fields of derived classes t..." alt="" coords="292,80,513,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,107,277,107,277,112,224,112"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#afa437331c6ffd27f80cb5e2f71bc4194" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="290,163,515,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,129,272,148,301,156,300,161,271,153,198,134"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#adc70b5a0b48b8fae08d78d6dcd080899" title="Draw the standard read&#45;only Script property." alt="" coords="581,5,801,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="533,32,566,32,566,37,533,37"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#a4bcf2effd8987f3509f27e9fc9471f72" title="Draw the current Tracking Origin Mode while the application is playing." alt="" coords="588,155,795,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="515,181,572,181,572,187,515,187"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Windows.Kinect.BodyIndexFrameReader" name="Windows.Kinect.BodyIndexFrameReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,96,365,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,37,236,93,234,98,126,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="198,5,352,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,48,278,95,272,95,272,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="375,5,441,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="380,43,305,98,302,93,377,39"/>
+</map>

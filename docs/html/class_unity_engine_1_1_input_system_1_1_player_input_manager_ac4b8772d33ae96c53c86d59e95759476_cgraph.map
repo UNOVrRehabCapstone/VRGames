@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.PlayerInputManager.JoinPlayerFromActionIfNotAlreadyJoined" name="UnityEngine.InputSystem.PlayerInputManager.JoinPlayerFromActionIfNotAlreadyJoined">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,206,101"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a31fb6030b774c0a0d8abbb6cf1f91a12" title="Find the first PlayerInput who the given device is paired to." alt="" coords="258,5,450,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,54,242,49,243,54,206,60"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ad1601a14a5ff68625ca0b1cc5f7a2842" title="Spawn a new player from playerPrefab." alt="" coords="254,88,454,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,84,239,89,238,95,206,90"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a7d9b31c551c52f2b455262115660822c" title="Instantiate a player object and set up and enable its inputs." alt="" coords="502,88,674,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,107,486,107,486,112,454,112"/>
+</map>

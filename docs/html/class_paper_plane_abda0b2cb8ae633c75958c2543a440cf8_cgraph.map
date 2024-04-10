@@ -1,0 +1,5 @@
+<map id="PaperPlane.onRelease" name="PaperPlane.onRelease">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,159,40"/>
+<area shape="rect" id="Node000002" href="$class_plane_gameplay_manager.html#ab44ee271187c3f82332c5e8434815a24" title="Handles the event when a plane is released, spawning new planes as needed." alt="" coords="207,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,24,191,24,191,29,159,29"/>
+</map>

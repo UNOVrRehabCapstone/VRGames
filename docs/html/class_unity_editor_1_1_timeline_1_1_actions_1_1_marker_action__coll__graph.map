@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.Actions.MarkerAction" name="UnityEditor.Timeline.Actions.MarkerAction">
+<area shape="rect" id="Node000001" title="Base class for a marker action. Inherit from this class to make an action that would react on selecte..." alt="" coords="5,80,195,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="69,5,131,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,48,103,80,97,80,97,48"/>
+</map>

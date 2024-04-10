@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.TimelineAssetViewModel" name="UnityEditor.Timeline.TimelineAssetViewModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,112,339,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,38,212,109,210,114,96,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,341,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,47,247,112,241,112,241,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="365,5,419,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,44,273,114,269,109,362,39"/>
+</map>

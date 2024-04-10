@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Device.InstallationId" name="Unity.Services.Core.Device.InstallationId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,187,197"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_device_1_1_internal_1_1_i_installation_id.html" title="Component providing a Unity Installation Identifier." alt="" coords="48,80,144,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,122,99,154,93,154,93,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="30,5,162,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,48,99,80,93,80,93,48"/>
+</map>

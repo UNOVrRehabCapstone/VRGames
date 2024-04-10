@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Telemetry.Internal.TelemetryHandler&lt; TPayload, TEvent &gt;" name="Unity.Services.Core.Telemetry.Internal.TelemetryHandler&lt; TPayload, TEvent &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,112,259,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,128,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,50,137,110,133,113,84,54"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_telemetry_sender.html" title=" " alt="" coords="152,5,352,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,62,184,113,180,110,223,58"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Facebook.WitAi.VoiceService.Deactivate" name="Facebook.WitAi.VoiceService.Deactivate">
+<area shape="rect" id="Node000001" title="Stop listening and submit any remaining buffered microphone data for processing." alt="" coords="285,39,482,81"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_understanding_viewer.html#aeae40ee4b0237ad1c958d7ff35daedd3" title=" " alt="" coords="5,5,237,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,48,237,44,237,39,270,43"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_inspectors_1_1_wit_inspector.html#a6ffe4aeaa9daf235cb68253eb8ee01f3" title=" " alt="" coords="26,72,216,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,77,217,84,216,79,269,72"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt64" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt64">
+<area shape="rect" id="Node000001" title="Convert the value to a ulong." alt="" coords="517,137,722,180"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#ad8d46c4c8ea504fdb14bb9482688b29d" title="Convert to another type of value." alt="" coords="258,71,469,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,135,447,117,449,111,521,130"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a69c23a7bb9c4235f604ee6c0b5377a9b" title="Convert the value to a ushort." alt="" coords="261,137,466,180"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="501,161,466,161,466,156,501,156"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a318ce1066821b1ebb5e7fa602939c05b" title="Convert the value to a uint." alt="" coords="261,204,466,247"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="521,187,449,206,447,201,520,182"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_named_value.html#aed542cb4e79e166f10289c43ee644c15" title=" " alt="" coords="11,5,204,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,69,204,59,205,54,251,64"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_named_value.html#aa950ef08ad64d290b7c545d721bbde81" title=" " alt="" coords="6,88,209,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="242,103,210,105,209,100,242,98"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_block.html#a25754e60e3b87562992bbae391459a5a" title=" " alt="" coords="5,171,210,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,177,210,181,210,176,245,171"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="245,213,210,208,210,203,245,207"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.GetTangents" name="UnityEngine.ProBuilder.ProBuilderMesh.GetTangents">
+<area shape="rect" id="Node000001" title="Returns the tangents applied to the mesh. If they haven&#39;t been initialized yet, it creates and caches..." alt="" coords="473,63,652,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#af3a6310e2a6781a88d317fdf64fd6cdd" title="Creates a new array of vertices with values from a ProBuilderMesh component." alt="" coords="246,63,425,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,87,426,87,426,81,458,81"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_face_rebuild_data.html#ab6340044450ee9c7f83b0c61f8bc7179" title=" " alt="" coords="7,29,196,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,72,196,67,197,62,231,66"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_model.html#af8d40b55bcbaa414bb741fd7e2cf9129" title="Create a pb_Model from a pb_Object, optionally converting to quad topology." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="231,102,199,106,198,101,230,96"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="139,16,125,10,101,8,79,10,66,15,61,21,62,28,57,29,55,19,63,10,78,5,102,3,126,5,141,11"/>
+</map>

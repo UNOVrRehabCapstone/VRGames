@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ResolveExistingSelect" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ResolveExistingSelect">
+<area shape="rect" id="Node000001" title="Automatically called when selection of an Interactable by an Interactor is initiated and the Interact..." alt="" coords="600,35,838,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a53fde4febc09346b4677e5fd50392b64" title="Initiates selection of an Interactable by an Interactor. This method may first result in other intera..." alt="" coords="291,43,552,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,67,552,67,552,61,584,61"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#a9b3e140bbd9a4e40be043cdefd35c6d0" title="See MonoBehaviour." alt="" coords="26,5,222,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,48,222,42,223,36,276,43"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#a5f335fb2f5e301b3805712f0da23239e" title="Manually initiate selection of an Interactable." alt="" coords="5,72,243,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,85,243,89,243,84,275,80"/>
+</map>

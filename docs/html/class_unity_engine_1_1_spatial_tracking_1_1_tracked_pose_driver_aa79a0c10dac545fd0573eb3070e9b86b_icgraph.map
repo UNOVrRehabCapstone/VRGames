@@ -1,0 +1,15 @@
+<map id="UnityEngine.SpatialTracking.TrackedPoseDriver.SetLocalTransform" name="UnityEngine.SpatialTracking.TrackedPoseDriver.SetLocalTransform">
+<area shape="rect" id="Node000001" title="Sets the transform that is being driven by the TrackedPoseDriver. will only correct set the rotation ..." alt="" coords="790,72,1032,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a5594364290a0ef22ea95f241e2029ec9" title="PerformUpdate queries the data from the selected pose source, and then calls SetLocalTransform to app..." alt="" coords="523,72,742,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="775,96,743,96,743,91,775,91"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a7537463b17cd4720b81a25f82b4a40ef" title=" " alt="" coords="258,5,464,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,70,450,51,451,46,529,65"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#acf714ef1bd2dbbd0ef0480e54eec03a8" title=" " alt="" coords="247,72,475,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="508,96,475,96,475,91,508,91"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a34c0440af18f3ae27f9523433872e409" title=" " alt="" coords="267,139,455,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="529,122,451,141,450,135,527,116"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#af6f5ea2ee11b3f085e94ee9a70af726b" title=" " alt="" coords="5,39,199,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,79,199,75,199,70,231,74"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_spatial_tracking_1_1_tracked_pose_driver.html#a854d4fc2718cb879e63ca74285a1b040" title=" " alt="" coords="7,105,197,148"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="232,113,198,117,197,112,231,107"/>
+</map>

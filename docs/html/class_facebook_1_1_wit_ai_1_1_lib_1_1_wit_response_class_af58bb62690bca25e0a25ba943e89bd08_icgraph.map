@@ -1,0 +1,9 @@
+<map id="Facebook.WitAi.Lib.WitResponseClass.ToString" name="Facebook.WitAi.Lib.WitResponseClass.ToString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,72,489,115"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#a9b90d3340cdfa2003c262638ffb50702" title="Used to get dynamic entities." alt="" coords="16,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,70,202,51,203,46,278,65"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entity.html#a9c78392ca06a116eaf80a04496f75491" title="Used to get dynamic entities." alt="" coords="16,72,213,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,96,214,96,214,91,256,91"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_simple_dynamic_entity.html#acbaa41797ccbf32e81def601c1c71794" title="Used to get dynamic entities." alt="" coords="5,139,224,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="278,122,203,141,202,135,277,116"/>
+</map>

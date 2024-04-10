@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler" name="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler">
+<area shape="rect" id="Node000001" title="Base class for services which require service flag handling when toggling." alt="" coords="5,80,207,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_editor_1_1_i_editor_game_service_enabler.html" title="An interface to allow you to control the enablement state of a service." alt="" coords="16,5,196,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
+</map>

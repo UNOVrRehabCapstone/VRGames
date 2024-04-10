@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.InputRecorder.ClearCapture" name="UnityEngine.InputSystem.InputRecorder.ClearCapture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,186,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a53dd34af0576144a1f73f6422c657964" title="Reset the trace. Clears all recorded events." alt="" coords="234,5,437,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,24,218,24,218,29,186,29"/>
+</map>

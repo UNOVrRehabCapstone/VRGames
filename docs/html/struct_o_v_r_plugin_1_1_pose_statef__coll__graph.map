@@ -1,0 +1,15 @@
+<map id="OVRPlugin.PoseStatef" name="OVRPlugin.PoseStatef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,315,227,341"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_posef.html" title=" " alt="" coords="89,205,212,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,248,153,314,148,314,148,248"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_quatf.html" title=" " alt="" coords="105,96,225,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,138,154,147,151,178,152,205,147,205,146,178,149,146,151,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="29,5,83,32"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="40,47,26,71,14,100,9,131,12,162,37,210,70,253,106,288,135,312,132,316,102,292,66,257,32,213,7,163,3,131,9,99,21,69,35,44"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="49,47,44,84,45,103,50,122,65,147,86,170,130,203,127,207,83,174,61,151,45,124,39,104,38,84,44,47"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,40,151,93,148,97,82,44"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="250,96,387,123"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="98,30,173,53,285,93,283,98,171,59,97,35"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="313,139,302,164,269,212,232,255,167,316,164,312,228,251,265,209,298,161,309,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,132,250,149,168,207,165,203,248,144,277,128"/>
+</map>

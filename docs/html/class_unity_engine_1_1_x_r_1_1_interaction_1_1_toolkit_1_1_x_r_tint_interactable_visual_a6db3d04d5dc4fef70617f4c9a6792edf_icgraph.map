@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual.SetTint" name="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual.SetTint">
+<area shape="rect" id="Node000001" title="Apply or remove a tint to all Renderers used for tinting." alt="" coords="300,5,507,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_tint_interactable_visual.html#a026390773f266982ef77e765f2a57435" title="See MonoBehaviour." alt="" coords="5,13,252,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,37,252,37,252,32,284,32"/>
+</map>

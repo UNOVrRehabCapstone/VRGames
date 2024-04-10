@@ -1,0 +1,24 @@
+<map id="TMPro.TextMeshPro.UpdateFontAsset" name="TMPro.TextMeshPro.UpdateFontAsset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,191,148"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="239,105,437,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,124,223,124,223,129,191,129"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material." alt="" coords="493,5,687,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,102,484,58,502,51,504,56,486,62,384,107"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___text.html#a17ad19c4cf9c5ad4485b208eb0a37bf2" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="495,72,685,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="437,111,479,105,480,111,438,116"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ade90a42615b002bb0c31b06d497df510" title=" " alt="" coords="495,139,686,181"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="438,137,479,143,479,148,437,142"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_text_mesh_pro.html#af2177065726b878773a7798a3e4aedf7" title="Schedule updating of the material used by the text object." alt="" coords="485,205,695,248"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="384,146,486,191,504,197,502,202,484,196,382,151"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___text.html#a3193988e012b58e178ae978de5e64e6d" title=" " alt="" coords="749,105,939,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="686,103,734,110,733,115,685,108"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="743,39,945,81"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="685,78,727,73,728,78,686,83"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="993,39,1197,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="926,102,997,83,998,88,928,107"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="993,105,1197,148"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="939,124,977,124,977,129,939,129"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="945,57,977,57,977,63,945,63"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae087fd09b3ce4bb5bfea21e7207f3d56" title=" " alt="" coords="751,205,937,248"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="696,224,735,224,735,229,696,229"/>
+</map>

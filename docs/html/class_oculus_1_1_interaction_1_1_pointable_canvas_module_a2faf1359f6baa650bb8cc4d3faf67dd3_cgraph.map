@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.PointableCanvasModule.UpdatePointerEventData" name="Oculus.Interaction.PointableCanvasModule.UpdatePointerEventData">
+<area shape="rect" id="Node000001" title="This method is based on ProcessTouchPoint in StandaloneInputModule, but is instead used for Pointer e..." alt="" coords="5,13,256,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a3e6cff25c91b6e54cd64717c9c7339e1" title="Deselect the current selected GameObject if the currently pointed&#45;at GameObject is different." alt="" coords="304,5,551,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,32,288,32,288,37,256,37"/>
+</map>

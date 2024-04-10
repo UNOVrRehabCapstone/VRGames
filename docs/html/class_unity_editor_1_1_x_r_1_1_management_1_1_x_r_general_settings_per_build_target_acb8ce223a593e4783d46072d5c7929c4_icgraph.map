@@ -1,0 +1,20 @@
+<map id="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.SettingsForBuildTarget" name="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.SettingsForBuildTarget">
+<area shape="rect" id="Node000001" title="Get specific settings for a given build target." alt="" coords="669,215,888,274"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a583455d59450e7993c18af3ff35dd1ce" title="Create a new default instance of XRManagerSettings for a build target. Requires that the there exists..." alt="" coords="5,58,287,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,202,735,160,705,115,666,72,644,54,620,40,569,21,516,11,461,8,407,12,354,20,304,32,219,60,217,54,302,27,353,15,406,7,461,3,517,5,571,16,622,35,647,50,670,68,709,111,739,157,761,199"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a38e02deb1b12322ecbb7c218dc9c7d11" title="Check if current settings instance has an instance of XRManagerSettings." alt="" coords="365,50,591,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="735,206,682,163,620,123,590,110,593,105,622,118,685,158,738,202"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#aeafad765c6ba446b83d58a945557aa33" title="Query this settings store to see if there are settings for a specific BuildTargetGroup." alt="" coords="368,132,588,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="654,213,587,194,588,189,655,208"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a56bc811b82faf837d24f4a406ff6ab2c" title="Return the current instance of XRManagerSettings for a build target." alt="" coords="368,215,588,274"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="653,247,588,247,588,242,653,242"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_build_processor.html#acaeda7f6f37d32a31967454d2fe9bad2" title=" " alt="" coords="335,298,621,340"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="655,280,622,288,575,300,574,294,620,283,653,275"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_x_r_general_settings_tests.html#adce8fd1c359761bf666d4f13a5e7194d" title=" " alt="" coords="344,364,612,423"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="731,286,680,322,622,355,595,366,593,361,620,350,677,317,728,281"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a8ed2f7e750dcc8c833f7fbd4ee79105d" title="Given a build target, get the general settings container assigned to it." alt="" coords="368,447,588,506"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="755,288,701,365,664,404,622,437,589,454,587,450,620,433,660,400,697,361,751,285"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="352,136,279,120,280,114,354,131"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_metadata_1_1_x_r_package_metadata_store.html#aaf43d016bdb1146efba4dc60c3b0faea" title="Given a loader type and a build target group will return whether or not that loader is currently assi..." alt="" coords="28,447,264,506"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="353,479,264,479,264,474,353,474"/>
+</map>

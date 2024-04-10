@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.HandRef.GetPalmPoseLocal" name="Oculus.Interaction.Input.HandRef.GetPalmPoseLocal">
+<area shape="rect" id="Node000001" title="Obtains palm pose in local space." alt="" coords="5,5,192,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a94f1404b0308d4d6c35192e78e889cf3" title="Obtains palm pose in local space." alt="" coords="240,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,24,224,24,224,29,192,29"/>
+</map>

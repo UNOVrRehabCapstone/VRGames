@@ -1,0 +1,7 @@
+<map id="UnityEngine.UI.GraphicRegistry.UnregisterGraphicForCanvas" name="UnityEngine.UI.GraphicRegistry.UnregisterGraphicForCanvas">
+<area shape="rect" id="Node000001" title="Dissociates a Graphic from a Canvas, removing this association from the registry." alt="" coords="246,39,454,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a48779da83c94351d0994aac6461bda96" title=" " alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,47,198,42,198,37,230,41"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aff61001f3c6f4c13de8208a487e7061a" title=" " alt="" coords="5,72,198,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,79,198,83,198,78,230,73"/>
+</map>

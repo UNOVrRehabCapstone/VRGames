@@ -1,0 +1,17 @@
+<map id="UnityEditor.Timeline.IBounds" name="UnityEditor.Timeline.IBounds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,194,140"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_editor.html" title=" " alt="" coords="251,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,104,241,58,270,46,272,51,243,62,143,108"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_resize_handle.html" title=" " alt="" coords="251,72,422,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,109,250,103,250,108,209,114"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="242,139,431,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,139,242,144,241,149,209,145"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_timeline_1_1_track_resize_handle.html" title=" " alt="" coords="250,205,423,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="143,145,243,191,272,202,270,207,241,196,140,150"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="479,105,668,148"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,142,478,137,479,143,447,147"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_error_g_u_i.html" title=" " alt="" coords="479,172,668,215"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="447,173,479,177,478,183,446,178"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_g_u_i.html" title=" " alt="" coords="716,105,906,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="684,124,716,124,716,129,684,129"/>
+</map>

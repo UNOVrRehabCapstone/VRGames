@@ -1,0 +1,29 @@
+<map id="Oculus.Platform.Models.LeaderboardEntry.LeaderboardEntry" name="Oculus.Platform.Models.LeaderboardEntry.LeaderboardEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,247,241,289"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a8e816bbfede254a9d17ac7852924f9b0" title=" " alt="" coords="294,13,529,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,245,157,206,192,158,236,108,287,66,295,61,298,65,290,70,239,112,196,161,162,209,138,248"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a9a8ca6dedb794aa0a57e4f7914b353ff" title=" " alt="" coords="303,80,520,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,244,204,188,244,158,287,132,300,126,302,131,290,137,247,163,208,193,147,248"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a820f4e96593e87a6f399f9989b7f565c" title=" " alt="" coords="326,147,497,189"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="173,244,288,199,311,191,313,196,290,204,175,249"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a217008dd8907faca7f7597ff7966c673" title=" " alt="" coords="317,213,506,256"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="241,252,302,245,302,250,241,257"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a185282e94d0bfe97e3a14aeedf83c55e" title=" " alt="" coords="315,280,508,323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="241,279,300,286,299,291,241,284"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5f4230fac43b489243d14858b5c2d581" title=" " alt="" coords="289,347,534,405"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="177,287,290,332,307,339,305,344,288,337,175,292"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a2ae2aeaddd5de9bec3f56fcc701444b3" title=" " alt="" coords="300,429,523,472"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="144,288,205,351,245,386,290,415,301,421,298,425,287,420,242,390,201,355,140,292"/>
+<area shape="rect" id="Node000014" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a19108dfe8e5bea7a8d1f38bf55582ff5" title=" " alt="" coords="319,496,504,539"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="137,289,160,330,193,382,237,436,263,461,290,482,306,491,303,495,287,486,259,465,234,440,189,386,155,333,132,291"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="597,13,783,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,32,581,32,581,37,529,37"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="846,5,1047,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="784,32,831,32,831,37,784,37"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5d97490a1868977b5930fe17a48fcff6" title=" " alt="" coords="601,80,779,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="520,99,585,99,585,104,520,104"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a8f940031afc72e0803d0a87337938d36" title=" " alt="" coords="582,147,798,205"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="495,121,567,140,566,146,493,126"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#af11ff8bd92f61037f047b8f3d6ef3eb9" title=" " alt="" coords="601,429,780,472"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="523,448,585,448,585,453,523,453"/>
+</map>

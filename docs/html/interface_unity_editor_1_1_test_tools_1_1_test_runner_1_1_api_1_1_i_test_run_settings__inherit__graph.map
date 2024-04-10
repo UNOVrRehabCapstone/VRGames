@@ -1,0 +1,9 @@
+<map id="UnityEditor.TestTools.TestRunner.Api.ITestRunSettings" name="UnityEditor.TestTools.TestRunner.Api.ITestRunSettings">
+<area shape="rect" id="Node000001" title="ITestRunSettings lets you set any of the global settings right before building a Player for a test ru..." alt="" coords="142,39,330,81"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="380,5,629,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="345,44,379,40,379,45,346,49"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_test_tools_1_1_test_runner_1_1_player_launcher_test_run_settings.html" title=" " alt="" coords="378,72,630,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="346,71,378,75,377,80,345,76"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,94,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,57,141,57,141,63,109,63"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TimerManager.startTimer" name="TimerManager.startTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,171,57"/>
+<area shape="rect" id="Node000002" href="$class_timer_manager.html#a838e35ef2f8b7a3f7a3630ab7cc72a2f" title=" " alt="" coords="219,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,32,203,28,203,33,171,37"/>
+<area shape="rect" id="Node000003" href="$class_timer_manager.html#ade90d697c2c2dca3d6fe54d0f6e064e2" title=" " alt="" coords="228,56,392,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,51,213,56,212,61,171,56"/>
+<area shape="rect" id="Node000004" href="$class_timer_manager.html#a4571635d57df47afca1828aea10da4d2" title=" " alt="" coords="449,56,623,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,67,433,67,433,72,393,72"/>
+</map>

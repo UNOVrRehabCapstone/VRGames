@@ -1,0 +1,17 @@
+<map id="Unity.Services.Core.Internal.AsyncOperationBase&lt; T &gt;" name="Unity.Services.Core.Internal.AsyncOperationBase&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Base class for asynchronous operations." alt="" coords="229,155,414,197"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,161,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,110,253,151,251,157,127,115"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="142,109,269,151,267,157,140,114"/>
+<area shape="rect" id="Node000003" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation.html" title="Contract for an asynchronous operation with no result." alt="" coords="184,80,302,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,116,304,153,300,156,264,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,5,289,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,47,239,79,233,80,232,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="254,48,253,80,247,79,249,47"/>
+<area shape="rect" id="Node000006" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation.html" title=" " alt="" coords="326,80,475,107"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="285,36,374,77,372,82,283,41"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="499,80,622,107"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="503,114,376,157,374,151,501,109"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="517,115,392,157,390,151,515,110"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="379,120,343,156,340,153,376,116"/>
+</map>

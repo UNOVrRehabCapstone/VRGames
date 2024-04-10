@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="5,139,178,181"/>
+<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_axis_deadzone_processor.html" title="Clamps values to the range given by min and max and re&#45;normalizes the resulting value to [0...." alt="" coords="226,5,460,48"/>
+<area shape="poly" id="edge2364_Node000000_Node000001" title=" " alt="" coords="126,126,171,91,224,58,252,46,254,51,227,62,174,95,129,131"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_clamp_processor.html" title="Clamp a floating&#45;point input to between min and max. This is equivalent to Mathf.Clamp(value,..." alt="" coords="249,72,437,115"/>
+<area shape="poly" id="edge2365_Node000000_Node000002" title=" " alt="" coords="188,132,259,113,260,118,190,137"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_invert_processor.html" title="An input processor that inverts its input value." alt="" coords="253,139,433,181"/>
+<area shape="poly" id="edge2366_Node000000_Node000003" title=" " alt="" coords="193,157,252,157,252,163,193,163"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html" title="Normalizes input values in the range min and max to unsigned normalized form [0..1] if zero is placed..." alt="" coords="239,205,447,248"/>
+<area shape="poly" id="edge2367_Node000000_Node000004" title=" " alt="" coords="190,183,260,202,259,207,188,188"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_scale_processor.html" title="Scale a float value by a constant factor." alt="" coords="251,272,435,315"/>
+<area shape="poly" id="edge2368_Node000000_Node000005" title=" " alt="" coords="129,189,174,225,227,258,254,269,252,274,224,262,171,229,126,194"/>
+</map>

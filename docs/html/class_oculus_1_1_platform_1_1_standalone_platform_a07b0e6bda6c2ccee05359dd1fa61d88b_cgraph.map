@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.StandalonePlatform.AsyncInitialize" name="Oculus.Platform.StandalonePlatform.AsyncInitialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,189,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#acfd158671d732bc6bde54b9417d5e6ca" title=" " alt="" coords="237,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,69,252,50,253,55,182,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a907236301d074dcbefb8bfea1629483a" title=" " alt="" coords="267,72,436,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,91,252,91,252,96,189,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#adae1306be22690fed9bec990c43a0608" title=" " alt="" coords="267,139,436,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,113,253,132,252,137,180,118"/>
+</map>

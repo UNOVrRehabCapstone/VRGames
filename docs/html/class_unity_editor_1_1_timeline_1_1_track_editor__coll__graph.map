@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.TrackEditor" name="UnityEditor.Timeline.TrackEditor">
+<area shape="rect" id="Node000001" title="Use this class to customize track types in the TimelineEditor." alt="" coords="5,128,179,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,119,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,47,95,128,89,128,89,47"/>
+</map>

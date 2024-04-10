@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,147,85,173"/>
+<area shape="rect" id="Node000001" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_j_s_o_n_parse_exception.html" title=" " alt="" coords="140,5,348,48"/>
+<area shape="poly" id="edge130_Node000000_Node000001" title=" " alt="" coords="61,132,91,94,131,58,153,46,155,51,134,62,95,97,65,135"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_request_failed_exception.html" title="A base exception type for failed requests." alt="" coords="150,72,338,115"/>
+<area shape="poly" id="edge131_Node000000_Node000002" title=" " alt="" coords="94,138,132,124,167,113,169,118,134,129,95,143"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_services_initialization_exception.html" title="Represents an error during services initialization." alt="" coords="150,139,338,181"/>
+<area shape="poly" id="edge132_Node000000_Node000003" title=" " alt="" coords="100,157,149,157,149,163,100,163"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_layout_not_found_exception.html" title=" " alt="" coords="133,205,355,264"/>
+<area shape="poly" id="edge134_Node000000_Node000005" title=" " alt="" coords="97,177,134,191,164,202,162,207,132,196,95,182"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_duplicate_node_error.html" title=" " alt="" coords="156,288,332,331"/>
+<area shape="poly" id="edge135_Node000000_Node000006" title=" " alt="" coords="62,186,92,231,111,254,134,274,157,287,155,291,131,278,108,258,87,234,58,189"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_circular_dependency_exception.html" title="Exception to use two registered IInitializablePackage depend on the other." alt="" coords="403,139,598,181"/>
+<area shape="poly" id="edge133_Node000003_Node000004" title=" " alt="" coords="353,157,403,157,403,163,353,163"/>
+</map>

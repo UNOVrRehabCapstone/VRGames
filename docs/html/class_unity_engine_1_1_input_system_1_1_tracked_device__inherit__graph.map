@@ -1,0 +1,8 @@
+<map id="UnityEngine.InputSystem.TrackedDevice" name="UnityEngine.InputSystem.TrackedDevice">
+<area shape="rect" id="Node000001" title="An input device that has its orientation and position in space tracked." alt="" coords="5,155,178,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_device.html" title="Represents an input device which is always the root of a hierarchy of InputControl instances." alt="" coords="48,80,135,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,122,94,154,89,154,89,122"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title="A typed and named source of input values in a hierarchy of controls." alt="" coords="46,5,137,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="153,5,160,10,163,19,155,31,137,35,136,30,152,27,158,18,156,14,150,10"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="UnityEngine.EventSystems.StandaloneInputModule.Process" name="UnityEngine.EventSystems.StandaloneInputModule.Process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,214,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#ae1b78a11ed257f11d7470cbea7f4e1c7" title=" " alt="" coords="262,29,541,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,143,197,111,261,82,281,74,283,79,263,86,200,116,146,147"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#af7bca39083bd7e371ce1af3f5c499d94" title="Calculate and send a move event to the current selected object." alt="" coords="291,96,512,155"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="214,149,275,140,276,146,214,155"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a135a433266dfaff064c4537fa85b88d5" title="Calculate and send a submit event to the current selected object." alt="" coords="286,179,517,237"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="214,179,270,187,270,192,214,184"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a1f7ae3aef0facc03cc2c75ba79e68738" title=" " alt="" coords="286,261,517,320"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="147,186,201,217,263,247,278,253,276,258,261,252,198,222,144,191"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="347,29,344,19,354,10,373,5,401,3,433,5,451,11,449,16,432,10,401,8,374,10,356,15,350,21,352,28"/>
+</map>

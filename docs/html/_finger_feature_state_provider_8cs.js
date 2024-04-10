@@ -1,0 +1,6 @@
+var _finger_feature_state_provider_8cs =
+[
+    [ "Oculus.Interaction.PoseDetection.IFingerFeatureStateProvider", "interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html", "interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider" ],
+    [ "Oculus.Interaction.PoseDetection.FingerFeatureStateProvider", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_provider.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_provider" ],
+    [ "Oculus.Interaction.PoseDetection.FingerFeatureStateProvider.FingerStateThresholds", "struct_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_provider_1_1_finger_state_thresholds.html", "struct_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_feature_state_provider_1_1_finger_state_thresholds" ]
+];

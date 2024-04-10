@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.FingerShapes.GetOppositionValue" name="Oculus.Interaction.PoseDetection.FingerShapes.GetOppositionValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,227,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_utils.html#a6db2ccbf73c6aa6e57ba9db0912f0ba8" title=" " alt="" coords="275,5,487,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,43,259,39,259,45,227,49"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2593ffbabd0465579263777b2f2a7bef" title="Returns an array containing the pose of each joint relative to the wrist. The poses do not have the r..." alt="" coords="279,72,483,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,71,263,76,263,81,227,77"/>
+</map>

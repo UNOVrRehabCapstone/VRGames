@@ -1,0 +1,7 @@
+<map id="TeleportAimVisualLaser" name="TeleportAimVisualLaser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="28,80,141,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,122,87,154,82,154,82,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="30,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,48,87,80,82,80,82,48"/>
+</map>

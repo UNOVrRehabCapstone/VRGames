@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Input.HandJointCache.WorldJointPose" name="Oculus.Interaction.Input.HandJointCache.WorldJointPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,72,757,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#afd9da545d880d503c785c52d4abcad31" title="Attempts to calculate the pose of the requested hand joint, in world space. Returns false if the skel..." alt="" coords="337,72,499,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,96,500,96,500,91,531,91"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#ad38460a319e114e26088222792550abd" title="Attempts to calculate the pose of the requested hand joint, in world space. Returns false if the skel..." alt="" coords="66,5,228,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,71,288,63,228,48,229,43,289,57,322,66"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_throw_1_1_hand_pose_input_device.html#a24bad2cd64aa332c199e97693c130367" title=" " alt="" coords="32,72,262,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="321,96,262,96,262,91,321,91"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_collider_contains_hand_joint_active_state.html#af20de4c02d18e44d07fc99a3dcf703bd" title=" " alt="" coords="5,139,289,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="322,121,289,129,243,141,241,135,288,124,321,116"/>
+</map>

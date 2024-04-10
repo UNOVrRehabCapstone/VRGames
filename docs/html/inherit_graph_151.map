@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_i_hand_grab_interactable.html" title=" " alt="" coords="69,5,232,48"/>
+<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_grab_1_1_hand_grab_interactable_data.html" title=" " alt="" coords="370,5,543,48"/>
+<area shape="poly" id="edge319_Node000000_Node000001" title=" " alt="" coords="248,24,369,24,369,29,248,29"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html" title="A HandGrabInteractable indicates the properties about how a hand can snap to an object...." alt="" coords="354,105,559,148"/>
+<area shape="poly" id="edge320_Node000000_Node000002" title=" " alt="" coords="248,44,296,57,356,79,409,102,407,107,354,84,295,63,246,49"/>
+<area shape="rect" id="Node000010" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_i_hand_grab_interactor.html" title=" " alt="" coords="69,205,232,248"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html" title="The HandGrabInteractor allows grabbing objects while having the hands snap to them adopting a previou..." alt="" coords="354,305,559,348"/>
+<area shape="poly" id="edge321_Node000010_Node000009" title=" " alt="" coords="248,244,296,257,356,279,409,302,407,307,354,284,295,263,246,249"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_interactable.html" title=" " alt="" coords="35,456,266,499"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_grab_interactable.html" title=" " alt="" coords="344,435,569,461"/>
+<area shape="poly" id="edge322_Node000006_Node000005" title=" " alt="" coords="281,462,343,456,344,461,281,467"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactable.html" title=" " alt="" coords="5,139,296,181"/>
+<area shape="poly" id="edge323_Node000003_Node000002" title=" " alt="" coords="311,140,353,135,354,140,312,145"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="35,523,266,565"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html" title=" " alt="" coords="350,523,563,549"/>
+<area shape="poly" id="edge324_Node000008_Node000007" title=" " alt="" coords="281,538,350,536,350,541,281,543"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="5,272,296,315"/>
+<area shape="poly" id="edge325_Node000011_Node000009" title=" " alt="" coords="312,308,354,313,353,318,311,314"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_rigidbody_ref.html" title=" " alt="" coords="46,405,255,432"/>
+<area shape="poly" id="edge328_Node000004_Node000002" title=" " alt="" coords="268,406,294,391,314,370,323,347,329,322,341,292,392,211,437,147,441,150,397,214,346,295,334,324,328,349,319,373,297,395,271,410"/>
+<area shape="poly" id="edge329_Node000004_Node000009" title=" " alt="" coords="263,399,295,391,355,370,409,346,411,351,357,374,296,396,264,404"/>
+<area shape="poly" id="edge326_Node000004_Node000005" title=" " alt="" coords="271,428,344,435,343,440,271,433"/>
+<area shape="poly" id="edge327_Node000004_Node000007" title=" " alt="" coords="271,433,297,442,322,455,345,471,431,520,428,524,342,476,319,460,295,446,270,438"/>
+<area shape="rect" id="Node000013" href="$interface_oculus_1_1_interaction_1_1_hand_posing_1_1_i_snappable.html" title="Interface for interactables that allow being visually aligned to by an interactor." alt="" coords="48,72,253,115"/>
+<area shape="poly" id="edge330_Node000013_Node000002" title=" " alt="" coords="269,103,354,113,353,118,268,109"/>
+<area shape="rect" id="Node000012" href="$interface_oculus_1_1_interaction_1_1_hand_posing_1_1_i_snapper.html" title="Interface for interactors that allow aligning to an object. Contains information to drive the HandGra..." alt="" coords="48,339,253,381"/>
+<area shape="poly" id="edge331_Node000012_Node000009" title=" " alt="" coords="268,345,353,335,354,340,269,350"/>
+</map>

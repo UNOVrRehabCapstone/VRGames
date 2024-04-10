@@ -1,0 +1,43 @@
+<map id="TeleportSupport" name="TeleportSupport">
+<area shape="rect" id="Node000001" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="163,183,275,209"/>
+<area shape="rect" id="Node000003" href="$class_teleport_aim_handler.html" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="343,56,477,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,169,274,129,322,92,347,81,349,86,324,97,278,133,242,172"/>
+<area shape="rect" id="Node000006" href="$class_teleport_aim_visual_laser.html" title=" " alt="" coords="331,107,489,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="258,173,322,143,356,131,357,136,324,148,260,177"/>
+<area shape="rect" id="Node000007" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="341,157,480,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="290,184,340,177,340,183,291,189"/>
+<area shape="rect" id="Node000010" href="$class_teleport_orientation_handler.html" title="The orientation handler is what determines the final rotation of the player after the teleport." alt="" coords="323,208,497,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="291,203,323,207,322,212,290,208"/>
+<area shape="rect" id="Node000014" href="$class_teleport_target_handler.html" title="The TeleportTargetHandler&#39;s main purpose is to determine when the current aim target is valid and to ..." alt="" coords="337,351,484,377"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="249,218,395,348,391,352,245,222"/>
+<area shape="rect" id="Node000018" href="$class_teleport_transition.html" title="Teleport transitions manage the actual relocation of the player from the current position and orienta..." alt="" coords="349,503,472,529"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="236,222,275,298,325,388,401,501,397,504,321,391,270,300,231,225"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,183,115,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,193,162,193,162,199,130,199"/>
+<area shape="rect" id="Node000004" href="$class_teleport_aim_handler_laser.html" title=" " alt="" coords="564,5,730,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,50,581,30,582,35,492,55"/>
+<area shape="rect" id="Node000005" href="$class_teleport_aim_handler_parabolic.html" title="This aim handler simulates the parabolic curve that a thrown item would follow, a common style of tel..." alt="" coords="553,56,741,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="493,67,552,67,552,72,493,72"/>
+<area shape="rect" id="Node000008" href="$class_teleport_input_handler_h_m_d.html" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using HM..." alt="" coords="563,107,731,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="491,151,581,131,582,137,492,156"/>
+<area shape="rect" id="Node000009" href="$class_teleport_input_handler_touch.html" title="When this component is enabled, the player will be able to aim and trigger teleport behavior using Oc..." alt="" coords="797,107,971,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="747,117,796,117,796,123,747,123"/>
+<area shape="rect" id="Node000011" href="$class_teleport_orientation_handler360.html" title="This orientation handler doesn&#39;t actually do anything with the orientation at all; this is for users ..." alt="" coords="549,157,745,184"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="491,202,581,182,582,187,492,207"/>
+<area shape="rect" id="Node000012" href="$class_teleport_orientation_handler_h_m_d.html" title="This orientation handler will aim the player at the point they aim the HMD at after they choose the t..." alt="" coords="545,208,749,235"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="512,219,545,219,545,224,512,224"/>
+<area shape="rect" id="Node000013" href="$class_teleport_orientation_handler_thumbstick.html" title="This orientation handler will use the specified thumbstick to adjust the landing orientation of the t..." alt="" coords="560,259,734,301"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="482,236,560,256,559,261,481,242"/>
+<area shape="rect" id="Node000015" href="$class_teleport_target_handler_nav_mesh.html" title=" " alt="" coords="547,325,747,352"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="499,352,546,347,547,352,500,357"/>
+<area shape="rect" id="Node000016" href="$class_teleport_target_handler_node.html" title="This target handler will only return locations that the aim system detects that contain a TeleportPoi..." alt="" coords="558,376,736,403"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="500,371,558,377,557,382,499,376"/>
+<area shape="rect" id="Node000017" href="$class_teleport_target_handler_physical.html" title="This target handler simply returns any location that is detected by the aim collision tests...." alt="" coords="548,427,746,453"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="460,381,546,412,587,424,585,429,545,417,458,386"/>
+<area shape="rect" id="Node000019" href="$class_teleport_transition_blink.html" title="This transition will cause the screen to quickly fade to black, perform the repositioning,..." alt="" coords="571,477,723,504"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="487,505,570,496,571,501,488,510"/>
+<area shape="rect" id="Node000020" href="$class_teleport_transition_instant.html" title="This transition will move the player with no other side effects." alt="" coords="566,528,728,555"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="488,522,565,530,565,535,487,527"/>
+<area shape="rect" id="Node000021" href="$class_teleport_transition_warp.html" title="This transition will move the player to the destination over the span of a fixed amount of time...." alt="" coords="570,579,724,605"/>
+<area shape="poly" id="edge20_Node000018_Node000021" title=" " alt="" coords="460,533,546,564,587,576,585,581,545,569,458,538"/>
+</map>

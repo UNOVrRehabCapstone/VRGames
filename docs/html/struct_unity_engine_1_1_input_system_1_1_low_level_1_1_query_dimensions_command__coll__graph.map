@@ -1,0 +1,12 @@
+<map id="UnityEngine.InputSystem.LowLevel.QueryDimensionsCommand" name="UnityEngine.InputSystem.LowLevel.QueryDimensionsCommand">
+<area shape="rect" id="Node000001" title="Query dimensions of a device." alt="" coords="5,295,245,337"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="19,89,188,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,131,126,294,120,294,104,132"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_device_command.html" title="Data header for a command send to an InputDevice." alt="" coords="141,188,344,231"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="134,123,217,185,213,190,131,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,243,150,296,146,292,206,239"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_four_c_c.html" title="A four&#45;character code." alt="" coords="212,81,385,124"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="282,139,256,189,251,186,278,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="223,5,374,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="301,48,301,81,296,81,296,48"/>
+</map>

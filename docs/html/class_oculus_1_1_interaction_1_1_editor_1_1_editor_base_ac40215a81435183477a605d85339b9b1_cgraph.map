@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.EditorBase.Draw" name="Oculus.Interaction.Editor.EditorBase.Draw">
+<area shape="rect" id="Node000001" title="Call in OnInit to specify a custom drawer for a single property. Include an extra property that gets ..." alt="" coords="5,39,174,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#ac2c7e078ccb4a12383a856dc42b7394d" title="Call in OnInit to specify a custom drawer for a single property. Whenever the property is drawn,..." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,44,206,39,207,45,174,50"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#acbc760bcdfc996f39f0a16d6ffcb713f" title="Call in OnInit with one or more property names to hide them from the inspector." alt="" coords="222,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,70,207,75,206,81,174,76"/>
+</map>

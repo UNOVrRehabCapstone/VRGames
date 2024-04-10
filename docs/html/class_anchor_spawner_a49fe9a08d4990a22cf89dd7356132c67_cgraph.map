@@ -1,0 +1,7 @@
+<map id="AnchorSpawner.PlaceAnchorAtTransform" name="AnchorSpawner.PlaceAnchorAtTransform">
+<area shape="rect" id="Node000001" title="Spawns an anchor and parents it under the given transform." alt="" coords="5,23,196,65"/>
+<area shape="rect" id="Node000002" href="$class_anchor_session.html#aca251847402dfb81e0d9954fea54021f" title=" " alt="" coords="260,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,244,25,245,30,197,36"/>
+<area shape="rect" id="Node000003" href="$class_anchor.html#aa09f334a01f9865413b17c6b98badad5" title="Sets this anchor&#39;s handle." alt="" coords="244,56,411,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,52,228,56,228,61,196,57"/>
+</map>

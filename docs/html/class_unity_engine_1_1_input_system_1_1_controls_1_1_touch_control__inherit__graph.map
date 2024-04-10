@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Controls.TouchControl" name="UnityEngine.InputSystem.Controls.TouchControl">
+<area shape="rect" id="Node000001" title="A control representing a touch contact." alt="" coords="9,80,182,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="5,5,186,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,93,80,93,48"/>
+</map>

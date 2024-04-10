@@ -1,0 +1,7 @@
+<map id="UnityEngine.Timeline.SignalReceiver" name="UnityEngine.Timeline.SignalReceiver">
+<area shape="rect" id="Node000001" title="Listens for emitted signals and reacts depending on its defined reactions." alt="" coords="42,80,225,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,42,117,78,113,82,80,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,277,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,45,154,82,150,78,184,42"/>
+</map>

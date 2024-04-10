@@ -1,0 +1,24 @@
+<map id="UnityEditor.TestTools.TestRunner.Api.ICallbacks" name="UnityEditor.TestTools.TestRunner.Api.ICallbacks">
+<area shape="rect" id="Node000001" title="Callbacks in the TestRunnerApi for the test stages when running tests." alt="" coords="5,280,180,323"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="235,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,264,119,217,144,161,180,106,202,80,226,58,244,46,247,51,229,62,205,84,184,109,149,164,123,219,107,266"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="248,72,450,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,265,160,202,191,169,226,140,247,129,249,133,229,145,195,173,164,206,117,269"/>
+<area shape="rect" id="Node000004" href="$interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_error_callbacks.html" title="An extended version of the ICallbacks, which get invoked if the test run fails due to a build error o..." alt="" coords="260,155,438,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,268,175,236,227,207,259,194,261,199,229,212,178,241,133,272"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="228,221,470,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="194,275,252,262,253,267,195,281"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="537,251,757,293"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="195,293,536,275,537,280,195,299"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="230,339,468,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="193,325,234,336,233,341,191,330"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="238,421,460,480"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="128,331,174,370,229,407,253,418,250,423,226,412,171,375,125,335"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="262,504,436,547"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="111,335,131,372,157,414,190,455,229,490,262,507,260,511,226,494,186,459,153,417,126,374,107,337"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="247,571,451,629"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="106,337,122,386,148,445,183,505,205,532,229,557,248,570,245,574,226,561,201,536,179,508,143,448,117,388,101,338"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="518,155,776,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,173,518,173,518,179,453,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="486,253,537,259,536,264,485,259"/>
+</map>

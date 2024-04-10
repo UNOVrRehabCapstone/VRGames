@@ -1,0 +1,14 @@
+<map id="GridLayoutGroupTests.TestVerticallyContrainedCalculateLayoutVertical" name="GridLayoutGroupTests.TestVerticallyContrainedCalculateLayoutVertical">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,236,156"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_grid_layout_group.html#ad4bd80df4950d497ccc9476f09d08e5b" title="Called by the layout system to calculate the horizontal layout size. Also see ILayoutElement." alt="" coords="284,5,523,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,94,283,57,304,50,306,55,285,63,190,99"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_grid_layout_group.html#ab28466e280164bcde2a2eb046c088911" title="Called by the layout system to calculate the vertical layout size. Also see ILayoutElement." alt="" coords="291,72,516,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,110,275,106,275,111,237,116"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_grid_layout_group.html#a1cdba1355d46027c7398f5b40b20cc02" title="Called by the layout system Also see ILayoutElement." alt="" coords="315,139,492,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="237,138,300,145,299,150,236,143"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_grid_layout_group.html#aa639a03a0ea5812aef0b7299bfe7bcd0" title="Called by the layout system Also see ILayoutElement." alt="" coords="316,205,491,248"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="190,154,285,191,306,198,304,203,283,196,188,159"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6a091521efd71c3a4cfb82e42ea4a713" title="Used to set the calculated layout properties for the given axis." alt="" coords="571,39,760,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="524,39,556,43,555,49,523,45"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="516,76,555,71,556,77,517,82"/>
+</map>

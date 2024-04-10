@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.ActionBasedContinuousTurnProvider" name="UnityEngine.XR.Interaction.Toolkit.ActionBasedContinuousTurnProvider">
+<area shape="rect" id="Node000001" title="Locomotion provider that allows the user to smoothly rotate their rig continuously over time using a ..." alt="" coords="5,229,233,288"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_turn_provider_base.html" title="Locomotion provider that allows the user to smoothly rotate their rig continuously over time." alt="" coords="25,155,213,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,197,122,229,116,229,116,197"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html" title="The LocomotionProvider is the base class for various locomotion implementations. This class provides ..." alt="" coords="52,80,186,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,122,122,154,116,154,116,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,5,174,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,48,122,80,116,80,116,48"/>
+</map>

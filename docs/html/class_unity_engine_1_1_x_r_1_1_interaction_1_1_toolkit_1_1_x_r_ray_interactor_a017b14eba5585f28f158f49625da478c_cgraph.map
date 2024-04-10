@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.OnDrawGizmosSelected" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.OnDrawGizmosSelected">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,83,257,141"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a6112c56356a3e84bffd0a2699af1cc7e" title=" " alt="" coords="305,29,553,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,87,289,81,290,86,258,92"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#ab81c7b8e9e8220de51763dc0aef41b5d" title=" " alt="" coords="308,136,550,195"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="258,132,293,138,292,144,257,137"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="371,29,372,19,383,10,402,5,429,3,460,5,479,13,477,17,459,11,429,8,403,10,385,15,377,21,376,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="371,135,372,125,383,117,402,111,429,109,460,112,479,119,477,124,459,117,429,115,403,117,385,121,377,128,376,136"/>
+</map>

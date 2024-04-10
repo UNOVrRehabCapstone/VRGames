@@ -1,0 +1,10 @@
+var class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5 =
+[
+    [ "FeatureStateThresholdModel", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#a4d4b1d858ba5b5e25a8233b69c3f3899", null ],
+    [ "FirstStateId", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#a5e2f8c3533d2fad60623beb0f8806ba2", null ],
+    [ "SecondStateId", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#aba7facb0d9e99793ef0156a8781373a8", null ],
+    [ "ThresholdMidpoint", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#af82901a6284d07b661cafc2983d12b8b", null ],
+    [ "ThresholdWidth", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#a16c7cc2c1f44a009d6de75cdffbb1492", null ],
+    [ "ToFirstWhenBelow", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#a438a2e64d34ad77db659f8ff008587ef", null ],
+    [ "ToSecondWhenAbove", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html#a356c28dda3bd9f6f539e84180593a820", null ]
+];

@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.ClipDrawOptions.Equals" name="UnityEditor.Timeline.ClipDrawOptions.Equals">
+<area shape="rect" id="Node000001" title="Indicates whether this instance and a specified object are equal." alt="" coords="217,39,380,81"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="332,25,320,20,298,17,278,19,266,24,262,30,263,38,258,39,256,29,263,20,277,14,298,12,321,14,335,21"/>
+<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_clip_draw_options.html#acef47dd036be41fa39c62f8dd07e3a13" title="Compares two ClipDrawOptions objects." alt="" coords="5,5,169,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="201,47,169,42,170,37,202,42"/>
+<area shape="rect" id="Node000003" href="$struct_unity_editor_1_1_timeline_1_1_clip_draw_options.html#a756a33b545f9ec3557dc86b93dc4f168" title="Compares two ClipDrawOptions objects." alt="" coords="5,72,169,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="202,78,170,83,169,78,201,73"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerEditor.DrawInputConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerEditor.DrawInputConfiguration">
+<area shape="rect" id="Node000001" title="Draw property fields related to interaction input. These are related to XRBaseController...." alt="" coords="506,5,708,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html#aff159d8db39a9392f5a4ff621442dd09" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="256,5,458,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,37,458,37,458,32,490,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html#a44bf5c2f1ad8ae6b9ef7e2d598fd0284" title=" " alt="" coords="5,5,208,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,37,208,37,208,32,240,32"/>
+</map>

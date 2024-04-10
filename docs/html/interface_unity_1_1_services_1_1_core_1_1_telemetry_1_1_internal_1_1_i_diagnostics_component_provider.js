@@ -1,0 +1,5 @@
+var interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_diagnostics_component_provider =
+[
+    [ "CreateDiagnosticsComponents", "interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_diagnostics_component_provider.html#ad9d810ddaf5740fa3407a4d6315ea26b", null ],
+    [ "GetSerializedProjectConfigurationAsync", "interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_diagnostics_component_provider.html#a35c1966d8eefac7feb316ef1e51b0645", null ]
+];

@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.PointableCanvasModule.ProcessDrag" name="Oculus.Interaction.PointableCanvasModule.ProcessDrag">
+<area shape="rect" id="Node000001" title="Override of PointerInputModule&#39;s ProcessDrag to allow using the initial press position for drag begin..." alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_module.html#aad16d27d89babfbd22ff65f69b7c9acb" title="Used in PointerInputModule&#39;s ProcessDrag implementation. Brought into this subclass with a protected ..." alt="" coords="238,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

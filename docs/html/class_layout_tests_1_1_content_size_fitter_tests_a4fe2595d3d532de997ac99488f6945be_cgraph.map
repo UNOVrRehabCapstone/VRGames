@@ -1,0 +1,7 @@
+<map id="LayoutTests.ContentSizeFitterTests.TestFitModeUnconstrained" name="LayoutTests.ContentSizeFitterTests.TestFitModeUnconstrained">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,218,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_content_size_fitter.html#aeaa5fda5b63e1a763983025fb58a9241" title="Calculate and apply the horizontal component of the size to the RectTransform." alt="" coords="266,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,43,250,38,251,44,219,48"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_content_size_fitter.html#a858ffadfed1b9372b6a9729bfb262927" title="Calculate and apply the vertical component of the size to the RectTransform." alt="" coords="266,72,448,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,72,251,76,250,82,218,77"/>
+</map>

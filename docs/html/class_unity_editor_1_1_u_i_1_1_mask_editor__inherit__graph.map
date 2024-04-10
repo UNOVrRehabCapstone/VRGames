@@ -1,0 +1,5 @@
+<map id="UnityEditor.UI.MaskEditor" name="UnityEditor.UI.MaskEditor">
+<area shape="rect" id="Node000001" title="Custom Editor for the Mask component. Extend this class to write a custom editor for a component deri..." alt="" coords="5,80,177,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,119,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,88,80,88,48"/>
+</map>

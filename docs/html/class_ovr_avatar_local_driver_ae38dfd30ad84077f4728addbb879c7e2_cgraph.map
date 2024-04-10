@@ -1,0 +1,13 @@
+<map id="OvrAvatarLocalDriver.UpdateTransforms" name="OvrAvatarLocalDriver.UpdateTransforms">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,190,132"/>
+<area shape="rect" id="Node000002" href="$class_ovr_avatar_driver.html#aec29d548eb670c2bdd3955a6c8a337f5" title=" " alt="" coords="238,89,455,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,108,222,108,222,113,190,113"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar.html#a9c987a4fbc98b0a3eb46edefef00da0a" title=" " alt="" coords="511,5,688,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,86,502,41,525,34,526,39,504,47,395,91"/>
+<area shape="rect" id="Node000004" href="$class_ovr_avatar.html#af36b0db0bd38cc324fecd3fdb3e265d4" title=" " alt="" coords="513,56,686,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,94,497,88,497,93,456,99"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_avatar_1_1_c_a_p_i.html#afae4ea1a7e1ca72798b3712c72ca6580" title=" " alt="" coords="503,123,695,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,122,488,127,487,132,455,128"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_avatar_1_1_c_a_p_i.html#aef8390f6e51ea5abf12b8b81eba05ee2" title=" " alt="" coords="503,189,695,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,130,504,175,521,181,519,186,502,180,395,135"/>
+</map>

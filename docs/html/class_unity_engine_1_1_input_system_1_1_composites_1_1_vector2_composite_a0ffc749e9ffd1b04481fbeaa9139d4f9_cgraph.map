@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Composites.Vector2Composite.ReadValue" name="UnityEngine.InputSystem.Composites.Vector2Composite.ReadValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,211,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_dpad_control.html#ae4cfa185ee9cada8f980aaf11a02267b" title="Create a direction vector from the given four button states." alt="" coords="259,5,469,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
+</map>

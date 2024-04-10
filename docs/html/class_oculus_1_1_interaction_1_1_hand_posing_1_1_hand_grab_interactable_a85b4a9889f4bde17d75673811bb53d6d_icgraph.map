@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.GenerateObjectToHandTween" name="Oculus.Interaction.HandPosing.HandGrabInteractable.GenerateObjectToHandTween">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,5,550,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#ac91740cb7b6eb9d0ab1c8a2dba3dc9e7" title="When a new interactable is selected, start the grab at the ideal point. When snapping is involved tha..." alt="" coords="5,13,261,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,37,261,37,261,32,293,32"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider" name="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider">
+<area shape="rect" id="Node000001" title="The LocomotionProvider is the base class for various locomotion implementations. This class provides ..." alt="" coords="163,299,342,341"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html" title="Locomotion provider that allows the user to smoothly move their rig continuously over time." alt="" coords="390,96,624,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,287,477,137,480,141,294,291"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_turn_provider_base.html" title="Locomotion provider that allows the user to smoothly rotate their rig continuously over time." alt="" coords="393,261,622,304"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="357,302,392,297,393,302,358,307"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html" title="A locomotion provider that allows the user to rotate their rig using a 2D axis input." alt="" coords="410,332,604,375"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="358,331,410,338,409,343,357,336"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_provider.html" title="The TeleportationProvider is responsible for moving the XR Origin to the desired location on the user..." alt="" coords="416,399,599,441"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="308,346,391,384,424,396,422,401,389,389,306,351"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,307,115,333"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,317,162,317,162,323,130,323"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_continuous_move_provider.html" title="Locomotion provider that allows the user to smoothly move their rig continuously over time using a sp..." alt="" coords="676,5,908,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="597,89,688,62,689,67,599,94"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_continuous_move_provider.html" title="Locomotion provider that allows the user to smoothly move their rig continuously over time using a sp..." alt="" coords="675,88,909,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="640,115,675,115,675,120,640,120"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_continuous_turn_provider.html" title="Locomotion provider that allows the user to smoothly rotate their rig continuously over time using a ..." alt="" coords="678,171,906,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="597,254,688,227,689,233,599,259"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_continuous_turn_provider.html" title="Locomotion provider that allows the user to smoothly rotate their rig continuously over time using a ..." alt="" coords="678,253,906,312"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="638,280,677,280,677,285,638,285"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_snap_turn_provider.html" title="A locomotion provider that allows the user to rotate their rig using a 2D axis input from an input sy..." alt="" coords="673,336,911,379"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="620,352,672,353,672,358,620,358"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_snap_turn_provider.html" title="A locomotion provider that allows the user to rotate their rig using a specified 2D axis input...." alt="" coords="672,403,912,445"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="611,376,704,399,702,405,610,382"/>
+</map>

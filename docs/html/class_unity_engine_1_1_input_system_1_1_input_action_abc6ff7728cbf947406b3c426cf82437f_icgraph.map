@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputAction.Enable" name="UnityEngine.InputSystem.InputAction.Enable">
+<area shape="rect" id="Node000001" title="Enable the action such that it actively listens for input and runs callbacks in response." alt="" coords="274,39,446,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#a92f309d6357ac416b1bc16d4dc96ad9b" title="Allow players to join the game based on joinBehavior." alt="" coords="5,5,226,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,49,226,44,227,39,259,44"/>
+<area shape="rect" id="Node000003" href="$class_simple_controller___using_actions.html#a1b996a8860ba56043232ad388aea285a" title=" " alt="" coords="13,72,218,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,76,219,82,218,77,258,71"/>
+</map>

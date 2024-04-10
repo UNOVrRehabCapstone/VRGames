@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,380,162,407"/>
+<area shape="rect" id="Node000001" href="$class_windows_1_1_data_1_1_property_changed_event_args.html" title=" " alt="" coords="210,5,419,48"/>
+<area shape="poly" id="edge1726_Node000000_Node000001" title=" " alt="" coords="85,364,94,301,115,219,131,176,152,133,177,93,208,58,224,46,227,51,211,62,181,97,156,136,136,178,120,221,100,302,90,365"/>
+<area shape="rect" id="Node000002" href="$class_windows_1_1_kinect_1_1_audio_beam_frame_arrived_event_args.html" title=" " alt="" coords="221,72,408,115"/>
+<area shape="poly" id="edge1727_Node000000_Node000002" title=" " alt="" coords="88,364,101,313,124,248,159,182,182,152,208,125,224,113,228,117,211,129,186,155,164,185,129,251,106,314,93,365"/>
+<area shape="rect" id="Node000003" href="$class_windows_1_1_kinect_1_1_body_frame_arrived_event_args.html" title=" " alt="" coords="221,139,408,181"/>
+<area shape="poly" id="edge1728_Node000000_Node000003" title=" " alt="" coords="93,364,109,326,134,279,167,232,208,191,227,180,230,184,211,195,171,235,139,282,114,328,97,366"/>
+<area shape="rect" id="Node000004" href="$class_windows_1_1_kinect_1_1_body_index_frame_arrived_event_args.html" title=" " alt="" coords="224,205,405,248"/>
+<area shape="poly" id="edge1729_Node000000_Node000004" title=" " alt="" coords="101,365,146,311,175,283,208,258,230,246,233,251,211,262,179,287,150,315,105,369"/>
+<area shape="rect" id="Node000005" href="$class_windows_1_1_kinect_1_1_color_frame_arrived_event_args.html" title=" " alt="" coords="221,272,408,315"/>
+<area shape="poly" id="edge1730_Node000000_Node000005" title=" " alt="" coords="119,370,209,324,239,313,241,318,211,329,122,374"/>
+<area shape="rect" id="Node000006" href="$class_windows_1_1_kinect_1_1_coordinate_mapping_changed_event_args.html" title=" " alt="" coords="224,339,405,381"/>
+<area shape="poly" id="edge1731_Node000000_Node000006" title=" " alt="" coords="177,377,223,370,224,376,177,382"/>
+<area shape="rect" id="Node000007" href="$class_windows_1_1_kinect_1_1_depth_frame_arrived_event_args.html" title=" " alt="" coords="219,405,410,448"/>
+<area shape="poly" id="edge1732_Node000000_Node000007" title=" " alt="" coords="177,404,219,410,218,416,176,409"/>
+<area shape="rect" id="Node000008" href="$class_windows_1_1_kinect_1_1_frame_captured_event_args.html" title=" " alt="" coords="210,472,419,515"/>
+<area shape="poly" id="edge1733_Node000000_Node000008" title=" " alt="" coords="122,412,211,458,241,469,239,474,209,462,119,417"/>
+<area shape="rect" id="Node000009" href="$class_windows_1_1_kinect_1_1_infrared_frame_arrived_event_args.html" title=" " alt="" coords="215,539,414,581"/>
+<area shape="poly" id="edge1734_Node000000_Node000009" title=" " alt="" coords="105,418,150,472,179,500,211,524,233,536,230,541,208,529,175,504,146,475,101,421"/>
+<area shape="rect" id="Node000010" href="$class_windows_1_1_kinect_1_1_is_available_changed_event_args.html" title=" " alt="" coords="224,605,405,648"/>
+<area shape="poly" id="edge1735_Node000000_Node000010" title=" " alt="" coords="97,420,114,459,139,505,171,551,211,591,230,603,227,607,208,595,167,555,134,508,109,461,93,422"/>
+<area shape="rect" id="Node000011" href="$class_windows_1_1_kinect_1_1_long_exposure_infrared_frame_arrived_event_args.html" title=" " alt="" coords="213,672,416,715"/>
+<area shape="poly" id="edge1736_Node000000_Node000011" title=" " alt="" coords="93,422,106,472,129,536,164,602,186,632,211,658,228,669,224,674,208,662,182,635,159,604,124,538,101,474,88,423"/>
+<area shape="rect" id="Node000012" href="$class_windows_1_1_kinect_1_1_multi_source_frame_arrived_event_args.html" title=" " alt="" coords="220,739,409,781"/>
+<area shape="poly" id="edge1737_Node000000_Node000012" title=" " alt="" coords="90,422,100,484,120,566,136,609,156,651,181,690,211,725,227,736,224,740,208,729,177,693,152,653,131,611,115,567,94,485,85,423"/>
+</map>

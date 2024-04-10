@@ -1,0 +1,6 @@
+<map id="UnityEngine.ProBuilder.Vertex.operator==" name="UnityEngine.ProBuilder.Vertex.operator==">
+<area shape="rect" id="Node000001" title="Determines whether the specified Vertex is equal to this one." alt="" coords="5,37,270,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html#ac381930397eacbfedf61819ddb3ee083" title="Determines whether the specified generic object is equal to this Vertex." alt="" coords="318,29,519,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,48,302,48,302,53,270,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="366,29,364,19,372,10,391,5,418,3,448,5,466,11,465,16,447,10,418,8,392,10,375,15,369,21,371,28"/>
+</map>

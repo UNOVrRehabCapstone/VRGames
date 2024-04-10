@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Management.Tests.EditorTests.StandaloneLoaderCreateTest" name="UnityEditor.XR.Management.Tests.EditorTests.StandaloneLoaderCreateTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,237,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html#a0e506b1a8ea6bea24e38d72d10f8922d" title="Initialize the loader. This should initialize all subsystems to support the desired runtime setup thi..." alt="" coords="285,5,519,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,32,269,32,269,37,237,37"/>
+</map>

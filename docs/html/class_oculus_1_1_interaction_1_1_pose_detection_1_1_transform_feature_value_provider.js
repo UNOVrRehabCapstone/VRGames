@@ -1,0 +1,4 @@
+var class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_value_provider =
+[
+    [ "TransformProperties", "struct_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_value_provider_1_1_transform_properties.html", "struct_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_value_provider_1_1_transform_properties" ]
+];

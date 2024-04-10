@@ -1,0 +1,12 @@
+<map id="UnityEditor.Timeline.TimelineTreeView.BeginRowGUI" name="UnityEditor.Timeline.TimelineTreeView.BeginRowGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,195,127"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a1c05e1c7fe6a6cd897b5194d3245fcab" title=" " alt="" coords="243,39,434,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,85,227,78,228,84,196,90"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a704c4d08cac6bbed02177f068f9ed6dc" title=" " alt="" coords="244,129,433,172"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,121,229,127,228,132,195,126"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_tree_view.html#a2e81a898a100d30ef09e2f58e4c40957" title=" " alt="" coords="482,5,671,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,44,466,39,467,45,435,49"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html#a1273eeccd2aa0203d292b6abd78848ce" title=" " alt="" coords="482,72,671,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,71,467,75,466,81,434,76"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="293,129,291,119,299,110,315,105,338,103,364,105,379,111,377,116,363,110,338,108,316,110,302,115,297,121,298,128"/>
+</map>

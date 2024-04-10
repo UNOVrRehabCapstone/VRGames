@@ -1,0 +1,22 @@
+<map id="AnchorSession.Log" name="AnchorSession.Log">
+<area shape="rect" id="Node000001" title=" " alt="" coords="488,280,622,307"/>
+<area shape="rect" id="Node000002" href="$class_spatial_anchor_session.html#acd2f02353286f6f493526d95187e4e94" title=" " alt="" coords="245,5,437,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,266,532,221,511,166,480,110,460,85,438,62,422,51,425,46,442,58,464,81,484,107,516,164,537,220,550,264"/>
+<area shape="rect" id="Node000003" href="$class_spatial_anchor_session.html#a9134caf12c13759ddb3975c74662bd3e" title=" " alt="" coords="242,72,440,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="539,267,501,198,472,161,438,129,420,117,423,113,442,125,476,157,505,195,544,264"/>
+<area shape="rect" id="Node000004" href="$class_spatial_anchor_session.html#a911b62ee21b8f9de1f375fa642eb5f5a" title=" " alt="" coords="247,139,435,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,271,489,232,439,196,416,184,418,180,441,191,493,228,533,267"/>
+<area shape="rect" id="Node000005" href="$class_anchor_spawner.html#a49fe9a08d4990a22cf89dd7356132c67" title="Spawns an anchor and parents it under the given transform." alt="" coords="246,205,436,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="494,277,411,251,413,246,496,272"/>
+<area shape="rect" id="Node000006" href="$class_spatial_anchor_session.html#ab2d0099ee81d92ad3cbb066e2cdec9fb" title=" " alt="" coords="247,272,435,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="472,296,435,296,435,291,472,291"/>
+<area shape="rect" id="Node000007" href="$class_spatial_anchor_session.html#a533ba16c1bbcf29127d51183a12d6eda" title=" " alt="" coords="5,389,194,432"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="494,314,441,329,195,391,193,386,439,324,493,309"/>
+<area shape="rect" id="Node000008" href="$class_spatial_anchor_session.html#a172fa075d623cb0d7dcfca9df9e890a5" title=" " alt="" coords="250,389,432,432"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="526,318,486,346,441,373,403,391,400,386,439,368,483,341,523,314"/>
+<area shape="rect" id="Node000009" href="$class_anchor_helpers.html#a9c20a980555053d18f4dd2b81e930618" title=" " alt="" coords="249,456,433,483"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="543,322,503,385,475,418,441,446,419,458,416,453,439,442,471,414,499,382,538,319"/>
+<area shape="rect" id="Node000010" href="$class_anchor_helpers.html#ab69fb570bb76e7e41eb3db35da8b0f17" title=" " alt="" coords="249,507,433,533"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="548,322,534,361,512,409,481,456,442,497,422,508,419,504,438,493,477,453,507,406,529,359,543,320"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="268,454,189,435,191,430,269,449"/>
+</map>

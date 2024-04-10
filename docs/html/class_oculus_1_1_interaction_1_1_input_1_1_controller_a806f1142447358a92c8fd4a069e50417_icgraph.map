@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Input.Controller.IsButtonUsageAllActive" name="Oculus.Interaction.Input.Controller.IsButtonUsageAllActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,51,468,93"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_controller_ref.html#aa7df31b7ccdf401f8bb216667d859657" title=" " alt="" coords="5,5,205,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,57,205,52,205,47,237,51"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_controller_selector.html#aea5be805a5faa27c7b16e15b80aea646" title=" " alt="" coords="12,88,198,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,93,198,98,198,93,237,87"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="TMPro.TMP_Text.GetPreferredValues" name="TMPro.TMP_Text.GetPreferredValues">
+<area shape="rect" id="Node000001" title="Function to Calculate the Preferred Width and Height of the text object given the provided width and ..." alt="" coords="5,157,205,200"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a754e5a230232f1ed55615e55a3ed32ad" title="Method to calculate the preferred height of a text object." alt="" coords="253,157,452,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,176,237,176,237,181,205,181"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#abf101b7be511178e9d0d6999dcd26977" title="Method to parse the input text based on its source." alt="" coords="500,195,713,221"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="188,198,253,209,372,216,484,214,485,219,372,221,252,215,187,203"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___text.html#abb5c80b9a45b89007024c857593e12c8" title="Method to calculate the preferred width of a text object." alt="" coords="253,91,452,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="186,154,255,135,256,141,187,159"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#acc9b0abc219f02c05f5badfd0e649094" title="Method to calculate the preferred width and height of the text object." alt="" coords="517,91,697,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,154,507,135,509,140,437,159"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="453,188,485,191,484,197,452,193"/>
+<area shape="rect" id="Node000004" href="$struct_t_m_pro_1_1_t_m_p___text_processing_stack.html#a251279ee81e8a656885c8f07e48200f2" title="Function to clear and reset stack to first item." alt="" coords="788,5,975,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="669,88,761,57,785,50,786,55,762,63,671,93"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___text.html#a0555e7043aed6e3db5ef6113eac2fa77" title="Restore the State of various variables used in the mesh creation loop." alt="" coords="780,72,983,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="697,103,765,99,765,104,698,109"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___text.html#af4575fb91d41221be3bd2764a356eda1" title="Save the State of various variables used in the mesh creation loop in conjunction with Word Wrapping." alt="" coords="761,139,1002,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="698,125,746,134,745,139,697,130"/>
+<area shape="rect" id="Node000008" href="$interface_t_m_pro_1_1_i_text_preprocessor.html#a211b26c6e7a5eec73c08ab268289c38a" title="Function used for preprocessing of text." alt="" coords="795,205,968,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="714,213,780,217,780,222,713,218"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="452,109,501,109,501,115,452,115"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="421,131,453,143,560,186,558,191,451,148,419,136"/>
+</map>

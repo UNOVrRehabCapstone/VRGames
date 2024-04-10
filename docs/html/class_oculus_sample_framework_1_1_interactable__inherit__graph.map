@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.Interactable" name="OculusSampleFramework.Interactable">
+<area shape="rect" id="Node000001" title="Interface for all objects interacted with in example code." alt="" coords="5,80,247,107"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_button_controller.html" title="A button interactable used by the train scene." alt="" coords="20,155,232,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,122,129,154,123,154,123,122"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,48,129,80,123,80,123,48"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="UnityEditor.ProBuilder.VertexManipulationTool" name="UnityEditor.ProBuilder.VertexManipulationTool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,205,324,248"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_position_tool.html" title=" " alt="" coords="372,113,596,140"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,197,447,138,449,143,300,202"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_pro_builder_1_1_texture_tool.html" title=" " alt="" coords="374,247,594,273"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="340,238,377,243,376,249,339,244"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,213,85,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,224,132,224,132,229,100,229"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_move_tool.html" title=" " alt="" coords="644,5,856,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="529,104,643,58,676,46,678,51,645,62,531,109"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_rotate_tool.html" title=" " alt="" coords="644,72,856,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="611,108,644,104,644,109,611,113"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_scale_tool.html" title=" " alt="" coords="644,139,856,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="611,140,644,144,644,149,611,145"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_pro_builder_1_1_texture_move_tool.html" title=" " alt="" coords="652,205,848,248"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="610,242,651,236,652,242,610,247"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_pro_builder_1_1_texture_rotate_tool.html" title=" " alt="" coords="652,272,848,315"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="610,273,652,278,651,284,610,278"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_pro_builder_1_1_texture_scale_tool.html" title=" " alt="" coords="652,339,848,381"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="531,277,645,324,678,336,676,341,643,329,529,282"/>
+</map>

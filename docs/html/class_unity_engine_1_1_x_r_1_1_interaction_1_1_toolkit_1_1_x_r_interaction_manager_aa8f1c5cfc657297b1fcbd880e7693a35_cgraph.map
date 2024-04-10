@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ClearInteractorSelection" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ClearInteractorSelection">
+<area shape="rect" id="Node000001" title="Automatically called each frame during Update to clear the selection of the Interactor if necessary d..." alt="" coords="5,47,229,105"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#af0b18304c6e7626f430831a9572251ec" title="Determines if the Interactable is valid for selection this frame." alt="" coords="285,5,485,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,56,269,50,270,55,230,61"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a769ea5a02d6373a5958ee92713f9b8fa" title="Determines whether the Interactor and Interactable share at least one interaction layer between their..." alt="" coords="277,88,493,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,91,262,96,261,101,229,96"/>
+</map>

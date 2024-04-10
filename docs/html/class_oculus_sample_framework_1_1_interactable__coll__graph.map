@@ -1,0 +1,11 @@
+<map id="OculusSampleFramework.Interactable" name="OculusSampleFramework.Interactable">
+<area shape="rect" id="Node000001" title="Interface for all objects interacted with in example code." alt="" coords="663,73,905,100"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="285,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,15,519,19,580,25,640,35,700,51,751,70,749,75,698,56,639,40,579,30,518,25,410,20"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_sample_framework_1_1_collider_zone.html" title="Zone that can be collided with in example code." alt="" coords="217,73,462,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,84,663,84,663,89,478,89"/>
+<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_interactable_1_1_interactable_state_args_event.html" title=" " alt="" coords="217,124,462,167"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,126,639,105,691,98,691,103,640,111,478,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,124,168,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="183,143,217,143,217,148,183,148"/>
+</map>

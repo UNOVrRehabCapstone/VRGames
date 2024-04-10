@@ -1,0 +1,8 @@
+<map id="Oculus.Platform.CAPI.ovr_CloudStorageData_GetDataSize" name="Oculus.Platform.CAPI.ovr_CloudStorageData_GetDataSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="492,5,706,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_cloud_storage_data.html#a0a73293af274d46c87cc1f14b4443751" title=" " alt="" coords="5,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,26,444,25,256,25,208,26,208,21,256,20,444,20,477,21"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a022eab92472a36a216e00867468649a1" title=" " alt="" coords="256,35,444,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,44,445,48,444,42,476,38"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,45,208,42,208,36,240,40"/>
+</map>

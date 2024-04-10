@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.GridLayoutGroup.CalculateLayoutInputVertical" name="UnityEngine.UI.GridLayoutGroup.CalculateLayoutInputVertical">
+<area shape="rect" id="Node000001" title="Called by the layout system to calculate the vertical layout size. Also see ILayoutElement." alt="" coords="5,5,231,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6a091521efd71c3a4cfb82e42ea4a713" title="Used to set the calculated layout properties for the given axis." alt="" coords="279,5,468,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,24,263,24,263,29,231,29"/>
+</map>

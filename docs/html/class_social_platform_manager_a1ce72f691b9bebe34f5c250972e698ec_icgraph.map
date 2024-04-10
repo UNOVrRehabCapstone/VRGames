@@ -1,0 +1,11 @@
+<map id="SocialPlatformManager.LogOutput" name="SocialPlatformManager.LogOutput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,48,696,91"/>
+<area shape="rect" id="Node000002" href="$class_p2_p_manager.html#aa381b26723a9e933cf0c386b4df359e8" title=" " alt="" coords="280,5,442,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,50,428,35,429,30,501,45"/>
+<area shape="rect" id="Node000003" href="$class_voip_manager.html#a5050a1c5716759a55fa0341558015a3d" title=" " alt="" coords="279,56,443,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="500,72,443,72,443,67,500,67"/>
+<area shape="rect" id="Node000004" href="$class_p2_p_manager.html#a7e1361a5e0b34c2b86f5ddd3345731c6" title=" " alt="" coords="254,107,468,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,94,429,109,428,103,500,88"/>
+<area shape="rect" id="Node000005" href="$class_social_platform_manager.html#a9413ac3a0cdbea7cf45375a541634df2" title=" " alt="" coords="5,107,206,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,123,206,123,206,117,238,117"/>
+</map>

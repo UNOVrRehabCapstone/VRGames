@@ -1,0 +1,11 @@
+<map id="TeleportAimHandler" name="TeleportAimHandler">
+<area shape="rect" id="Node000001" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="121,155,256,181"/>
+<area shape="rect" id="Node000004" href="$class_teleport_aim_handler_laser.html" title=" " alt="" coords="5,229,172,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,193,108,231,104,227,157,189"/>
+<area shape="rect" id="Node000005" href="$class_teleport_aim_handler_parabolic.html" title="This aim handler simulates the parabolic curve that a thrown item would follow, a common style of tel..." alt="" coords="196,229,384,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="220,188,274,227,271,231,217,193"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="132,80,245,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,122,191,154,186,154,186,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="134,5,243,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,48,191,80,186,80,186,48"/>
+</map>
