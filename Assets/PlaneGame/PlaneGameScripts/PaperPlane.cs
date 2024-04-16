@@ -1,5 +1,4 @@
-﻿using Classes;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PaperPlane : MonoBehaviour, IGrabEvent
 {
@@ -84,9 +83,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             Debug.Log("Hit the Target!");
             other.GetComponentInChildren<ParticleSystem>().Play();
             
-            manager.RespawnPlane(gameObject);
-
-            other.gameObject.GetComponent<Target>().HitTarget();
+            manager.KillPlane(gameObject);
         }
     }
 }
