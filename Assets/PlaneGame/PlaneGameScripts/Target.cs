@@ -26,6 +26,19 @@ namespace Classes
                 //manager.StartSpawningHoops();
             }
         }
+
+        public void hitTarget()
+        {
+
+            this.GetComponent<MeshCollider>().enabled = false;
+            this.GetComponent<MeshRenderer>().enabled = false;
+            foreach (var r in gameObject.GetComponentsInChildren<MeshRenderer>())
+            {
+                r.GetComponent<MeshRenderer>().enabled = false;
+            }
+
+            Destroy(gameObject, 3.0f);
+        }
     }
 }
 
