@@ -1,0 +1,8 @@
+<map id="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetTreeView.RowGUI" name="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetTreeView.RowGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,253,80"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_item.html#a855b187f668687a357cb374cfb94357d" title=" " alt="" coords="301,29,518,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,56,285,56,285,61,253,61"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="356,29,357,19,367,10,384,5,409,3,438,5,455,13,453,17,437,11,409,8,385,10,370,15,362,21,362,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_item.html#a053eaa0e084cbdd239fc4086237e2ae2" title=" " alt="" coords="566,29,797,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="518,56,551,56,551,61,518,61"/>
+</map>

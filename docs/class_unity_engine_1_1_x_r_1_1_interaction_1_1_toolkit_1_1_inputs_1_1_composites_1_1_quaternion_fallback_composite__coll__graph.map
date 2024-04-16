@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.QuaternionFallbackComposite" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.QuaternionFallbackComposite">
+<area shape="rect" id="Node000001" title="A single Quaternion value, such as a rotation, computed from an ordered list of bindings...." alt="" coords="5,96,244,155"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_fallback_composite.html" title=" " alt="" coords="54,5,195,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,63,127,96,122,96,122,63"/>
+</map>

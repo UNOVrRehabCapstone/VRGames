@@ -1,0 +1,4 @@
+var class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor =
+[
+    [ "StandaloneSubsystemDescriptor", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor.html#af6c65cf29af643c2f31f2a0b6a2d6faa", null ]
+];

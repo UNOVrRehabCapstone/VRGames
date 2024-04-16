@@ -1,0 +1,23 @@
+<map id="UnityEngine.UI.LayoutGroup.SetChildAlongAxisWithScale" name="UnityEngine.UI.LayoutGroup.SetChildAlongAxisWithScale">
+<area shape="rect" id="Node000001" title="Set the position and size of a child layout element along the given axis." alt="" coords="828,72,1018,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a3c48c66c95d94ae8328dc71ee65344c0" title="Set the position and size of a child layout element along the given axis." alt="" coords="574,5,763,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="824,70,752,51,753,46,825,65"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a5d2a30293dfce8a007ae6904e692a415" title="Set the position and size of a child layout element along the given axis." alt="" coords="574,72,763,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="813,96,763,96,763,91,813,91"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_horizontal_or_vertical_layout_group.html#a570037a65f7088099d020e74c426dc87" title="Set the positions and sizes of the child layout elements for the given axis." alt="" coords="556,139,780,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="834,122,771,141,770,136,832,117"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html#a1f2bf04fbbc163b14e16b528d7a0c97a" title="Called by the layout system. Also see ILayoutElement." alt="" coords="292,47,508,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="568,135,555,129,507,104,477,92,479,87,509,99,557,124,571,130"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_vertical_layout_group.html#a34560cd3c74a447bc84e92cd3633e01c" title="Called by the layout system. Also see ILayoutElement." alt="" coords="303,180,497,223"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="541,186,498,192,497,187,540,181"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html#a1802eac198c20c8b43f6a62af1e91c36" title="Called by the layout system. Also see ILayoutElement." alt="" coords="299,113,501,156"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="540,155,501,150,502,145,541,150"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_u_i_1_1_vertical_layout_group.html#a90854ae9526aa73aa6559b2ccfc134ac" title="Called by the layout system. Also see ILayoutElement." alt="" coords="303,247,497,289"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="587,206,509,237,475,249,474,244,507,232,585,201"/>
+<area shape="rect" id="Node000006" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#a9d0173a0a506ca321f6724445be53751" title=" " alt="" coords="5,31,244,89"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="276,67,244,66,244,61,276,62"/>
+<area shape="rect" id="Node000007" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#a113178f9a74b43acca8021175de9a74f" title=" " alt="" coords="5,113,244,172"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="305,96,236,115,234,110,303,91"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="303,111,234,92,236,87,305,106"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="283,141,244,142,244,137,283,135"/>
+</map>

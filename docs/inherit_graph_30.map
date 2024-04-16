@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,107,186,133"/>
+<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_test_tools_1_1_unity_test_attribute.html" title="UnityTest attribute is the main addition to the standard NUnit library for the Unity Test Framework...." alt="" coords="251,91,436,133"/>
+<area shape="poly" id="edge36_Node000000_Node000001" title=" " alt="" coords="201,114,250,112,250,118,201,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,224,144,251"/>
+<area shape="poly" id="edge40_Node000002_Node000001" title=" " alt="" coords="147,215,184,194,198,181,207,168,217,156,232,143,255,131,257,136,235,148,221,159,211,172,202,185,187,198,150,219"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_test_tools_1_1_require_platform_support_attribute.html" title="The RequirePlatformSupportAttribute attribute can be applied to test assemblies (will affect every te..." alt="" coords="247,157,440,200"/>
+<area shape="poly" id="edge37_Node000002_Node000003" title=" " alt="" coords="158,220,250,198,251,203,159,225"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_test_tools_1_1_conditional_ignore_attribute.html" title="This attribute is an alternative to the standard Ignore attribute in NUnit. It allows for ignoring te..." alt="" coords="234,224,453,267"/>
+<area shape="poly" id="edge38_Node000002_Node000005" title=" " alt="" coords="159,237,234,239,233,244,159,242"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_test_tools_1_1_unity_platform_attribute.html" title="Use this attribute to define a specific set of platforms you want or do not want your test(s) to run ..." alt="" coords="251,291,436,333"/>
+<area shape="poly" id="edge39_Node000002_Node000006" title=" " alt="" coords="158,253,271,288,269,293,156,258"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="48,157,143,184"/>
+<area shape="poly" id="edge41_Node000009_Node000001" title=" " alt="" coords="158,153,250,131,251,137,159,159"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="31,5,160,32"/>
+<area shape="poly" id="edge42_Node000010_Node000001" title=" " alt="" coords="165,34,187,42,297,88,295,93,185,46,164,39"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="51,56,140,83"/>
+<area shape="poly" id="edge43_Node000011_Node000001" title=" " alt="" coords="156,77,251,93,250,99,155,82"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,299,147,325"/>
+<area shape="poly" id="edge44_Node000004_Node000003" title=" " alt="" coords="139,289,184,261,198,247,207,235,217,222,232,210,255,198,257,203,235,214,220,226,211,238,202,251,187,265,142,294"/>
+<area shape="poly" id="edge45_Node000004_Node000005" title=" " alt="" coords="161,292,261,265,262,270,162,297"/>
+<area shape="poly" id="edge46_Node000004_Node000006" title=" " alt="" coords="162,309,250,309,250,315,162,315"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_test_tools_1_1_unity_set_up_attribute.html" title="The UnitySetUp and UnityTearDownAttribute attributes are identical to the standard SetUp and TearDown..." alt="" coords="251,357,436,400"/>
+<area shape="poly" id="edge47_Node000004_Node000007" title=" " alt="" coords="162,327,262,354,261,359,161,332"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_test_tools_1_1_unity_tear_down_attribute.html" title="The UnitySetUpAttribute and UnityTearDown attributes are identical to the standard SetUp and TearDown..." alt="" coords="251,424,436,467"/>
+<area shape="poly" id="edge48_Node000004_Node000008" title=" " alt="" coords="125,334,175,372,235,410,261,421,259,426,232,414,172,377,122,338"/>
+</map>

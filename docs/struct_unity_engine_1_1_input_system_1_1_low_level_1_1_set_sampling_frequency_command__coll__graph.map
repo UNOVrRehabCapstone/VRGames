@@ -1,0 +1,12 @@
+<map id="UnityEngine.InputSystem.LowLevel.SetSamplingFrequencyCommand" name="UnityEngine.InputSystem.LowLevel.SetSamplingFrequencyCommand">
+<area shape="rect" id="Node000001" title="For a device that is sampled periodically, set the frequency at which the device is sampled." alt="" coords="5,295,218,353"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="5,89,175,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,131,111,294,106,295,90,132"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_device_command.html" title="Data header for a command send to an InputDevice." alt="" coords="128,188,330,231"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="120,123,203,185,200,190,117,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,243,143,296,139,292,195,240"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_four_c_c.html" title="A four&#45;character code." alt="" coords="199,81,371,124"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="269,139,242,189,238,186,264,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="210,5,360,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="288,48,288,81,282,81,282,48"/>
+</map>

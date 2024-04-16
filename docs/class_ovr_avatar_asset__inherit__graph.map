@@ -1,0 +1,9 @@
+<map id="OvrAvatarAsset" name="OvrAvatarAsset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,5,312,32"/>
+<area shape="rect" id="Node000002" href="$class_ovr_avatar_asset_material.html" title=" " alt="" coords="5,80,162,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,41,115,82,113,77,212,36"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar_asset_mesh.html" title=" " alt="" coords="186,80,328,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,48,260,80,254,80,254,48"/>
+<area shape="rect" id="Node000004" href="$class_ovr_avatar_asset_texture.html" title=" " alt="" coords="352,80,506,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,36,400,77,398,82,300,41"/>
+</map>

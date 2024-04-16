@@ -1,0 +1,7 @@
+<map id="Classes.Managers.LavaClimbGameplayManager.killRock" name="Classes.Managers.LavaClimbGameplayManager.killRock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,39,458,81"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#ae4819cae18aa0b88ca592d3a0e7da0d2" title=" " alt="" coords="15,5,208,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,48,208,42,209,37,250,42"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a796f8aa0270c1d2b1ca1c9bec396b201" title=" " alt="" coords="5,72,218,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,77,218,82,218,77,250,72"/>
+</map>

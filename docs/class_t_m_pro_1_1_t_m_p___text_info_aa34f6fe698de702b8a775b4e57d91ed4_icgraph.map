@@ -1,0 +1,5 @@
+<map id="TMPro.TMP_TextInfo.ClearMeshInfo" name="TMPro.TMP_TextInfo.ClearMeshInfo">
+<area shape="rect" id="Node000001" title="Function to clear the content of the MeshInfo array while preserving the Triangles,..." alt="" coords="260,5,436,48"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae306e084f9bdd5f374e9168d00fa0d17" title="Function to clear the geometry of the Primary and Sub Text objects." alt="" coords="5,13,212,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,29,212,29,212,24,244,24"/>
+</map>

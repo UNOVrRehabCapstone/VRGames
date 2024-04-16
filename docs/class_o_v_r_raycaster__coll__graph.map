@@ -1,0 +1,15 @@
+<map id="OVRRaycaster" name="OVRRaycaster">
+<area shape="rect" id="Node000001" title="Extension of GraphicRaycaster to support ray casting with world space rays instead of just screen&#45;spa..." alt="" coords="93,304,201,331"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_graphic_raycaster.html" title="A derived BaseRaycaster to raycast against Graphic elements." alt="" coords="5,229,131,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,265,135,302,131,306,91,269"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_base_raycaster.html" title="Base class for any RayCaster." alt="" coords="13,155,123,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,197,71,229,65,229,65,197"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="23,80,113,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="71,122,71,154,65,154,65,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="13,5,123,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="71,48,71,80,65,80,65,48"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_enter_handler.html" title="Interface to implement if you wish to receive OnPointerEnter callbacks." alt="" coords="155,229,296,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="202,269,162,306,158,302,199,265"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_event_systems_1_1_i_event_system_handler.html" title="Base class that all EventSystem events inherit from." alt="" coords="153,155,298,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="228,197,228,229,223,229,223,197"/>
+</map>

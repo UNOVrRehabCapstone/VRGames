@@ -1,0 +1,17 @@
+<map id="OVRCameraRig.OnDestroy" name="OVRCameraRig.OnDestroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,185,140"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_camera_rig.html#a465790fa4aa1771f03648f107d2f8d32" title=" " alt="" coords="233,105,445,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,124,217,124,217,129,185,129"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html#a5404761b6effb5c90b4fef6792448c4d" title=" " alt="" coords="493,113,699,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,124,477,124,477,129,446,129"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_camera_rig.html#a4967dbeb017a9817e2152f84840cf9eb" title=" " alt="" coords="748,5,980,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="625,110,680,84,746,58,767,51,768,56,748,62,683,89,627,115"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_manager.html#aa730949ad5abb2b67c82898864d13304" title="Specifies the pose offset required to make an OpenVR controller&#39;s reported pose match the virtual pos..." alt="" coords="750,72,978,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="699,111,734,107,735,112,700,116"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_camera_rig.html#a750f810522c32a2ed34eb85e98b7c5f5" title=" " alt="" coords="765,139,963,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="700,137,750,143,749,148,699,142"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_manager.html#a6b918a57cdb3be1d4e6100d5760a29b8" title="Specifies OpenVR pose local to tracking space." alt="" coords="747,205,981,232"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="626,138,681,165,748,191,775,199,774,204,746,196,679,170,623,143"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_camera_rig.html#a0cdc2a61808f7c6b12e12a76143f390a" title=" " alt="" coords="1029,13,1241,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="980,24,1013,24,1013,29,980,29"/>
+</map>

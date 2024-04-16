@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToObject" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToObject">
+<area shape="rect" id="Node000001" title="Return a boxed version of the value." alt="" coords="247,13,453,56"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_named_value.html#aed542cb4e79e166f10289c43ee644c15" title=" " alt="" coords="5,5,199,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,37,199,37,199,32,231,32"/>
+</map>

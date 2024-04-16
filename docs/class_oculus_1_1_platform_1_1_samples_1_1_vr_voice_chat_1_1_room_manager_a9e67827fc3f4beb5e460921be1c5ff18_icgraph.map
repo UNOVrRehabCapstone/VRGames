@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.Samples.VrVoiceChat.RoomManager.JoinExistingRoom" name="Oculus.Platform.Samples.VrVoiceChat.RoomManager.JoinExistingRoom">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,47,734,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#a459fed4326bada05d44c6330be3fc634" title=" " alt="" coords="265,5,466,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,60,466,53,466,48,510,55"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_room_manager.html#a7197b85d88929622b6e831487759d3f1" title=" " alt="" coords="254,88,477,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="510,97,478,102,477,97,509,92"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#a03d6459ff2943b738a3d67e3f0e121da" title=" " alt="" coords="5,5,206,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,37,206,37,206,32,250,32"/>
+</map>

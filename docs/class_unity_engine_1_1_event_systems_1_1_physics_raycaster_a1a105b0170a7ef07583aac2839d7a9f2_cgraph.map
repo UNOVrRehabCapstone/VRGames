@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.PhysicsRaycaster.Raycast" name="UnityEngine.EventSystems.PhysicsRaycaster.Raycast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,189,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_physics_raycaster.html#a140b68f1598bdf9bf4bf04eaa1765ce9" title="Returns a ray going from camera through the event position and the distance between the near and far ..." alt="" coords="237,5,466,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,32,221,32,221,37,189,37"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="TeleportDestination" name="TeleportDestination">
+<area shape="rect" id="Node000001" title="The teleport system uses a prefab with an TeleportDestination component, which will track the target ..." alt="" coords="72,172,204,199"/>
+<area shape="rect" id="Node000004" href="$class_locomotion_teleport.html" title="The LocomotionTeleport class controls and centralizes functionality for the various types of teleport..." alt="" coords="116,279,250,305"/>
+<area shape="poly" id="edge8_Node000004_Node000001" title=" " alt="" coords="152,212,156,222,180,277,175,279,151,224,147,214"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,46,107,107,134,171,129,173,102,109,83,48"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="64,46,38,90,16,144,10,173,9,202,14,229,28,253,41,262,62,270,116,281,115,286,60,275,38,267,24,256,9,230,3,202,4,173,11,143,34,87,59,43"/>
+<area shape="rect" id="Node000006" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="255,81,367,108"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="134,35,272,78,271,83,133,40"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="116,81,208,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,124,144,172,139,171,152,122"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,282,60,271,35,256,28,239,35,221,51,205,70,195,73,200,54,210,39,224,33,239,39,253,62,267,101,277"/>
+<area shape="rect" id="Node000005" href="$class_teleport_aim_handler.html" title="TeleportAimHandler will provide a series of points in the world that represent the series of line seg..." alt="" coords="405,172,540,199"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="459,213,439,237,412,257,383,267,343,276,251,288,250,282,342,271,382,262,410,252,435,233,455,210"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="349,114,451,169,448,174,346,118"/>
+<area shape="rect" id="Node000007" href="$class_teleport_input_handler.html" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="242,172,381,199"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="314,124,314,171,309,171,309,124"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="328,212,333,234,332,246,327,256,315,266,297,273,251,284,250,279,295,268,312,261,322,253,327,244,328,235,323,213"/>
+</map>

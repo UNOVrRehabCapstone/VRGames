@@ -1,0 +1,9 @@
+<map id="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfLegalAddSucceeds" name="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfLegalAddSucceeds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,251,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a1187cd1161dc52c790cc2141541bf2b3" title="Attempts to append the given loader to the list of loaders at the given index." alt="" coords="570,13,789,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,19,299,16,410,12,522,16,555,18,554,23,522,21,410,18,299,21,251,24"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#ac1571ce6108ee9f2fe0fd7ea4119978d" title="Attempts to set the given loader list as the list of loaders managed by this instance." alt="" coords="299,55,522,97"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,50,284,55,283,60,251,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="522,56,554,51,555,56,523,61"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="360,55,358,45,366,36,384,30,410,28,440,31,457,37,455,42,438,36,410,33,385,35,369,40,363,46,365,53"/>
+</map>

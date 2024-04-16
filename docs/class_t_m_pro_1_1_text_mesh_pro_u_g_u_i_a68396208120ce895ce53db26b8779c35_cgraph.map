@@ -1,0 +1,28 @@
+<map id="TMPro.TextMeshProUGUI.Awake" name="TMPro.TextMeshProUGUI.Awake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,220,107"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a4828101c6dd0459b8879cc13d9405e35" title="Internal function used to load the default settings of text objects." alt="" coords="272,39,467,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,77,256,72,257,77,220,82"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="268,105,471,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,105,253,109,252,114,220,110"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material." alt="" coords="520,5,714,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,102,470,91,494,75,518,58,530,52,532,57,520,62,497,79,472,96,446,107"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___text.html#a17ad19c4cf9c5ad4485b208eb0a37bf2" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="522,72,712,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="471,110,506,106,506,111,472,116"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ade90a42615b002bb0c31b06d497df510" title=" " alt="" coords="521,139,712,181"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="472,138,506,142,505,148,471,143"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="519,205,714,248"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="417,146,520,191,536,197,534,202,518,196,415,151"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___text.html#a3193988e012b58e178ae978de5e64e6d" title=" " alt="" coords="783,105,972,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="713,103,768,110,767,115,712,108"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="777,39,978,81"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="712,79,761,72,762,77,713,84"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="1041,39,1245,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="965,102,1040,83,1041,88,966,107"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="1041,105,1245,148"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="973,124,1025,124,1025,129,973,129"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="979,57,1025,57,1025,63,979,63"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="780,188,975,231"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="715,218,764,214,764,220,715,223"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="762,255,993,313"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="715,246,748,253,746,258,714,251"/>
+</map>

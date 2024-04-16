@@ -1,0 +1,6 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DTSweepContext.LocateNode" name="UnityEngine.ProBuilder.Poly2Tri.DTSweepContext.LocateNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,218,72"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_advancing_front.html#a16f1dc1732868968289a3706e5911609" title="We use a balancing tree to locate a node smaller or equal to given key value (in theory)" alt="" coords="266,29,467,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,48,250,48,250,53,218,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="318,29,316,19,324,10,341,5,366,3,393,5,410,11,408,16,392,10,366,8,342,10,327,15,321,21,323,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_SpriteAsset.GetSpriteIndexFromHashcode" name="TMPro.TMP_SpriteAsset.GetSpriteIndexFromHashcode">
+<area shape="rect" id="Node000001" title="Function which returns the sprite index using the hashcode of the name." alt="" coords="264,39,454,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#afa0139e3dcab964f9cfcf1fc634caad2" title="Returns the index of the sprite for the given name." alt="" coords="15,5,206,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,48,206,42,207,37,249,43"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#a0a140b6024a1c437a950681c7c9f4212" title="Search the given sprite asset and fallbacks for a sprite whose hash code value of its name matches th..." alt="" coords="5,72,216,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,77,216,82,216,77,248,72"/>
+</map>

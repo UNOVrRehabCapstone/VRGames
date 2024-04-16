@@ -1,0 +1,47 @@
+<map id="UnityEditor.Timeline.Actions.TrackAction" name="UnityEditor.Timeline.Actions.TrackAction">
+<area shape="rect" id="Node000001" title="Base class for a track action. Inherit from this class to make an action that would react on selected..." alt="" coords="115,588,304,631"/>
+<area shape="rect" id="Node000003" href="$class_doc_code_examples_1_1_action_examples___hide_a_p_i_1_1_sample_track_action.html" title=" " alt="" coords="352,5,583,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,572,230,456,259,302,278,225,300,155,324,98,350,58,364,47,368,51,354,62,328,100,305,157,283,227,265,304,235,457,218,573"/>
+<area shape="rect" id="Node000004" href="$class_doc_code_examples_1_1_timeline_attributes_examples___hide_a_p_i_1_1_set_name_to_type_action.html" title=" " alt="" coords="361,72,574,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,572,215,486,223,430,236,371,254,309,278,249,310,192,350,141,364,129,367,133,354,145,315,195,283,251,259,311,241,372,229,431,221,486,214,573"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_add_override_track_action.html" title=" " alt="" coords="386,155,550,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,572,220,496,243,398,261,347,284,296,314,249,350,207,384,187,386,192,354,211,318,252,289,299,266,349,248,400,225,497,215,573"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_collapse_track_action.html" title=" " alt="" coords="372,221,563,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,572,227,508,252,428,270,386,292,345,319,307,350,274,370,260,373,265,354,278,323,311,296,348,275,388,257,430,232,510,218,573"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_timeline_1_1_convert_from_clip_track_action.html" title=" " alt="" coords="376,288,560,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="217,572,235,520,262,458,300,395,324,366,350,341,374,326,376,331,354,345,327,370,304,398,266,460,240,522,223,574"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_timeline_1_1_convert_to_clip_mode_action.html" title=" " alt="" coords="376,355,560,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="224,573,244,534,273,490,308,445,350,407,374,394,376,399,354,412,312,449,277,493,249,537,229,576"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_timeline_1_1_copy_tracks_to_clipboard.html" title=" " alt="" coords="382,421,553,464"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="236,574,286,522,317,496,351,474,380,460,383,465,353,478,320,500,289,526,240,578"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_timeline_1_1_delete_tracks.html" title=" " alt="" coords="379,488,557,531"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="265,578,351,540,384,529,386,534,353,545,267,583"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_timeline_1_1_duplicate_tracks.html" title=" " alt="" coords="370,555,565,597"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="319,592,369,586,370,591,320,598"/>
+<area shape="rect" id="Node000012" href="$class_unity_editor_1_1_timeline_1_1_edit_track_in_animation_window.html" title=" " alt="" coords="384,621,551,664"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="320,621,384,629,383,635,319,626"/>
+<area shape="rect" id="Node000013" href="$class_unity_editor_1_1_timeline_1_1_expand_track_action.html" title=" " alt="" coords="375,688,560,731"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="267,636,353,674,386,685,384,690,351,678,265,640"/>
+<area shape="rect" id="Node000014" href="$class_unity_editor_1_1_timeline_1_1_lock_selected_track.html" title=" " alt="" coords="383,755,552,797"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="240,641,289,692,320,718,353,740,384,754,382,759,351,745,317,722,286,696,236,645"/>
+<area shape="rect" id="Node000015" href="$class_unity_editor_1_1_timeline_1_1_lock_track.html" title=" " alt="" coords="383,821,552,864"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="229,643,249,682,277,726,312,770,354,807,384,823,381,828,350,812,308,774,273,729,244,684,224,646"/>
+<area shape="rect" id="Node000016" href="$class_unity_editor_1_1_timeline_1_1_mute_selected_track.html" title=" " alt="" coords="383,888,553,931"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="223,645,240,696,266,758,304,821,327,849,354,874,383,891,381,896,350,878,324,853,300,824,262,761,235,698,217,647"/>
+<area shape="rect" id="Node000017" href="$class_unity_editor_1_1_timeline_1_1_mute_track.html" title=" " alt="" coords="383,955,553,997"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="218,645,232,709,257,789,275,830,296,871,323,908,354,941,383,959,380,963,350,945,319,911,292,873,270,833,252,791,227,710,213,646"/>
+<area shape="rect" id="Node000018" href="$class_unity_editor_1_1_timeline_1_1_remove_invalid_markers_action.html" title=" " alt="" coords="374,1021,561,1064"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="215,646,225,722,248,819,266,870,289,920,318,967,354,1007,375,1022,372,1026,350,1011,314,970,284,923,261,872,243,820,220,723,210,647"/>
+<area shape="rect" id="Node000019" href="$class_unity_editor_1_1_timeline_1_1_show_hide_markers.html" title=" " alt="" coords="381,1088,554,1131"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="213,646,219,733,227,788,239,848,257,909,281,969,313,1025,354,1074,382,1093,379,1097,350,1078,309,1028,276,971,252,911,234,849,222,789,214,734,208,646"/>
+<area shape="rect" id="Node000020" href="$class_unity_editor_1_1_timeline_1_1_track_offset_base_action.html" title=" " alt="" coords="381,1155,554,1197"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="218,646,236,759,266,907,284,982,306,1049,329,1104,354,1141,382,1160,379,1164,350,1145,324,1106,301,1051,279,983,261,908,231,760,213,646"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="5,596,67,623"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,607,114,607,114,612,82,612"/>
+<area shape="rect" id="Node000021" href="$class_unity_editor_1_1_timeline_1_1_apply_auto_action.html" title=" " alt="" coords="631,1088,806,1131"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="564,1148,635,1129,636,1134,566,1153"/>
+<area shape="rect" id="Node000022" href="$class_unity_editor_1_1_timeline_1_1_apply_scene_offset_action.html" title=" " alt="" coords="631,1155,806,1197"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="570,1173,631,1173,631,1179,570,1179"/>
+<area shape="rect" id="Node000023" href="$class_unity_editor_1_1_timeline_1_1_apply_transform_offset_action.html" title=" " alt="" coords="631,1221,806,1264"/>
+<area shape="poly" id="edge22_Node000020_Node000023" title=" " alt="" coords="566,1199,636,1218,635,1223,564,1204"/>
+</map>

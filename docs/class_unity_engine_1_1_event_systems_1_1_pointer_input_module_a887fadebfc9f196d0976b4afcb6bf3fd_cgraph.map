@@ -1,0 +1,4 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.GetMousePointerEventData" name="UnityEngine.EventSystems.PointerInputModule.GetMousePointerEventData">
+<area shape="rect" id="Node000001" title="Return the current MouseState. Using the default pointer." alt="" coords="5,29,243,88"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="77,29,78,19,87,10,102,5,124,3,149,5,164,13,162,17,148,11,124,8,103,10,90,15,83,21,83,29"/>
+</map>

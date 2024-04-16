@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Stop" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Stop">
+<area shape="rect" id="Node000001" title="Pauses the Gesture subsystem." alt="" coords="5,13,263,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem_1_1_provider.html#aa31d30208d391cbc1383495c01c0ada9" title="Invoked to stop a running Gesture subsystem." alt="" coords="311,5,541,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,32,295,32,295,37,263,37"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.Update" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.Update">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,129,227,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#a0546e1a8c451b969515ec4eb61d405a7" title="Process input from the user and update the state of manipulated controller device(s) related to input..." alt="" coords="275,88,496,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,139,259,134,260,139,227,144"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#a2cf6f3f95be82fd79083fff3b01ff766" title="Process input from the user and update the state of manipulated device(s) related to position and rot..." alt="" coords="275,171,496,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="227,173,260,178,259,183,227,178"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#ae8f3ae524edfcbcc738faacb59798dfc" title="Process input from the user and update the state of manipulated controller device(s) related to 2D Ax..." alt="" coords="544,5,783,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,85,547,66,548,72,487,90"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#a01f9bd054b23d63ca1c8fbfdd2286f18" title="Process input from the user and update the state of manipulated controller device(s) related to butto..." alt="" coords="546,88,781,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="496,115,531,115,531,120,496,120"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#afd7ef7254d42456f6bdbd2721217abba" title="Gets a Vector3 that can be multiplied component&#45;wise with another Vector3 to reset components of the ..." alt="" coords="553,171,774,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="496,197,537,197,537,203,496,203"/>
+</map>

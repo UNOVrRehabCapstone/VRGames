@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.SpacePartitioner.GetItemsAtPosition&lt; T &gt;" name="UnityEditor.Timeline.SpacePartitioner.GetItemsAtPosition&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Get items of type T at a given position." alt="" coords="5,5,234,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#a43b992e475facb8f3035f9c51d1cd5a6" title=" " alt="" coords="282,5,487,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,24,266,24,266,29,234,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_interval_tree.html#aae40d9e2e77a75c1cfefcb9032a4ffe8" title="Query the tree at a particular range of time." alt="" coords="535,5,722,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,24,519,24,519,29,487,29"/>
+</map>

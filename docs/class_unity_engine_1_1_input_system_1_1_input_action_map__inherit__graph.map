@@ -1,0 +1,15 @@
+<map id="UnityEngine.InputSystem.InputActionMap" name="UnityEngine.InputSystem.InputActionMap">
+<area shape="rect" id="Node000001" title="A mechanism for collecting a series of input actions (see InputAction) and treating them as a group." alt="" coords="220,229,392,272"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,87,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,184,240,226,238,231,100,189"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,155,305,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,189,282,227,279,231,233,193"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_input_system_1_1_i_input_action_collection2.html" title="An extended version of IInputActionCollection." alt="" coords="328,155,481,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,193,333,231,330,227,376,189"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_input_system_1_1_i_input_action_collection.html" title="A collection of input actions (see InputAction)." alt="" coords="332,80,478,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,122,407,154,402,154,402,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="314,5,496,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="407,48,407,80,402,80,402,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="506,155,594,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="498,189,370,231,368,226,497,184"/>
+</map>

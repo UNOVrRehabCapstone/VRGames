@@ -1,0 +1,14 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.GetCoincidentVertices" name="UnityEngine.ProBuilder.ProBuilderMesh.GetCoincidentVertices">
+<area shape="rect" id="Node000001" title="Returns a list of vertices that are coincident to any of the specified vertices." alt="" coords="628,113,855,156"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="791,100,773,94,742,92,713,94,696,99,689,105,691,112,686,113,684,103,693,94,712,89,742,87,774,89,793,95"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_element_group.html#aca295a671176fd904422b6e4334c9f92" title=" " alt="" coords="343,13,544,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="678,109,579,71,541,59,542,54,581,65,680,104"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_weld_vertices.html#a90cd7d6bd9d46c8ff09991430d0bbe9d" title=" " alt="" coords="307,80,580,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="612,123,580,119,581,114,613,118"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_pro_builder_1_1_vertex_color_palette.html#a54b44fc23e72bb0998c14276349d851a" title=" " alt="" coords="348,147,539,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="613,152,540,160,539,155,612,146"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#aed06b89f8a82ac29a0f1962d6ec5203e" title="Marks the specified vertices as coincident on this mesh." alt="" coords="330,213,557,256"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="680,165,581,204,542,215,541,210,579,199,678,160"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_mesh_and_element_selection.html#a03a7a6fc1a884a8d766c944df49f4ae6" title=" " alt="" coords="5,5,259,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="327,37,259,37,259,32,327,32"/>
+</map>

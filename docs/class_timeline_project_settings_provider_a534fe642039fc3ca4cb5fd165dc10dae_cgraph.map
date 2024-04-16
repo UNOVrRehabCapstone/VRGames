@@ -1,0 +1,8 @@
+<map id="TimelineProjectSettingsProvider.OnGUI" name="TimelineProjectSettingsProvider.OnGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,214,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_frame_rate_drawer.html#ac228319dc194e674ead950e6551911ed" title=" " alt="" coords="265,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,48,249,42,250,47,215,53"/>
+<area shape="rect" id="Node000003" href="$class_timeline_project_settings.html#a27d5ebdaa8402d1ee47c127a71d5bfcc" title="Save the timeline project settings file in the project directory." alt="" coords="262,96,452,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,83,258,90,258,95,214,88"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="315,97,308,87,313,77,330,71,357,69,387,72,402,79,400,84,385,77,357,75,331,77,316,81,313,87,320,94"/>
+</map>

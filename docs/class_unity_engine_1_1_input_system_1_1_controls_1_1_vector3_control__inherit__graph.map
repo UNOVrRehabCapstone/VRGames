@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Controls.Vector3Control" name="UnityEngine.InputSystem.Controls.Vector3Control">
+<area shape="rect" id="Node000001" title="A floating&#45;point 3D vector control composed of three AxisControls." alt="" coords="5,80,178,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="12,5,171,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
+</map>

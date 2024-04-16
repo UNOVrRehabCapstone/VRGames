@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Editor.EditorBase.Hide" name="Oculus.Interaction.Editor.EditorBase.Hide">
+<area shape="rect" id="Node000001" title="Call in OnInit with one or more property names to hide them from the inspector." alt="" coords="222,105,390,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#ac40215a81435183477a605d85339b9b1" title="Call in OnInit to specify a custom drawer for a single property. Include an extra property that gets ..." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,100,173,62,146,51,148,46,175,58,252,95"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a564dd5fb8793ba6ab816cd27b94b6ea1" title=" " alt="" coords="5,72,174,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,114,174,109,175,104,207,109"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a3aa60f2bc64e6d23d0535d9ec1af1d70" title=" " alt="" coords="5,139,174,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,145,175,150,174,144,206,139"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a0ed3e84e56eee3cdf2a00b31be53a68b" title=" " alt="" coords="5,205,174,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="252,158,175,196,148,207,146,202,173,191,249,153"/>
+</map>

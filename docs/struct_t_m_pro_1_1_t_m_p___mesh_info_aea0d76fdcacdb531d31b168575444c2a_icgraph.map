@@ -1,0 +1,15 @@
+<map id="TMPro.TMP_MeshInfo.SwapVertexData" name="TMPro.TMP_MeshInfo.SwapVertexData">
+<area shape="rect" id="Node000001" title="Method to swap the vertex attributes between src and dst quads." alt="" coords="822,31,1073,57"/>
+<area shape="rect" id="Node000002" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#af12a00628b4e8a24470a6f4656fee685" title="Function to rearrange the quads of the text object to change their rendering order." alt="" coords="540,5,774,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="807,34,775,32,775,26,807,29"/>
+<area shape="rect" id="Node000003" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#a2514314a12727c88ad96da1fc2dcbfab" title=" " alt="" coords="540,56,774,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="807,59,775,62,775,56,807,54"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a11969b2c0dafdce44a5ce7d48b7664c8" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="279,15,477,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,56,477,50,477,45,525,51"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aaaecdfcf8651816c94084873e48c0b4c" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="264,81,492,124"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="525,88,493,92,492,86,524,83"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="5,23,216,49"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="264,39,216,39,216,33,264,33"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="12,81,209,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="248,105,209,105,209,100,248,100"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TeleportTransitionBlink.LocomotionTeleportOnEnterStateTeleporting" name="TeleportTransitionBlink.LocomotionTeleportOnEnterStateTeleporting">
+<area shape="rect" id="Node000001" title="When the teleport state is entered, start a coroutine that will handle the actual transition effect." alt="" coords="5,5,219,64"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition_blink.html#a42336ab23b56acb580c86dd423055c93" title="This coroutine will fade out the view, perform the teleport, and then fade the view back in." alt="" coords="267,13,423,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,32,251,32,251,37,219,37"/>
+<area shape="rect" id="Node000003" href="$class_locomotion_teleport.html#a8238ffd4461ad60fb1bfa634edcef054" title="Perform the actual teleport. Note that warp transitions do not call this function and instead moves t..." alt="" coords="471,21,671,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,32,456,32,456,37,423,37"/>
+</map>

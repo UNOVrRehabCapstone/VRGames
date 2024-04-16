@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.UI.GamepadModel.Reset" name="UnityEngine.XR.Interaction.Toolkit.UI.GamepadModel.Reset">
+<area shape="rect" id="Node000001" title="Resets this object to it&#39;s default, unused state." alt="" coords="5,13,214,56"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_gamepad_model_1_1_implementation_data.html#a43cf16db072054d03050e0fbf0bc1711" title="Resets this object to its default, unused state." alt="" coords="262,5,524,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,32,246,32,246,37,214,37"/>
+</map>

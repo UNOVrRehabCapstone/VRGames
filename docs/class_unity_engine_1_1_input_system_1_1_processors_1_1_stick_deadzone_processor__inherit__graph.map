@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Processors.StickDeadzoneProcessor" name="UnityEngine.InputSystem.Processors.StickDeadzoneProcessor">
+<area shape="rect" id="Node000001" title="Processes a Vector2 to apply deadzoning according to the magnitude of the vector (rather than just cl..." alt="" coords="5,80,244,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="36,5,213,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,48,127,80,122,80,122,48"/>
+</map>

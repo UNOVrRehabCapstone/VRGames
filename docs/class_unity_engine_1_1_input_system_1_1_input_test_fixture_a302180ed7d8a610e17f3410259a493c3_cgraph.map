@@ -1,0 +1,6 @@
+<map id="UnityEngine.InputSystem.InputTestFixture.CancelTouch" name="UnityEngine.InputSystem.InputTestFixture.CancelTouch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,72"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#aff406b1a690bcc06e79ab5eb1eafbdd3" title=" " alt="" coords="247,29,420,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,48,231,48,231,53,199,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,29,288,19,295,10,310,5,333,3,358,5,373,11,371,16,357,10,333,8,312,10,298,15,293,21,295,28"/>
+</map>

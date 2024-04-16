@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseController.UpdateController" name="UnityEngine.XR.Interaction.Toolkit.XRBaseController.UpdateController">
+<area shape="rect" id="Node000001" title="Updates the controller every frame. This is called automatically from Update." alt="" coords="263,5,472,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#a958f53c796569da98070d4da5def4fae" title="See MonoBehaviour." alt="" coords="5,13,215,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,37,215,37,215,32,247,32"/>
+</map>

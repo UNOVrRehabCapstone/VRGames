@@ -1,0 +1,5 @@
+<map id="TMPro.TextMeshPro.SetLayoutDirty" name="TMPro.TextMeshPro.SetLayoutDirty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,209,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="257,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,24,241,24,241,29,209,29"/>
+</map>

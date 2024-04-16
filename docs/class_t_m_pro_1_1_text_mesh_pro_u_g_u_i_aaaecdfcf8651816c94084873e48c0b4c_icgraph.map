@@ -1,0 +1,5 @@
+<map id="TMPro.TextMeshProUGUI.GenerateTextMesh" name="TMPro.TextMeshProUGUI.GenerateTextMesh">
+<area shape="rect" id="Node000001" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="250,5,478,48"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="5,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,29,202,29,202,24,234,24"/>
+</map>

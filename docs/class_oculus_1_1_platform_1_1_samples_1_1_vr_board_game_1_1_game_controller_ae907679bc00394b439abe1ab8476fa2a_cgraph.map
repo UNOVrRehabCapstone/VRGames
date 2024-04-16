@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.Samples.VrBoardGame.GameController.PracticeButtonPressed" name="Oculus.Platform.Samples.VrBoardGame.GameController.PracticeButtonPressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,255,139"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_matchmaking_manager.html#acf7359c8a81b55b3684022e9545b9b40" title=" " alt="" coords="319,5,559,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,77,304,65,305,70,255,82"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#ae7aeb4b8405161230f828e659600e5b2" title=" " alt="" coords="303,88,575,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,107,287,107,287,112,255,112"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#a81c7ef09cae07934bb518a53cb663d85" title=" " alt="" coords="332,155,546,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,134,323,148,321,153,254,139"/>
+</map>

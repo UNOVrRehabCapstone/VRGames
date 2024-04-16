@@ -1,0 +1,9 @@
+<map id="Unity.Cloud.Collaborate.Components.TabPageComponent" name="Unity.Cloud.Collaborate.Components.TabPageComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,39,374,81"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="422,5,612,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="389,41,421,37,422,42,390,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="427,72,607,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,74,427,79,426,84,389,79"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,111,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,57,158,57,158,63,126,63"/>
+</map>

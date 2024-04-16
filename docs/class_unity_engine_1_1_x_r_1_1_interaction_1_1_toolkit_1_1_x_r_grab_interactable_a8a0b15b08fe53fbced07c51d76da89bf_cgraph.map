@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.OnSelectExiting" name="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.OnSelectExiting">
+<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor ends selection of an Interacta..." alt="" coords="5,5,238,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#a64e974ec1187aa0c2682cd3e8101c51b" title="Updates the state of the object due to being dropped and schedule to finish the detach during the end..." alt="" coords="286,13,491,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,32,270,32,270,37,238,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#ad726527ee66dc3e78249ae1977a13235" title="Setup the Rigidbody on this object due to being dropped. Automatically called when exiting the Select..." alt="" coords="539,5,751,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,32,524,32,524,37,492,37"/>
+</map>

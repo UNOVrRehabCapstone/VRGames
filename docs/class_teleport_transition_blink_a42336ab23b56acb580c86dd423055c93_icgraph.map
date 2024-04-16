@@ -1,0 +1,5 @@
+<map id="TeleportTransitionBlink.BlinkCoroutine" name="TeleportTransitionBlink.BlinkCoroutine">
+<area shape="rect" id="Node000001" title="This coroutine will fade out the view, perform the teleport, and then fade the view back in." alt="" coords="267,13,423,56"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition_blink.html#a045d1baec7db871801c9ffacb17e2cd5" title="When the teleport state is entered, start a coroutine that will handle the actual transition effect." alt="" coords="5,5,219,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,37,219,37,219,32,251,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.QueryDimensionsCommand" name="UnityEngine.InputSystem.LowLevel.QueryDimensionsCommand">
+<area shape="rect" id="Node000001" title="Query dimensions of a device." alt="" coords="5,80,245,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="40,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,48,128,80,122,80,122,48"/>
+</map>

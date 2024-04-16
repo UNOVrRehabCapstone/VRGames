@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.PointableCanvas" name="Oculus.Interaction.PointableCanvas">
+<area shape="rect" id="Node000001" title="PointerCanvas allows any IPointable to forward its events onto an associated Canvas via the IPointabl..." alt="" coords="37,155,222,197"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,117,114,153,110,156,79,120"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_pointable_canvas.html" title=" " alt="" coords="139,80,259,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,120,149,156,145,153,176,117"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="160,5,238,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,48,201,80,196,80,196,48"/>
+</map>

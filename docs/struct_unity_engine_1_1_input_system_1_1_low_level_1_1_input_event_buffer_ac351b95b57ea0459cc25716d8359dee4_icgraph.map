@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.LowLevel.InputEventBuffer.InputEventBuffer" name="UnityEngine.InputSystem.LowLevel.InputEventBuffer.InputEventBuffer">
+<area shape="rect" id="Node000001" title="Construct an event buffer using the given memory block containing InputEvents." alt="" coords="516,5,718,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_buffer.html#adba28857762859ea72a51ee4af2a0d58" title=" " alt="" coords="261,13,468,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,37,468,37,468,32,501,32"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_buffer.html#a4877ba1fd4ff8d70ff315f76a61e1eda" title=" " alt="" coords="5,13,213,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,37,213,37,213,32,245,32"/>
+</map>

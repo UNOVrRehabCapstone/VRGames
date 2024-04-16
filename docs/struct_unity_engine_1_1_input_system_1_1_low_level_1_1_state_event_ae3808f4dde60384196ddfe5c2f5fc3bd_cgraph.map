@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.StateEvent.FromDefaultStateFor" name="UnityEngine.InputSystem.LowLevel.StateEvent.FromDefaultStateFor">
+<area shape="rect" id="Node000001" title="Create a state event for the given device &#160;and copy the default state of the device into the event." alt="" coords="5,5,220,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#a64884e59d37b5bb7dfaf9bf1a290b98e" title="Return the given InputEventPtr as a StateEvent pointer." alt="" coords="268,13,442,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,32,252,32,252,37,220,37"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Facebook.WitAi.Lib.WitResponseNode.Add" name="Facebook.WitAi.Lib.WitResponseNode.Add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="596,160,813,203"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entity.html#af10ae507f2912d40bc3eabe6c0266384" title=" " alt="" coords="320,72,528,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,157,493,118,495,113,620,152"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_simple_dynamic_entity.html#a6b001e5e7336c28b67c2442270127246" title=" " alt="" coords="300,160,548,203"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="580,184,548,184,548,179,580,179"/>
+<area shape="rect" id="Node000008" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#ad363f80f6fc9b4873b19d6d8ffd1cb98" title=" " alt="" coords="315,272,533,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="636,211,481,274,479,269,634,206"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#ac3d13c1ee38b56a2b5eaf5fabb3e0c8c" title=" " alt="" coords="30,5,227,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,71,226,51,227,46,312,65"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entity.html#a9c78392ca06a116eaf80a04496f75491" title="Used to get dynamic entities." alt="" coords="30,72,227,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="304,96,228,96,228,91,304,91"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#a19a12e4c354602c7563db1930f0179e1" title=" " alt="" coords="30,139,227,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="284,174,227,170,228,164,284,169"/>
+<area shape="rect" id="Node000007" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_simple_dynamic_entity.html#acbaa41797ccbf32e81def601c1c71794" title="Used to get dynamic entities." alt="" coords="19,205,238,248"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="285,205,239,213,238,207,284,200"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="470,259,453,253,424,251,397,253,381,257,374,263,376,271,371,272,369,262,378,253,396,247,424,245,454,248,472,254"/>
+<area shape="rect" id="Node000009" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_understanding_viewer.html#a6457ec7cb737f8178c8756e209d5b792" title=" " alt="" coords="26,272,231,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="300,296,231,296,231,291,300,291"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_voice_1_1_bindings_1_1_android_1_1_voice_s_d_k_listener_binding.html#aaee224913f73e6015687b1516586909b" title=" " alt="" coords="5,339,252,381"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="312,321,227,341,226,335,311,316"/>
+</map>

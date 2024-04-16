@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.MeshOperations.ConnectFaceRebuildData" name="UnityEngine.ProBuilder.MeshOperations.ConnectFaceRebuildData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,241,245"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_face_rebuild_data.html" title="Information required to append a face to a pb_Object." alt="" coords="29,96,217,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,154,126,202,120,202,120,154"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_face.html" title="A face is composed of a set of triangles, and a material." alt="" coords="29,5,217,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,48,126,95,120,95,120,48"/>
+</map>

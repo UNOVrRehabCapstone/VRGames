@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputProcessor.Process" name="UnityEngine.InputSystem.InputProcessor.Process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,39,440,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html#adcd5bf1099095d51c64afdaffa2385a2" title=" " alt="" coords="26,5,199,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,49,199,41,199,36,253,43"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html#aec9f958a9ef70cd4bb77cb57e8f7dd3e" title=" " alt="" coords="5,72,220,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,77,220,81,220,76,252,71"/>
+</map>

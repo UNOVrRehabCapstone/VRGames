@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.InputControl.RefreshConfiguration" name="UnityEngine.InputSystem.InputControl.RefreshConfiguration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,13,480,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a96934d2028848054141a854553646df7" title="Call RefreshConfiguration if the configuration has in the interim been invalidated by a DeviceConfigu..." alt="" coords="5,5,219,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,37,219,37,219,32,251,32"/>
+</map>

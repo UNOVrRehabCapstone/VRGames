@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.SwipeAdjustedPosition" name="UnityEngine.EventSystems.OVRInputModule.SwipeAdjustedPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,508,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a89c2706d1f38fb877c31112faee008a9" title="Exactly the same as the code from PointerInputModule, except that we call our own IsPointerMoving." alt="" coords="5,5,204,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+</map>

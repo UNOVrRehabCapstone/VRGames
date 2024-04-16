@@ -1,0 +1,15 @@
+<map id="UnityEditor.Timeline.TimelineTrackGUI" name="UnityEditor.Timeline.TimelineTrackGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,229,364,272"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="45,155,172,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,186,230,226,227,231,146,191"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="32,80,185,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,122,111,154,106,154,106,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,105,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="75,43,101,78,97,81,71,46"/>
+<area shape="rect" id="Node000005" href="$interface_unity_editor_1_1_timeline_1_1_i_bounds.html" title=" " alt="" coords="129,5,197,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="146,46,120,81,116,78,142,43"/>
+<area shape="rect" id="Node000006" href="$interface_unity_editor_1_1_timeline_1_1_i_clip_curve_editor_owner.html" title=" " alt="" coords="195,155,344,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="272,197,272,229,267,229,267,197"/>
+<area shape="rect" id="Node000007" href="$interface_unity_editor_1_1_timeline_1_1_i_row_g_u_i.html" title=" " alt="" coords="369,155,440,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="372,192,306,231,303,227,369,187"/>
+</map>

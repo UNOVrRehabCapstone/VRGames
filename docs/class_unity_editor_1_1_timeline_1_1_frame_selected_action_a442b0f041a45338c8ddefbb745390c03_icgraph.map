@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.FrameSelectedAction.ShouldHandleInlineCurve" name="UnityEditor.Timeline.FrameSelectedAction.ShouldHandleInlineCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,39,487,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_frame_all_action.html#ad69c3e1c189ce4f3eedf8007fc63fd74" title=" " alt="" coords="5,5,184,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,45,184,41,184,35,217,39"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_frame_selected_action.html#ae18cdcff57510e0ce168d37da9ee7c05" title=" " alt="" coords="5,72,184,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,81,184,85,184,79,216,75"/>
+</map>

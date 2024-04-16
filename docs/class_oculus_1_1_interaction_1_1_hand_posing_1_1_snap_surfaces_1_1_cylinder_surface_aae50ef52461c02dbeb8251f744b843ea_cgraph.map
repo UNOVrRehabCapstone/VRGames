@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.CalculateBestPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.CalculateBestPoseAtSurface">
+<area shape="rect" id="Node000001" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="5,47,261,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a6c0edc6d8d40412d21d782c044deb55f" title=" " alt="" coords="309,5,555,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,56,293,51,294,56,262,61"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a0c606062d9c4efa0e8b4a153c319a9af" title=" " alt="" coords="309,88,555,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,91,294,96,293,101,261,96"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a8a3b34f6ea4eb36398ae5eaa4413661b" title=" " alt="" coords="603,5,858,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,32,588,32,588,37,555,37"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a9bcbb112c977ff7f24e5d8771729e646" title=" " alt="" coords="608,88,854,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="541,62,608,81,607,86,540,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="540,85,607,66,608,71,541,90"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="555,115,592,115,592,120,555,120"/>
+</map>

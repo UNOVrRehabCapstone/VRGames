@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractor.DoSelectUpdate" name="Oculus.Interaction.HandPosing.HandGrabInteractor.DoSelectUpdate">
+<area shape="rect" id="Node000001" title="Each call while the hand is selecting/grabbing an interactable, it moves the item to the new position..." alt="" coords="5,39,237,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_address.html#a9fe2c401201a6b381945e25d4edac49b" title=" " alt="" coords="285,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,43,269,39,269,44,237,48"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grabbable.html#a587a315a33530a616b0d758be8fa01ad" title=" " alt="" coords="290,72,484,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,72,275,77,274,82,237,77"/>
+</map>

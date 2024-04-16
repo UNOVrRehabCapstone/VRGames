@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.Visuals.HandGrabInteractorVisual" name="Oculus.Interaction.HandPosing.Visuals.HandGrabInteractorVisual">
+<area shape="rect" id="Node000001" title="This component is used to drive the HandGrabModifier. It sets the desired fingers and wrist positions..." alt="" coords="5,80,222,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="59,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,48,116,80,111,80,111,48"/>
+</map>

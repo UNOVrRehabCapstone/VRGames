@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.TimelineMarkerGUI.Draw" name="UnityEditor.Timeline.TimelineMarkerGUI.Draw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,195,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#a85d8effbff6e987e54683254d4e17680" title=" " alt="" coords="248,29,427,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,68,232,63,233,68,195,73"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html#a3dc52cce934e959f526f8a206ad4a4e7" title=" " alt="" coords="243,96,432,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="195,95,227,99,227,104,195,100"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,29,291,19,298,10,314,5,337,3,363,5,378,11,376,16,361,10,337,8,315,10,301,15,296,21,298,28"/>
+</map>

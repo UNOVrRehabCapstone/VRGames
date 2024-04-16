@@ -1,0 +1,4 @@
+var class_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_config_builder =
+[
+    [ "BuildCondition", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_config_builder_1_1_build_condition.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_feature_config_builder_1_1_build_condition" ]
+];

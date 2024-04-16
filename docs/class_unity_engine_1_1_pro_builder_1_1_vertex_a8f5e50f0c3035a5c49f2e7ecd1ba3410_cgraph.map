@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Vertex.Mix" name="UnityEngine.ProBuilder.Vertex.Mix">
+<area shape="rect" id="Node000001" title="Linearly interpolates between two vertices using the specified weight." alt="" coords="5,13,228,40"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html#a7d99cad2529c7b7e1736a7c39932fe66" title="Initializes a Vertex with no values." alt="" coords="276,5,477,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,24,260,24,260,29,228,29"/>
+</map>

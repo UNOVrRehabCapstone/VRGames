@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Entity" name="UnityEngine.ProBuilder.Entity">
+<area shape="rect" id="Node000001" title="Provides some additional functionality to GameObjects, like managing visiblity and colliders." alt="" coords="5,80,199,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,48,105,80,99,80,99,48"/>
+</map>

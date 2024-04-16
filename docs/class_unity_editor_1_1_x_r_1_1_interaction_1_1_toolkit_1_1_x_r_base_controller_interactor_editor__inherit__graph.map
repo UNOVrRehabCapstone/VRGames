@@ -1,0 +1,13 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor" name="UnityEditor.XR.Interaction.Toolkit.XRBaseControllerInteractorEditor">
+<area shape="rect" id="Node000001" title="Custom editor for an XRBaseControllerInteractor." alt="" coords="505,31,724,89"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_direct_interactor_editor.html" title="Custom editor for an XRDirectInteractor." alt="" coords="772,5,973,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="739,41,771,37,771,42,739,47"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html" title="Custom editor for an XRRayInteractor." alt="" coords="777,72,968,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="739,73,777,78,776,84,739,79"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html" title="Custom editor for an XRBaseInteractor." alt="" coords="302,47,457,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,57,505,57,505,63,473,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="109,47,254,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,57,302,57,302,63,270,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,47,61,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,57,109,57,109,63,76,63"/>
+</map>

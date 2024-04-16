@@ -1,0 +1,6 @@
+<map id="UnityEngine.XR.Management.XRManagerSettings.TrySetLoaders" name="UnityEngine.XR.Management.XRManagerSettings.TrySetLoaders">
+<area shape="rect" id="Node000001" title="Attempts to set the given loader list as the list of loaders managed by this instance." alt="" coords="5,29,229,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="66,29,64,19,73,10,90,5,117,3,146,5,163,12,162,17,145,10,117,8,91,10,76,15,69,21,72,28"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a1187cd1161dc52c790cc2141541bf2b3" title="Attempts to append the given loader to the list of loaders at the given index." alt="" coords="277,29,496,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,48,261,48,261,53,229,53"/>
+</map>

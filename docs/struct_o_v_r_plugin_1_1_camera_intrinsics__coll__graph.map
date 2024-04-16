@@ -1,0 +1,11 @@
+<map id="OVRPlugin.CameraIntrinsics" name="OVRPlugin.CameraIntrinsics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,187,197,213"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_fovf.html" title=" " alt="" coords="5,96,118,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,136,100,185,96,187,72,138"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_sizei.html" title=" " alt="" coords="142,96,261,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,135,146,165,120,188,116,184,142,161,175,131"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="75,5,211,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="162,44,195,94,191,97,157,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="235,5,288,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="247,47,212,97,208,94,242,44"/>
+</map>

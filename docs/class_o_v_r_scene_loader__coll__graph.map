@@ -1,0 +1,21 @@
+<map id="OVRSceneLoader" name="OVRSceneLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,263,264,289"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="125,172,235,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,213,201,261,196,263,184,214"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_text.html" title="The default Graphic to draw font data to screen." alt="" coords="258,172,395,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,210,221,264,218,260,295,206"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html" title="A Graphic that is capable of being masked out." alt="" coords="124,81,246,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,114,308,169,305,174,217,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,72,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="78,37,161,78,159,83,76,42"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html" title="Interface for elements that can be clipped if they are under an IClipper." alt="" coords="96,5,173,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="154,43,179,79,174,82,149,46"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_u_i_1_1_i_maskable.html" title="This element is capable of being masked out." alt="" coords="197,5,277,32"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="222,46,196,83,192,79,218,43"/>
+<area shape="rect" id="Node000008" href="$interface_unity_engine_1_1_u_i_1_1_i_material_modifier.html" title="Use this interface to modify a Material that renders a Graphic. The Material is modified before the i..." alt="" coords="301,5,416,32"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="316,41,216,83,214,78,314,36"/>
+<area shape="rect" id="Node000009" href="$interface_unity_engine_1_1_u_i_1_1_i_layout_element.html" title="A component is treated as a layout element by the auto layout system if it implements ILayoutElement." alt="" coords="271,81,382,108"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="329,124,329,171,324,171,324,124"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="407,81,460,108"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="408,120,343,173,340,169,405,116"/>
+</map>

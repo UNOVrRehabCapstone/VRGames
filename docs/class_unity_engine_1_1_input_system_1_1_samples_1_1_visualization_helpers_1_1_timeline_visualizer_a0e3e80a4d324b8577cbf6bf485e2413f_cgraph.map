@@ -1,0 +1,11 @@
+<map id="UnityEngine.InputSystem.Samples.VisualizationHelpers.TimelineVisualizer.AddSample" name="UnityEngine.InputSystem.Samples.VisualizationHelpers.TimelineVisualizer.AddSample">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,204,97"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="58,38,58,28,67,19,82,14,105,12,130,15,145,22,143,27,128,20,104,17,84,19,70,24,63,30,63,39"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aef220e022f508492313013ce63c0fef6" title="Create a PrimitiveValue from a boxed value." alt="" coords="252,39,436,97"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,65,236,65,236,71,204,71"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a46edcc5d376009b4c83f5e48c6454a95" title="Parse the given string into a PrimitiveValue." alt="" coords="484,5,668,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="436,52,468,47,469,53,437,57"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aa81e228bae2b8ee3fa2745a3a0b54c0e" title="Create a PrimitiveValue holding a bool." alt="" coords="716,47,953,89"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="437,71,484,73,668,73,700,72,700,78,668,79,484,79,437,77"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="669,44,701,48,701,53,668,49"/>
+</map>

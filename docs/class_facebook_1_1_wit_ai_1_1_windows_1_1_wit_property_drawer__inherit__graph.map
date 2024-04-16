@@ -1,0 +1,27 @@
+<map id="Facebook.WitAi.Windows.WitPropertyDrawer" name="Facebook.WitAi.Windows.WitPropertyDrawer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,171,359,213"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_application_property_drawer.html" title=" " alt="" coords="407,21,602,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,158,348,120,406,82,445,62,447,67,408,86,351,124,301,163"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_endpoint_config_drawer.html" title=" " alt="" coords="407,96,602,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="347,163,432,137,433,142,349,168"/>
+<area shape="rect" id="Node000008" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_entity_property_drawer.html" title=" " alt="" coords="407,171,602,213"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="375,189,407,189,407,195,375,195"/>
+<area shape="rect" id="Node000010" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_intent_property_drawer.html" title=" " alt="" coords="407,245,602,288"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="349,216,433,242,432,247,347,221"/>
+<area shape="rect" id="Node000012" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_trait_property_drawer.html" title=" " alt="" coords="407,328,602,371"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="302,221,352,259,408,298,458,325,456,330,406,302,349,263,299,225"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,179,116,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,189,163,189,163,195,131,195"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_voice_1_1_windows_1_1_voice_application_detail_provider.html" title=" " alt="" coords="685,13,878,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="618,37,684,35,684,40,618,42"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_application_property_drawer.html" title=" " alt="" coords="961,5,1187,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="893,32,960,32,960,37,893,37"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_endpoint_property_drawer.html" title=" " alt="" coords="650,80,913,139"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="618,111,650,110,650,116,618,117"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_entity_property_drawer.html" title=" " alt="" coords="659,163,904,221"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="618,189,658,189,658,195,618,195"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_intent_property_drawer.html" title=" " alt="" coords="660,245,903,304"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="618,267,659,268,659,274,618,273"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_trait_property_drawer.html" title=" " alt="" coords="663,328,900,387"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="618,350,663,351,663,357,618,355"/>
+</map>

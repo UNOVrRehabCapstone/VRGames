@@ -1,0 +1,7 @@
+var namespace_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone =
+[
+    [ "Providing", "namespace_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing.html", "namespace_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_providing" ],
+    [ "StandaloneLoader", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader" ],
+    [ "StandaloneSubsystem", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem.html", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem" ],
+    [ "StandaloneSubsystemDescriptor", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor.html", "class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor" ]
+];

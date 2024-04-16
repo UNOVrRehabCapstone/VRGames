@@ -1,0 +1,25 @@
+<map id="OVR.SoundFX.PlaySound" name="OVR.SoundFX.PlaySound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,178,192"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_audio_manager.html#a63ea41ee8484502589bb27cd1f050d72" title=" " alt="" coords="226,165,429,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,176,210,176,210,181,178,181"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_audio_manager.html#abc58dc84c8685160eec12290357cfb78" title=" " alt="" coords="477,165,693,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,176,462,176,462,181,430,181"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_f_x.html#a34d09507f81c4b0e9526e851659bd469" title=" " alt="" coords="777,5,929,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,163,654,104,695,70,740,42,761,33,763,38,743,46,698,74,657,108,600,167"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_1_1_sound_f_x.html#a91952bf5aac2c55187485e368fda03f9" title=" " alt="" coords="754,56,952,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="606,162,665,128,740,92,763,85,765,90,742,97,668,132,609,167"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_1_1_sound_f_x.html#a9734af9a36d4e0c9caca7f2540829946" title=" " alt="" coords="773,107,933,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="649,162,773,135,774,140,650,167"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_1_1_sound_f_x.html#addcf07659d2e938ebe955d7593050940" title=" " alt="" coords="755,157,951,200"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="694,176,740,176,740,181,694,181"/>
+<area shape="rect" id="Node000009" href="$class_o_v_r_1_1_sound_emitter.html#acf57b65a4ecb3c81a56c05b80495b03d" title=" " alt="" coords="749,224,957,251"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="650,190,774,218,773,223,649,195"/>
+<area shape="rect" id="Node000010" href="$class_o_n_s_p_audio_source.html#a20ac3574a31d998ae3aa2e0008ad5b44" title="Sets the parameters." alt="" coords="741,275,965,301"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="609,190,668,225,742,260,765,268,763,273,740,265,665,230,606,195"/>
+<area shape="rect" id="Node000011" href="$class_o_v_r_1_1_sound_emitter.html#a050c11ca847bdf19204623c3cc209295" title=" " alt="" coords="753,325,953,368"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="601,191,658,249,699,282,743,311,753,316,751,321,740,316,695,286,655,253,597,195"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_1_1_sound_group.html#aefda29ca562980747036553e89bd0fc3" title=" " alt="" coords="1013,165,1228,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="951,176,997,176,997,181,951,181"/>
+<area shape="rect" id="Node000012" href="$class_o_v_r_1_1_sound_group.html#a03ae208c4dec4a8704a0c3b802d703bc" title=" " alt="" coords="1027,325,1214,368"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="953,344,1012,344,1012,349,953,349"/>
+</map>

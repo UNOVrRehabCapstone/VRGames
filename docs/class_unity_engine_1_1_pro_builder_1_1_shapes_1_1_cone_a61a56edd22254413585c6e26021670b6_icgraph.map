@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Shapes.Cone.UpdateBounds" name="UnityEngine.ProBuilder.Shapes.Cone.UpdateBounds">
+<area shape="rect" id="Node000001" title="Allows the user to redefine the default bounding box for this shape.The bounds from this shape&#39;s Mesh..." alt="" coords="261,5,468,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cone.html#af49df71a91faffe3696da44aafafd8b1" title=" " alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,29,213,29,213,24,245,24"/>
+</map>

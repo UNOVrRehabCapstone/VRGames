@@ -1,0 +1,9 @@
+<map id="UnityEngine.ProBuilder.SemVer" name="UnityEngine.ProBuilder.SemVer">
+<area shape="rect" id="Node000001" title="Version information container that is comparable." alt="" coords="162,80,368,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,36,234,77,232,82,127,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="183,5,347,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,48,267,80,262,80,262,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="371,5,465,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,41,293,82,290,77,376,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.GetTouchPointerEventData" name="UnityEngine.EventSystems.PointerInputModule.GetTouchPointerEventData">
+<area shape="rect" id="Node000001" title="Given a touch populate the PointerEventData and return if we are pressed or released." alt="" coords="5,31,239,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a9bfbf3091dc432b4223a52d7d277381d" title="Search the cache for currently active pointers, return true if found." alt="" coords="287,5,512,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,43,271,39,272,45,239,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_abstract_event_data.html#a2066eadd3c7427d8237263b73efdfc4d" title="Reset the event." alt="" coords="308,72,491,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,71,292,78,292,83,239,77"/>
+</map>

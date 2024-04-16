@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.GrabInteractor.InteractableUnselected" name="Oculus.Interaction.GrabInteractor.InteractableUnselected">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,222,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactable.html#a1f3c2b242ce48be2cb35aae7c1f6d365" title=" " alt="" coords="270,5,499,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,77,289,50,290,55,195,82"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_throw_1_1_i_velocity_calculator.html#ac1a2d6dd5a31bb2b8e2db30f37fd5440" title=" " alt="" coords="274,72,495,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,99,258,99,258,104,222,104"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grabbable.html#a7121454d0f4cfc8adc9a93a66b41d98f" title=" " alt="" coords="288,155,481,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,121,290,147,289,153,193,126"/>
+</map>

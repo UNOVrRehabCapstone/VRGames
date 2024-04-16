@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.Signals.SignalReceiverInspector" name="UnityEditor.Timeline.Signals.SignalReceiverInspector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,194,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,89,81,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,129,93,186,88,189,62,131"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_receiver_tree_view.html" title=" " alt="" coords="104,81,292,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,137,121,189,117,186,166,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,5,235,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,48,201,81,196,81,196,48"/>
+</map>

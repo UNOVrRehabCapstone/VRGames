@@ -1,0 +1,9 @@
+<map id="Unity.XR.CoreUtils.XROrigin.RotateAroundCameraPosition" name="Unity.XR.CoreUtils.XROrigin.RotateAroundCameraPosition">
+<area shape="rect" id="Node000001" title="Rotates the XR origin object around the camera object&#39;s position in world space using the provided ve..." alt="" coords="282,72,474,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#a9c9c819c27070d90656c8851874edcaa" title="This function will rotate the XR Origin object around the camera object using the destinationUp &#160;vect..." alt="" coords="20,5,219,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,70,204,51,206,46,278,65"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#ae49f9c9bd06b51584bd2d96f7ffaff5b" title="This function will rotate the XR Origin object around the camera object using the destinationUp &#160;vect..." alt="" coords="26,72,213,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,96,214,96,214,91,266,91"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#a498b03f2fd5f5347c1481c3c644f5838" title="Rotates the XR origin object around the camera object by the provided angleDegrees ...." alt="" coords="5,139,234,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="278,122,206,141,204,135,277,117"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TeleportOrientationHandler360" name="TeleportOrientationHandler360">
+<area shape="rect" id="Node000001" title="This orientation handler doesn&#39;t actually do anything with the orientation at all; this is for users ..." alt="" coords="5,229,201,256"/>
+<area shape="rect" id="Node000002" href="$class_teleport_orientation_handler.html" title="The orientation handler is what determines the final rotation of the player after the teleport." alt="" coords="16,155,190,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,197,106,229,100,229,100,197"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="47,80,159,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,122,106,154,100,154,100,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="48,5,158,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,48,106,80,100,80,100,48"/>
+</map>

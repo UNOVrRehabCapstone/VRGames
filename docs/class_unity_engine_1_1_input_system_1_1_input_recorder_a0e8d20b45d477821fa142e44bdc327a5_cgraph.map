@@ -1,0 +1,19 @@
+<map id="UnityEngine.InputSystem.InputRecorder.StartReplay" name="UnityEngine.InputSystem.InputRecorder.StartReplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,179,205"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace_1_1_replay_controller.html#a448ca8a8db443e47039c21a6a630266f" title="Invoke the given callback when an event is about to be queued." alt="" coords="227,5,440,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,160,163,117,225,74,234,69,236,74,228,78,166,122,118,164"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace_1_1_replay_controller.html#adcdef786f323b486b6a50397a483e979" title="Invoke the given callback when playback finishes." alt="" coords="227,88,440,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,160,211,148,212,154,172,165"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a8f5f8e3b1ca67ed277023e9b670da1fd" title="Start a replay of the events in the trace." alt="" coords="492,147,705,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,179,476,169,476,175,179,184"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#ac16d188234d2bc6a4903d19a06de07c5" title=" " alt="" coords="510,213,687,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,190,494,222,494,227,179,195"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#afbed62e175e7da3b94855921e9595577" title=" " alt="" coords="247,276,420,319"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="134,203,228,251,264,267,262,272,226,256,132,208"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a8a05ae4f06393c5076fa1869a90d3c5b" title="Stop recording events." alt="" coords="756,213,973,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="687,187,762,206,761,212,686,193"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="687,232,741,232,741,237,687,237"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a38416148dcc4329ebfc2c537542d86c7" title="Stop recording, if necessary, and clear the trace such that it released unmanaged memory which might ..." alt="" coords="488,280,708,323"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="420,296,473,297,473,302,420,301"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="686,277,761,258,762,263,687,282"/>
+</map>

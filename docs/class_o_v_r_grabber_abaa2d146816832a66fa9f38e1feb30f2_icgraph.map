@@ -1,0 +1,12 @@
+<map id="OVRGrabber.GrabVolumeEnable" name="OVRGrabber.GrabVolumeEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,39,670,65"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_grabber.html#ace656d0de5618618bc07f2f389fb51a9" title=" " alt="" coords="251,13,411,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,42,411,38,412,33,444,36"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_grabber.html#a1415b0ee65d2d0ec55c96fb0685e0c86" title=" " alt="" coords="256,64,406,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,68,407,72,406,67,443,62"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_grabber.html#a2323d97b994c20a8d2205b067ee9313a" title=" " alt="" coords="5,5,203,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,29,203,29,203,24,235,24"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="252,63,202,51,203,46,254,57"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_grabber.html#af69bc3c8f4950b5c9605567d033bd3df" title=" " alt="" coords="14,72,194,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="241,83,194,85,194,80,240,78"/>
+</map>

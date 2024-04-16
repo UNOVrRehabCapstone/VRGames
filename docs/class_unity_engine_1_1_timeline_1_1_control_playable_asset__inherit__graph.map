@@ -1,0 +1,9 @@
+<map id="UnityEngine.Timeline.ControlPlayableAsset" name="UnityEngine.Timeline.ControlPlayableAsset">
+<area shape="rect" id="Node000001" title="Playable Asset that generates playables for controlling time&#45;related elements on a GameObject." alt="" coords="100,80,288,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,111,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,38,161,77,158,82,91,43"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_timeline_1_1_i_property_preview.html" title="Implement this interface in a PlayableAsset to specify which properties will be modified when Timelin..." alt="" coords="135,5,253,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,48,197,80,191,80,191,48"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_timeline_1_1_i_timeline_clip_asset.html" title="Implement this interface to support advanced features of timeline clips." alt="" coords="277,5,405,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,42,233,82,230,77,304,37"/>
+</map>

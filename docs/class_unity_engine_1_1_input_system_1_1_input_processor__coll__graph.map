@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputProcessor&lt; TValue &gt;" name="UnityEngine.InputSystem.InputProcessor&lt; TValue &gt;">
+<area shape="rect" id="Node000001" title="A processor that conditions/transforms input values." alt="" coords="25,96,198,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,114,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,45,103,94,98,97,71,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,192,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,47,125,97,121,94,148,45"/>
+</map>

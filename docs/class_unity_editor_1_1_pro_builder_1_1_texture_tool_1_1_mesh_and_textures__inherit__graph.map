@@ -1,0 +1,7 @@
+<map id="UnityEditor.ProBuilder.TextureTool.MeshAndTextures" name="UnityEditor.ProBuilder.TextureTool.MeshAndTextures">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,80,218,123"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_texture_move_tool_1_1_translate_texture_selection.html" title=" " alt="" coords="5,171,235,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,138,123,170,117,170,117,138"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_mesh_and_element_selection.html" title="Represents the state of a ProBuilderMesh and it&#39;s selected elements." alt="" coords="31,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,48,123,80,117,80,117,48"/>
+</map>

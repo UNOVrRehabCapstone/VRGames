@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.LastKnownGoodHand" name="Oculus.Interaction.Input.LastKnownGoodHand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,155,268,197"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html" title=" " alt="" coords="161,80,213,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,122,190,154,184,154,184,122"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_modifier.html" title=" " alt="" coords="5,5,214,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,41,175,78,172,82,132,45"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="238,5,293,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="242,45,202,82,199,78,239,41"/>
+</map>

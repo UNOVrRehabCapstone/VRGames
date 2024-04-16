@@ -1,0 +1,35 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.Process" name="UnityEngine.EventSystems.OVRInputModule.Process">
+<area shape="rect" id="Node000001" title="Process this InputModule. Same as the StandaloneInputModule version, except that it calls ProcessMous..." alt="" coords="5,289,189,332"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a118ed5ea055cae39a0311086c741a24c" title="Get state for pointer which is a pointer moving in world space across the surface of a world space ca..." alt="" coords="237,189,491,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,286,290,235,292,240,157,291"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7942780a6fac1c5d491b18294b854755" title="State for a pointer controlled by a world space ray. E.g. gaze pointer." alt="" coords="242,389,486,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="157,330,292,381,290,386,155,335"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a55d7568087c3c06a66dc4a7b8fdf7478" title="Convenience function for cloning PointerEventData." alt="" coords="563,256,760,299"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,230,549,249,548,255,461,235"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#afd8e1023787488dd68f09e942d26301c" title=" " alt="" coords="555,323,767,365"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,230,463,269,540,308,557,315,556,320,538,313,460,274,396,235"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_raycaster.html#a6fc85b88c671a4c78ce79839135d8e78" title="Get screen position of worldPosition contained in this RaycastResult." alt="" coords="551,139,772,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="475,186,574,166,575,172,476,191"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_raycaster.html#a4b87696c0a98c70c5e601f8905574375" title="Performs a raycast using the pointer object attached to this OVRRaycaster." alt="" coords="561,5,762,32"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="379,187,406,154,443,115,487,75,538,42,551,35,554,40,540,46,491,79,446,118,410,158,383,191"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_event_systems_1_1_abstract_event_data.html#a2066eadd3c7427d8237263b73efdfc4d" title="Reset the event." alt="" coords="570,189,753,232"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="491,208,554,208,554,213,491,213"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a184d4ce30fa7ec925f00524edacfc89f" title="Given a mouse button return the current state for the frame." alt="" coords="549,56,774,115"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="406,186,538,124,553,118,555,123,540,129,408,191"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="396,387,460,347,538,308,556,301,557,306,540,313,463,352,399,391"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="461,386,548,367,549,372,463,391"/>
+<area shape="poly" id="edge14_Node000009_Node000005" title=" " alt="" coords="380,387,489,243,509,206,520,190,537,175,547,170,549,174,541,180,524,194,514,209,493,245,384,390"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="380,387,444,315,488,276,538,242,554,234,556,238,540,246,492,280,448,319,384,390"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a8d69d7c769bbd868a6ae552631b3a432" title="Get extra scroll delta from gamepad." alt="" coords="542,389,780,432"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="486,408,527,408,527,413,486,413"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a66332be5498256e4fcdb1f754760b7b3" title="Get state of button corresponding to gaze pointer." alt="" coords="539,456,783,499"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="463,430,549,449,548,455,461,435"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a505c8b3f2d8142894479356dad2d4d41" title="Get screen position of this world position as seen by the event camera of this OVRPhysicsRaycaster." alt="" coords="539,523,783,565"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="399,430,463,469,540,508,557,515,556,520,538,513,460,474,396,435"/>
+<area shape="rect" id="Node000013" href="$class_o_v_r_cursor.html#afcc8f333b99a03b8ef572182e045c189" title=" " alt="" coords="575,589,747,616"/>
+<area shape="poly" id="edge16_Node000009_Node000013" title=" " alt="" coords="383,431,410,464,446,503,491,542,540,575,561,584,559,589,538,580,487,547,443,507,406,467,379,434"/>
+<area shape="rect" id="Node000014" href="$class_o_v_r_cursor.html#a6c84f04885fb9106915c08e04e074f65" title=" " alt="" coords="559,640,763,667"/>
+<area shape="poly" id="edge17_Node000009_Node000014" title=" " alt="" coords="378,431,402,473,438,527,485,581,511,605,540,626,550,631,548,636,538,630,508,609,481,585,434,530,397,476,374,434"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_physics_raycaster.html#a377d56e034c74f26748334777b37683d" title="Perform a Spherecast using the worldSpaceRay in eventData." alt="" coords="549,691,774,733"/>
+<area shape="poly" id="edge18_Node000009_Node000015" title=" " alt="" coords="376,432,397,482,432,549,480,618,509,649,541,677,547,681,544,685,537,681,505,653,476,621,427,551,392,484,371,434"/>
+</map>

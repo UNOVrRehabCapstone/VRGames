@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Processors.NormalizeProcessor" name="UnityEngine.InputSystem.Processors.NormalizeProcessor">
+<area shape="rect" id="Node000001" title="Normalizes input values in the range min and max to unsigned normalized form [0..1] if zero is placed..." alt="" coords="5,172,214,215"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="31,96,188,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,138,112,172,107,172,107,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,5,136,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,48,112,95,107,95,107,48"/>
+</map>

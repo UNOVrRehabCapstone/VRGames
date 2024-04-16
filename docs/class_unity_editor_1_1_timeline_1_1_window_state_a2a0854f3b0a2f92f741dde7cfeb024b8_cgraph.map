@@ -1,0 +1,11 @@
+<map id="UnityEditor.Timeline.WindowState.SetPlaying" name="UnityEditor.Timeline.WindowState.SetPlaying">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,193,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ab09a4c23a97f0a04be8425f769a35866" title=" " alt="" coords="254,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,69,250,50,251,55,182,74"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a25c1cc082546e22812ae8f5cf49d0284" title=" " alt="" coords="254,72,441,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,91,238,91,238,96,193,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_window_analytics.html#aed1981652749e72d787c46e6386bcd87" title=" " alt="" coords="241,139,454,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,113,251,131,250,137,180,118"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_window_analytics.html#aa486b0816c39184cc1d47d2e483f40b8" title=" " alt="" coords="502,131,742,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,157,486,157,486,163,454,163"/>
+</map>

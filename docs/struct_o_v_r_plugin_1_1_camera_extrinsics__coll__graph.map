@@ -1,0 +1,15 @@
+<map id="OVRPlugin.CameraExtrinsics" name="OVRPlugin.CameraExtrinsics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,277,213,304"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,187,97,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,228,55,252,66,265,81,275,78,279,63,269,50,255,44,229"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_posef.html" title=" " alt="" coords="121,187,243,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,229,154,255,133,279,129,275,150,252,167,226"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_plugin_1_1_quatf.html" title=" " alt="" coords="122,96,242,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,138,184,186,179,186,179,138"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,5,208,32"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="142,37,100,61,81,77,66,97,62,111,63,124,70,136,82,148,112,168,146,184,144,188,110,173,78,152,66,140,58,126,56,111,61,95,77,74,97,56,140,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="184,48,184,95,179,95,179,48"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="266,96,404,123"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="218,38,314,93,312,98,215,42"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="305,134,255,165,210,189,207,184,252,160,303,129"/>
+</map>

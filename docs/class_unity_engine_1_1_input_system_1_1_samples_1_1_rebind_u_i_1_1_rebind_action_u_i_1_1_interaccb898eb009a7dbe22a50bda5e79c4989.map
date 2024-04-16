@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.InteractiveRebindEvent" name="UnityEngine.InputSystem.Samples.RebindUI.RebindActionUI.InteractiveRebindEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,112,226,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,238,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,80,124,112,119,112,119,80"/>
+</map>

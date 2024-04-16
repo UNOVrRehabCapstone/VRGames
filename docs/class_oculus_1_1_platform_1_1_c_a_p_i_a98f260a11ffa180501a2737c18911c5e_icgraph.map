@@ -1,0 +1,19 @@
+<map id="Oculus.Platform.CAPI.DateTimeToNative" name="Oculus.Platform.CAPI.DateTimeToNative">
+<area shape="rect" id="Node000001" title=" " alt="" coords="538,105,717,148"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a389a0d5006c961c976d4eddcd9278bf4" title=" " alt="" coords="268,5,475,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="572,100,489,62,456,51,457,46,491,58,574,95"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a336daba4a6458b5022ab07d9024363f9" title=" " alt="" coords="265,72,478,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="522,116,478,110,478,105,523,110"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1b2238e246cde6d443e57f539f609c04" title=" " alt="" coords="255,139,488,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="523,143,488,147,488,142,522,138"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a9d4bf85ddc62cbc3f0ee38290d6310f7" title=" " alt="" coords="253,205,490,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="574,158,491,196,457,207,456,202,489,191,572,153"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_challenge_options.html#ae4cdbc0c14650d31921be42a5901f806" title=" " alt="" coords="17,5,193,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,29,193,29,193,24,252,24"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_challenge_options.html#a645266d0cf453b4b47116755c832c150" title=" " alt="" coords="17,72,193,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,96,193,96,193,91,250,91"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_rich_presence_options.html#af32d4646268aca6b7cd7751e31ec7997" title="DEPRECATED: Unused." alt="" coords="5,139,205,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="240,163,205,163,205,157,240,157"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_platform_1_1_rich_presence_options.html#ad12133e079f6f4064c3b182e3acd8ff4" title="DEPRECATED: Unused." alt="" coords="5,205,205,248"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="237,229,205,229,205,224,237,224"/>
+</map>

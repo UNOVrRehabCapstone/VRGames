@@ -1,0 +1,7 @@
+<map id="Windows.Kinect.CoordinateMapper.GetDepthFrameToCameraSpaceTable" name="Windows.Kinect.CoordinateMapper.GetDepthFrameToCameraSpaceTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,293,81"/>
+<area shape="rect" id="Node000002" href="$class_helper_1_1_smart_g_c_handle.html#a15321e1377467f7f9e81474056226f54" title=" " alt="" coords="348,5,535,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,41,332,36,333,42,293,46"/>
+<area shape="rect" id="Node000003" href="$class_windows_1_1_kinect_1_1_kinect_sensor.html#acb1a35dc83c241598ee49e80105be040" title=" " alt="" coords="341,72,542,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,74,326,78,325,83,293,79"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.ITrimmable" name="UnityEditor.Timeline.ITrimmable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,210,181"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_clip_item.html" title=" " alt="" coords="13,229,202,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,197,110,229,105,229,105,197"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_timeline_item.html" title=" " alt="" coords="59,80,156,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,122,110,154,105,154,105,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,5,199,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
+</map>

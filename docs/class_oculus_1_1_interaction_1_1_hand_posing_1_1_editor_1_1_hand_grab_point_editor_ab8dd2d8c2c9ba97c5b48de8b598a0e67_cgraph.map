@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandPosing.Editor.HandGrabPointEditor.MirrorHandGrabPoint" name="Oculus.Interaction.HandPosing.Editor.HandGrabPointEditor.MirrorHandGrabPoint">
+<area shape="rect" id="Node000001" title="Generates a new HandGrabPointData that mirrors the provided one. Left hand becomes right hand and vic..." alt="" coords="5,64,224,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_point.html#a2a3ad5ba622c74e21c0cd562b63f014d" title=" " alt="" coords="272,5,508,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,64,283,50,285,55,225,69"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_point.html#abe5e455bd0f07bf19f748b4fc6f6516c" title=" " alt="" coords="288,72,492,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,91,272,91,272,96,224,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_point.html#aebb339fe53a8bc994734fe33b3f636c5" title=" " alt="" coords="288,139,492,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,117,285,132,283,137,223,122"/>
+</map>

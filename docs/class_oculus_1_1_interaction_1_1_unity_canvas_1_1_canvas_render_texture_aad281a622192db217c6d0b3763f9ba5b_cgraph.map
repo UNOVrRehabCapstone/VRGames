@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.InjectAllCanvasRenderTexture" name="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.InjectAllCanvasRenderTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,253,234,312"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#abc54ced10a5d4a67a174bd4724caf139" title=" " alt="" coords="282,5,510,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,251,158,212,192,164,233,116,280,74,286,70,289,74,283,78,236,120,196,168,163,215,139,254"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a59d76f8bc1c30bcadd384413c97d66bc" title=" " alt="" coords="282,88,510,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,251,209,203,280,156,290,151,293,156,283,161,213,208,155,255"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#aeb2e297a0ba63614708ea33148806797" title=" " alt="" coords="282,171,510,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,250,280,232,281,237,221,255"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a6a0cd17ea046d50ed8d8594e4e9f4617" title=" " alt="" coords="282,253,510,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="234,280,266,280,266,285,234,285"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#afba72857777bc7384cc5f3cca04138b3" title=" " alt="" coords="282,336,510,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="221,310,281,328,280,334,219,315"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#abef555a7148b59a3486cdcc098b8920e" title=" " alt="" coords="282,419,510,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="155,310,213,358,283,404,293,409,290,414,280,409,209,362,152,315"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#adccbfec1b71983f0e8d1f0b1ee7ab919" title=" " alt="" coords="282,501,510,560"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="139,311,163,351,196,398,236,446,283,487,289,491,286,495,280,491,233,449,192,401,158,354,135,314"/>
+</map>

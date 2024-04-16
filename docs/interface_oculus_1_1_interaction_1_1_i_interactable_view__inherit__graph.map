@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.IInteractableView&lt; out TInteractor &gt;" name="Oculus.Interaction.IInteractableView&lt; out TInteractor &gt;">
+<area shape="rect" id="Node000001" title="An IInteractableView defines the view for an object that can be interacted with." alt="" coords="173,39,373,81"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_i_interactable.html" title="An object that can be interacted with, an IInteractable can, in addition to an IInteractableView,..." alt="" coords="421,5,621,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="388,42,420,37,421,43,389,47"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_interactable_group_view.html" title="This class implements higher level logic to forward the highest IInteractable state of any of the int..." alt="" coords="423,72,620,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="389,73,422,77,421,83,388,78"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_component.html" title=" " alt="" coords="20,21,110,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,39,173,45,172,50,125,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,72,125,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,74,172,70,172,75,140,79"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_interactable.html" title="Interactable provides a base template for any kind of interactable object. An Interactable can have H..." alt="" coords="669,5,867,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="637,24,669,24,669,29,637,29"/>
+</map>

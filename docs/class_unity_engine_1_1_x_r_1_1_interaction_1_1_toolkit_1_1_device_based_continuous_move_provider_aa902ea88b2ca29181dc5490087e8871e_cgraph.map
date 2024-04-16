@@ -1,0 +1,4 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.DeviceBasedContinuousMoveProvider.GetDeadzoneAdjustedValue" name="UnityEngine.XR.Interaction.Toolkit.DeviceBasedContinuousMoveProvider.GetDeadzoneAdjustedValue">
+<area shape="rect" id="Node000001" title="Gets value adjusted based on deadzone thresholds defined in deadzoneMin and deadzoneMax." alt="" coords="5,29,240,88"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="76,29,77,19,86,10,101,5,123,3,147,5,162,13,160,17,146,11,122,8,102,10,89,15,82,21,82,29"/>
+</map>

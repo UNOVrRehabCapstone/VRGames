@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.OnHoverEntering" name="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.OnHoverEntering">
+<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor first initiates hovering over ..." alt="" coords="5,47,228,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor.html#aaa5ee56599bfd3d3ec9fbfcea7849756" title="Play an AudioClip." alt="" coords="276,5,498,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,56,260,51,261,57,229,62"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor.html#aad49b71c23c34d20f3e7128f5ec03666" title="Play a haptic impulse on the controller if one is available." alt="" coords="276,88,498,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,90,261,95,260,101,228,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#ad3b8c2230c5acdeb88a3fa0e78a92a2a" title="Play a haptic impulse on the controller if one is available." alt="" coords="546,88,781,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="498,115,530,115,530,120,498,120"/>
+</map>

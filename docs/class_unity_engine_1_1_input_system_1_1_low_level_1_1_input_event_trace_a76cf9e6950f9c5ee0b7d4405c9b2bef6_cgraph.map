@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.InputEventTrace.Resize" name="UnityEngine.InputSystem.LowLevel.InputEventTrace.Resize">
+<area shape="rect" id="Node000001" title="Resize the current event memory buffer to the specified size." alt="" coords="5,13,219,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a389c27b9b59144ef508e2baf80a417ca" title="Based on the given event pointer, return a pointer to the next event in the trace." alt="" coords="267,5,461,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,32,251,32,251,37,219,37"/>
+</map>

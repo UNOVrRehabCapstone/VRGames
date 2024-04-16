@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.JointDistanceActiveState" name="Oculus.Interaction.PoseDetection.JointDistanceActiveState">
+<area shape="rect" id="Node000001" title="This component tracks the distance between two hand joints and reports IActiveState...." alt="" coords="12,80,231,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,43,108,78,104,81,77,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="139,5,229,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,46,139,81,135,78,163,43"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.CAPI.DataStoreFromNative" name="Oculus.Platform.CAPI.DataStoreFromNative">
+<area shape="rect" id="Node000001" title=" " alt="" coords="327,133,506,176"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_message_with_data_store_under_private_user_data_store.html#a799bab2d05fc724e1a6ac6857a6cef9e" title=" " alt="" coords="21,5,263,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,127,325,102,278,78,249,67,251,62,280,74,327,97,371,122"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_message_with_data_store_under_public_user_data_store.html#a6deb2363c98c4568beade0c6d5ab70e5" title=" " alt="" coords="23,88,261,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,143,261,136,262,131,312,138"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_models_1_1_matchmaking_enqueued_user.html#acb2c2768ae6eb952376dc4c8072d84a9" title=" " alt="" coords="5,171,279,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,172,280,176,279,171,311,166"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_models_1_1_room.html#a45676b0052dc511f8bced76456e6b934" title=" " alt="" coords="24,237,260,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="368,186,326,209,280,228,238,239,237,234,278,223,324,204,366,182"/>
+</map>

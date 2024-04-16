@@ -1,0 +1,15 @@
+var class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests =
+[
+    [ "TestAddedNoMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#ad983eeeedc1915d1979670c5332899ba", null ],
+    [ "TestAddedWithMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#afbad5618823eb2997e64a10bcf3a4c69", null ],
+    [ "TestChangedNoMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a7e9930eb504b7c250e0a2b79965fa492", null ],
+    [ "TestChangedWithMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a6e9c0b64a6c0ffe525ec87dd3d20e064", null ],
+    [ "TestCheckedChangesWithDependenciesCandidates", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a03a815277ebaaff7ce7f2ed50ae88b7c", null ],
+    [ "TestCheckedChangesWithMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a9c40a80f35c16d4deb0ed83995753b20", null ],
+    [ "TestDeletedNoMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a9918b838831d791ead3545537114f058", null ],
+    [ "TestDeletedWithMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a21b65fef919a963ff5a6c0a298e6d73b", null ],
+    [ "TestFileAddedMetaPrivate", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a341dd895240776754b820ce3836cc909", null ],
+    [ "TestMovedNoMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a80c27fe711fe12d62c7943258a3a91fa", null ],
+    [ "TestMovedWithMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#ae318c843f85b0d04e665ff680ed4612f", null ],
+    [ "TestOnlyMeta", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html#a40134d5893bd0eddf877f9f17d1a3b8b", null ]
+];

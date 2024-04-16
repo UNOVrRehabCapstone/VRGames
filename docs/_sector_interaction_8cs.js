@@ -1,0 +1,4 @@
+var _sector_interaction_8cs =
+[
+    [ "UnityEngine.XR.Interaction.Toolkit.Inputs.Interactions.SectorInteraction", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_interactions_1_1_sector_interaction.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_interactions_1_1_sector_interaction" ]
+];

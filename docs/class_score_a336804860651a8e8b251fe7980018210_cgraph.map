@@ -1,0 +1,9 @@
+<map id="Score.Save" name="Score.Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,93,32"/>
+<area shape="rect" id="Node000002" href="$class_score.html#a00689ef0abbed3e6116aec6d0f555100" title=" " alt="" coords="141,5,228,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,16,125,16,125,21,93,21"/>
+<area shape="rect" id="Node000003" href="$class_achievements.html#a7f191479055187c119692312b8fbf126" title=" " alt="" coords="276,5,450,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,16,260,16,260,21,228,21"/>
+<area shape="rect" id="Node000004" href="$class_achievements.html#a045289be8e16603209010538e0103519" title=" " alt="" coords="498,5,702,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,16,482,16,482,21,450,21"/>
+</map>

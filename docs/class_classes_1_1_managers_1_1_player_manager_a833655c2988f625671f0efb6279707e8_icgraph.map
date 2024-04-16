@@ -1,0 +1,9 @@
+<map id="Classes.Managers.PlayerManager.movePlayer" name="Classes.Managers.PlayerManager.movePlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="527,35,781,77"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,5,479,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,44,479,41,480,36,512,39"/>
+<area shape="rect" id="Node000004" href="$class_gameplay_manager.html#a30cfe0e5cce615ec373a18a41550235b" title=" " alt="" coords="284,72,447,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,73,447,80,447,74,511,68"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,13,204,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+</map>

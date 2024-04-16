@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystemDescriptor" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystemDescriptor">
+<area shape="rect" id="Node000001" title="Descriptor for the XRGestureSubsystem describing capabilities which may vary by implementation." alt="" coords="5,96,291,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,5,235,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,64,151,96,145,96,145,64"/>
+</map>

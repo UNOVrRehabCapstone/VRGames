@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_unity_editor_1_1_timeline_1_1_timeline_mode.html" title=" " alt="" coords="5,113,227,140"/>
+<area shape="rect" id="Node000001" href="$class_unity_editor_1_1_timeline_1_1_timeline_active_mode.html" title=" " alt="" coords="275,5,464,48"/>
+<area shape="poly" id="edge2285_Node000000_Node000001" title=" " alt="" coords="161,104,274,58,304,46,306,51,276,62,163,109"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_disabled_mode.html" title=" " alt="" coords="275,72,464,115"/>
+<area shape="poly" id="edge2286_Node000000_Node000002" title=" " alt="" coords="237,108,274,103,275,108,238,113"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_inactive_mode.html" title=" " alt="" coords="275,139,464,181"/>
+<area shape="poly" id="edge2287_Node000000_Node000003" title=" " alt="" coords="238,140,275,145,274,150,237,145"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_read_only_mode.html" title=" " alt="" coords="275,205,464,248"/>
+<area shape="poly" id="edge2289_Node000000_Node000005" title=" " alt="" coords="163,144,276,191,306,202,304,207,274,196,161,149"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_asset_edition_mode.html" title=" " alt="" coords="512,139,701,181"/>
+<area shape="poly" id="edge2288_Node000003_Node000004" title=" " alt="" coords="480,157,511,157,511,163,480,163"/>
+</map>

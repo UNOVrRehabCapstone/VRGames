@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.DeltaStateEvent.From" name="UnityEngine.InputSystem.LowLevel.DeltaStateEvent.From">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,13,430,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a961a8ddf05ae12105d1a0506f7d28755" title="Set the control to the given value by sending a state event with the value to the control&#39;s device." alt="" coords="5,5,178,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,37,178,37,178,32,210,32"/>
+</map>

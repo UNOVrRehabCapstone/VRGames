@@ -1,0 +1,11 @@
+<map id="Unity.Services.Core.Internal.AsyncOperationAwaiter&lt; T &gt;" name="Unity.Services.Core.Internal.AsyncOperationAwaiter&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Default implementation for IAsyncOperationAwaiter." alt="" coords="92,155,281,197"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation_awaiter.html" title="Contract for objects allowing to use the await keyword on an IAsyncOperation." alt="" coords="6,80,167,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,115,163,152,159,156,112,119"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,168,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,47,82,79,77,80,75,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="98,48,96,80,91,79,93,47"/>
+<area shape="rect" id="Node000004" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_async_operation_awaiter.html" title=" " alt="" coords="191,80,382,107"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="136,35,252,77,250,82,135,40"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="261,119,214,156,210,152,257,115"/>
+</map>

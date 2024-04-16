@@ -1,0 +1,13 @@
+<map id="UnityEngine.UI.Mask.MaskEnabled" name="UnityEngine.UI.Mask.MaskEnabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="554,137,733,180"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask.html#a98c8adb07fbc3cf1e541f1110f8c3eeb" title="Stencil calculation time!" alt="" coords="290,137,506,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,161,506,161,506,156,538,156"/>
+<area shape="rect" id="Node000003" href="$class_graphics_1_1_mask_tests.html#ad2fe2cbba1b38d2af2ca616ae384016d" title=" " alt="" coords="9,5,238,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,132,241,78,213,67,215,62,243,74,348,127"/>
+<area shape="rect" id="Node000004" href="$class_graphics_1_1_mask_tests.html#a369d62c5bf188a8e4d968dbcaf48f6ce" title=" " alt="" coords="9,88,238,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,143,238,137,239,132,275,137"/>
+<area shape="rect" id="Node000005" href="$class_graphics_1_1_mask_tests.html#a6ee4a43353ee5c5c98d0a672712597a9" title=" " alt="" coords="5,171,242,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,180,243,185,242,180,274,175"/>
+<area shape="rect" id="Node000006" href="$class_graphics_1_1_mask_tests.html#a402d9354cb62a7b4dd15e7bf8fc5ab8c" title=" " alt="" coords="5,253,242,312"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="348,190,243,244,215,255,213,250,241,239,345,185"/>
+</map>

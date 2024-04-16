@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.InputDeviceCommand" name="UnityEngine.InputSystem.LowLevel.InputDeviceCommand">
+<area shape="rect" id="Node000001" title="Data header for a command send to an InputDevice." alt="" coords="5,80,208,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="22,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,104,80,104,48"/>
+</map>

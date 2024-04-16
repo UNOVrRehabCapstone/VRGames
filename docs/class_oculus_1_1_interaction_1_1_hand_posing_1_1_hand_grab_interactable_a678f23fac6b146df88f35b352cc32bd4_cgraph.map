@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.LoadPoint" name="Oculus.Interaction.HandPosing.HandGrabInteractable.LoadPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,214,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#a9887ea81fa9b4dd73738eef223bd473d" title=" " alt="" coords="262,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,44,246,40,247,45,215,49"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_point.html#abe5e455bd0f07bf19f748b4fc6f6516c" title=" " alt="" coords="269,72,473,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,71,253,76,253,81,214,76"/>
+</map>

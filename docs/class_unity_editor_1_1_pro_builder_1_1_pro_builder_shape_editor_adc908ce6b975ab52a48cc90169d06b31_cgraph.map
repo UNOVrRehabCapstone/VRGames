@@ -1,0 +1,10 @@
+<map id="UnityEditor.ProBuilder.ProBuilderShapeEditor.OnInspectorGUI" name="UnityEditor.ProBuilder.ProBuilderShapeEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,234,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_shape_editor.html#a1ce256f7a7546f2f6ee5789992c78456" title=" " alt="" coords="315,5,540,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,45,299,38,300,43,234,50"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_shape_editor.html#a92a4d521556b8967a1f4a791f6aa0be6" title=" " alt="" coords="282,72,573,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,70,267,73,266,79,234,75"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="621,39,794,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="540,37,606,45,605,51,540,43"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="573,73,605,69,606,75,574,79"/>
+</map>

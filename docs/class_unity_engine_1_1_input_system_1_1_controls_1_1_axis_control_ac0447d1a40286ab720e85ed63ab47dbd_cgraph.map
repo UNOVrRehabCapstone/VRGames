@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Controls.AxisControl.EvaluateMagnitude" name="UnityEngine.InputSystem.Controls.AxisControl.EvaluateMagnitude">
+<area shape="rect" id="Node000001" title="Compute an absolute, normalized magnitude value that indicates the extent to which the control is act..." alt="" coords="5,47,199,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html#a9f43017ad4c494e04ca0ce15532d4c56" title="Normalize value &#160;with respect to min &#160;and max ." alt="" coords="247,5,459,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,57,231,52,232,57,200,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a841e10da47a82193f1741a90925515f1" title=" " alt="" coords="267,88,439,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,89,252,98,251,103,199,95"/>
+</map>

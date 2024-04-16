@@ -1,0 +1,8 @@
+var class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender =
+[
+    [ "EditorGameServiceEvent", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event.html", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event" ],
+    [ "SendProjectBindPopupCloseActionEvent", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender.html#a2cd1a693e5e57aef7bb76bcec44c8a02", null ],
+    [ "SendProjectBindPopupDisplayedEvent", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender.html#aecda9d59d94aef1888e0826fccaa30f7", null ],
+    [ "SendProjectBindPopupOpenProjectSettingsEvent", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender.html#a203316e1a3a80f77ceca8bffd5b6d6c8", null ],
+    [ "SendProjectSettingsGoToDashboardEvent", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender.html#a337b2f2fd9803c4779de29e42d4388de", null ]
+];

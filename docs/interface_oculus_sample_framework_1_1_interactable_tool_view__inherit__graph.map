@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.InteractableToolView" name="OculusSampleFramework.InteractableToolView">
+<area shape="rect" id="Node000001" title="The visual abstraction of an interactable tool." alt="" coords="103,5,345,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_finger_tip_poke_tool_view.html" title=" " alt="" coords="5,96,216,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,60,139,98,135,93,184,55"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_ray_tool_view.html" title="Visual portion of ray tool." alt="" coords="240,96,437,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,55,313,93,310,98,261,60"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.SetVertices" name="UnityEngine.ProBuilder.ProBuilderMesh.SetVertices">
+<area shape="rect" id="Node000001" title="Sets the vertex element arrays on this mesh." alt="" coords="261,63,440,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_face_rebuild_data.html#ab6340044450ee9c7f83b0c61f8bc7179" title=" " alt="" coords="15,29,203,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,72,203,66,204,61,246,67"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_mesh_operations_1_1_mesh_importer.html#a2a71d3c2c10bbc31dc974f11c77f331f" title="Imports mesh data from a GameObject&#39;s UnityEngine.MeshFilter.sharedMesh and UnityEngine...." alt="" coords="5,96,213,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="246,101,213,106,213,100,245,96"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="148,16,134,10,109,8,86,10,72,15,67,21,69,28,63,29,62,19,69,10,85,5,109,3,135,5,150,11"/>
+</map>

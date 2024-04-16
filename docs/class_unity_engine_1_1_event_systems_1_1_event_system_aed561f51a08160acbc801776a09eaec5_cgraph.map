@@ -1,0 +1,4 @@
+<map id="UnityEngine.EventSystems.EventSystem.IsPointerOverGameObject" name="UnityEngine.EventSystems.EventSystem.IsPointerOverGameObject">
+<area shape="rect" id="Node000001" title="Is the pointer with the given ID over an EventSystem object?" alt="" coords="5,29,258,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="84,29,82,19,90,10,107,5,132,3,158,5,175,11,173,16,157,10,131,8,108,10,93,15,87,21,89,28"/>
+</map>

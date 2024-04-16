@@ -1,0 +1,9 @@
+<map id="TeleportTransitionInstant" name="TeleportTransitionInstant">
+<area shape="rect" id="Node000001" title="This transition will move the player with no other side effects." alt="" coords="5,229,168,256"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition.html" title="Teleport transitions manage the actual relocation of the player from the current position and orienta..." alt="" coords="25,155,148,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,197,89,229,84,229,84,197"/>
+<area shape="rect" id="Node000003" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="30,80,143,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,122,89,154,84,154,84,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="32,5,141,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,48,89,80,84,80,84,48"/>
+</map>

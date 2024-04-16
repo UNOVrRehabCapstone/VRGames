@@ -1,0 +1,31 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.DrawScript" name="UnityEditor.XR.Interaction.Toolkit.BaseInteractionEditor.DrawScript">
+<area shape="rect" id="Node000001" title="Draw the standard read&#45;only Script property." alt="" coords="602,253,822,312"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html#aef2fc9a16da94ef0ac50eefb7ea0392a" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="322,5,525,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="686,241,663,202,632,158,595,115,552,78,524,62,526,58,556,74,599,111,637,155,668,199,691,238"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recording_editor.html#ab0bf9b4e30181f39345c63394af951e8" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="308,88,539,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="667,245,615,201,553,161,529,150,531,145,555,156,618,197,671,241"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#aaa84f60fd0a1c3141306ff0f752e8b26" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="316,171,531,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="592,251,528,233,529,227,593,246"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html#a6314e6fd935ee9a8ac205d202c7f4f64" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="308,253,539,312"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="586,285,539,285,539,280,586,280"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#ad7163aa2147a8c687d61391fac4b776e" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="323,336,524,395"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="593,319,525,339,523,334,592,314"/>
+<area shape="rect" id="Node000012" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_snap_turn_provider_editor.html#a5913b0dc0b1575fe122a37ad4555054a" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="304,419,543,477"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="671,325,618,368,555,409,531,420,529,416,553,404,615,364,667,321"/>
+<area shape="rect" id="Node000014" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#a8076b6bd1c9822ce5dcb3a3624fe2235" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="293,501,554,544"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="692,327,669,367,638,411,600,455,555,492,534,503,532,498,553,487,596,451,634,408,664,364,687,324"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html#a44bf5c2f1ad8ae6b9ef7e2d598fd0284" title=" " alt="" coords="24,5,226,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,37,227,37,227,32,307,32"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recording_editor.html#a39402fbb153b56bd0e0e24e808260a67" title=" " alt="" coords="10,88,240,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="293,120,241,120,241,115,293,115"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#a9f5ba925c9e0f64e24e4424d14ca2370" title=" " alt="" coords="18,171,232,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="301,203,233,203,233,197,301,197"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html#af9009738edd28dd26bf2d745443d0d7f" title=" " alt="" coords="9,253,241,312"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="292,285,241,285,241,280,292,280"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aae36f715bd5ef9034b8218c1b3d6d783" title=" " alt="" coords="24,336,226,395"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="307,368,226,368,226,363,307,363"/>
+<area shape="rect" id="Node000013" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_snap_turn_provider_editor.html#a5ac22f42ec34e5cdcfcf0fdfdf68302f" title=" " alt="" coords="5,419,245,477"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="288,451,245,451,245,445,288,445"/>
+<area shape="rect" id="Node000015" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html#aa802a62e933d028336cf18bd602e1221" title=" " alt="" coords="16,501,234,544"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="277,525,235,525,235,520,277,520"/>
+</map>

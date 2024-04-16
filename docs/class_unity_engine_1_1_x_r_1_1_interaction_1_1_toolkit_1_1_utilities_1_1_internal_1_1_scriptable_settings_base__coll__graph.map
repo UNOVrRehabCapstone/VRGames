@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Utilities.Internal.ScriptableSettingsBase&lt; T &gt;" name="UnityEngine.XR.Interaction.Toolkit.Utilities.Internal.ScriptableSettingsBase&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Internal base for all scriptable settings that is easier to look up via&#45;reflection...." alt="" coords="118,112,333,171"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,39,189,109,186,114,91,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,304,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,47,228,112,223,112,223,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="328,5,381,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,45,258,114,254,110,328,41"/>
+</map>

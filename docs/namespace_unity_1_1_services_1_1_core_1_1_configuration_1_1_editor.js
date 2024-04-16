@@ -1,0 +1,6 @@
+var namespace_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor =
+[
+    [ "ConfigurationBuilder", "class_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_configuration_builder.html", "class_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_configuration_builder" ],
+    [ "IConfigurationProvider", "interface_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_i_configuration_provider.html", "interface_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_i_configuration_provider" ],
+    [ "ProjectConfigurationBuilder", "class_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_project_configuration_builder.html", "class_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_project_configuration_builder" ]
+];

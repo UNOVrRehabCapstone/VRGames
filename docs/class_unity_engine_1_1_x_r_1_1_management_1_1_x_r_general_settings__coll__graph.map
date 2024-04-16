@@ -1,0 +1,10 @@
+<map id="UnityEngine.XR.Management.XRGeneralSettings" name="UnityEngine.XR.Management.XRGeneralSettings">
+<area shape="rect" id="Node000001" title="General settings container used to house the instance of the active settings as well as the manager i..." alt="" coords="64,204,259,247"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,47,66,84,76,123,88,146,104,167,138,202,134,205,100,171,84,149,71,125,61,85,59,47"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html" title="Class to handle active loader and subsystem management for XR. This class is to be added as a Scripta..." alt="" coords="86,81,280,124"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="96,38,154,79,151,83,93,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="325,89,379,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,132,341,158,325,182,294,202,260,215,258,210,292,198,321,178,337,156,345,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,139,165,149,162,177,162,204,157,204,157,177,160,147,163,138"/>
+</map>

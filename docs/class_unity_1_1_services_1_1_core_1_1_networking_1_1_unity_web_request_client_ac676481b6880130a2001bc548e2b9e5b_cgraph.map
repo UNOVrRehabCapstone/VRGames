@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Networking.UnityWebRequestClient.CreateRequestForService" name="Unity.Services.Core.Networking.UnityWebRequestClient.CreateRequestForService">
+<area shape="rect" id="Node000001" title="Create a new HttpRequest targeting the service identified by the given serviceId ...." alt="" coords="5,31,255,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_http_request.html#a631185b2f4a42ce19d933c2ba8e5c9f4" title="Set the given options &#160;to this request." alt="" coords="303,5,511,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,42,287,38,288,44,256,48"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_http_request.html#a2182cb3cadd4ec01be72880c6d7fdf94" title="Set the given url &#160;to this request." alt="" coords="303,72,511,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,72,288,76,287,82,255,78"/>
+</map>

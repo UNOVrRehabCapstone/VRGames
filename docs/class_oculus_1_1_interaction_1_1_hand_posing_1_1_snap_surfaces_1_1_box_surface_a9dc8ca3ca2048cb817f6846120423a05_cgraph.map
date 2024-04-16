@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurface.MinimalTranslationPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurface.MinimalTranslationPoseAtSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,291,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_box_surface.html#a0025d54bc442f8f236b7b81cbb174519" title=" " alt="" coords="339,13,570,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,32,323,32,323,37,291,37"/>
+</map>

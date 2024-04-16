@@ -1,0 +1,5 @@
+<map id="OVRHaptics.OVRHapticsChannel.OVRHapticsChannel" name="OVRHaptics.OVRHapticsChannel.OVRHapticsChannel">
+<area shape="rect" id="Node000001" title="Constructs a channel targeting the specified output." alt="" coords="5,5,226,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_haptics_1_1_o_v_r_haptics_channel.html#af6f39a607cda10c950ebe2a3754b843f" title="Enqueues the specified clip to play after any currently&#45;playing clips finish." alt="" coords="274,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
+</map>

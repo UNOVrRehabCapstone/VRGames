@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Device.IUserIdentifierProvider" name="Unity.Services.Core.Device.IUserIdentifierProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,187,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_device_1_1_unity_ads_identifier.html" title=" " alt="" coords="235,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,42,234,37,235,42,202,47"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_device_1_1_unity_analytics_identifier.html" title=" " alt="" coords="235,72,416,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,73,235,78,234,83,202,78"/>
+</map>

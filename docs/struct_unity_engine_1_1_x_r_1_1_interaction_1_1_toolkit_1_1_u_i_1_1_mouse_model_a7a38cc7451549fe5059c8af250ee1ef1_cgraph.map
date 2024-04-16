@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.UI.MouseModel.OnFrameFinished" name="UnityEngine.XR.Interaction.Toolkit.UI.MouseModel.OnFrameFinished">
+<area shape="rect" id="Node000001" title="Call this at the end of polling for per&#45;frame changes. This resets delta values, such as deltaPositio..." alt="" coords="5,13,266,56"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_mouse_button_model.html#a559740a4ffac6197095d8dc4c9ca8706" title="Call this on each frame in order to reset properties that detect whether or not a certain condition w..." alt="" coords="314,5,563,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,32,298,32,298,37,266,37"/>
+</map>

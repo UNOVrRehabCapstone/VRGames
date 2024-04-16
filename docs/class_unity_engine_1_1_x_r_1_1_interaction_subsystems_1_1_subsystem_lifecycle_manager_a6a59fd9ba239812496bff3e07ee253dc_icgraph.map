@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.InteractionSubsystems.SubsystemLifecycleManager.CreateSubsystem" name="UnityEngine.XR.InteractionSubsystems.SubsystemLifecycleManager.CreateSubsystem">
+<area shape="rect" id="Node000001" title="Creates a TSubsystem." alt="" coords="640,5,909,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_subsystem_lifecycle_manager.html#a5b0274c67207c351451c609c8d812ee0" title="Creates a subsystem if subsystem is null." alt="" coords="323,5,592,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,37,592,37,592,32,624,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_subsystem_lifecycle_manager.html#a07be8ff3d61c8430caec5bd55bdbc21f" title="Creates the TSubsystem." alt="" coords="5,5,275,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,37,275,37,275,32,307,32"/>
+</map>

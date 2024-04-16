@@ -1,0 +1,8 @@
+<map id="Windows.Kinect.CameraIntrinsics.Equals" name="Windows.Kinect.CameraIntrinsics.Equals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,29,557,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="496,16,478,10,447,8,418,10,400,15,394,21,396,28,391,29,388,19,398,10,417,5,447,3,479,5,498,11"/>
+<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_camera_intrinsics.html#a1d226104c3361edfc5beb6154429a93b" title=" " alt="" coords="8,12,286,39"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="321,43,287,40,287,34,321,37"/>
+<area shape="rect" id="Node000003" href="$struct_windows_1_1_kinect_1_1_camera_intrinsics.html#a4d67ae37608d793ac7c27eb60c825da2" title=" " alt="" coords="5,63,289,89"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="321,64,289,67,289,61,321,59"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.HasManagerSettingsForBuildTarget" name="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.HasManagerSettingsForBuildTarget">
+<area shape="rect" id="Node000001" title="Check if current settings instance has an instance of XRManagerSettings." alt="" coords="5,5,232,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#acb8ce223a593e4783d46072d5c7929c4" title="Get specific settings for a given build target." alt="" coords="280,5,499,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,32,264,32,264,37,232,37"/>
+</map>

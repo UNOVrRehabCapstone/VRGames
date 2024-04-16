@@ -1,0 +1,19 @@
+<map id="UnityEngine.InputSystem.InputActionAsset.FindActionMap" name="UnityEngine.InputSystem.InputActionAsset.FindActionMap">
+<area shape="rect" id="Node000001" title="Find an InputActionMap in the asset by its name or ID." alt="" coords="1025,171,1236,213"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_default_input_actions.html#a05a37484fb67d27011e4f8ca607614f2" title=" " alt="" coords="757,5,963,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1092,162,1039,120,975,78,952,67,954,62,978,74,1042,115,1096,158"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html#ab3ff5e896bb0280ec96b342dd52719a3" title=" " alt="" coords="745,88,975,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1035,168,968,150,969,145,1036,163"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_action_reference.html#a7b1c607b5423ad20b14375d40117cf7c" title="Look up an action in the given asset and initialize the reference to point to it." alt="" coords="774,171,946,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1009,195,946,195,946,189,1009,189"/>
+<area shape="rect" id="Node000005" href="$class_simple_controls.html#a8ea6e89c13dfaf5a91d3779a18e88660" title=" " alt="" coords="759,237,961,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1015,220,926,239,925,234,1014,215"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a52e9e7a8cedae17ae99af6a47d14c1e4" title=" " alt="" coords="743,288,977,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1083,224,1033,252,978,278,946,290,944,285,976,274,1031,247,1080,219"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a91e17a7db0ee5c75dc60fb1f29cdde48" title="Enable input on the player." alt="" coords="523,288,695,331"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="728,312,696,312,696,307,728,307"/>
+<area shape="rect" id="Node000008" href="$class_u_ivs_game_input_handler.html#a16c6b627b1379bc3deb489eb8e354bf0" title=" " alt="" coords="251,288,475,331"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="507,312,475,312,475,307,507,307"/>
+<area shape="rect" id="Node000009" href="$class_u_ivs_game_input_handler.html#ad492a6a594e835ec9d9a1b76c4de0ca7" title=" " alt="" coords="5,296,203,323"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="235,312,203,312,203,307,235,307"/>
+</map>

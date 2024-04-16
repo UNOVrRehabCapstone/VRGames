@@ -1,0 +1,15 @@
+<map id="OVRPlugin.Mesh" name="OVRPlugin.Mesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,203,380,229"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="5,96,143,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,132,122,156,153,176,206,196,259,207,258,212,204,201,150,181,118,160,93,136"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="211,5,265,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,42,99,98,96,93,200,37"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_plugin_1_1_vector4s.html" title=" " alt="" coords="167,96,309,123"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="241,48,241,95,235,95,235,48"/>
+<area shape="rect" id="Node000006" href="$struct_o_v_r_plugin_1_1_vector4f.html" title=" " alt="" coords="333,96,471,123"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="276,37,380,93,377,98,273,42"/>
+<area shape="rect" id="Node000004" href="$struct_o_v_r_plugin_1_1_vector2f.html" title=" " alt="" coords="495,96,632,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="538,135,504,159,464,181,423,196,381,207,380,202,421,191,462,176,501,154,535,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="248,136,257,157,270,177,298,200,295,204,266,180,253,160,244,139"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="385,136,331,204,327,201,381,133"/>
+</map>

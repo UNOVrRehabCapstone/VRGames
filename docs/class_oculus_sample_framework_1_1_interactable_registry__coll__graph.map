@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.InteractableRegistry" name="OculusSampleFramework.InteractableRegistry">
+<area shape="rect" id="Node000001" title="In case someone wants to know about all interactables in a scene, this registry is the easiest way to..." alt="" coords="5,96,247,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,45,117,94,112,97,86,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="153,5,206,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,47,140,97,135,94,163,45"/>
+</map>

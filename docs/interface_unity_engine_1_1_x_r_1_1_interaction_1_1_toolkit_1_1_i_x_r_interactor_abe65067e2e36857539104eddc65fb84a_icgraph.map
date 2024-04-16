@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRInteractor.GetValidTargets" name="UnityEngine.XR.Interaction.Toolkit.IXRInteractor.GetValidTargets">
+<area shape="rect" id="Node000001" title="Retrieve the list of Interactables that this Interactor could possibly interact with this frame...." alt="" coords="550,51,783,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#acd54b479f8a2644e5f906524b7e7884d" title="Retrieves the list of Interactables that the given Interactor could possibly interact with this frame..." alt="" coords="288,43,502,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,75,502,75,502,69,534,69"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#aa1007578e010253c5fb6b9555ee7157d" title="For the provided interactor , returns a list of the valid Interactables that can be hovered over or s..." alt="" coords="15,5,230,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,58,230,52,230,47,273,53"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a9e8e98513986a31ecc30e13a753f8011" title="See MonoBehaviour." alt="" coords="5,88,240,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,91,241,96,240,91,272,86"/>
+</map>

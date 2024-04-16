@@ -1,0 +1,17 @@
+<map id="UnityEngine.InputSystem.InputActionMap.Disable" name="UnityEngine.InputSystem.InputActionMap.Disable">
+<area shape="rect" id="Node000001" title="Disable all the actions in the map." alt="" coords="529,192,701,235"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#ac31d9cac29e024c8b9fcd00f5f849ebc" title="Disable input on the player." alt="" coords="277,35,455,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,182,538,135,510,112,480,92,454,80,456,75,482,87,513,108,542,131,589,179"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_player_actions.html#a4f098051a46502fee7a9cfa9af8ba81b" title=" " alt="" coords="255,101,477,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="533,189,456,163,457,158,535,184"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_u_i_actions.html#a2dd9785ecb79a6fd89a48d0150c97c43" title=" " alt="" coords="267,184,465,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="513,216,465,216,465,211,513,211"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions_1_1_gameplay_actions.html#ace0121b24384671fef37b5418e8b6bab" title=" " alt="" coords="251,267,481,325"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="535,243,457,269,456,263,533,238"/>
+<area shape="rect" id="Node000008" href="$struct_simple_controls_1_1_gameplay_actions.html#a2467dc12393ab979d43bde54a00bbfce" title=" " alt="" coords="256,349,476,392"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="589,248,542,295,513,319,482,340,458,351,456,346,480,335,510,315,538,291,585,244"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#aa6c134d062569550c49759b9531fcb08" title=" " alt="" coords="17,5,191,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,47,191,39,192,34,261,42"/>
+<area shape="rect" id="Node000004" href="$class_u_ivs_game_input_handler.html#ad492a6a594e835ec9d9a1b76c4de0ca7" title=" " alt="" coords="5,72,203,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="261,70,203,77,203,72,261,65"/>
+</map>

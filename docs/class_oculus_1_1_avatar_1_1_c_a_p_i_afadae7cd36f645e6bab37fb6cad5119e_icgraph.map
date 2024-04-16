@@ -1,0 +1,7 @@
+<map id="Oculus.Avatar.CAPI.ovrAvatarPose_GetBodyComponent" name="Oculus.Avatar.CAPI.ovrAvatarPose_GetBodyComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,27,448,69"/>
+<area shape="rect" id="Node000002" href="$class_ovr_avatar.html#a18b63162b166f3e259f69d6525cf9084" title=" " alt="" coords="8,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,37,205,33,206,28,241,32"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar_body.html#a64a62ac2333936631249f0ed0878c215" title=" " alt="" coords="5,56,208,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,64,208,68,208,63,240,59"/>
+</map>

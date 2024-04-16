@@ -1,0 +1,9 @@
+<map id="UnityEditor.TimelineDragging.HandleClipPaneObjectDragAndDrop" name="UnityEditor.TimelineDragging.HandleClipPaneObjectDragAndDrop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,234,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#a502d5d05908fc38b5e72c64381fd9c28" title="Creates a marker track for the TimelineAsset." alt="" coords="321,5,517,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,69,305,49,307,54,219,74"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_dragging.html#ab77ca13bf7a8e96a13d3c6c5c188fc47" title="Handles drag and drop of a mono script." alt="" coords="291,72,547,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,91,275,91,275,96,234,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_dragging.html#a5b8832c7ce70e10bbf74df506b4c216b" title=" " alt="" coords="282,139,556,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,113,306,132,305,137,218,118"/>
+</map>

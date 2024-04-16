@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.IndexCCWFrom" name="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.IndexCCWFrom">
+<area shape="rect" id="Node000001" title=" " alt="" coords="246,5,480,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#ac0bd56442cdd66f6ff89c7e2e8ab18d3" title="Legalize triangle by rotating clockwise around oPoint." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

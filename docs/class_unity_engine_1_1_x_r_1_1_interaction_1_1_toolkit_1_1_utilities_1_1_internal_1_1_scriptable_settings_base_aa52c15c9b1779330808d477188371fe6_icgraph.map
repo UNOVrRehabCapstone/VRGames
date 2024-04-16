@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Utilities.Internal.ScriptableSettingsBase.GetFilePath" name="UnityEngine.XR.Interaction.Toolkit.Utilities.Internal.ScriptableSettingsBase.GetFilePath">
+<area shape="rect" id="Node000001" title="Get the filename for this ScriptableSettings." alt="" coords="268,5,482,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal_1_1_scriptable_settings_base.html#ac72a951d5e13213467f17f57f603a609" title="Save this ScriptableSettings to an asset." alt="" coords="5,5,220,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,37,220,37,220,32,252,32"/>
+</map>

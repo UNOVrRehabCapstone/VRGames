@@ -1,0 +1,11 @@
+<map id="Oculus.Platform.StandalonePlatform.InitializeInEditor" name="Oculus.Platform.StandalonePlatform.InitializeInEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,189,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_standalone_platform.html#a07b0e6bda6c2ccee05359dd1fa61d88b" title=" " alt="" coords="237,72,420,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,91,221,91,221,96,189,96"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#acfd158671d732bc6bde54b9417d5e6ca" title=" " alt="" coords="468,5,697,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,69,483,50,485,55,413,74"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a907236301d074dcbefb8bfea1629483a" title=" " alt="" coords="499,72,667,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="421,91,483,91,483,96,421,96"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#adae1306be22690fed9bec990c43a0608" title=" " alt="" coords="499,139,667,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="413,113,485,132,483,137,412,118"/>
+</map>

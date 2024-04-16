@@ -1,0 +1,15 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.GetCanvasPointerData" name="UnityEngine.EventSystems.OVRInputModule.GetCanvasPointerData">
+<area shape="rect" id="Node000001" title="Get state for pointer which is a pointer moving in world space across the surface of a world space ca..." alt="" coords="5,156,260,199"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a55d7568087c3c06a66dc4a7b8fdf7478" title="Convenience function for cloning PointerEventData." alt="" coords="322,5,519,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,153,224,106,306,58,321,51,323,56,309,62,227,110,162,158"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#afd8e1023787488dd68f09e942d26301c" title=" " alt="" coords="314,72,527,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,153,329,117,331,122,209,158"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_raycaster.html#a6fc85b88c671a4c78ce79839135d8e78" title="Get screen position of worldPosition contained in this RaycastResult." alt="" coords="310,139,531,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,163,294,160,294,166,260,169"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_raycaster.html#a4b87696c0a98c70c5e601f8905574375" title="Performs a raycast using the pointer object attached to this OVRRaycaster." alt="" coords="320,189,521,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="260,186,305,190,304,195,260,191"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_abstract_event_data.html#a2066eadd3c7427d8237263b73efdfc4d" title="Reset the event." alt="" coords="329,240,512,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,197,331,232,329,238,208,202"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a184d4ce30fa7ec925f00524edacfc89f" title="Given a mouse button return the current state for the frame." alt="" coords="308,307,533,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="163,197,228,244,309,292,320,298,317,302,306,297,225,248,160,201"/>
+</map>

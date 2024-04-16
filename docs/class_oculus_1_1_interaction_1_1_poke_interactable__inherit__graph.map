@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PokeInteractable" name="Oculus.Interaction.PokeInteractable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,96,292,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactable.html" title=" " alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,57,168,94,164,97,128,61"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_pointable.html" title=" " alt="" coords="218,13,296,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,53,192,98,188,94,232,49"/>
+</map>

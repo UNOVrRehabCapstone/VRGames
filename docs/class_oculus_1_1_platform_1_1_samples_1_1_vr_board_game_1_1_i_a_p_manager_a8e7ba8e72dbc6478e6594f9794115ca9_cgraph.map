@@ -1,0 +1,5 @@
+<map id="Oculus.Platform.Samples.VrBoardGame.IAPManager.BuyPowerBallsPressed" name="Oculus.Platform.Samples.VrBoardGame.IAPManager.BuyPowerBallsPressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,247,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#a5973fec0bccb684867cdce5ef5fc7b59" title=" " alt="" coords="295,5,519,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,32,279,32,279,37,247,37"/>
+</map>

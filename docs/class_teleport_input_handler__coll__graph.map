@@ -1,0 +1,7 @@
+<map id="TeleportInputHandler" name="TeleportInputHandler">
+<area shape="rect" id="Node000001" title="The TeleportInputHandler provides interfaces used to control aim related to teleports and related beh..." alt="" coords="5,155,145,181"/>
+<area shape="rect" id="Node000002" href="$class_teleport_support.html" title="The TeleportSupport is an EventHandlerBehavior used by a number of derived behaviors which all rely o..." alt="" coords="19,80,131,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,122,78,154,72,154,72,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="20,5,130,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,48,78,80,72,80,72,48"/>
+</map>

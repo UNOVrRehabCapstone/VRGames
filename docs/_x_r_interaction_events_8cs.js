@@ -1,0 +1,23 @@
+var _x_r_interaction_events_8cs =
+[
+    [ "UnityEngine.XR.Interaction.Toolkit.BaseInteractionEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.TeleportingEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleporting_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.TeleportingEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleporting_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleporting_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.HoverEnterEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_enter_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.HoverEnterEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_enter_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_enter_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.HoverExitEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_exit_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.HoverExitEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_exit_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_hover_exit_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.SelectEnterEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_enter_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_enter_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_enter_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.SelectExitEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_exit_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_exit_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_select_exit_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.ActivateEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_activate_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_activate_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_activate_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.DeactivateEvent", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_deactivate_event.html", null ],
+    [ "UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_deactivate_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_deactivate_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.BaseRegistrationEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_registration_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_registration_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.InteractorRegisteredEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactor_registered_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactor_registered_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.InteractableRegisteredEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactable_registered_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactable_registered_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.InteractorUnregisteredEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactor_unregistered_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactor_unregistered_event_args" ],
+    [ "UnityEngine.XR.Interaction.Toolkit.InteractableUnregisteredEventArgs", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactable_unregistered_event_args.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interactable_unregistered_event_args" ]
+];

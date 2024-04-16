@@ -1,0 +1,8 @@
+<map id="Facebook.WitAi.Windows.WitConfigurationEditor.Initialize" name="Facebook.WitAi.Windows.WitConfigurationEditor.Initialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,201,105"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_wit_auth_utility.html#acf5833969917c02877b45d891498a0de" title=" " alt="" coords="250,29,452,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,68,234,64,235,69,202,73"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#a06b74bf8b57249aa6c9cbf007d8d8cdc" title=" " alt="" coords="249,96,453,139"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="202,95,233,99,233,104,201,100"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,29,302,19,310,10,326,5,351,3,377,5,393,11,391,16,376,10,351,8,327,10,313,15,307,21,309,28"/>
+</map>

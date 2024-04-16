@@ -1,0 +1,13 @@
+<map id="UnityEditor.XR.Management.Tests.DomainReloadTests.DomainReload" name="UnityEditor.XR.Management.Tests.DomainReloadTests.DomainReload">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,227,127"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#afadca744e0061cd80de9f22bfde86366" title="If there is an active loader, this function will deinitialize it and remove the active loader instanc..." alt="" coords="286,31,489,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,79,270,73,271,79,227,85"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a0790610f50f9bda32b67b0e869a7af3a" title="Iterate over the configured list of loaders and attempt to initialize each one. The first one that su..." alt="" coords="275,113,500,156"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="227,110,259,114,259,120,227,115"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#a453233ff749d06034c2cff5dbb62db66" title="Ask loader to deinitialize all initialized subsystems." alt="" coords="571,5,765,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,45,555,37,555,43,489,51"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a2991cb670b0721521b5cf14e401659ed" title="If there is an active loader, this will request the loader to stop all the subsystems that it is mana..." alt="" coords="548,72,787,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="489,69,533,75,533,80,489,75"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#ae44c5f7511f9fffef8f79e8fef45d683" title="Ask loader to stop all initialized subsystems." alt="" coords="835,72,1030,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="788,91,820,91,820,96,788,96"/>
+</map>

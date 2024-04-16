@@ -1,0 +1,28 @@
+var interface_oculus_1_1_interaction_1_1_input_1_1_i_hand =
+[
+    [ "GetCenterEyePose", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a8166f92c8ec056e8a1158e1d0e5b6225", null ],
+    [ "GetFingerIsHighConfidence", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2c72ec74abbe3d14f8a72876ecd91915", null ],
+    [ "GetFingerIsPinching", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a91be7fdbc9ad85e392b5316890ecd01e", null ],
+    [ "GetFingerPinchStrength", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a53553a786b5cb0dd7ae7757ac3003375", null ],
+    [ "GetHandAspect< TComponent >", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#aecb39f1f14e6d45ee1c01b10fc516902", null ],
+    [ "GetIndexFingerIsPinching", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a0acb702ee887b7a5fae927e00d3b8ae4", null ],
+    [ "GetJointPose", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#ace376780c4c5284fa23f759b3b10b526", null ],
+    [ "GetJointPoseFromWrist", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a86d1e9af428aa0e7d80dad7c8f665a32", null ],
+    [ "GetJointPoseLocal", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a4c6941bffcd9cdd3b6852fc034a6a7b7", null ],
+    [ "GetJointPosesFromWrist", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2593ffbabd0465579263777b2f2a7bef", null ],
+    [ "GetJointPosesLocal", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#aa307b6c7236766ff2e2e10bf899baeaa", null ],
+    [ "GetPalmPoseLocal", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a73557840d32d71ea5784471bf4c47378", null ],
+    [ "GetPointerPose", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a5dce881e4ad0055d1a926463b92583aa", null ],
+    [ "GetRootPose", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a6122bd31c5d2d91214c7d69113055d72", null ],
+    [ "CurrentDataVersion", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#aa537667a87dd6364e6187dd1eacb84d4", null ],
+    [ "Handedness", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a8dcc612c305bcc2efdc04e9c4337175b", null ],
+    [ "IsCenterEyePoseValid", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#af908a1627e45ad8bbe2da2ebd3d7a243", null ],
+    [ "IsConnected", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a3fbe95056bc229860d4fd03021b97110", null ],
+    [ "IsDominantHand", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2ddc19537f0028248f699023c45d5d41", null ],
+    [ "IsHighConfidence", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#ac28b61180c52c0b776f26892fd870092", null ],
+    [ "IsPointerPoseValid", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a61e87da14034a04a1ce66ffa0669df3c", null ],
+    [ "IsTrackedDataValid", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a389df2699a4fa61a2b6613c1607d1e20", null ],
+    [ "Scale", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#aa5beb3c2629cf6932c072129f135b636", null ],
+    [ "TrackingToWorldSpace", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#ac8d39bca28cba066c9043e604c642df8", null ],
+    [ "WhenHandUpdated", "interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a1da6f63add5e3f8b16837867b4dc4d23", null ]
+];

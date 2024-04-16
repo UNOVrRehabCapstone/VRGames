@@ -1,0 +1,9 @@
+<map id="UnityEngine.ProBuilder.PreferenceDictionary" name="UnityEngine.ProBuilder.PreferenceDictionary">
+<area shape="rect" id="Node000001" title="Store settings in a project local manner." alt="" coords="133,80,355,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,36,199,77,196,82,105,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,341,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,48,247,80,241,80,241,48"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_pro_builder_1_1_i_has_default.html" title="Interface for objects that contain a set of default values. Used by generated scriptable objects." alt="" coords="366,5,453,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="371,41,288,82,285,77,369,37"/>
+</map>

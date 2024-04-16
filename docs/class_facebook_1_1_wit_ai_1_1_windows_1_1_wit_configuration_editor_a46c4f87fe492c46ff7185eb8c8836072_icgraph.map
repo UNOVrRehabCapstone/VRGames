@@ -1,0 +1,11 @@
+<map id="Facebook.WitAi.Windows.WitConfigurationEditor.LayoutConfigurationEndpoint" name="Facebook.WitAi.Windows.WitConfigurationEditor.LayoutConfigurationEndpoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1113,5,1361,64"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#ab91502f39dd0af3aac7000a85e2f3dfd" title=" " alt="" coords="789,13,1065,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1097,37,1065,37,1065,32,1097,32"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#a48a08b47f166b42556ba2482fbd97331" title=" " alt="" coords="523,13,741,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="774,37,742,37,742,32,774,32"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_configuration_editor.html#a909bdf63ad6028c3a0a0dc36213477bb" title=" " alt="" coords="249,13,475,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,37,475,37,475,32,507,32"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_window.html#ad1218f7c18c16e21670de0a2fb4bde01" title=" " alt="" coords="5,13,201,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,37,201,37,201,32,233,32"/>
+</map>

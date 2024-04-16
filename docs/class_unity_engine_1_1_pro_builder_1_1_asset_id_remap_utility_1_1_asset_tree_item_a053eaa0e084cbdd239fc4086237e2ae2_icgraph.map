@@ -1,0 +1,13 @@
+<map id="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetTreeItem.AssetTreeItem" name="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetTreeItem.AssetTreeItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="870,67,1102,125"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_item.html#a855b187f668687a357cb374cfb94357d" title=" " alt="" coords="605,67,822,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="855,99,823,99,823,93,855,93"/>
+<area shape="poly" id="edge6_Node000002_Node000002" title=" " alt="" coords="758,55,741,48,714,45,690,47,674,52,666,59,666,67,661,66,662,56,671,47,689,42,714,40,742,43,760,50"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_view.html#a24afcd741369ef2736eedf3acf792646" title=" " alt="" coords="317,29,550,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="589,82,550,77,551,72,590,77"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_view.html#ae5068fc8406e51523e153bc58f2a0222" title=" " alt="" coords="310,112,557,155"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="590,115,558,119,557,114,589,110"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="479,17,462,11,433,8,409,10,392,15,385,21,384,29,379,29,380,19,390,10,408,5,433,3,463,5,481,13"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_view.html#a6779cd3449ac7aece1637c5971f677d8" title=" " alt="" coords="5,37,262,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="301,61,262,61,262,56,301,56"/>
+</map>

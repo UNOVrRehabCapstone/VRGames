@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandVisual.InjectAllHandSkeletonVisual" name="Oculus.Interaction.HandVisual.InjectAllHandSkeletonVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,206,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_visual.html#a5a683ee9381576a2bb87596850bc349a" title=" " alt="" coords="254,5,454,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,44,238,40,239,45,206,49"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_visual.html#ad94e0a725e1bdc55062ce06ae870364b" title=" " alt="" coords="254,72,454,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,71,239,75,238,80,206,76"/>
+</map>

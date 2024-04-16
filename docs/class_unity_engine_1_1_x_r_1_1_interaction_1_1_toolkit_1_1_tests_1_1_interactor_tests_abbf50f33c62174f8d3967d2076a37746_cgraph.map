@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Tests.InteractorTests.ContactInteractorCullsValidTargetsWhenInteractableUnregistered" name="UnityEngine.XR.Interaction.Toolkit.Tests.InteractorTests.ContactInteractorCullsValidTargetsWhenInteractableUnregistered">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,283,80"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#a48b120a077fe2418099414368dac7528" title="Retrieve the list of Interactables that this Interactor could possibly interact with this frame...." alt="" coords="331,13,548,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,40,315,40,315,45,283,45"/>
+</map>

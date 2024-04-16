@@ -1,0 +1,6 @@
+<map id="UnityEditor.Timeline.MoveItemHandler.Grab" name="UnityEditor.Timeline.MoveItemHandler.Grab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,29,403,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="353,16,340,10,317,8,296,10,283,15,278,21,280,28,275,29,273,19,280,10,295,5,317,3,341,5,356,11"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_select_and_move_item.html#a584bdd0d566071b66460cdbf2c518833" title=" " alt="" coords="5,29,184,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="216,53,184,53,184,48,216,48"/>
+</map>

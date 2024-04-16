@@ -1,0 +1,5 @@
+<map id="OculusSampleFramework.BoneCapsuleTriggerLogic" name="OculusSampleFramework.BoneCapsuleTriggerLogic">
+<area shape="rect" id="Node000001" title="Allows a bone to keep track of interactables that it has touched. This information can be used by a t..." alt="" coords="5,80,210,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,162,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
+</map>

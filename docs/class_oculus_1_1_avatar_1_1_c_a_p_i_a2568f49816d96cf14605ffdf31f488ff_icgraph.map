@@ -1,0 +1,11 @@
+<map id="Oculus.Avatar.CAPI.ovrAvatarRenderPart_GetType" name="Oculus.Avatar.CAPI.ovrAvatarRenderPart_GetType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="541,39,733,81"/>
+<area shape="rect" id="Node000002" href="$class_ovr_avatar_component.html#aeb59f4f3c346b95894fb57d4218bb847" title=" " alt="" coords="306,5,493,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,47,493,42,494,37,526,42"/>
+<area shape="rect" id="Node000003" href="$class_ovr_avatar_render_component.html#a8c6b380ba4d7a29a618472e81a65c21b" title=" " alt="" coords="306,72,493,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="526,78,494,83,493,78,525,73"/>
+<area shape="rect" id="Node000004" href="$class_ovr_avatar_skinned_mesh_render_component.html#a4452e12daa21e440004801877021df29" title=" " alt="" coords="5,35,258,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="290,81,258,76,259,71,291,76"/>
+<area shape="rect" id="Node000005" href="$class_ovr_avatar_skinned_mesh_p_b_s_v2_render_component.html#afe792175680a48ac3f2eb17b8e07bfe2" title=" " alt="" coords="5,101,258,160"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="291,111,259,116,258,110,290,106"/>
+</map>

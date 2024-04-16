@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.FromOVRControllerDataSource.InjectAllFromOVRControllerDataSource" name="Oculus.Interaction.Input.FromOVRControllerDataSource.InjectAllFromOVRControllerDataSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,243,147"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_data_source.html#a4816d10ebbf25eb5ccd62ec88a665b79" title=" " alt="" coords="291,5,528,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,85,290,66,292,71,229,90"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_data_source.html#a67437900bcc4e8032992af2eb2c44a2b" title=" " alt="" coords="291,88,528,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,115,275,115,275,120,243,120"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_data_source.html#a4c0d4c772c46efae478b65b8bce2ed65" title=" " alt="" coords="291,171,528,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,145,292,163,290,168,227,150"/>
+</map>

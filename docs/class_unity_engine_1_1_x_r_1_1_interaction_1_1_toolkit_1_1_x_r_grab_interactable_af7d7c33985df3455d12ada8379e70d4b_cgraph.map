@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Grab" name="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Grab">
+<area shape="rect" id="Node000001" title="Updates the state of the object due to being grabbed. Automatically called when entering the Select s..." alt="" coords="5,13,212,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#a9c4f311709def98f9f1097e465b9503c" title="Setup the Rigidbody on this object due to being grabbed. Automatically called when entering the Selec..." alt="" coords="260,5,472,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,32,244,32,244,37,212,37"/>
+</map>

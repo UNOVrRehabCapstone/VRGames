@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.TwoGrabFreeTransformer" name="Oculus.Interaction.TwoGrabFreeTransformer">
+<area shape="rect" id="Node000001" title="A Transformer that transforms the target in a free form way for an intuitive two hand translation,..." alt="" coords="32,80,213,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,43,109,78,105,81,77,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_transformer.html" title=" " alt="" coords="139,5,232,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,46,141,81,136,78,164,43"/>
+</map>

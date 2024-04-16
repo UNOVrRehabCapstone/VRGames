@@ -1,0 +1,11 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.SelectExit" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.SelectExit">
+<area shape="rect" id="Node000001" title="Initiates ending selection of an Interactable by an Interactor, passing the given args ." alt="" coords="5,137,259,180"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactable.html#a706268139f8befc1a5f88f229c1076c6" title="The XRInteractionManager calls this method when the Interactor ends selection of an Interactable in a..." alt="" coords="319,5,526,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,134,306,74,320,68,322,72,308,78,177,139"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#a93cdc8bb0d4ba0b6bfd25bff1f0e1ab1" title="The XRInteractionManager calls this method when the Interactor ends selection of an Interactable in a..." alt="" coords="307,88,538,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,138,291,133,292,139,259,143"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactable.html#a5ff6b3ac2143c8997b9a96b39c301826" title="The XRInteractionManager calls this method right before the Interactor ends selection of an Interacta..." alt="" coords="319,171,526,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,174,304,180,303,186,259,179"/>
+<area shape="rect" id="Node000005" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#a7a4d029e85e0ea771e4eb9c13cb6148c" title="The XRInteractionManager calls this method right before the Interactor ends selection of an Interacta..." alt="" coords="307,253,538,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,178,308,239,322,245,320,250,306,244,175,183"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor.DrawTeleportationConfigurationNested" name="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor.DrawTeleportationConfigurationNested">
+<area shape="rect" id="Node000001" title="Draw the nested contents of the Teleportation Configuration foldout." alt="" coords="573,5,851,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable_editor.html#a1c8ed5b585950abf81dba3559f4de846" title="Draw the Teleportation Configuration foldout." alt="" coords="288,5,525,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,37,525,37,525,32,557,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable_editor.html#acbb012a90dd3e6cabe8bf43418a7f6b4" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="5,5,240,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,37,240,37,240,32,272,32"/>
+</map>

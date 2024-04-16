@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Samples.VrBoardGame.GameBoard.GetPlayerScore" name="Oculus.Platform.Samples.VrBoardGame.GameBoard.GetPlayerScore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,55,575,97"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#ae907679bc00394b439abe1ab8476fa2a" title=" " alt="" coords="5,5,255,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,58,255,54,255,49,288,53"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#a982d696d3599a5d9cf8aaac86a28490b" title=" " alt="" coords="7,88,253,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,99,254,103,253,98,287,94"/>
+</map>

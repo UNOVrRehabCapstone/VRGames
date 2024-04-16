@@ -1,0 +1,12 @@
+<map id="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.CreateDefaultManagerSettingsForBuildTarget" name="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.CreateDefaultManagerSettingsForBuildTarget">
+<area shape="rect" id="Node000001" title="Create a new default instance of XRManagerSettings for a build target. Requires that the there exists..." alt="" coords="5,88,287,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#ae812e1cfa4ee1d8e92559789e3b1ea81" title="Create default settings for a given build target." alt="" coords="335,5,566,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,85,324,66,326,71,257,90"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#aeafad765c6ba446b83d58a945557aa33" title="Query this settings store to see if there are settings for a specific BuildTargetGroup." alt="" coords="341,88,560,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,115,325,115,325,120,287,120"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#acb8ce223a593e4783d46072d5c7929c4" title="Get specific settings for a given build target." alt="" coords="614,121,833,180"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="265,145,335,156,400,161,450,161,566,156,598,155,599,160,566,161,450,166,399,166,334,161,264,150"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a9b7a48faeef96383940b0c61e0093701" title="Set specific settings for a given build target." alt="" coords="614,5,833,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,32,598,32,598,37,566,37"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="561,128,599,133,598,138,560,133"/>
+</map>

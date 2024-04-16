@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetLinePoints" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetLinePoints">
+<area shape="rect" id="Node000001" title="(Obsolete) Use ILineRenderable.GetLinePoints instead." alt="" coords="5,5,211,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a2047f0e335207fca00741b4ac0310bd9" title="Gets the polygonal chain represented by a list of endpoints which form line segments to approximate t..." alt="" coords="259,5,464,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
+</map>

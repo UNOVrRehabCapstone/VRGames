@@ -1,0 +1,10 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.CalculateBestPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.CalculateBestPoseAtSurface">
+<area shape="rect" id="Node000001" title="Finds the Pose at the surface that is the closest to the given ray." alt="" coords="5,39,255,97"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aed06165e68aa41c23f30e0aa0782df19" title=" " alt="" coords="303,72,543,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,80,287,83,287,89,255,85"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#ac6172d52aeb542436e7f7dec908f8462" title=" " alt="" coords="593,5,833,64"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="255,58,577,40,577,45,255,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,71,577,63,578,68,544,76"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#a6a5f7dcdf82db5016236cd4c082bdc8c" title=" " alt="" coords="591,88,834,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="544,105,576,107,575,112,543,111"/>
+</map>

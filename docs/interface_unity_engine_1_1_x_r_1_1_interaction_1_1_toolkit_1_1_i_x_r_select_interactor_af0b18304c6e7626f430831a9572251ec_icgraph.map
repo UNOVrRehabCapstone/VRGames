@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor.CanSelect" name="UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor.CanSelect">
+<area shape="rect" id="Node000001" title="Determines if the Interactable is valid for selection this frame." alt="" coords="277,5,477,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#aa8f1c5cfc657297b1fcbd880e7693a35" title="Automatically called each frame during Update to clear the selection of the Interactor if necessary d..." alt="" coords="5,5,229,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,37,229,37,229,32,261,32"/>
+</map>

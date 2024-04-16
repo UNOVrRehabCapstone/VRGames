@@ -1,0 +1,5 @@
+var namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling =
+[
+    [ "LinkedPool", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling_1_1_linked_pool.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling_1_1_linked_pool" ],
+    [ "PooledObject", "struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling_1_1_pooled_object.html", "struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling_1_1_pooled_object" ]
+];

@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,280,133,307"/>
+<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_color_equality_comparer.html" title="Use this class to compare two Color objects. ColorEqualityComparer.Instance has default calculation e..." alt="" coords="208,5,393,48"/>
+<area shape="poly" id="edge221_Node000000_Node000001" title=" " alt="" coords="73,265,85,220,105,164,136,107,156,81,179,58,206,42,208,46,182,62,160,84,141,110,110,166,90,221,78,266"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_float_equality_comparer.html" title="Use this class to compare two float values for equality with NUnit constraints. Use FloatEqualityComp..." alt="" coords="208,72,393,115"/>
+<area shape="poly" id="edge222_Node000000_Node000002" title=" " alt="" coords="79,265,94,232,116,194,145,157,179,125,206,110,209,114,182,129,148,160,121,197,99,235,84,267"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_quaternion_equality_comparer.html" title="Use this utility to compare two Quaternion objects for equality with NUnit assertion constraints...." alt="" coords="207,139,394,181"/>
+<area shape="poly" id="edge223_Node000000_Node000003" title=" " alt="" coords="90,266,129,227,179,191,205,179,207,184,182,196,133,232,94,270"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector2_comparer_with_equals_operator.html" title="Use these classes to compare two objects of the same type for equality within the range of a given to..." alt="" coords="181,205,420,248"/>
+<area shape="poly" id="edge224_Node000000_Node000004" title=" " alt="" coords="130,272,180,257,220,246,221,251,181,263,131,278"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector2_equality_comparer.html" title="Use this class to compare two Vector2 objects for equality with NUnit constraints...." alt="" coords="208,272,393,315"/>
+<area shape="poly" id="edge225_Node000000_Node000005" title=" " alt="" coords="148,291,207,291,207,296,148,296"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector3_comparer_with_equals_operator.html" title="Use these classes to compare two objects of the same type for equality within the range of a given to..." alt="" coords="181,339,420,381"/>
+<area shape="poly" id="edge226_Node000000_Node000006" title=" " alt="" coords="131,309,181,324,221,336,220,341,180,329,130,314"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector3_equality_comparer.html" title="Use this class to compare two Vector3 objects for equality with NUnit constraints...." alt="" coords="208,405,393,448"/>
+<area shape="poly" id="edge227_Node000000_Node000007" title=" " alt="" coords="94,317,133,355,182,391,209,403,206,408,179,396,129,359,90,320"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector4_comparer_with_equals_operator.html" title="Use these classes to compare two objects of the same type for equality within the range of a given to..." alt="" coords="181,472,420,515"/>
+<area shape="poly" id="edge228_Node000000_Node000008" title=" " alt="" coords="84,320,99,352,121,389,148,426,182,458,202,469,199,474,179,462,145,430,116,392,94,355,79,322"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector4_equality_comparer.html" title="Use this class to compare two Vector4 objects for equality with NUnit constraints...." alt="" coords="208,539,393,581"/>
+<area shape="poly" id="edge229_Node000000_Node000009" title=" " alt="" coords="78,321,90,366,110,421,141,477,160,502,182,525,208,541,206,545,179,529,156,506,136,480,105,423,85,367,73,322"/>
+</map>

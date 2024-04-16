@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.GrabStrengthIndicator.InjectAllGrabStrengthIndicator" name="Oculus.Interaction.GrabStrengthIndicator.InjectAllGrabStrengthIndicator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,252,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_strength_indicator.html#ac23d7dae2f5c05ebff62330d9cd796c5" title=" " alt="" coords="311,5,519,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,77,315,50,316,55,214,82"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_strength_indicator.html#a10c847092d929fe6167444f3081e221f" title=" " alt="" coords="300,72,530,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,99,284,99,284,104,252,104"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_strength_indicator.html#a229388e7c90d3897a276d9afdf14cc5d" title=" " alt="" coords="311,155,519,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,121,316,148,315,153,213,126"/>
+</map>

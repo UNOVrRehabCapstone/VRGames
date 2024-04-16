@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.SyntheticHand.LockWristPose" name="Oculus.Interaction.Input.SyntheticHand.LockWristPose">
+<area shape="rect" id="Node000001" title="Stores the desired pose to set the wrist of the hand to. This is not necessarily the final pose of th..." alt="" coords="5,72,205,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a699cfd3c3514b74a6e1d768f9b142c58" title=" " alt="" coords="253,5,470,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,69,261,50,263,55,190,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a7189e8e580417aeff632da20557b60db" title=" " alt="" coords="253,72,470,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,91,237,91,237,96,205,96"/>
+<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html#a81d8a7b4073c50f4c80364eb0080c983" title="Converts a world space pose in Unity&#39;s coordinate space to a pose in tracking space (i...." alt="" coords="258,139,465,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,113,245,131,243,136,180,118"/>
+</map>

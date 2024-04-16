@@ -1,0 +1,11 @@
+<map id="Unity.Services.Core.Networking.Internal.ReadOnlyHttpResponse" name="Unity.Services.Core.Networking.Internal.ReadOnlyHttpResponse">
+<area shape="rect" id="Node000001" title="Read&#45;only handle to a HttpResponse." alt="" coords="5,432,213,475"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_http_response.html" title="Contain all data from a server response to a HttpRequest." alt="" coords="5,325,213,368"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,384,112,431,106,431,106,384"/>
+<area shape="rect" id="Node000003" href="$struct_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_read_only_http_request.html" title="Read&#45;only handle to a HttpRequest." alt="" coords="5,219,213,261"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,277,112,325,106,325,106,277"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_http_request.html" title="Contain all data of an HTTP request." alt="" coords="5,112,213,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,170,112,218,106,218,106,170"/>
+<area shape="rect" id="Node000005" href="$struct_unity_1_1_services_1_1_core_1_1_networking_1_1_internal_1_1_http_options.html" title="Contract for objects containing all settings to customize the behaviour of a HTTP request sending." alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,64,112,111,106,111,106,64"/>
+</map>

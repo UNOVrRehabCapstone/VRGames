@@ -1,0 +1,5 @@
+<map id="UnityEngine.TestTools.Utils.Vector3EqualityComparer" name="UnityEngine.TestTools.Utils.Vector3EqualityComparer">
+<area shape="rect" id="Node000001" title="Use this class to compare two Vector3 objects for equality with NUnit constraints...." alt="" coords="5,96,191,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,5,166,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,64,101,96,95,96,95,64"/>
+</map>

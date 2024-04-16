@@ -1,0 +1,11 @@
+<map id="UnityEngine.TestTools.IEditModeTestYieldInstruction" name="UnityEngine.TestTools.IEditModeTestYieldInstruction">
+<area shape="rect" id="Node000001" title="In an Edit Mode test, you can use IEditModeTestYieldInstruction interface to implement your own instr..." alt="" coords="5,105,187,148"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_test_tools_1_1_enter_play_mode.html" title="Implements IEditModeTestYieldInstruction. Creates a yield instruction to enter Play Mode." alt="" coords="250,5,436,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,96,234,58,265,46,267,51,236,62,153,100"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_test_tools_1_1_exit_play_mode.html" title="Implements IEditModeTestYieldInstruction. A new instance of the class is a yield instruction to exit ..." alt="" coords="254,72,432,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,110,253,103,253,108,202,115"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_test_tools_1_1_recompile_scripts.html" title="RecompileScripts is an IEditModeTestYieldInstruction that you can yield in Edit Mode tests...." alt="" coords="235,139,451,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,138,234,143,234,148,202,144"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_test_tools_1_1_wait_for_domain_reload.html" title="WaitForDomainReload is an IEditModeTestYieldInstruction that you can yield in Edit Mode tests...." alt="" coords="252,205,434,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,153,236,191,267,202,265,207,234,196,151,158"/>
+</map>

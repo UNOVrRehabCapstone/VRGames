@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRHoverInteractor.OnHoverEntering" name="UnityEngine.XR.Interaction.Toolkit.IXRHoverInteractor.OnHoverEntering">
+<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor first initiates hovering over ..." alt="" coords="310,5,531,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a13749717113fd9d235feae56988513b8" title="Initiates hovering of an Interactable by an Interactor, passing the given args ." alt="" coords="5,13,262,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,37,262,37,262,32,294,32"/>
+</map>

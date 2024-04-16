@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.SpacePartitioner.DebugDraw" name="UnityEditor.Timeline.SpacePartitioner.DebugDraw">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_interval_tree.html#aae40d9e2e77a75c1cfefcb9032a4ffe8" title="Query the tree at a particular range of time." alt="" coords="232,5,419,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,24,216,24,216,29,184,29"/>
+</map>

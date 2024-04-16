@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.EnableDeviceCommand" name="UnityEngine.InputSystem.LowLevel.EnableDeviceCommand">
+<area shape="rect" id="Node000001" title="Command to re&#45;enable a device that has been disabled with DisableDeviceCommand." alt="" coords="5,80,220,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="28,5,197,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,48,115,80,110,80,110,48"/>
+</map>

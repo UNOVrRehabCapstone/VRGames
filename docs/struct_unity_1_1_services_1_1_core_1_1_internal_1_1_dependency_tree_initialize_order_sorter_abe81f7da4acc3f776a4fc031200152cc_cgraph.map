@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.RemoveUnprovidedOptionalDependenciesFromTree" name="Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.RemoveUnprovidedOptionalDependenciesFromTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,321,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_1_1_services_1_1_core_1_1_internal_1_1_dependency_tree_initialize_order_sorter.html#adc5e4457a9f10609fa35a69df4afaa50" title=" " alt="" coords="369,5,629,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,32,353,32,353,37,321,37"/>
+</map>

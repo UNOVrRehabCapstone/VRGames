@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Models.LeaderboardEntry" name="Oculus.Platform.Models.LeaderboardEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,128,371,171"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_supplementary_metric.html" title=" " alt="" coords="5,5,257,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,60,161,82,178,102,210,125,207,130,174,106,157,85,144,63"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_user.html" title=" " alt="" coords="281,13,472,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="374,56,365,82,349,106,316,130,313,125,345,102,360,79,369,54"/>
+</map>

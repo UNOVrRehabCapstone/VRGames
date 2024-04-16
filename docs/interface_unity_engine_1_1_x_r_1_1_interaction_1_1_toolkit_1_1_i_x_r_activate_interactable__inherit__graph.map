@@ -1,0 +1,17 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractable" name="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractable">
+<area shape="rect" id="Node000001" title="An interface that represents an Interactable component which Interactor components can activate...." alt="" coords="161,105,356,148"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html" title="Abstract base class from which all interactable behaviours derive. This class hooks into the interact..." alt="" coords="404,105,583,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="372,124,404,124,404,129,372,129"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactable.html" title="An interface that represents an Interactable component that controls how a GameObject interacts with ..." alt="" coords="5,113,113,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,124,160,124,160,129,128,129"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable.html" title="This is intended to be the base class for all Teleportation Interactables. This abstracts the telepor..." alt="" coords="631,39,866,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,98,664,79,665,85,593,103"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html" title="Interactable component that allows basic &quot;grab&quot; functionality. Can attach to a selecting Interactor a..." alt="" coords="659,105,838,148"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="599,124,658,124,658,129,599,129"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_simple_interactable.html" title="This is the simplest version of an Interactable object. It simply provides a concrete implementation ..." alt="" coords="655,172,842,215"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="593,150,665,169,664,174,592,155"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_anchor.html" title="An anchor is a teleportation destination which teleports the user to a pre&#45;determined specific positi..." alt="" coords="914,5,1093,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="881,40,913,36,914,41,882,45"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_area.html" title="An area is a teleportation destination which teleports the user to their pointed location on a surfac..." alt="" coords="914,72,1093,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="882,75,914,79,913,84,881,80"/>
+</map>

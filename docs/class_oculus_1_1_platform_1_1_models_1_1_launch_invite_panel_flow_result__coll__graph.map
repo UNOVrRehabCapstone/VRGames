@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Models.LaunchInvitePanelFlowResult" name="Oculus.Platform.Models.LaunchInvitePanelFlowResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,188,215,231"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_user_list.html" title=" " alt="" coords="5,97,218,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,140,114,187,109,187,109,140"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_deserializable_list.html" title=" " alt="" coords="50,5,173,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,64,114,97,109,97,109,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.InputRemoting.Message" name="UnityEngine.InputSystem.InputRemoting.Message">
+<area shape="rect" id="Node000001" title="A message exchanged between two InputRemoting instances." alt="" coords="5,96,178,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,5,119,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,95,89,95,89,48"/>
+</map>

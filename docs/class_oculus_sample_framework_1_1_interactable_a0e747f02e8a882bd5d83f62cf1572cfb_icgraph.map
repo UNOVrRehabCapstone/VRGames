@@ -1,0 +1,5 @@
+<map id="OculusSampleFramework.Interactable.UpdateCollisionDepth" name="OculusSampleFramework.Interactable.UpdateCollisionDepth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="295,5,540,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_interactable_tool.html#ab2c694162cf014d4d57d99c68f6e526e" title="If our collision information changed per frame, make note of it. Removed, added and remaining objects..." alt="" coords="5,5,247,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,29,247,29,247,24,279,24"/>
+</map>

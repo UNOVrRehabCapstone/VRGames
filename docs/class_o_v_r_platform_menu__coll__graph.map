@@ -1,0 +1,7 @@
+<map id="OVRPlatformMenu" name="OVRPlatformMenu">
+<area shape="rect" id="Node000001" title="Shows the Oculus plaform UI." alt="" coords="51,96,181,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,44,110,94,106,97,74,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,205,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,47,126,97,122,94,154,44"/>
+</map>

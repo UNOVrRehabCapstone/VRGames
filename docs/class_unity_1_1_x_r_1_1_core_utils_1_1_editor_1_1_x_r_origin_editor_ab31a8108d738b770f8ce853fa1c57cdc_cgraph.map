@@ -1,0 +1,20 @@
+<map id="Unity.XR.CoreUtils.Editor.XROriginEditor.OnInspectorGUI" name="Unity.XR.CoreUtils.Editor.XROriginEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,207,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a0627cd72e2f13102a412ebe599f5e834" title="This method is automatically called by OnInspectorGUI to draw the custom inspector...." alt="" coords="257,105,448,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,153,241,146,242,152,208,158"/>
+<area shape="rect" id="Node000008" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a4c0236722613bd3c2609e8b6b1dc2979" title="This method is automatically called by OnInspectorGUI to initialize knownSerializedPropertyNames if n..." alt="" coords="255,184,450,243"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="208,189,240,194,239,199,207,194"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a840a03b97e6cb1e7cbf445f1fe63212e" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="501,5,735,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,102,497,58,517,50,519,56,499,62,398,107"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a5fa64b871bbed2468d84a3f14a5fd30d" title="This method is automatically called by DrawInspector to draw the property fields of derived classes t..." alt="" coords="498,72,737,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="448,112,482,108,483,113,449,117"/>
+<area shape="rect" id="Node000006" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a77392badefc30797413694f1b93e4aaf" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="519,139,716,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="449,136,504,143,503,148,448,141"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a79c0889b3173043c70ad0eeb67012031" title="Draw the standard read&#45;only Script property." alt="" coords="814,5,986,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="735,24,799,24,799,29,735,29"/>
+<area shape="rect" id="Node000007" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a522dc9569c96e2dfbf63f133f7feb0fc" title="Draw the current Tracking Origin Mode while the application is playing." alt="" coords="785,131,1015,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="717,157,770,157,770,163,717,163"/>
+<area shape="rect" id="Node000009" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#ae64305e38206ae350e933e4acd2fc9e3" title="Returns a list containing the SerializeField names of all SerializedProperty fields defined in the Ed..." alt="" coords="503,229,732,288"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="451,227,488,234,487,239,450,233"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="566,229,567,219,576,210,593,205,618,203,646,205,663,213,661,217,644,211,618,208,594,210,579,215,572,221,571,229"/>
+</map>

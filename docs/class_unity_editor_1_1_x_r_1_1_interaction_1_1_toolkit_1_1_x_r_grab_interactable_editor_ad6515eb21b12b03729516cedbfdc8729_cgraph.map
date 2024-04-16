@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.DrawGrabConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.DrawGrabConfiguration">
+<area shape="rect" id="Node000001" title="Draw the property fields related to grab configuration." alt="" coords="5,5,218,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#a32a8b2605213e20a5fb7530a7b536caa" title="Checks if the object has a non&#45;uniformly scaled parent and draws a message if necessary." alt="" coords="266,5,478,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,32,250,32,250,37,218,37"/>
+</map>

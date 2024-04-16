@@ -1,0 +1,14 @@
+<map id="OVRPlugin.HandState" name="OVRPlugin.HandState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,293,156,320"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_posef.html" title=" " alt="" coords="173,187,295,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,224,101,295,98,290,202,220"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_quatf.html" title=" " alt="" coords="43,96,163,123"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="92,137,74,187,71,216,72,246,80,292,75,293,67,246,66,216,69,186,87,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,136,118,149,127,161,149,175,173,185,171,190,146,180,124,165,114,152,107,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="185,5,238,32"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="217,47,226,122,235,186,230,187,221,123,212,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,42,148,58,129,78,113,97,109,94,125,74,145,54,169,37"/>
+<area shape="rect" id="Node000005" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="281,96,419,123"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="245,39,331,93,329,98,243,43"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="323,135,252,188,249,184,320,130"/>
+</map>

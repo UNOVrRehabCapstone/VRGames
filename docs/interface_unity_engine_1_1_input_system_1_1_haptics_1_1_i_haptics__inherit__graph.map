@@ -1,0 +1,16 @@
+<map id="UnityEngine.InputSystem.Haptics.IHaptics" name="UnityEngine.InputSystem.Haptics.IHaptics">
+<area shape="rect" id="Node000001" title="Base interface for haptics on input devices." alt="" coords="5,72,178,115"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_haptics_1_1_i_dual_motor_rumble.html" title="A simple haptics interface that allows to control two motors individually." alt="" coords="226,72,401,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,91,225,91,225,96,194,96"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_dual_shock_1_1_i_dual_shock_haptics.html" title="Extended haptics interface for DualShock controllers." alt="" coords="449,5,647,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,65,470,46,471,51,406,70"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_gamepad.html" title="An Xbox&#45;style gamepad with two sticks, a D&#45;Pad, four face buttons, two triggers, two shoulder buttons..." alt="" coords="462,72,634,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,91,461,91,461,96,416,96"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_input_system_1_1_x_input_1_1_i_xbox_one_rumble.html" title="Extended dual motor gamepad rumble that adds left and right trigger motors." alt="" coords="462,139,634,181"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="406,117,471,135,470,141,405,122"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_dual_shock_1_1_dual_shock_gamepad.html" title="A Sony DualShock/DualSense controller." alt="" coords="695,5,903,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="663,24,695,24,695,29,663,29"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="645,65,715,46,717,51,646,70"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_x_input_1_1_x_input_controller.html" title="An XInput&#45;compatible game controller." alt="" coords="713,72,885,115"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="650,91,713,91,713,96,650,96"/>
+</map>

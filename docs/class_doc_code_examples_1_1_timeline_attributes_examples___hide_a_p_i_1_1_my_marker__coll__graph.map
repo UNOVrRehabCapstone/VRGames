@@ -1,0 +1,9 @@
+<map id="DocCodeExamples.TimelineAttributesExamples_HideAPI.MyMarker" name="DocCodeExamples.TimelineAttributesExamples_HideAPI.MyMarker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,171,227,229"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_marker.html" title="Use Marker as a base class when creating a custom marker." alt="" coords="48,80,195,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,138,124,170,119,170,119,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,43,109,78,105,81,80,47"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_timeline_1_1_i_marker.html" title="Interface implemented by markers." alt="" coords="147,5,211,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,47,138,81,134,78,159,43"/>
+</map>

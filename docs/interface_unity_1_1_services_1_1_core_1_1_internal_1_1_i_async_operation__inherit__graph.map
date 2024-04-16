@@ -1,0 +1,14 @@
+<map id="Unity.Services.Core.Internal.IAsyncOperation&lt; out T &gt;" name="Unity.Services.Core.Internal.IAsyncOperation&lt; out T &gt;">
+<area shape="rect" id="Node000001" title="Contract for an asynchronous operation with no result." alt="" coords="145,39,330,81"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_async_operation.html" title="Default implementation for IAsyncOperation." alt="" coords="378,5,563,48"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="345,42,377,37,378,43,346,47"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_async_operation_base.html" title="Base class for asynchronous operations." alt="" coords="378,72,563,115"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="346,73,378,77,377,83,345,78"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,97,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,66,144,66,144,72,113,71"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="113,49,144,48,144,54,113,54"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_task_async_operation.html" title="Task&#45;based implementation of IAsyncOperation." alt="" coords="611,39,797,81"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="578,75,610,71,611,76,579,81"/>
+<area shape="rect" id="Node000006" href="$class_unity_1_1_services_1_1_core_1_1_internal_1_1_task_async_operation.html" title="Task&#45;based implementation of IAsyncOperation." alt="" coords="611,105,797,148"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="579,106,611,111,610,116,578,111"/>
+</map>

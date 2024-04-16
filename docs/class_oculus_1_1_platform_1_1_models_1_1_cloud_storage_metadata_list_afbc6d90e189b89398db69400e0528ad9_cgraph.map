@@ -1,0 +1,13 @@
+<map id="Oculus.Platform.Models.CloudStorageMetadataList.CloudStorageMetadataList" name="Oculus.Platform.Models.CloudStorageMetadataList.CloudStorageMetadataList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,229,147"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a70ff5a71d991ed8b471d4557f97164d1" title=" " alt="" coords="277,5,468,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,85,264,67,266,72,211,90"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a098d8dfce63a6349c4a95d5dda3e1997" title=" " alt="" coords="277,88,468,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,115,261,115,261,120,229,120"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a2c8f469ae4ceb8d71071aca49c12ceb8" title=" " alt="" coords="277,171,468,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="211,145,266,163,264,168,209,150"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="516,96,702,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="469,115,500,115,500,120,469,120"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="750,88,951,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="703,115,735,115,735,120,703,120"/>
+</map>

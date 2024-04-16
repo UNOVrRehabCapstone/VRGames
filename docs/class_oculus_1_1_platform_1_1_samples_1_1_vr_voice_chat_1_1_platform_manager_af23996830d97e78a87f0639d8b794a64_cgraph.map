@@ -1,0 +1,16 @@
+<map id="Oculus.Platform.Samples.VrVoiceChat.PlatformManager.TransitionToState" name="Oculus.Platform.Samples.VrVoiceChat.PlatformManager.TransitionToState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,197,206,256"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_p2_p_manager.html#aff1efe381e73bae3ececbfe14f1af92c" title=" " alt="" coords="256,5,495,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,196,175,126,211,89,252,58,261,53,264,57,255,62,215,93,179,130,127,199"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_voip_manager.html#afb85d85f2d0e38f69ef1a61a6de247b0" title=" " alt="" coords="255,72,496,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,195,193,158,252,124,267,118,269,123,255,129,196,163,145,199"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_p2_p_manager.html#a07e4ff738fc40d846c8afea7801eccaa" title=" " alt="" coords="254,139,497,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,199,271,183,272,188,207,204"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_voip_manager.html#a862725325e474a4582ccc7b48a6cff0f" title=" " alt="" coords="254,205,497,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,224,238,224,238,229,206,229"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_room_manager.html#af7d97cdc48325dd3b9ee78c93d072d45" title=" " alt="" coords="266,272,485,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="185,254,251,273,250,278,184,259"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_platform_manager.html#af5c1cb89db9a9e6b95fc10247f17520c" title=" " alt="" coords="275,355,476,413"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="140,254,192,298,255,340,265,346,263,350,252,345,188,302,136,258"/>
+<area shape="poly" id="edge6_Node000006_Node000001" title=" " alt="" coords="296,274,220,252,222,247,297,269"/>
+</map>

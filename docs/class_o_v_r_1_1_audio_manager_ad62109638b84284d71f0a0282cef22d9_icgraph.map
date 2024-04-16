@@ -1,0 +1,11 @@
+<map id="OVR.AudioManager.StopSound" name="OVR.AudioManager.StopSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,80,715,107"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x_ref_property_drawer.html#ab22ab39069a06f706e9cf33839b714a1" title=" " alt="" coords="246,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,78,439,51,441,46,544,73"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_audio_manager.html#af460fb5eb7d91093d5136c1f4259c94d" title=" " alt="" coords="263,72,446,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,96,446,96,446,91,495,91"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_f_x.html#a4b3518be86468f1628bb9912f47727bc" title=" " alt="" coords="268,139,441,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="537,113,417,141,416,135,536,108"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_1_1_sound_f_x_ref.html#a1d799e366ff5c7baa7c46a0f52a5c183" title=" " alt="" coords="5,139,198,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,155,198,155,198,149,252,149"/>
+</map>

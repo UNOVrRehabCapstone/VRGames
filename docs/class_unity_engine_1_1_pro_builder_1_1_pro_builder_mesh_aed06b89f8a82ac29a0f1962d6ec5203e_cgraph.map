@@ -1,0 +1,6 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.SetVerticesCoincident" name="UnityEngine.ProBuilder.ProBuilderMesh.SetVerticesCoincident">
+<area shape="rect" id="Node000001" title="Marks the specified vertices as coincident on this mesh." alt="" coords="5,29,232,72"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a9e52ae7b3eda704ccfcb7f180fddb507" title="Returns a list of vertices that are coincident to any of the specified vertices." alt="" coords="280,29,507,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,48,264,48,264,53,232,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="342,29,340,19,348,10,366,5,393,3,423,5,440,11,439,16,422,10,393,8,367,10,351,15,345,21,347,28"/>
+</map>

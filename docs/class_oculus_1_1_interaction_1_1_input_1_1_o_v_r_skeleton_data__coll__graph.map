@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.OVRSkeletonData" name="Oculus.Interaction.Input.OVRSkeletonData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,168,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="60,5,113,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,47,89,112,84,112,84,47"/>
+</map>

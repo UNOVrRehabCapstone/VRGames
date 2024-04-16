@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.TriangulationContext.NewConstraint" name="UnityEngine.ProBuilder.Poly2Tri.TriangulationContext.NewConstraint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,39,506,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_polygon.html#accc05224653ab2dae5339cf622f5e386" title="Creates constraints and populates the context with points." alt="" coords="13,5,205,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,46,205,41,206,36,245,41"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_constrained_point_set.html#ad313d9cfa8e35bf80fd2b4f8b91d602c" title=" " alt="" coords="5,72,213,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,79,214,83,213,78,245,74"/>
+</map>

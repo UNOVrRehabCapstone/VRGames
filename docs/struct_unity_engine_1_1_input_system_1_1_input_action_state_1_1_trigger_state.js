@@ -1,0 +1,37 @@
+var struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state =
+[
+    [ "Flags", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2", [
+      [ "HaveMagnitude", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2a8c13c0e24edaa008df1440ebd8a7dd8d", null ],
+      [ "PassThrough", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2ae1ff6a7360e99cb46db6bb5d3ff8e2eb", null ],
+      [ "MayNeedConflictResolution", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2ada982542fd42a448f9700e0b9d69fbe5", null ],
+      [ "HasMultipleConcurrentActuations", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2ad2b021e4125dca472440360749e3adb0", null ],
+      [ "InProcessing", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2a3156f45ee40aa82a5c96c310211bf991", null ],
+      [ "Button", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2a87b7760f14fbff78d8819291f36ab9a0", null ],
+      [ "Pressed", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1e41a36f95e1966b1deec82344c7b8b2ad78a68f6a85421ae121c2cb5b73a1040", null ]
+    ] ],
+    [ "bindingIndex", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a1cd4361ee0d771b8a298f39c2ddd2b1c", null ],
+    [ "controlIndex", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a5858a01141ccb89fff56a3c5723b3bd4", null ],
+    [ "flags", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a23dceb818fed77b4f3631054af2877a2", null ],
+    [ "hasMultipleConcurrentActuations", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a93b07ac3c5dece1a36259d135688255b", null ],
+    [ "haveMagnitude", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a66171f83eda0226326a9215d9aad83df", null ],
+    [ "inProcessing", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a23c4ec21468300c2e34706cd43cbcab6", null ],
+    [ "interactionIndex", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#ac07880b270e9b489ee6cd92de3c72b7e", null ],
+    [ "isButton", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#abd32f65d5c6ecad732b49c8ebea57f1c", null ],
+    [ "isCanceled", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a7ca7cee11b443d308c6ed92de6775491", null ],
+    [ "isDisabled", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#aa50e71c63e3b4d5c3cf8419e9bcf268f", null ],
+    [ "isPassThrough", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#abb86b179f826c9023d5fb6c544fd98a8", null ],
+    [ "isPerformed", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a856295439379a8e14a109f4096ca6c4e", null ],
+    [ "isPressed", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#aa01171fbe0a453046548801cdc56132a", null ],
+    [ "isStarted", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a3c431043da5c47900cd1e1a954a0c741", null ],
+    [ "isWaiting", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#ae10c8d576f833140441b8379482b3071", null ],
+    [ "lastCanceledInUpdate", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a35a7db291300cecbe4c9638573a46c8b", null ],
+    [ "lastPerformedInUpdate", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#ad1d957ffe8c7588b0f02703e689a91d8", null ],
+    [ "magnitude", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a55a1055e7d45777fcc08833ab0f79311", null ],
+    [ "mapIndex", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a8a147a360ba973063c1160f099b6c9c2", null ],
+    [ "mayNeedConflictResolution", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#ad9932b3d33d6fdb4e035e1c40f8c9566", null ],
+    [ "phase", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a51497b0346ae5d4ff58bf3e5300bff18", null ],
+    [ "pressedInUpdate", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#aab1024d40c1246b02cb402b3d67298e8", null ],
+    [ "releasedInUpdate", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#afa1f0309f93ba698cbd2908ecef29b53", null ],
+    [ "startTime", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#a6889e753209dbcbf791f448ea201edd5", null ],
+    [ "time", "struct_unity_engine_1_1_input_system_1_1_input_action_state_1_1_trigger_state.html#acd2c67cb40a12181904841ca6eb3c6fe", null ]
+];

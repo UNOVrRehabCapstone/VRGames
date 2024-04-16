@@ -1,0 +1,5 @@
+<map id="UnityEditor.Timeline.Actions.TimelineShortcutAttribute" name="UnityEditor.Timeline.Actions.TimelineShortcutAttribute">
+<area shape="rect" id="Node000001" title="Use this attribute to make an action work with the shortcut system." alt="" coords="5,96,195,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="27,5,173,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,64,103,96,97,96,97,64"/>
+</map>

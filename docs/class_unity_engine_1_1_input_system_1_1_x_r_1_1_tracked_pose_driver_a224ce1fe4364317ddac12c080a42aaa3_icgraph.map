@@ -1,0 +1,14 @@
+<map id="UnityEngine.InputSystem.XR.TrackedPoseDriver.PerformUpdate" name="UnityEngine.InputSystem.XR.TrackedPoseDriver.PerformUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="818,43,1017,101"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#aa8b540b614906b14e323f5b01e4be21d" title=" " alt="" coords="561,5,768,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="803,58,768,53,769,47,803,52"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a1ef69e8fa44d23c5de17b9a5d486b949" title=" " alt="" coords="559,88,770,131"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="803,92,771,96,770,91,803,86"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a6d08f75fe456421bbce71f5f40d664e9" title=" " alt="" coords="267,51,511,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="546,53,512,58,511,53,545,48"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a80da1f4f2354ca9c2d84ab5b619b1f2b" title="This function is called when the object becomes disabled or inactive." alt="" coords="5,17,219,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,58,219,54,220,49,251,53"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_x_r_1_1_tracked_pose_driver.html#a17956ee28844e9545864a94228b3e360" title="This function is called when the object becomes enabled and active." alt="" coords="7,84,217,127"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="251,91,218,95,217,90,250,86"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="543,96,511,91,512,86,544,90"/>
+</map>

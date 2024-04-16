@@ -1,0 +1,5 @@
+<map id="OVRPassthroughLayer.IsSurfaceGeometry" name="OVRPassthroughLayer.IsSurfaceGeometry">
+<area shape="rect" id="Node000001" title="Checks if the given gameobject is a surface geometry (If called with AddSurfaceGeometry)." alt="" coords="255,5,467,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_tracked_keyboard.html#a089d10851ce834402ed3e9d463c07dde" title="Stops keyboard tracking and cleans up associated resources." alt="" coords="5,13,207,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,29,207,29,207,24,239,24"/>
+</map>

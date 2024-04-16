@@ -1,0 +1,21 @@
+<map id="UnityEngine.ProBuilder.SharedVertex.SharedVertex" name="UnityEngine.ProBuilder.SharedVertex.SharedVertex">
+<area shape="rect" id="Node000001" title="Creates a new SharedVertex from the specified indices." alt="" coords="832,135,1033,177"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_shared_vertex.html#af97381983eec8a620c1105858bb54f8d" title="Creates a new array of SharedVertex objects by comparing points in the specified positions collection..." alt="" coords="530,135,784,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="817,159,785,159,785,153,817,153"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_mesh_operations_1_1_mesh_importer.html#a2a71d3c2c10bbc31dc974f11c77f331f" title="Imports mesh data from a GameObject&#39;s UnityEngine.MeshFilter.sharedMesh and UnityEngine...." alt="" coords="268,97,475,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="514,140,475,135,476,130,515,135"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#afbc4c0fe774599faefb94488c4a53b56" title="Clears all mesh attributes and reinitializes the mesh with new positions and face collections." alt="" coords="261,164,482,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="515,177,483,182,482,176,514,172"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cone.html#af49df71a91faffe3696da44aafafd8b1" title=" " alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,157,259,154,241,130,234,106,228,84,211,62,194,51,197,46,214,58,233,81,239,105,246,128,263,150,266,153"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cylinder.html#a28960d5f26270592d0383d46bad86dc1" title=" " alt="" coords="5,72,213,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="273,160,260,154,212,129,182,118,184,113,214,124,262,150,275,155"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_prism.html#a68285e969cdb685140c1829a322e3e37" title=" " alt="" coords="5,139,213,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="245,180,213,176,213,171,245,175"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_sphere.html#a7773df628740337373f64768de91d340" title=" " alt="" coords="5,205,213,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="245,212,213,216,213,211,245,207"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_sprite.html#ae7cd0dd9469dc686141d09b40331d5b5" title=" " alt="" coords="5,272,213,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="290,232,214,262,181,274,180,269,212,258,288,227"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_torus.html#a63807232f47586f06d6f77a8ee6dfab4" title=" " alt="" coords="5,339,213,381"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="333,236,279,284,214,329,189,341,187,336,211,324,276,280,329,232"/>
+</map>

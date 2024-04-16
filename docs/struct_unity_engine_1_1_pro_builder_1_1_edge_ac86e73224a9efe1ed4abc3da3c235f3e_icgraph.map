@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.Edge.Equals" name="UnityEngine.ProBuilder.Edge.Equals">
+<area shape="rect" id="Node000001" title="Tests whether this Edge is equal to another Edge object." alt="" coords="247,39,440,81"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_pro_builder_1_1_edge.html#a1e5182f80ce4ab969171b1858c222b9b" title="Compares edges and takes shared triangles into account." alt="" coords="5,5,199,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,47,199,43,199,37,232,42"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_pro_builder_1_1_edge.html#a0df922a9bf552ee1cf28af23539defcb" title="Tests whether this object is equal to another object." alt="" coords="5,72,199,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,78,199,83,199,77,231,73"/>
+</map>

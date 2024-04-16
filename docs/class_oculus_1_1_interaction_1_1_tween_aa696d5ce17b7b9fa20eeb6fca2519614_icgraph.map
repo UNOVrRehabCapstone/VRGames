@@ -1,0 +1,12 @@
+<map id="Oculus.Interaction.Tween.StopAndSetPose" name="Oculus.Interaction.Tween.StopAndSetPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="817,35,989,77"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#ac0d0fee1b439697cfa6b004c8290db22" title=" " alt="" coords="321,5,538,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="802,52,538,36,538,31,802,47"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_tween.html#a6b18aec4b7bcf5a6952ac95e5abf3540" title=" " alt="" coords="598,64,769,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="803,72,770,76,770,71,802,67"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="582,65,524,51,525,46,584,60"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#a85b4a9889f4bde17d75673811bb53d6d" title=" " alt="" coords="309,72,550,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="583,94,551,96,550,91,582,89"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#ac91740cb7b6eb9d0ab1c8a2dba3dc9e7" title="When a new interactable is selected, start the grab at the ideal point. When snapping is involved tha..." alt="" coords="5,80,261,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="293,104,261,104,261,99,293,99"/>
+</map>

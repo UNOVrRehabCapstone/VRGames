@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.IProximityField.ComputeClosestPoint" name="Oculus.Interaction.IProximityField.ComputeClosestPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="552,39,740,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_poke_interactable.html#aa1c46dbcfa6e4d85e297f9bdb07d5d50" title=" " alt="" coords="272,5,504,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,49,504,44,504,39,537,43"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_poke_interactable_editor.html#a08103991bb503159e778eac55cb71ebd" title=" " alt="" coords="272,72,504,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="537,77,505,81,504,76,536,72"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_poke_interactor.html#a2877bf7a18e9399f8e35e0b457610335" title=" " alt="" coords="5,5,224,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
+</map>

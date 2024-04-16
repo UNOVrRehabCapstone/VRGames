@@ -1,0 +1,5 @@
+var namespace_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities =
+[
+    [ "Internal", "namespace_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal.html", "namespace_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal" ],
+    [ "PackageManagerEditorHelper", "class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_package_manager_editor_helper.html", "class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_package_manager_editor_helper" ]
+];

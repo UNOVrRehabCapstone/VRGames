@@ -1,0 +1,11 @@
+<map id="UnityEditor.UI.RawImageEditor.OnInspectorGUI" name="UnityEditor.UI.RawImageEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,209,148"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a2e366355d0b3e50f48e78a0ac3e3739f" title="GUI related to the appearance of the Graphic. Color and Material properties appear here." alt="" coords="257,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,102,256,58,271,51,273,56,258,62,156,107"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#ab515cbefb5f3a5fdc30db0655f3e872b" title=" " alt="" coords="257,72,445,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,110,241,106,242,111,210,115"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#af20ddcdaaaeb7f67adf7493a00d26d71" title="GUI for showing a button that sets the size of the RectTransform to the native size for this Graphic." alt="" coords="257,139,445,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,138,242,142,241,148,209,143"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a927a8bb929a1f5b891300de317be6596" title="GUI related to the Raycasting settings for the graphic." alt="" coords="257,205,445,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,146,258,191,273,197,271,202,256,196,154,151"/>
+</map>

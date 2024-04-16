@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Input.OVRSkeletonDataProviders" name="Oculus.Interaction.Input.OVRSkeletonDataProviders">
+<area shape="rect" id="Node000001" title="Reads hand &amp; HMD pose data from the DataSources, and copies them onto the given OVRSkeleton...." alt="" coords="5,80,186,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,93,80,93,48"/>
+</map>

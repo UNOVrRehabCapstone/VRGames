@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.MaskUtilities.Notify2DMaskStateChanged" name="UnityEngine.UI.MaskUtilities.Notify2DMaskStateChanged">
+<area shape="rect" id="Node000001" title="Notify all IClippables under the given component that they need to recalculate clipping." alt="" coords="5,5,196,48"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html#a2885e0f0ea8e2ac2f6e02a940c29dcb5" title="Will be called when the state of a parent IClippable changed." alt="" coords="244,5,415,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+</map>

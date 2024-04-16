@@ -1,0 +1,10 @@
+<map id="Classes.Managers.KinectManager" name="Classes.Managers.KinectManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,172,249,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,48,63,77,72,107,96,143,124,170,120,173,92,146,67,109,58,78,56,48"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="82,81,195,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="86,41,127,79,124,83,83,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,124,141,171,136,171,136,124"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,81,273,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="233,123,208,150,170,174,167,169,205,146,229,119"/>
+</map>

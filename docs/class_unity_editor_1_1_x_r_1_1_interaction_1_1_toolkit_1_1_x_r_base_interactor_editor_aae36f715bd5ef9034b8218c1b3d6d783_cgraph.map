@@ -1,0 +1,25 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawInspector" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawInspector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,207,188"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#ad7163aa2147a8c687d61391fac4b776e" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="264,5,466,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,127,253,74,266,68,268,73,256,78,157,131"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#a20f440c39ce19b77e2e2856154cc85ec" title="This method is automatically called by DrawInspector to draw the property fields of derived classes t..." alt="" coords="255,88,475,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,140,239,135,240,140,208,145"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aeca3328e44166a1256087af043f40876" title="This method is automatically called by DrawInspector to draw the event properties...." alt="" coords="264,171,466,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="208,172,249,179,248,184,207,177"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a3d16795ab2f8ac1fc764aa66433b65e7" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="264,253,466,312"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="157,186,256,239,268,245,266,249,253,244,155,191"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#adc70b5a0b48b8fae08d78d6dcd080899" title="Draw the standard read&#45;only Script property." alt="" coords="523,5,743,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,32,508,32,508,37,466,37"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#ac792e1caa78805711b5440ed77c0ca7d" title="Draw the Interactor Events foldout." alt="" coords="533,129,734,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="465,182,517,174,518,179,466,187"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a38dbf7f132687d59066f25e112d90eab" title="Draw the nested contents of the Interactor Events foldout." alt="" coords="791,5,993,64"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="687,126,790,74,801,68,804,73,792,78,690,131"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a0ee94daca6be791ba7abd68172e6b60b" title="Get whether deprecated events are in use." alt="" coords="791,88,993,147"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="734,140,775,133,776,138,735,145"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#afbe158a4b3c91d18f220b2ebe7fd1068" title="Migrate the persistent listeners from the deprecated UnityEvent properties to the new events on an XR..." alt="" coords="791,171,993,229"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="735,172,776,179,775,184,734,177"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a5907d4b9773dc87964af68c4fa03c512" title="Draw the core group of property fields. These are the main properties that appear before any other sp..." alt="" coords="533,253,734,312"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="466,280,517,280,517,285,466,285"/>
+<area shape="rect" id="Node000012" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a7de7516647212fdd843c0a7f302ac8a8" title="Draw the property fields related to interaction management." alt="" coords="791,253,993,312"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="734,280,776,280,776,285,734,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandPosing.Visuals.HandGhost.SetPose" name="Oculus.Interaction.HandPosing.Visuals.HandGhost.SetPose">
+<area shape="rect" id="Node000001" title="Relay to the Puppet to set the ghost hand to the desired static pose." alt="" coords="5,39,210,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_ghost.html#a9824d84a43c4edc06596ac6de22e9342" title="Moves the underlying puppet so the grip point aligns with the given parameters." alt="" coords="275,5,486,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,45,259,39,260,44,211,50"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_puppet.html#a62d95d77f78048a6cf2cf493e7b91c1e" title="Rotates all the joints in this puppet to the desired pose." alt="" coords="258,72,503,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,70,242,74,242,79,210,75"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_puppet.html#aba54c9e4f5900803ea95548b0cb9fe7d" title="Rotates and Translate the hand Wrist so it aligns with the given pose. It can apply an offset for whe..." alt="" coords="551,5,771,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,24,536,24,536,29,486,29"/>
+</map>

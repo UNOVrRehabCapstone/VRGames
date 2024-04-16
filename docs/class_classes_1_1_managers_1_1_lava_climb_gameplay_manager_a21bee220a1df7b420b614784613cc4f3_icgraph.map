@@ -1,0 +1,5 @@
+<map id="Classes.Managers.LavaClimbGameplayManager.onRockGrabbed" name="Classes.Managers.LavaClimbGameplayManager.onRockGrabbed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,479,48"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,13,204,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+</map>

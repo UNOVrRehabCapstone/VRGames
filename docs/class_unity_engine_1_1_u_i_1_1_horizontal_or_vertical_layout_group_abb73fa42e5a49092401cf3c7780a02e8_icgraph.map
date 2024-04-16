@@ -1,0 +1,29 @@
+<map id="UnityEngine.UI.HorizontalOrVerticalLayoutGroup.CalcAlongAxis" name="UnityEngine.UI.HorizontalOrVerticalLayoutGroup.CalcAlongAxis">
+<area shape="rect" id="Node000001" title="Calculate the layout element properties for this layout element along the given axis." alt="" coords="609,328,851,371"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html#a6136b7643998d19b6615e0058fbd7b4a" title="Called by the layout system. Also see ILayoutElement." alt="" coords="331,155,552,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="691,320,631,273,560,228,536,216,538,212,562,223,634,269,694,315"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_u_i_1_1_vertical_layout_group.html#a77cceaa17631a98bf7155ba3ec41ad3d" title="Called by the layout system. Also see ILayoutElement." alt="" coords="322,369,561,412"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="594,372,562,376,561,371,593,366"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html#a33c01e60a3415edf6bc253115ee7f308" title="Called by the layout system. Also see ILayoutElement." alt="" coords="331,237,552,296"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="638,326,546,299,547,294,639,321"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_u_i_1_1_vertical_layout_group.html#a1e8170b70d54d39a3cf26e8bf7327288" title="Called by the layout system. Also see ILayoutElement." alt="" coords="329,436,554,479"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="672,380,562,426,527,438,525,433,560,422,670,375"/>
+<area shape="rect" id="Node000003" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#a16df61327aed3ae00bd5a952d4619c47" title=" " alt="" coords="5,5,274,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,146,339,102,272,62,244,51,246,46,275,58,342,98,398,142"/>
+<area shape="rect" id="Node000004" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#ad19a031b0ea120482efea37d90128d93" title=" " alt="" coords="5,72,274,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="316,153,249,134,250,129,318,147"/>
+<area shape="rect" id="Node000005" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#a9d0173a0a506ca321f6724445be53751" title=" " alt="" coords="20,155,259,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="316,187,259,187,259,181,316,181"/>
+<area shape="rect" id="Node000006" href="$class_layout_tests_1_1_horizontal_layout_group_tests.html#a113178f9a74b43acca8021175de9a74f" title=" " alt="" coords="20,237,259,296"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="318,221,250,239,249,234,316,215"/>
+<area shape="rect" id="Node000008" href="$class_layout_tests_1_1_vertical_layout_group_tests.html#a629f3ff21e1b6b6699c1cfcf9a990974" title=" " alt="" coords="34,320,245,379"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="306,375,245,366,246,361,307,370"/>
+<area shape="rect" id="Node000009" href="$class_layout_tests_1_1_vertical_layout_group_tests.html#ab73fa69642facc707ceeee01aab8c23e" title=" " alt="" coords="34,403,245,461"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="307,412,246,420,245,415,306,406"/>
+<area shape="rect" id="Node000010" href="$class_layout_tests_1_1_vertical_layout_group_tests.html#a15ea23bf4ace0c6e333c3981589d8944" title=" " alt="" coords="34,485,245,544"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="333,421,323,426,309,438,300,450,290,463,275,476,247,490,244,485,272,471,287,459,295,447,305,434,320,422,330,416"/>
+<area shape="rect" id="Node000011" href="$class_layout_tests_1_1_vertical_layout_group_tests.html#ae9fc3dc5e9afc28a33dd897dec430f0f" title=" " alt="" coords="34,568,245,627"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="327,423,324,426,311,441,304,457,300,490,296,524,289,541,275,558,246,578,243,573,272,554,285,538,291,522,295,489,299,456,306,439,320,422,323,419"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="316,235,249,217,250,211,318,230"/>
+<area shape="poly" id="edge13_Node000012_Node000006" title=" " alt="" coords="316,269,259,269,259,264,316,264"/>
+</map>

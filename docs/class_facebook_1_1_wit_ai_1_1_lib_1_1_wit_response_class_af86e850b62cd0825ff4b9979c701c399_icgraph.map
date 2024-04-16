@@ -1,0 +1,16 @@
+<map id="Facebook.WitAi.Lib.WitResponseClass.Add" name="Facebook.WitAi.Lib.WitResponseClass.Add">
+<area shape="rect" id="Node000001" title=" " alt="" coords="801,72,1019,115"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#ac3d13c1ee38b56a2b5eaf5fabb3e0c8c" title=" " alt="" coords="546,5,743,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="807,70,732,51,733,46,808,65"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#a19a12e4c354602c7563db1930f0179e1" title=" " alt="" coords="546,72,743,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="786,96,744,96,744,91,786,91"/>
+<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#a080a9c82d18b2ef69feaab9554111a8c" title=" " alt="" coords="536,163,753,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="832,123,710,165,709,160,830,118"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="688,150,672,144,645,141,619,143,604,148,598,154,600,161,595,163,593,153,601,144,618,138,645,136,673,138,690,145"/>
+<area shape="rect" id="Node000005" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#a7964fbc0df6b8e8a29e5da8355c366be" title=" " alt="" coords="271,163,488,205"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="520,187,489,187,489,181,520,181"/>
+<area shape="rect" id="Node000006" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#a222b68452aa6319bb0d7efe055ccf091" title=" " alt="" coords="5,129,223,172"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="255,171,223,167,224,162,255,166"/>
+<area shape="rect" id="Node000007" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#a3802357e2335bd0a35e95bbf1167ce01" title=" " alt="" coords="5,196,223,239"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="255,202,224,206,223,201,255,197"/>
+</map>

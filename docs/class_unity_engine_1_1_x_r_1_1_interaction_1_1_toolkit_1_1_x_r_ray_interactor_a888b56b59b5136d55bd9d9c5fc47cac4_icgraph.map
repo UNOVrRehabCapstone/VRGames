@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetValidTargets" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetValidTargets">
+<area shape="rect" id="Node000001" title="Retrieve the list of Interactables that this Interactor could possibly interact with this frame...." alt="" coords="280,5,490,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a7fdac4ef138b56148fcedb512329a54b" title="The XRInteractionManager calls this method to update the Interactor before interaction events occur...." alt="" coords="5,5,232,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,37,232,37,232,32,264,32"/>
+</map>

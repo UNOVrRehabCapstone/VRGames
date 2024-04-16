@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Interactor.Disable" name="Oculus.Interaction.Interactor.Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,39,430,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor_driver.html#a861005a23c4f08a3941342c803f65b0f" title=" " alt="" coords="7,5,192,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,47,192,42,193,37,227,42"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactor.html#a9f56267ff57051aff4f247cdf22e6dfc" title=" " alt="" coords="5,72,194,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,78,194,83,194,77,226,73"/>
+</map>

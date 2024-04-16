@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.ClearSelection" name="UnityEngine.EventSystems.OVRInputModule.ClearSelection">
+<area shape="rect" id="Node000001" title="Clear pointer state for both types of pointer." alt="" coords="279,5,486,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#ae23f634ceaefb0196af211a3769bdcf0" title=" " alt="" coords="5,5,231,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,29,231,29,231,24,263,24"/>
+</map>

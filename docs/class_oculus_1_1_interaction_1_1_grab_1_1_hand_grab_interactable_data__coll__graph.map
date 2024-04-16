@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Grab.HandGrabInteractableData" name="Oculus.Interaction.Grab.HandGrabInteractableData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,179,123"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_grab_1_1_i_hand_grab_interactable.html" title=" " alt="" coords="17,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,48,95,80,89,80,89,48"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="DragCallbackCheck" name="DragCallbackCheck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="388,132,523,159"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="215,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,36,341,42,372,63,401,87,444,129,440,133,397,91,369,67,339,46,329,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="205,56,334,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,86,341,92,426,129,423,134,339,97,323,91"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,107,317,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,126,388,133,387,139,332,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="210,157,329,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="343,158,387,152,388,157,344,163"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="222,208,317,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,200,339,194,423,157,426,162,341,198,325,205"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_down_handler.html" title="Interface to implement if you wish to receive OnPointerDown callbacks." alt="" coords="199,259,340,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="329,250,339,244,369,223,397,200,440,157,444,161,401,204,372,228,341,249,332,254"/>
+<area shape="rect" id="Node000008" href="$interface_unity_engine_1_1_event_systems_1_1_i_event_system_handler.html" title="Base class that all EventSystem events inherit from." alt="" coords="5,259,151,285"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="166,269,198,269,198,275,166,275"/>
+</map>

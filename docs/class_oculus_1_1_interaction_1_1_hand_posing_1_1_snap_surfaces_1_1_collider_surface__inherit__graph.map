@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,80,226,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,43,110,78,106,81,77,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_i_snap_surface.html" title="This interface defines the method needed to use snap surfaces. They allow finding the nearest poses a..." alt="" coords="139,5,237,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,46,142,81,138,78,167,43"/>
+</map>

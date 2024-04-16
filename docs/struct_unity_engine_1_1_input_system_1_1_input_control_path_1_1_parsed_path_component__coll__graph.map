@@ -1,0 +1,11 @@
+<map id="UnityEngine.InputSystem.InputControlPath.ParsedPathComponent" name="UnityEngine.InputSystem.InputControlPath.ParsedPathComponent">
+<area shape="rect" id="Node000001" title="A single component of a parsed control path as returned by Parse. For example, in the control path &quot;&lt;..." alt="" coords="546,75,802,117"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="227,23,399,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,56,546,75,546,80,414,61"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,178,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,28,227,31,226,37,193,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="11,56,172,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,56,226,51,227,57,188,61"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="227,89,399,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="415,110,546,101,546,107,415,115"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEditor.Timeline.WindowState.Evaluate" name="UnityEditor.Timeline.WindowState.Evaluate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,193,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a1f9998b0966727995f7fae56654ae710" title=" " alt="" coords="241,39,428,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,57,225,57,225,63,193,63"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_property_collector.html#ab5b227238401338388b6f4459dd5f27a" title="Sets the active game object for subsequent property modifications." alt="" coords="476,5,690,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,45,460,40,461,46,429,50"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_property_collector.html#a71b18b03f8b8bd036a73a9c56ca7210e" title=" " alt="" coords="488,72,678,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="429,70,473,76,472,81,428,75"/>
+</map>

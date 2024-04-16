@@ -1,0 +1,7 @@
+<map id="PaperPlane.onGrab" name="PaperPlane.onGrab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,140,40"/>
+<area shape="rect" id="Node000002" href="$class_plane_gameplay_manager.html#a9725e681f1800293a0eb24f57dcbc2f4" title="Handles the event when a plane is grabbed, updating the scoreboard message." alt="" coords="188,5,405,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,24,172,24,172,29,140,29"/>
+<area shape="rect" id="Node000003" href="$class_points_manager.html#a9dbd8b470e8cd2452297b403b9df8a0e" title=" " alt="" coords="453,5,670,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,24,437,24,437,29,406,29"/>
+</map>

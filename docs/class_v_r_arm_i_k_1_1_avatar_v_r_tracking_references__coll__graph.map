@@ -1,0 +1,10 @@
+<map id="VRArmIK.AvatarVRTrackingReferences" name="VRArmIK.AvatarVRTrackingReferences">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,283,188,325"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="29,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,47,98,282,93,282,82,48"/>
+<area shape="rect" id="Node000003" href="$class_v_r_arm_i_k_1_1_static_offset_transform.html" title=" " alt="" coords="113,144,317,171"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="108,41,205,142,201,145,104,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,184,115,284,111,281,193,181"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="170,5,261,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="218,48,218,143,213,143,213,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_TextElement" name="TMPro.TMP_TextElement">
+<area shape="rect" id="Node000001" title="Base class for all text elements like Character and SpriteCharacter." alt="" coords="94,5,265,32"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___character.html" title="A basic element of text." alt="" coords="5,80,159,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,44,100,82,97,77,149,39"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sprite_character.html" title="A basic element of text representing a pictograph, image, sprite or emoji." alt="" coords="183,80,370,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,39,261,77,258,82,207,44"/>
+</map>

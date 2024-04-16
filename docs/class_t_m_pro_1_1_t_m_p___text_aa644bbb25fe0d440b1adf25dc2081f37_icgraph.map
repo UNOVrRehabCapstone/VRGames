@@ -1,0 +1,31 @@
+<map id="TMPro.TMP_Text.GetUnderlineSpecialCharacter" name="TMPro.TMP_Text.GetUnderlineSpecialCharacter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="835,72,1037,115"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a5680800af216e0d2bc6022a4d6ade40b" title=" " alt="" coords="552,80,782,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,96,782,96,782,91,820,91"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#a735c1a7bbfc899272bc80bb9175720cc" title="Method to add the underline geometry." alt="" coords="546,29,787,56"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="820,74,741,59,742,54,821,69"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___text.html#a17ad19c4cf9c5ad4485b208eb0a37bf2" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="572,156,762,199"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="851,122,739,158,737,153,850,117"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro.html#a11969b2c0dafdce44a5ce7d48b7664c8" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="285,5,483,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,79,545,71,467,51,468,46,547,65,583,74"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aaaecdfcf8651816c94084873e48c0b4c" title="This is the main function that is responsible for creating / displaying the text." alt="" coords="270,72,498,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,96,498,96,498,91,536,91"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a3652c1b48e8b425fc8a599aa05fad59e" title="Function used to evaluate the length of a text string." alt="" coords="8,13,219,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,29,219,29,219,24,270,24"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a8232388d078ad69a9ea241fa15bd2fab" title="Function used to evaluate the length of a text string." alt="" coords="15,68,212,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="254,94,212,93,212,88,254,89"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="530,38,483,35,483,30,531,32"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="574,62,499,75,498,70,573,57"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_text_mesh_pro.html#a5bb3ac2d25483c61b10064917225ca59" title="Method which derived classes need to override to load Font Assets." alt="" coords="285,156,483,199"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="556,180,484,180,484,175,556,175"/>
+<area shape="rect" id="Node000012" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aedbf6c9aaf6c104ac7c81e85d99498b4" title="Method which derived classes need to override to load Font Assets." alt="" coords="282,244,486,287"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="582,206,456,246,454,241,580,201"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_text_mesh_pro.html#a941d6ec780b9e2735b52ab08392f7905" title=" " alt="" coords="22,135,205,161"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="269,168,205,161,206,155,270,162"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_text_mesh_pro.html#abd4d7b6017050265bade2ed033d6d781" title=" " alt="" coords="21,185,206,228"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="270,192,207,199,206,194,269,187"/>
+<area shape="rect" id="Node000013" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a68396208120ce895ce53db26b8779c35" title=" " alt="" coords="6,252,221,279"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="267,268,221,268,221,263,267,263"/>
+<area shape="rect" id="Node000014" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ac38b46e6697cbc9e1f8ba43350e97469" title=" " alt="" coords="5,303,222,345"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="268,293,216,305,215,299,267,288"/>
+</map>

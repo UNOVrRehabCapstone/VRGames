@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Layouts.InputDeviceMatcher.Equals" name="UnityEngine.InputSystem.Layouts.InputDeviceMatcher.Equals">
+<area shape="rect" id="Node000001" title="Test whether this matcher is equivalent to the other &#160;matcher." alt="" coords="305,5,533,48"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_device_matcher.html#a8a27a6b0b1b56e53eacfe3fbdee51d75" title="Compare two matchers for equivalence." alt="" coords="5,5,257,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,29,257,29,257,24,289,24"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Facebook.WitAi.Windows.WitUnderstandingViewer.OnEnable" name="Facebook.WitAi.Windows.WitUnderstandingViewer.OnEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,210,72"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#ad363f80f6fc9b4873b19d6d8ffd1cb98" title=" " alt="" coords="258,29,475,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,48,242,48,242,53,210,53"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="318,29,316,19,324,10,341,5,366,3,394,5,410,11,409,16,393,10,366,8,342,10,327,15,321,21,323,28"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_lib_1_1_wit_response_node.html#a0f641917ddbff08f247eafa828940cf4" title=" " alt="" coords="523,29,740,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,48,507,48,507,53,476,53"/>
+</map>

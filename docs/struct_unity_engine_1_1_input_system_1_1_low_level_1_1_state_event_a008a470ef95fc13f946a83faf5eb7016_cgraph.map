@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.StateEvent.GetState&lt; TState &gt;" name="UnityEngine.InputSystem.LowLevel.StateEvent.GetState&lt; TState &gt;">
+<area shape="rect" id="Node000001" title="Retrieve the state stored in the event." alt="" coords="5,5,202,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#a64884e59d37b5bb7dfaf9bf1a290b98e" title="Return the given InputEventPtr as a StateEvent pointer." alt="" coords="250,13,424,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,32,234,32,234,37,202,37"/>
+</map>

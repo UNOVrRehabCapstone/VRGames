@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Input.DataSource&lt; TData &gt;" name="Oculus.Interaction.Input.DataSource&lt; TData &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,155,217,197"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_modifier.html" title=" " alt="" coords="55,245,217,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,213,139,245,133,245,133,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,116,119,153,115,156,80,120"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_data_source.html" title=" " alt="" coords="138,80,289,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,120,157,156,154,153,189,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="167,5,260,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,48,216,80,211,80,211,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.ProBuilder.Actions.Extrude.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.Extrude.PerformActionImplementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,246,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="294,5,479,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,24,278,24,278,29,246,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="527,5,759,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,24,511,24,511,29,479,29"/>
+</map>

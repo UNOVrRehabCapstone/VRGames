@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.Edge" name="UnityEngine.ProBuilder.Edge">
+<area shape="rect" id="Node000001" title="Represents an edge connecting two vertices." alt="" coords="37,112,226,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,141,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,60,126,110,122,113,91,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="165,13,218,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,55,142,113,137,110,173,52"/>
+</map>

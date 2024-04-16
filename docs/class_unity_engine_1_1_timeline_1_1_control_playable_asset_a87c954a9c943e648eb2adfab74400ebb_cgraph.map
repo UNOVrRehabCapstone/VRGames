@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.ControlPlayableAsset.CreatePlayable" name="UnityEngine.Timeline.ControlPlayableAsset.CreatePlayable">
+<area shape="rect" id="Node000001" title="Creates the root of a Playable subgraph to control the contents of the game object." alt="" coords="5,5,203,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_prefab_control_playable.html#af7e8c1a785cf9318b7dbd99b456008e1" title="Creates a Playable with a PrefabControlPlayable behaviour attached." alt="" coords="251,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
+</map>

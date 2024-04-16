@@ -1,0 +1,9 @@
+<map id="OVR.AudioManager.PlaySound" name="OVR.AudioManager.PlaySound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,43,713,69"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x_ref_property_drawer.html#ab22ab39069a06f706e9cf33839b714a1" title=" " alt="" coords="245,5,462,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,45,462,42,463,36,495,40"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_sound_f_x.html#ab861e33c0bfe373d0e30455d6a1534b1" title=" " alt="" coords="267,72,440,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,72,440,78,440,73,495,67"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_f_x_ref.html#a0debecfcea5d3c8f6c3d6c1584054d70" title=" " alt="" coords="5,72,197,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,88,197,88,197,83,252,83"/>
+</map>

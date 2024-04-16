@@ -1,0 +1,19 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.SnapTurnProviderBase.Update" name="UnityEngine.XR.Interaction.Toolkit.SnapTurnProviderBase.Update">
+<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,168,245,211"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#a987a1e35afc3dc54701603b9e0eadd95" title="Invokes begin locomotion events." alt="" coords="321,7,535,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,165,215,123,291,79,314,69,316,74,294,84,218,127,157,170"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#ab6d4e2d0a04fc224fa686e53cb2f0300" title="Invokes end locomotion events." alt="" coords="293,93,563,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,165,323,138,324,143,215,170"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html#acdc0c1002883c8538c54577391d04eb8" title="Determines the turn amount in degrees for the given input &#160;vector." alt="" coords="318,160,538,219"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="245,187,302,187,302,192,245,192"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html#ad25920ace4eab1f934402db2977378ef" title="Reads the current value of the snap turn input." alt="" coords="300,243,556,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="215,209,324,236,323,241,214,214"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html#a9b07b66fb0a617431001d660747d4f8c" title="Begins turning locomotion." alt="" coords="302,309,554,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="155,209,217,252,294,295,310,301,308,306,292,300,214,257,152,213"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_system.html#a2182c03618f24f1f29a457789eaada7a" title="Attempt to &quot;lock&quot; access to the XR Origin for the provider ." alt="" coords="616,5,843,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,33,600,33,600,38,535,38"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_system.html#ad32d72df076bc9c629e437bb5d9430f0" title="Informs the LocomotionSystem that exclusive access to the XR Origin is no longer required." alt="" coords="622,88,836,147"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="564,113,606,114,606,119,564,119"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html#a5e71e52f563c871785bdf9205ea35b6b" title="Checks if locomotion can begin." alt="" coords="611,301,847,360"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="554,328,595,328,595,333,554,333"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.AssignLoader" name="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.AssignLoader">
+<area shape="rect" id="Node000001" title="Assigns a loader of type loaderTypeName to the settings instance. Will instantiate an instance if one..." alt="" coords="298,5,533,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_package_management_tests.html#a968c4b6c5944bb4aa356ee4131efd983" title=" " alt="" coords="5,5,250,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,37,250,37,250,32,282,32"/>
+</map>

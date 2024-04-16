@@ -1,0 +1,9 @@
+<map id="UnityEditor.ProBuilder.TextureRotateTool" name="UnityEditor.ProBuilder.TextureRotateTool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,202,272"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_texture_tool.html" title=" " alt="" coords="59,155,148,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,197,106,229,101,229,101,197"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_vertex_manipulation_tool.html" title=" " alt="" coords="25,80,182,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,122,106,154,101,154,101,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,48,106,80,101,80,101,48"/>
+</map>

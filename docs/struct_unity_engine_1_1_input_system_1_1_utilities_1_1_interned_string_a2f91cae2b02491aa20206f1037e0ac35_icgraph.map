@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Utilities.InternedString.ToLower" name="UnityEngine.InputSystem.Utilities.InternedString.ToLower">
+<area shape="rect" id="Node000001" title="Return a lower&#45;case version of the string." alt="" coords="273,13,473,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout.html#a0ced0f5c55402d7401c10cf313c82808" title="Merge the settings from other &#160;into the layout such that they become the base settings." alt="" coords="5,5,225,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,37,225,37,225,32,257,32"/>
+</map>

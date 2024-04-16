@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.NotKeyableAttribute" name="UnityEngine.Timeline.NotKeyableAttribute">
+<area shape="rect" id="Node000001" title="Apply this to a PlayableBehaviour class or field to indicate that it is not animatable." alt="" coords="5,80,173,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="54,5,124,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,48,92,80,86,80,86,48"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Oculus.Interaction.Tween.Tick" name="Oculus.Interaction.Tween.Tick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,201,69"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_progress_curve.html#adb4f851b70467713068439bded88a8d6" title=" " alt="" coords="249,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,233,37,233,43,202,47"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_progress_curve.html#a91af3586a6d8d766231b8ee751ba62da" title=" " alt="" coords="479,35,661,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="201,56,249,57,431,57,463,57,463,62,431,63,249,63,201,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,36,464,40,463,45,431,41"/>
+</map>

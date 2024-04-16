@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.CenterEyeOffset.InjectAllCenterEyeOffset" name="Oculus.Interaction.CenterEyeOffset.InjectAllCenterEyeOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,229,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_center_eye_offset.html#a8c1c9f825e24c2a858da03a6152913e8" title=" " alt="" coords="277,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,69,265,50,266,55,198,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_center_eye_offset.html#a594c801e804a0885cb2c7721c9414207" title=" " alt="" coords="277,72,445,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,91,261,91,261,96,229,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_center_eye_offset.html#aff27104430f1ee461a36d26bc3b3184e" title=" " alt="" coords="277,139,445,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,113,266,131,265,137,197,118"/>
+</map>

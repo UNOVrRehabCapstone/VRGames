@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.InputRecorder.StartCapture" name="UnityEngine.InputSystem.InputRecorder.StartCapture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_trace.html#a344819cc47e7aeecd1ea87e3ac328880" title="Start recording events." alt="" coords="232,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,24,216,24,216,29,184,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputControl.GetChildControl&lt; TControl &gt;" name="UnityEngine.InputSystem.InputControl.GetChildControl&lt; TControl &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#ac93b02c5baa5125f89d8f33a52044094" title=" " alt="" coords="239,13,424,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,32,223,32,223,37,191,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a5426e6f11ab6c29da5d90256c8e7fe96" title="Try to find a child control matching the given path." alt="" coords="472,13,675,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,32,456,32,456,37,425,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.ProcessDrag" name="UnityEngine.EventSystems.OVRInputModule.ProcessDrag">
+<area shape="rect" id="Node000001" title="Exactly the same as the code from PointerInputModule, except that we call our own IsPointerMoving." alt="" coords="5,5,204,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#ab496370a5297e2dca69251d151f75f50" title=" " alt="" coords="252,5,508,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
+</map>

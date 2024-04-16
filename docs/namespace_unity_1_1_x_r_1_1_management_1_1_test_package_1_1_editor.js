@@ -1,0 +1,6 @@
+var namespace_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor =
+[
+    [ "TestLoaderMetadata", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_loader_metadata.html", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_loader_metadata" ],
+    [ "TestPackageMetadata", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_package_metadata.html", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_package_metadata" ],
+    [ "TestSettingsEditor", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_settings_editor.html", "class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_settings_editor" ]
+];

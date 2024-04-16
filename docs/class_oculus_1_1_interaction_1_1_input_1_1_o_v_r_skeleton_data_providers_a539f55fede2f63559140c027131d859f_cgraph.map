@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Input.OVRSkeletonDataProviders.Update" name="Oculus.Interaction.Input.OVRSkeletonDataProviders.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,231,48"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_camera_rig.html#a4967dbeb017a9817e2152f84840cf9eb" title=" " alt="" coords="279,5,510,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,24,263,24,263,29,231,29"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html#a0cdc2a61808f7c6b12e12a76143f390a" title=" " alt="" coords="558,13,770,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,24,542,24,542,29,511,29"/>
+</map>

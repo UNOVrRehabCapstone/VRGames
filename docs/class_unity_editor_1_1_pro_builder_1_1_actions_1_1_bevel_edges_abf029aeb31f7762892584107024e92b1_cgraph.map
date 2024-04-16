@@ -1,0 +1,20 @@
+<map id="UnityEditor.ProBuilder.Actions.BevelEdges.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.BevelEdges.PerformActionImplementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,117,269,160"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="332,5,506,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,114,316,58,333,51,335,56,318,62,186,119"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a17ffb69e5c2eb62539ce1570b067a4ac" title="Recalculates mesh attributes: normals, collisions, UVs, tangents, and colors." alt="" coords="329,72,509,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,115,313,108,314,113,269,120"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a97a433d48049fc9477def1465f17c57f" title="Sets the face selection for this mesh. Also sets the vertex and edge selection to match." alt="" coords="317,163,521,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="269,157,302,162,301,168,268,163"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a002304bd6a6491a0702fee01b4cf1769" title="Rebuilds the mesh positions and submeshes." alt="" coords="329,229,509,272"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="186,158,318,215,335,221,333,226,316,220,184,163"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#afa107be8165b2617bc37cfac621ff533" title="Rebuilds the UV arrays on the specified faces." alt="" coords="589,72,768,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="509,91,573,91,573,96,509,96"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a22325d02ae395b43a073c458cab49191" title="Tests whether the mesh contains the requested arrays." alt="" coords="855,72,1034,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="768,91,839,91,839,96,768,96"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="370,163,368,153,376,144,393,138,419,136,446,138,463,145,461,150,445,144,419,141,394,143,379,148,373,154,375,161"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html#a15a5b3d7594310fb320f7b0b4f86252d" title="Creates an array of submeshes from a set of faces. Currently only Quads and Triangles are supported." alt="" coords="569,229,787,272"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="509,248,554,248,554,253,509,253"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html#aea4a56123f219339841e7412c7fae891" title="Creates a new Submesh from a submesh index for the material, the topology, and a set of indices." alt="" coords="835,229,1054,272"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="788,248,820,248,820,253,788,253"/>
+</map>

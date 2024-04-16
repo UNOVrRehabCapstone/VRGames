@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Grabbable.AddGrabPoint" name="Oculus.Interaction.Grabbable.AddGrabPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,39,502,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#ac0d0fee1b439697cfa6b004c8290db22" title=" " alt="" coords="25,5,241,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,49,241,43,242,37,294,44"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#ac91740cb7b6eb9d0ab1c8a2dba3dc9e7" title="When a new interactable is selected, start the grab at the ideal point. When snapping is involved tha..." alt="" coords="5,72,261,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,76,261,80,261,75,293,71"/>
+</map>

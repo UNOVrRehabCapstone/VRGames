@@ -1,0 +1,15 @@
+<map id="CountDown.destroyBlock" name="CountDown.destroyBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,173,83"/>
+<area shape="rect" id="Node000002" href="$class_count_up.html#a60a3fbbb39f371405d9d5da39383e924" title=" " alt="" coords="221,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,53,215,34,216,39,144,58"/>
+<area shape="rect" id="Node000003" href="$class_score.html#a336804860651a8e8b251fe7980018210" title=" " alt="" coords="241,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,67,225,67,225,72,173,72"/>
+<area shape="rect" id="Node000007" href="$class_count_up.html#aa3736cff510dfe712df23e94c35d4e4b" title=" " alt="" coords="221,107,348,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="144,81,216,100,215,105,143,86"/>
+<area shape="rect" id="Node000004" href="$class_score.html#a00689ef0abbed3e6116aec6d0f555100" title=" " alt="" coords="396,56,483,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="329,67,380,67,380,72,329,72"/>
+<area shape="rect" id="Node000005" href="$class_achievements.html#a7f191479055187c119692312b8fbf126" title=" " alt="" coords="531,56,706,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="484,67,515,67,515,72,484,72"/>
+<area shape="rect" id="Node000006" href="$class_achievements.html#a045289be8e16603209010538e0103519" title=" " alt="" coords="754,56,957,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="706,67,738,67,738,72,706,72"/>
+</map>

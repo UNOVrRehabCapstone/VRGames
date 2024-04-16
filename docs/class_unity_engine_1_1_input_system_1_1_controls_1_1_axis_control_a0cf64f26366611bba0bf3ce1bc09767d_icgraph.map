@@ -1,0 +1,15 @@
+<map id="UnityEngine.InputSystem.Controls.AxisControl.Preprocess" name="UnityEngine.InputSystem.Controls.AxisControl.Preprocess">
+<area shape="rect" id="Node000001" title="Apply modifications to the given value according to the parameters configured on the control (clamp,..." alt="" coords="563,179,773,221"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#a12da87d115557ed11d9f0cf0265f6e82" title=" " alt="" coords="265,88,515,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="579,176,490,150,492,145,580,171"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_discrete_button_control.html#a8dd4f4a9749bc3e08b8761c51f420553" title=" " alt="" coords="279,171,501,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="547,203,501,203,501,197,547,197"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_touch_press_control.html#a05577dd2dc673720c8a09141187c96dc" title=" " alt="" coords="281,253,499,312"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="580,229,492,255,490,250,579,224"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_quaternion_control.html#a0330176457a08c6fc8e1f9c2dab41bbe" title=" " alt="" coords="5,5,217,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,86,212,67,213,62,275,80"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector2_control.html#a60dd4992db223553b8ee56bd8bc0456d" title=" " alt="" coords="14,88,208,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,120,208,120,208,115,249,115"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector3_control.html#aaec128ee37c0eb91f7a21d23f1cc1c09" title=" " alt="" coords="14,171,208,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,154,209,174,207,169,273,149"/>
+</map>

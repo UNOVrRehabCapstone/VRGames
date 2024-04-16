@@ -1,0 +1,5 @@
+<map id="OVRResetOrientation" name="OVRResetOrientation">
+<area shape="rect" id="Node000001" title="Allows you to reset VR input tracking with a gamepad button press." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,48,81,80,76,80,76,48"/>
+</map>

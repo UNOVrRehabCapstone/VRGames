@@ -1,0 +1,10 @@
+<map id="VRArmIK.PoseManager" name="VRArmIK.PoseManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,172,266,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,47,61,77,72,107,88,127,109,145,154,169,151,174,106,149,85,131,67,109,56,78,54,48"/>
+<area shape="rect" id="Node000004" href="$class_v_r_arm_i_k_1_1_v_r_tracking_references.html" title=" " alt="" coords="81,81,292,108"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="96,38,166,79,164,83,93,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="316,81,369,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,120,271,150,221,174,218,169,268,146,313,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,124,189,171,184,171,184,124"/>
+</map>

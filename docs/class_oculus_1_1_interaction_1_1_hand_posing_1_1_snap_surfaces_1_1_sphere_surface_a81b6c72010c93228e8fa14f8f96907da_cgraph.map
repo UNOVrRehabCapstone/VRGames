@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.MinimalRotationPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.MinimalRotationPoseAtSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,246,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#ac6172d52aeb542436e7f7dec908f8462" title=" " alt="" coords="295,5,536,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,56,279,51,280,57,247,61"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#a6a5f7dcdf82db5016236cd4c082bdc8c" title=" " alt="" coords="294,88,537,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,91,279,95,278,100,246,96"/>
+</map>

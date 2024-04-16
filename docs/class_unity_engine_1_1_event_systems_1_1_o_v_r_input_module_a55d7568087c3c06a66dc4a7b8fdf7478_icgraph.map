@@ -1,0 +1,10 @@
+<map id="UnityEngine.EventSystems.OVRInputModule.CopyFromTo" name="UnityEngine.EventSystems.OVRInputModule.CopyFromTo">
+<area shape="rect" id="Node000001" title="Convenience function for cloning PointerEventData." alt="" coords="539,39,736,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a118ed5ea055cae39a0311086c741a24c" title="Get state for pointer which is a pointer moving in world space across the surface of a world space ca..." alt="" coords="237,5,491,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="523,49,491,45,492,40,524,43"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7942780a6fac1c5d491b18294b854755" title="State for a pointer controlled by a world space ray. E.g. gaze pointer." alt="" coords="242,72,486,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="524,77,486,81,486,76,523,71"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#aa4124a35a3a2edd2db5dd0dd1c14b906" title="Process this InputModule. Same as the StandaloneInputModule version, except that it calls ProcessMous..." alt="" coords="5,39,189,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,47,189,51,189,46,221,42"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="226,79,189,74,189,69,227,74"/>
+</map>

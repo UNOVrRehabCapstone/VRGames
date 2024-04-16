@@ -1,0 +1,27 @@
+<map id="UnityEngine.ProBuilder.Shapes.Shape" name="UnityEngine.ProBuilder.Shapes.Shape">
+<area shape="rect" id="Node000001" title="Base class for all Shape types that represent a primitive shape." alt="" coords="5,296,213,339"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_arch.html" title="Represents a basic arch shape." alt="" coords="262,5,497,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,280,135,226,164,162,205,97,230,67,259,42,280,30,282,35,262,46,234,71,209,100,169,164,140,228,122,282"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cone.html" title="Represents a basic cone shape." alt="" coords="261,56,498,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,281,142,237,172,186,211,135,234,112,259,92,281,81,284,86,262,97,238,116,215,138,177,189,147,239,126,283"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cube.html" title="Represents a basic cube shape." alt="" coords="261,107,498,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,281,152,247,182,210,218,173,259,143,284,132,287,136,262,148,221,177,186,213,156,251,133,284"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_cylinder.html" title="Represents a basic cylinder shape." alt="" coords="276,157,483,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="146,284,198,245,259,210,288,198,290,203,262,214,201,250,149,288"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_door.html" title="Represents a basic door shape." alt="" coords="262,224,497,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,288,260,260,306,249,307,254,261,265,180,293"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_pipe.html" title="Represents a basic pipe shape." alt="" coords="263,275,496,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="228,302,262,298,262,303,229,307"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_plane.html" title="Represents a basic plane shape." alt="" coords="276,325,483,368"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="228,328,275,333,275,338,228,333"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_prism.html" title="Represents a basic prism shape." alt="" coords="276,392,483,435"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="174,343,262,377,297,389,295,394,260,383,172,348"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_sphere.html" title="Represents a basic sphere shape." alt="" coords="276,459,483,501"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="142,348,195,398,227,423,262,444,287,456,285,461,259,449,224,427,192,402,138,352"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_sprite.html" title="Represents a basic sprite (a single&#45;unit plane shape)." alt="" coords="276,525,483,568"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="130,351,153,389,182,432,219,475,262,511,283,523,280,527,259,516,216,479,178,435,148,392,126,354"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_stairs.html" title="Represents a basic stairs shape." alt="" coords="276,592,483,635"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="124,353,143,404,172,465,212,526,235,554,262,578,281,589,278,594,259,582,232,557,207,529,167,467,138,406,119,355"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_pro_builder_1_1_shapes_1_1_torus.html" title="Represents a basic torus shape." alt="" coords="276,659,483,701"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="119,353,135,417,162,495,181,536,204,576,231,613,262,645,279,656,276,660,259,649,227,616,199,579,176,539,157,497,129,418,114,355"/>
+</map>

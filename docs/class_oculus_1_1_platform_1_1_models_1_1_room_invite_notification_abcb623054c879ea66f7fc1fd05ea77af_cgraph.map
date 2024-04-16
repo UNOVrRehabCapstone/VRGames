@@ -1,0 +1,13 @@
+<map id="Oculus.Platform.Models.RoomInviteNotification.RoomInviteNotification" name="Oculus.Platform.Models.RoomInviteNotification.RoomInviteNotification">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,251,164"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a149490116ccc049bd940fe6d7525571b" title=" " alt="" coords="299,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,118,298,58,313,51,315,56,300,62,172,123"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#abd38793a8c3f263c5900da81639a8c99" title=" " alt="" coords="312,72,481,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,121,296,114,297,119,252,126"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#afd2d3b3ddb25e374a95d9e963241c792" title=" " alt="" coords="312,155,481,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,159,297,166,296,171,251,164"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#af7ca6f2e3f47fc332490aaf90bcba783" title=" " alt="" coords="312,237,481,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,162,300,223,312,228,309,233,298,228,171,167"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#af11ff8bd92f61037f047b8f3d6ef3eb9" title=" " alt="" coords="542,245,721,288"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="481,264,527,264,527,269,481,269"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEditor.SettingsManagement.Examples.MySetting&lt; T &gt;" name="UnityEditor.SettingsManagement.Examples.MySetting&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,222,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_settings_management_1_1_user_setting.html" title="A generic implementation of IUserSetting to be used with a Settings instance. This default implementa..." alt="" coords="53,80,174,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,122,116,154,111,154,111,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_settings_management_1_1_i_user_setting.html" title="Types implementing IUserSetting are eligible for use with UserSettingAttribute, which enables fields ..." alt="" coords="67,5,160,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,48,116,80,111,80,111,48"/>
+</map>

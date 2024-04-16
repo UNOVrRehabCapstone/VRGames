@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.Bounds2D.IntersectsLineSegment" name="UnityEngine.ProBuilder.Bounds2D.IntersectsLineSegment">
+<area shape="rect" id="Node000001" title="Returns true if any part of the line segment is contained within this bounding box." alt="" coords="5,5,216,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_bounds2_d.html#a7ace48bd7c08b0bcd0f728925eb5598e" title="Returns true if the point is contained within the bounds. False otherwise." alt="" coords="264,5,474,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+</map>

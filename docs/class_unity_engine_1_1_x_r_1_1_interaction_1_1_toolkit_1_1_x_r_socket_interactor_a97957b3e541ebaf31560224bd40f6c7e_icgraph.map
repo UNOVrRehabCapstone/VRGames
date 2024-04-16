@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRSocketInteractor.DrawHoveredInteractables" name="UnityEngine.XR.Interaction.Toolkit.XRSocketInteractor.DrawHoveredInteractables">
+<area shape="rect" id="Node000001" title="Unity calls this method automatically in order to draw the Interactables that are currently being hov..." alt="" coords="280,5,487,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_socket_interactor.html#a83af19f1dbe2837a9aca91b0761e6cf8" title="The XRInteractionManager calls this method to update the Interactor after interaction events occur...." alt="" coords="5,5,232,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,37,232,37,232,32,264,32"/>
+</map>

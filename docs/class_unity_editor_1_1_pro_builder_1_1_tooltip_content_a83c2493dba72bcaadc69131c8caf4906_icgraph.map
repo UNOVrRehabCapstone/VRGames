@@ -1,0 +1,9 @@
+<map id="UnityEditor.ProBuilder.TooltipContent.TooltipContent" name="UnityEditor.ProBuilder.TooltipContent.TooltipContent">
+<area shape="rect" id="Node000001" title="Creates a new tooltip with a title, a summary, and an optional array of characters for the shortcut." alt="" coords="258,72,449,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_tooltip_content.html#aca0b000cec2f6ad7ba70d0a7cb1c049d" title="Compares the title property of each tooltip to determine whether the specified tooltip is equal to th..." alt="" coords="12,5,203,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,70,188,51,190,46,258,65"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_tooltip_content.html#a2919051776b6876628e1b2a2f21e3816" title="Creates a new Tooltip with only the specified title." alt="" coords="12,72,203,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,96,204,96,204,91,242,91"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_tooltip_content.html#a54d6b6d2ec9331943ac6e248c5947086" title="Creates a new Tooltip with only the specified title." alt="" coords="5,139,210,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,122,190,141,188,135,257,117"/>
+</map>

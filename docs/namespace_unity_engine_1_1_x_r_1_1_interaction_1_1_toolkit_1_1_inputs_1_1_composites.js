@@ -1,0 +1,6 @@
+var namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites =
+[
+    [ "FallbackComposite", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_fallback_composite.html", null ],
+    [ "QuaternionFallbackComposite", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_quaternion_fallback_composite.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_quaternion_fallback_composite" ],
+    [ "Vector3FallbackComposite", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_vector3_fallback_composite.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_vector3_fallback_composite" ]
+];

@@ -1,0 +1,11 @@
+<map id="Oculus.Interaction.Throw.VelocityCalculatorUtilMethods.GetVelocityAndAngularVelocity" name="Oculus.Interaction.Throw.VelocityCalculatorUtilMethods.GetVelocityAndAngularVelocity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,209,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_throw_1_1_velocity_calculator_util_methods.html#a290fea466a14e27fad0cdb29c6742c02" title=" " alt="" coords="257,5,456,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,56,241,51,242,56,209,62"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_throw_1_1_velocity_calculator_util_methods.html#a4b6e1d45b64b900d9a9b061bcb601fb0" title=" " alt="" coords="257,88,456,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,90,242,96,241,101,209,96"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_throw_1_1_velocity_calculator_util_methods.html#a62c46cf4a684be0de0e63bd8fc931063" title=" " alt="" coords="504,5,708,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,32,488,32,488,37,456,37"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_throw_1_1_velocity_calculator_util_methods.html#ab171c643bed079a6a81b7adc5a730af5" title=" " alt="" coords="756,5,956,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="709,32,741,32,741,37,709,37"/>
+</map>

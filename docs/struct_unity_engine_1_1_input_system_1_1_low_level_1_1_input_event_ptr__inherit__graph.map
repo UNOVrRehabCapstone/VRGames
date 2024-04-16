@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.InputEventPtr" name="UnityEngine.InputSystem.LowLevel.InputEventPtr">
+<area shape="rect" id="Node000001" title="Pointer to an InputEvent. Makes it easier to work with InputEvents and hides the unsafe operations ne..." alt="" coords="11,80,183,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,100,80,94,80,94,48"/>
+</map>

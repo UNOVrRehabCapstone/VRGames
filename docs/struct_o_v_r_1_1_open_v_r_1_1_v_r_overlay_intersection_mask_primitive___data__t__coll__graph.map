@@ -1,0 +1,7 @@
+<map id="OVR.OpenVR.VROverlayIntersectionMaskPrimitive_Data_t" name="OVR.OpenVR.VROverlayIntersectionMaskPrimitive_Data_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,112,340,155"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_1_1_open_v_r_1_1_intersection_mask_rectangle__t.html" title=" " alt="" coords="5,5,211,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,57,202,110,198,113,140,61"/>
+<area shape="rect" id="Node000003" href="$struct_o_v_r_1_1_open_v_r_1_1_intersection_mask_circle__t.html" title=" " alt="" coords="235,5,440,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,61,247,113,243,110,302,57"/>
+</map>

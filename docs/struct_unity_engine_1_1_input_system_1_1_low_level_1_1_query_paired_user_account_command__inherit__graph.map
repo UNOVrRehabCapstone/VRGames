@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.QueryPairedUserAccountCommand" name="UnityEngine.InputSystem.LowLevel.QueryPairedUserAccountCommand">
+<area shape="rect" id="Node000001" title="Query the ID and the name of the user paired to the device the command is sent to." alt="" coords="5,80,230,139"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="33,5,202,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,48,120,79,115,79,115,48"/>
+</map>

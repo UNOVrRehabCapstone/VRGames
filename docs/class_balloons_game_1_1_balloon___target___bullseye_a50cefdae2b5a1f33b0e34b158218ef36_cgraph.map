@@ -1,0 +1,13 @@
+<map id="BalloonsGame.Balloon_Target_Bullseye.OnTriggerEnter" name="BalloonsGame.Balloon_Target_Bullseye.OnTriggerEnter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,218,115"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon___target___base.html#afa19401ed151427cc01c9fd2ffed520f" title=" " alt="" coords="266,72,423,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,91,250,91,250,96,218,96"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon.html#a5ab8890469c1ebb8c2818be5c41e2189" title=" " alt="" coords="481,5,661,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,69,480,50,482,56,420,74"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon___target___base.html#a3d9272dcdf242255e1463fa501d6a739" title=" " alt="" coords="471,72,670,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="423,91,455,91,455,96,423,96"/>
+<area shape="rect" id="Node000006" href="$class_balloons_game_1_1_balloon.html#a26a9f99c60948605155a2e3b269760be" title=" " alt="" coords="479,139,662,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="420,113,482,131,480,136,418,118"/>
+<area shape="rect" id="Node000005" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="718,72,899,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="671,91,702,91,702,96,671,96"/>
+</map>

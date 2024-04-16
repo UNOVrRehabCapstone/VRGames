@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler" name="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler">
+<area shape="rect" id="Node000001" title="Base class for services which require service flag handling when toggling." alt="" coords="7,80,209,123"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_enabler.html" title=" " alt="" coords="5,171,211,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,138,111,170,105,170,105,138"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_editor_1_1_i_editor_game_service_enabler.html" title="An interface to allow you to control the enablement state of a service." alt="" coords="18,5,198,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,48,111,80,105,80,105,48"/>
+</map>

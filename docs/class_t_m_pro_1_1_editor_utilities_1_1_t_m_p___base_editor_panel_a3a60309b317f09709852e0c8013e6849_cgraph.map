@@ -1,0 +1,9 @@
+<map id="TMPro.EditorUtilities.TMP_BaseEditorPanel.OnEnable" name="TMPro.EditorUtilities.TMP_BaseEditorPanel.OnEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,192,115"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a46679a5133c02407b41196b79e425946" title="Method to retrieve the material presets that match the currently selected font asset." alt="" coords="240,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,69,258,50,260,55,186,74"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a6006e15a2f1758f62ac5f5dea67e57da" title=" " alt="" coords="250,72,471,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,91,234,91,234,96,192,96"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a12b8ac687e12994d166e1d2b46f063e7" title=" " alt="" coords="257,139,464,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,113,260,132,258,137,184,118"/>
+</map>

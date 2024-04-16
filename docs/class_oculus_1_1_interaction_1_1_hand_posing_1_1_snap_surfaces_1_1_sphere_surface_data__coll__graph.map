@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurfaceData" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurfaceData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,224,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,101,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,44,105,94,100,97,72,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,216,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,47,129,97,124,94,153,44"/>
+</map>

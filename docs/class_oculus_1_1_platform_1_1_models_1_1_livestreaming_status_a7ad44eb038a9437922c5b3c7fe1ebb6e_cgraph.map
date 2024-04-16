@@ -1,0 +1,13 @@
+<map id="Oculus.Platform.Models.LivestreamingStatus.LivestreamingStatus" name="Oculus.Platform.Models.LivestreamingStatus.LivestreamingStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,249,205"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a60f7ac65c985fe89b48b0462f2b401c0" title=" " alt="" coords="319,5,555,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,160,218,117,295,74,309,68,311,73,298,78,221,121,158,164"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#adfde732e731b98196aa916629e170e9f" title=" " alt="" coords="323,88,551,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,159,296,140,328,132,329,137,297,145,218,165"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a68a70d853a04e991a0857a4666b73f08" title=" " alt="" coords="311,155,563,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,181,295,181,295,187,249,187"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#aea945903df9083e35793424a14913514" title=" " alt="" coords="297,237,577,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="218,203,297,223,329,231,328,236,296,228,217,209"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#af448c8d99eb7d9881ba9747a7a4898d7" title=" " alt="" coords="316,304,558,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,204,220,247,258,270,298,290,315,296,313,301,296,294,255,275,217,252,154,208"/>
+</map>

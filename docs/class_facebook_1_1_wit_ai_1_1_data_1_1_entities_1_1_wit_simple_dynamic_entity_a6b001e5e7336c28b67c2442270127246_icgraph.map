@@ -1,0 +1,7 @@
+<map id="Facebook.WitAi.Data.Entities.WitSimpleDynamicEntity.GetEntityPair" name="Facebook.WitAi.Data.Entities.WitSimpleDynamicEntity.GetEntityPair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,39,520,81"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_dynamic_entities.html#a19a12e4c354602c7563db1930f0179e1" title=" " alt="" coords="16,5,213,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,46,213,41,214,36,256,41"/>
+<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_data_1_1_entities_1_1_wit_simple_dynamic_entity.html#acbaa41797ccbf32e81def601c1c71794" title="Used to get dynamic entities." alt="" coords="5,72,224,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,79,225,83,224,78,256,74"/>
+</map>

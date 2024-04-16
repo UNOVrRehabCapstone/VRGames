@@ -1,0 +1,17 @@
+<map id="TMPro.TextMeshProUGUI.SetAllDirty" name="TMPro.TextMeshProUGUI.SetAllDirty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,201,123"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a662b65a09b65317f716297d4377e27a7" title=" " alt="" coords="249,9,444,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,77,255,54,256,59,180,82"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="249,147,444,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,121,252,139,251,145,183,126"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#acc18f45edf09f79d04d6a9e461633d7c" title=" " alt="" coords="249,80,444,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="201,99,233,99,233,104,201,104"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="503,5,711,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,26,487,26,487,31,445,32"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="510,155,705,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,168,494,170,494,175,444,174"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="492,72,722,131"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="432,143,476,132,478,137,433,149"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="424,121,516,147,515,152,423,126"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="445,99,476,99,476,104,445,104"/>
+</map>

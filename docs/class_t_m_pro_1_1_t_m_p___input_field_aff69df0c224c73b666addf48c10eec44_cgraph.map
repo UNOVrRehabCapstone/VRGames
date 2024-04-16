@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_InputField.MoveTextStart" name="TMPro.TMP_InputField.MoveTextStart">
+<area shape="rect" id="Node000001" title="Move to the start of the text." alt="" coords="5,39,193,81"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="241,39,439,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,57,225,57,225,63,193,63"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="496,5,687,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,44,480,39,480,44,440,49"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="487,72,695,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="440,71,472,75,471,80,439,76"/>
+</map>

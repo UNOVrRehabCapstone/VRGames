@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.InputTestFixture.Press" name="UnityEngine.InputSystem.InputTestFixture.Press">
+<area shape="rect" id="Node000001" title=" " alt="" coords="496,5,668,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a036bb6bbcc567a0686569993ff1ccfb7" title=" " alt="" coords="226,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,29,448,29,448,24,480,24"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a82335ffe97b8b6292a02ec70fa179c24" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,29,178,29,178,24,210,24"/>
+</map>

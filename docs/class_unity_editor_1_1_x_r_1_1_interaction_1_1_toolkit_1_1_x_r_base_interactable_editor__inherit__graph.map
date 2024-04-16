@@ -1,0 +1,29 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractableEditor" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractableEditor">
+<area shape="rect" id="Node000001" title="Custom editor for an XRBaseInteractable." alt="" coords="302,485,512,528"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_base_gesture_interactable_editor.html" title="Custom editor for an ARBaseGestureInteractable." alt="" coords="560,245,807,304"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,473,645,303,649,307,448,477"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable_editor.html" title="Custom editor for an BaseTeleportationInteractable." alt="" coords="566,477,801,536"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="528,504,566,504,566,509,528,509"/>
+<area shape="rect" id="Node000014" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html" title="Custom editor for an XRGrabInteractable." alt="" coords="579,560,788,603"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="504,530,602,557,601,562,503,535"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="109,493,254,520"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,504,302,504,302,509,270,509"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,493,61,520"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,504,109,504,109,509,76,509"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_annotation_interactable_editor.html" title="Custom editor for an ARAnnotationInteractable." alt="" coords="857,5,1090,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,231,769,151,809,110,853,74,873,62,875,67,856,78,812,114,773,155,713,234"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_placement_interactable_editor.html" title="Custom editor for an ARPlacementInteractable." alt="" coords="857,88,1090,147"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="733,234,789,194,853,156,879,145,881,150,856,161,792,199,736,238"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_rotation_interactable_editor.html" title="Custom editor for an ARRotationInteractable." alt="" coords="864,171,1083,229"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="814,238,863,226,864,231,815,244"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_scale_interactable_editor.html" title="Custom editor for an ARScaleInteractable." alt="" coords="855,253,1092,296"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="822,272,854,272,854,277,822,277"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_selection_interactable_editor.html" title="Custom editor for an ARSelectionInteractable." alt="" coords="861,320,1086,379"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="815,306,861,318,860,323,814,311"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_translation_interactable_editor.html" title="Custom editor for an ARTranslationInteractable." alt="" coords="857,403,1090,461"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="736,311,792,351,856,388,881,400,879,405,853,393,789,355,733,316"/>
+<area shape="rect" id="Node000012" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_anchor_editor.html" title="Custom editor for an TeleportationAnchor." alt="" coords="867,485,1080,528"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="817,504,867,504,867,509,817,509"/>
+<area shape="rect" id="Node000013" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_area_editor.html" title="Custom editor for an TeleportationArea." alt="" coords="874,552,1073,595"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="816,534,878,549,877,554,815,540"/>
+</map>

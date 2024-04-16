@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.InteractableTriggerBroadcaster" name="Oculus.Interaction.InteractableTriggerBroadcaster">
+<area shape="rect" id="Node000001" title="Acts as a forwarder of Trigger events for Rigidbody overlaps. Used in conjunction with CollisionInter..." alt="" coords="5,80,203,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,48,107,80,101,80,101,48"/>
+</map>

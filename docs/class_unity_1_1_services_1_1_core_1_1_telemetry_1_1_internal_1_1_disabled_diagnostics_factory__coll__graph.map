@@ -1,0 +1,7 @@
+<map id="Unity.Services.Core.Telemetry.Internal.DisabledDiagnosticsFactory" name="Unity.Services.Core.Telemetry.Internal.DisabledDiagnosticsFactory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,235,197"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_diagnostics_factory.html" title="Component to get or create the proper IDiagnostics for a given package." alt="" coords="52,80,188,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,122,123,154,117,154,117,122"/>
+<area shape="rect" id="Node000003" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="54,5,186,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,48,123,80,117,80,117,48"/>
+</map>

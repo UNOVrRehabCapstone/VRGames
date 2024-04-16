@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt32" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt32">
+<area shape="rect" id="Node000001" title="Convert the value to a uint." alt="" coords="5,5,211,48"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a41c0177c36b8070edd2bfd59f280f859" title="Convert the value to a ulong." alt="" coords="259,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
+</map>

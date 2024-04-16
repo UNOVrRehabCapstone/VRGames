@@ -1,0 +1,5 @@
+<map id="MasterArchitectureGameplayManager.onWinConditionPointsReached" name="MasterArchitectureGameplayManager.onWinConditionPointsReached">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,260,48"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#a9dbd8b470e8cd2452297b403b9df8a0e" title=" " alt="" coords="308,5,525,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,24,292,24,292,29,260,29"/>
+</map>

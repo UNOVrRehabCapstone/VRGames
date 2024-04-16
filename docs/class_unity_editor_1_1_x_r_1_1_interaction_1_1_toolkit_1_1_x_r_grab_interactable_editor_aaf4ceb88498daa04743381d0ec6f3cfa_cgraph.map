@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.OnDisable" name="UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor.OnDisable">
+<area shape="rect" id="Node000001" title="This function is called when the object becomes disabled." alt="" coords="5,5,218,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html#a9bf001c24f2d9779944160b950f180d1" title="Callback registered to be triggered whenever a new set of property modifications is created." alt="" coords="266,5,478,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,32,250,32,250,37,218,37"/>
+</map>

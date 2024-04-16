@@ -1,0 +1,17 @@
+<map id="UnityEngine.InputSystem.Controls.QuaternionControl.ReadUnprocessedValueFromState" name="UnityEngine.InputSystem.Controls.QuaternionControl.ReadUnprocessedValueFromState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,217,164"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#a12da87d115557ed11d9f0cf0265f6e82" title=" " alt="" coords="265,68,515,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,118,249,114,249,119,217,123"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a841e10da47a82193f1741a90925515f1" title=" " alt="" coords="281,151,499,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,146,265,153,265,158,217,151"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html#a0cf64f26366611bba0bf3ce1bc09767d" title="Apply modifications to the given value according to the parameters configured on the control (clamp,..." alt="" coords="574,13,784,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,68,562,57,563,62,516,73"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_block.html#aa99b3413f24e11f9cb76aceb8c51747f" title=" " alt="" coords="563,80,795,123"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="516,96,547,97,547,102,516,102"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html#a9f43017ad4c494e04ca0ce15532d4c56" title="Normalize value &#160;with respect to min &#160;and max ." alt="" coords="843,5,1056,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="785,32,828,32,828,37,785,37"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a2170ca59db41f3dac8f60cda3eaa662d" title=" " alt="" coords="592,148,767,191"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="500,168,576,168,576,173,500,174"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_input_system_1_1_input_control.html#a3a46a24407f3b1a9797b8a157a86c0bd" title=" " alt="" coords="579,215,779,273"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="479,191,565,213,563,218,478,197"/>
+</map>

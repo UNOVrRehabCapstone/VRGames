@@ -1,0 +1,7 @@
+<map id="TMPro.TMP_TextElement_Legacy" name="TMPro.TMP_TextElement_Legacy">
+<area shape="rect" id="Node000001" title="Base class for all text elements like characters (glyphs) and sprites." alt="" coords="63,5,234,48"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___glyph.html" title=" " alt="" coords="5,96,137,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,61,85,97,81,94,116,57"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sprite.html" title=" " alt="" coords="161,96,293,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,57,217,94,213,97,177,61"/>
+</map>

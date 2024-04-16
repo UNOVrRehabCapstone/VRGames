@@ -1,0 +1,7 @@
+<map id="OVR.SoundFXRef.SetOnFinished" name="OVR.SoundFXRef.SetOnFinished">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,220,32"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x.html#afb7e7f00c29026d4468ef5efe6e25b63" title=" " alt="" coords="268,5,463,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,16,252,16,252,21,220,21"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_audio_manager.html#ac6c52a0587a677dbdd0c44ed5b65db6c" title=" " alt="" coords="511,5,737,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,16,495,16,495,21,464,21"/>
+</map>

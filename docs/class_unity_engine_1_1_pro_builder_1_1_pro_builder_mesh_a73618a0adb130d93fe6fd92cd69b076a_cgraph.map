@@ -1,0 +1,5 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.GetNormals" name="UnityEngine.ProBuilder.ProBuilderMesh.GetNormals">
+<area shape="rect" id="Node000001" title="Gets the normals array for this mesh." alt="" coords="5,5,185,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a22325d02ae395b43a073c458cab49191" title="Tests whether the mesh contains the requested arrays." alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,217,24,217,29,185,29"/>
+</map>

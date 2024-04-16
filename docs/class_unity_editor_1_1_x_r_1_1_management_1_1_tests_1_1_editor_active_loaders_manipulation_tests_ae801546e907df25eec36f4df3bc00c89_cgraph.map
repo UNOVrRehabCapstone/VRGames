@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfRemoveAndReAddAtSameIndexWorks" name="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfRemoveAndReAddAtSameIndexWorks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,330,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a1187cd1161dc52c790cc2141541bf2b3" title="Attempts to append the given loader to the list of loaders at the given index." alt="" coords="389,5,609,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,41,373,37,374,42,331,46"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#ac2aceedbbc1741710b4f942d2ae997bb" title="Attempts to remove the first instance of a given loader from the list of loaders." alt="" coords="378,72,620,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,74,362,77,362,82,330,79"/>
+</map>

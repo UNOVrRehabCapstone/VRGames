@@ -1,0 +1,5 @@
+<map id="OVRGridCube" name="OVRGridCube">
+<area shape="rect" id="Node000001" title="Diagnostic display with a regular grid of cubes for visual testing of tracking and distortion." alt="" coords="8,80,112,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
+</map>

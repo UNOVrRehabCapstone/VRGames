@@ -1,0 +1,17 @@
+<map id="TMPro.TextMeshPro.SetVerticesDirty" name="TMPro.TextMeshPro.SetVerticesDirty">
+<area shape="rect" id="Node000001" title="Schedule rebuilding of the text geometry." alt="" coords="527,156,739,199"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae6a678bcadc435d05afa59758e5b70f4" title="Function called internally when a new material is assigned via the fontMaterial property." alt="" coords="261,5,473,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="602,147,547,94,514,68,478,46,449,35,451,30,480,42,517,64,551,90,605,143"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro.html#a63606af11bff27b7a0f6354c8568815b" title=" " alt="" coords="260,56,474,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="571,152,478,113,445,102,446,97,480,108,573,147"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#a65ff2fbd27378e530d78792ef5c517e0" title=" " alt="" coords="272,123,462,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="511,165,462,159,463,153,512,159"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro.html#a1b05e716ed23eef4ea21df60889a0ae1" title=" " alt="" coords="258,189,476,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="512,195,477,200,476,194,511,190"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro.html#a28274571ae3e165a5db057949ae2f3ea" title=" " alt="" coords="277,256,457,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="573,208,480,246,446,258,445,253,478,242,571,203"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___sub_mesh.html#a130186768b0a54f84638d3b90d3f26a7" title=" " alt="" coords="255,323,479,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="604,212,550,264,516,290,480,313,456,324,453,320,478,308,513,286,546,260,600,208"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_text_mesh_pro.html#a4d5bc19335502eec964edd5fd7c71f2f" title=" " alt="" coords="5,264,207,291"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="262,280,207,280,207,275,262,275"/>
+</map>

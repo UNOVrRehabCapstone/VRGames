@@ -1,0 +1,14 @@
+<map id="OVRManagerEditor.OnInspectorGUI" name="OVRManagerEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,235,140"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_project_config_editor.html#ab033b4f2a33f8b39c71c740aec5b9fcc" title=" " alt="" coords="295,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,110,282,58,301,51,303,56,284,62,154,115"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_project_config_editor.html#a0a430f2eb2b4df0bb06616f135d9bec6" title=" " alt="" coords="295,72,489,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,110,280,104,280,110,235,115"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_project_config.html#a23cbf9ab95cf80b06dc8dc4e63d4844e" title=" " alt="" coords="296,139,488,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="235,138,281,144,280,149,234,143"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_runtime_settings.html#ab236251349ab1a7a7336dc86c34f9b68" title=" " alt="" coords="283,205,501,248"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="154,138,284,191,303,198,301,203,282,196,152,143"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_project_config.html#a2c6e8abb21c92f9746050b617c883159" title=" " alt="" coords="549,39,765,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,36,534,42,533,47,489,41"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="489,79,533,73,534,78,489,84"/>
+</map>

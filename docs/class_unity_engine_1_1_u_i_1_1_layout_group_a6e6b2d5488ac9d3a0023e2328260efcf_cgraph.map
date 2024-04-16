@@ -1,0 +1,5 @@
+<map id="UnityEngine.UI.LayoutGroup.GetStartOffset" name="UnityEngine.UI.LayoutGroup.GetStartOffset">
+<area shape="rect" id="Node000001" title="Returns the calculated position of the first child layout element along the given axis." alt="" coords="5,5,195,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a3c425bc59e53bca743a5e50ef494b92a" title="Returns the alignment on the specified axis as a fraction where 0 is left/top, 0.5 is middle,..." alt="" coords="243,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
+</map>

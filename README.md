@@ -7,72 +7,23 @@ This application is a collection of games designed to help with the rehabilitati
 
 To use this application, the files must be built in the Unity engine and deployed to a virtual reality headset such as the Meta Quest 2.
 
+# Repository Notes
+Use master now.
+
 # Release Notes:
 
-### 9/28/2023 (Milestone 1)
+### 2/29/24
 
-General:
-* Added a guest login button to allow play if the server is offline or not set up.
+Fixed TextMesh Pro Metadata
+Connected client to new DB and local server
+Enabled old games to run
+Updated build settings to load game
+Updated Runtime settings and Resources metadata to fix issues preventing old games loading
 
-Balloon Game:
-  * Added multiple difficulty levels that automatically trigger upon a designated score threshold. Balloons will move faster and become harder to predict.
-  * Added a win condition that triggers a "You won!" message. The game will (for now) automatically restart after this happens.
-  * Added basic effect that will be applied to new "Powerup" balloons that have not yet been implemented. Currently they are applied to normal balloons as a proof of concept.
-    
-### 10/19/2023 (Milestone 2)
+### 3/21/24
 
-General:
-* Connected VR-Games to our student server
-
-Balloon Game:
-* Refactored BalloonGameplayManager class
-* Created new BalloonManager class to handle the balloons in the scene and balloon spawning
-* Created a game settings class that can be used to create and specify different game settings such as:
-  * Game mode
-  * Spawn pattern
-  * Probability of different types of balloons spawning
-  * Where a balloon spawns
-  * Time between each balloon spawn
-* Implemented alternating and cocurrent spawn patterns
-* Created Balloon stream powerup balloon
-  * This balloon causes 5 extra balloons to spawn rapdily!
-
-### 11/02/2023 (Milestone 3)
-
-Balloon Game:
-  * New Additions:
-      * New Balloon - The "Onion" balloon has multiple layers that need to be popped
-      * New conffetti effect on victory
-
- 
-  * Improvements:
-      * Recreated balloon stream powerup to align with refactored code
-      * Created a stream of balloons prefab to be spawned by the powerup
-      * Simplified balloon collider
-      * Refactoring
-      * Added a method to delay the destruction of balloons by a given number of seconds 
-      * Created a dart manager class to handle dart spawning and got rid of the manual dart spawners
-      * Tracking for separate left and right points
-      * Fixed scoreboard not correctly displaying the current left and right scores
-      * Disabled balloon spawner once goal has been reached
-      * Fixed skipping over point goal (e.g. going from 3 to 5 points with a goal of 4) not triggering win state
-   
-### 11/16/23 (Milestone 4)
-
-Balloon Game:
-* Implemented at the restore life balloon and the target balloon
-* Simplified the spawning by changing the duration between balloon spawns to a static timer (no more random time spawns).
-* Implemented another spawn pattern called "Random." This spawn pattern will be similar to picking a random balloon, that is, the balloon spawn is chosen based on a probability.
-* Implemented the ability for the goal to be left hand points, right hand points, or total points.
-* Added a speed modifier, and changed the update methods of the balloons to make use of said modifier (the modifier will be used by the clinician to control the speed of the balloons).
-* Implemented the feature to adjust the kill zone with respect to the height of the player.
-* Fixed dart getting destroyed when colliding with the kill zone.
-*  Fixed the ungrabbable dart bug.
-
-### 12/8/23 (Milestone 5)
-Balloon Game:
-* Added a new environment and added game sounds to the environments.
-* Added a new game mode called Career mode.
-* Added achievements to the game.
-* General refactoring and balancing of the game.
-* Added necessary elements to the game needed for the clinician to control the game settings.
+Added randomized spawn locations for targets
+Added gripless grabbing of planes
+Added first iteration of 180 degree adjustable plane spawns from clinitian view
+Updated master to now reflect all changes
+Reworked some folders and script/manager locations to be more consistent with convention established by Baloons group

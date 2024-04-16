@@ -1,0 +1,9 @@
+<map id="TMPro.TMP_TextParsingUtilities.ToUpperASCIIFast" name="TMPro.TMP_TextParsingUtilities.ToUpperASCIIFast">
+<area shape="rect" id="Node000001" title="Get uppercase version of this ASCII character." alt="" coords="520,35,733,77"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a77bb7b39afef3f677e915499b48e2c7a" title="Function returning the hashcode value of a given string." alt="" coords="259,35,472,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,59,472,59,472,53,504,53"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___style_sheet.html#a0766b88921d3c2fe462608796af79b1f" title="Get the Style for the given name." alt="" coords="15,5,201,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,45,202,40,202,35,243,39"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___style.html#a45cd2cf30f163d32c1bfa91914852154" title="Function to update the content of the int[] resulting from changes to OpeningDefinition &amp; ClosingDefi..." alt="" coords="5,72,211,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,73,211,76,211,71,243,67"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="TMPro.TMP_InputField.ProcessEvent" name="TMPro.TMP_InputField.ProcessEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,211,203"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a9ef972ef2261f10383fd4a900a9c3449" title=" " alt="" coords="259,160,439,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,179,243,179,243,184,211,184"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a3d675445c819058d84bfa8b8889fb119" title="Append the specified text to the end of the current." alt="" coords="498,29,699,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,157,419,111,451,86,486,66,501,59,504,64,488,70,454,91,422,115,372,161"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad8ccac2088400564ddeac6201c0aba03" title=" " alt="" coords="487,80,710,107"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="391,157,436,136,486,116,511,108,513,114,488,121,438,141,393,162"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a817cdcf34d7711275ffa8643b02a73fa" title="Move to the end of the current line of text." alt="" coords="505,131,692,173"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="439,168,489,162,490,167,440,173"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___input_field.html#a1ac4c595e5f686b371e27745b0a2c99b" title="Update the visual text Text." alt="" coords="758,189,957,232"/>
+<area shape="poly" id="edge12_Node000002_Node000006" title=" " alt="" coords="440,184,743,201,743,207,439,189"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ad0c485854da42ede16b5127258120c40" title="Move to the start of the current line of text." alt="" coords="505,248,692,291"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="413,201,523,240,521,245,411,206"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ae7246b94a4be46fb34a132db2cbcbf98" title=" " alt="" coords="494,315,703,341"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="370,201,420,252,453,278,488,300,502,307,500,312,486,305,450,282,416,256,366,205"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="557,31,549,21,554,11,571,5,599,3,629,5,644,12,642,17,627,10,599,8,572,10,558,15,555,20,561,27"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="693,171,746,183,745,188,692,176"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#acc79714f2b21eff7b784d8282a6f7756" title="Function to force regeneration of the text object before its normal process time. This is useful when..." alt="" coords="1013,156,1205,199"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="957,195,997,189,998,195,957,200"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="1005,223,1213,265"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="957,221,989,225,989,231,957,226"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="692,245,745,233,746,239,693,251"/>
+</map>

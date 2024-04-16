@@ -1,0 +1,24 @@
+<map id="TMPro.TextMeshProUGUI.LoadFontAsset" name="TMPro.TextMeshProUGUI.LoadFontAsset">
+<area shape="rect" id="Node000001" title="Method which derived classes need to override to load Font Assets." alt="" coords="5,105,209,148"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#a7182ea72ca6b396af6cae05cee59243d" title="Get the padding value for the currently assigned material." alt="" coords="257,5,452,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,102,256,58,272,51,274,56,258,62,155,107"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#a17ad19c4cf9c5ad4485b208eb0a37bf2" title="Method used to find and cache references to the Underline and Ellipsis characters." alt="" coords="259,72,450,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,110,243,106,244,111,210,116"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ade90a42615b002bb0c31b06d497df510" title=" " alt="" coords="259,139,450,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="210,138,243,142,243,148,209,143"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#af75e3f762ed8c445cc4ad100903b5cf1" title=" " alt="" coords="257,205,452,248"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="155,146,258,191,274,197,272,202,256,196,153,151"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___text.html#a3193988e012b58e178ae978de5e64e6d" title=" " alt="" coords="521,105,710,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,103,505,110,505,115,450,108"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___text.html#aa644bbb25fe0d440b1adf25dc2081f37" title=" " alt="" coords="515,39,716,81"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="450,79,499,72,500,77,450,84"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#a9d70106b39c64e03f4e62e1f13c0948b" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="778,39,983,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="702,102,777,83,779,88,704,107"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___font_asset_utilities.html#afdc59bd1dcec2cddc898a4f034a66dee" title="Returns the text element (character) for the given unicode value taking into consideration the reques..." alt="" coords="778,105,983,148"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="710,124,763,124,763,129,710,129"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="716,57,762,57,762,63,716,63"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="518,188,713,231"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="452,218,502,214,502,220,453,223"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="500,255,730,313"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="453,246,485,253,484,258,452,251"/>
+</map>

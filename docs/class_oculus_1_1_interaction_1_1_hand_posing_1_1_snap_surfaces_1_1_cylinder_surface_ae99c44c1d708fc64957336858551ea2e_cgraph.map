@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.InjectAllCylinderSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.CylinderSurface.InjectAllCylinderSurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,238,131"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a14e49bfc1c6af28e81edff42d552b903" title=" " alt="" coords="286,5,545,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,69,313,50,314,55,239,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#a40d9cc9e033c9ae91ca94f9aa204a88b" title=" " alt="" coords="299,72,532,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,99,284,99,284,104,238,104"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_cylinder_surface.html#af70a0c308cb0001098ff4469dae56f41" title=" " alt="" coords="299,155,532,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,129,295,147,293,153,228,134"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Internal.IInitializablePackage" name="Unity.Services.Core.Internal.IInitializablePackage">
+<area shape="rect" id="Node000001" title="Contract for objects able to register a set of IServiceComponent to a given CoreRegistry." alt="" coords="19,5,204,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_registration_1_1_core_package_initializer.html" title=" " alt="" coords="5,96,218,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,64,114,96,109,96,109,64"/>
+</map>

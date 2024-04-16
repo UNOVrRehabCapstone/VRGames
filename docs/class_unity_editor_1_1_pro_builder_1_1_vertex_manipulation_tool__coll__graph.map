@@ -1,0 +1,9 @@
+<map id="UnityEditor.ProBuilder.VertexManipulationTool" name="UnityEditor.ProBuilder.VertexManipulationTool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,112,231,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,85,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,43,121,110,117,113,63,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,162,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,47,138,112,133,112,133,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="271,5,363,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="314,48,305,70,289,90,263,108,233,120,231,115,260,103,286,86,300,67,309,46"/>
+</map>

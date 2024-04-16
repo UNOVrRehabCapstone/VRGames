@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,501,125,528"/>
+<area shape="rect" id="Node000001" href="$class_display_only_attribute.html" title=" " alt="" coords="199,5,339,32"/>
+<area shape="poly" id="edge1647_Node000000_Node000001" title=" " alt="" coords="66,486,78,387,98,255,112,188,129,127,148,77,171,42,197,25,200,30,175,46,153,79,134,128,117,189,103,255,83,388,72,487"/>
+<area shape="rect" id="Node000002" href="$class_inspector_comment_attribute.html" title=" " alt="" coords="179,56,359,83"/>
+<area shape="poly" id="edge1648_Node000000_Node000002" title=" " alt="" coords="67,486,80,396,102,279,132,167,150,123,171,93,187,81,190,85,175,97,155,125,137,169,107,280,85,397,72,486"/>
+<area shape="rect" id="Node000003" href="$class_inspector_note_attribute.html" title=" " alt="" coords="194,107,344,133"/>
+<area shape="poly" id="edge1649_Node000000_Node000003" title=" " alt="" coords="63,486,66,416,80,325,94,276,113,228,138,183,171,143,192,129,195,134,174,147,143,186,118,230,99,277,86,326,72,417,68,486"/>
+<area shape="rect" id="Node000004" href="$class_label_override.html" title=" " alt="" coords="219,157,319,184"/>
+<area shape="poly" id="edge1650_Node000000_Node000004" title=" " alt="" coords="65,485,71,425,87,346,101,305,119,265,142,227,171,194,193,180,218,172,219,177,195,185,174,198,146,230,124,267,106,307,92,348,76,425,70,486"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_1_1_min_max_attribute.html" title=" " alt="" coords="195,208,343,235"/>
+<area shape="poly" id="edge1651_Node000000_Node000005" title=" " alt="" coords="67,486,76,434,94,369,125,302,146,272,171,245,193,231,196,235,174,249,150,275,129,305,99,371,81,435,72,487"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_layer_attribute.html" title="Dummy subtype of PropertyAttribute for custom inspector to use." alt="" coords="204,259,334,285"/>
+<area shape="poly" id="edge1652_Node000000_Node000006" title=" " alt="" coords="70,485,82,443,102,392,131,340,149,316,171,295,202,279,204,284,174,299,153,320,135,343,106,394,87,445,75,487"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_named_array_attribute.html" title=" " alt="" coords="184,309,354,336"/>
+<area shape="poly" id="edge1653_Node000000_Node000007" title=" " alt="" coords="74,486,89,453,110,415,137,378,171,346,192,334,195,339,174,350,141,381,114,418,93,456,79,488"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_inspector_button_attribute.html" title=" " alt="" coords="177,360,361,403"/>
+<area shape="poly" id="edge1654_Node000000_Node000008" title=" " alt="" coords="86,488,123,449,171,412,194,401,196,406,174,417,127,453,89,491"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_interface_attribute.html" title="When this attribute is attached to a MonoBehaviour field within a Unity Object, this allows an interf..." alt="" coords="179,427,359,469"/>
+<area shape="poly" id="edge1655_Node000000_Node000009" title=" " alt="" coords="122,493,200,467,202,472,124,498"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_optional_attribute.html" title="Used on a SerializedField surfaces the expectation that this field can remain empty." alt="" coords="180,493,358,536"/>
+<area shape="poly" id="edge1656_Node000000_Node000010" title=" " alt="" coords="140,512,179,512,179,517,140,517"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_voice_1_1_core_1_1_utilities_1_1_array_element_title_attribute.html" title=" " alt="" coords="178,560,360,603"/>
+<area shape="poly" id="edge1657_Node000000_Node000011" title=" " alt="" coords="124,531,202,557,200,562,122,536"/>
+<area shape="rect" id="Node000012" href="$class_timeline_1_1_samples_1_1_no_fold_out_attribute.html" title=" " alt="" coords="174,627,364,669"/>
+<area shape="poly" id="edge1658_Node000000_Node000012" title=" " alt="" coords="89,538,127,576,174,612,196,624,194,629,171,617,123,580,86,542"/>
+<area shape="rect" id="Node000013" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_g_u_i_1_1_enum_display_attribute.html" title="Used with a special property drawer that can limit which enum options are displayed." alt="" coords="173,693,365,736"/>
+<area shape="poly" id="edge1659_Node000000_Node000013" title=" " alt="" coords="80,541,115,610,142,647,174,679,192,691,189,695,171,683,138,651,111,613,75,544"/>
+<area shape="rect" id="Node000014" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_g_u_i_1_1_flags_property_attribute.html" title="Used to denote fields that should be represented by a custom dropdown/mask property in the inspector." alt="" coords="174,760,364,803"/>
+<area shape="poly" id="edge1660_Node000000_Node000014" title=" " alt="" coords="74,543,86,587,106,642,135,698,153,723,174,746,190,757,187,762,171,750,149,727,130,701,101,644,81,589,69,544"/>
+<area shape="rect" id="Node000015" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_read_only_attribute.html" title="Serialized fields marked with the ReadOnly attribute will use a CustomPropertyDrawer to disable UI on..." alt="" coords="174,827,364,869"/>
+<area shape="poly" id="edge1661_Node000000_Node000015" title=" " alt="" coords="71,543,79,600,97,672,110,710,127,747,149,782,175,813,189,824,186,828,171,817,144,785,122,750,105,712,91,673,74,601,66,544"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_attribute.html" title="Mark a field or property as representing/identifying an input control in some form." alt="" coords="174,893,364,936"/>
+<area shape="poly" id="edge1662_Node000000_Node000016" title=" " alt="" coords="69,543,73,611,88,701,101,749,120,796,144,840,175,879,188,891,185,895,171,883,139,843,115,798,96,750,83,702,68,611,64,544"/>
+<area shape="rect" id="Node000017" href="$class_unity_engine_1_1_timeline_1_1_custom_signal_event_drawer.html" title=" " alt="" coords="173,960,365,1003"/>
+<area shape="poly" id="edge1663_Node000000_Node000017" title=" " alt="" coords="72,543,85,634,107,755,137,871,155,916,175,946,188,957,185,962,171,950,150,918,132,872,102,756,80,635,67,544"/>
+<area shape="rect" id="Node000018" href="$class_unity_engine_1_1_timeline_1_1_frame_rate_field_attribute.html" title=" " alt="" coords="177,1027,361,1069"/>
+<area shape="poly" id="edge1664_Node000000_Node000018" title=" " alt="" coords="71,543,82,647,103,787,117,859,134,923,153,977,175,1013,187,1024,184,1028,171,1016,148,979,129,925,112,860,98,788,77,648,66,544"/>
+<area shape="rect" id="Node000019" href="$class_unity_engine_1_1_timeline_1_1_time_field_attribute.html" title=" " alt="" coords="181,1093,357,1136"/>
+<area shape="poly" id="edge1665_Node000000_Node000019" title=" " alt="" coords="71,543,80,659,99,819,113,901,130,976,150,1038,175,1080,187,1091,184,1095,171,1083,146,1040,125,978,107,902,94,820,74,659,65,543"/>
+</map>

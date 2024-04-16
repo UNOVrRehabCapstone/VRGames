@@ -1,0 +1,7 @@
+<map id="TMPro.TextMeshProUGUI.GetModifiedMaterial" name="TMPro.TextMeshProUGUI.GetModifiedMaterial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,202,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a841cb449dbe16944f1e40e747aac153e" title="Find a root Canvas." alt="" coords="250,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,44,234,39,235,45,203,49"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a91c518e0d8a9ba77444e8b93da16cf6c" title="Find the stencil depth for a given element." alt="" coords="250,72,440,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,71,235,75,234,81,202,76"/>
+</map>

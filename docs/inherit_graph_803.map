@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,497,133,524"/>
+<area shape="rect" id="Node000001" href="$class_timeline_1_1_samples_1_1_time_dilation_behaviour.html" title=" " alt="" coords="192,5,391,48"/>
+<area shape="poly" id="edge1631_Node000000_Node000001" title=" " alt="" coords="71,481,84,387,107,260,138,139,157,91,179,58,193,47,196,51,183,62,162,94,143,140,112,261,89,387,76,482"/>
+<area shape="rect" id="Node000002" href="$class_timeline_1_1_samples_1_1_time_dilation_mixer_behaviour.html" title=" " alt="" coords="192,72,391,115"/>
+<area shape="poly" id="edge1632_Node000000_Node000002" title=" " alt="" coords="67,482,71,410,86,315,100,264,119,214,145,166,179,125,193,113,197,117,183,129,150,169,124,216,105,265,91,316,76,411,73,482"/>
+<area shape="rect" id="Node000003" href="$class_timeline_1_1_samples_1_1_tween_behaviour.html" title=" " alt="" coords="181,139,402,165"/>
+<area shape="poly" id="edge1633_Node000000_Node000003" title=" " alt="" coords="68,481,74,418,91,335,105,292,124,249,148,210,179,175,196,164,199,168,182,179,152,213,128,252,110,294,96,337,79,419,74,482"/>
+<area shape="rect" id="Node000004" href="$class_timeline_1_1_samples_1_1_tween_mixer_behaviour.html" title=" " alt="" coords="193,189,390,232"/>
+<area shape="poly" id="edge1634_Node000000_Node000004" title=" " alt="" coords="72,481,82,430,101,366,133,299,154,269,179,242,195,230,198,235,182,246,158,272,137,302,106,368,87,431,77,482"/>
+<area shape="rect" id="Node000005" href="$class_timeline_1_1_samples_1_1_video_playable_behaviour.html" title=" " alt="" coords="186,256,397,299"/>
+<area shape="poly" id="edge1635_Node000000_Node000005" title=" " alt="" coords="76,482,90,443,111,396,141,349,179,309,197,297,200,301,182,313,145,352,116,399,95,445,81,484"/>
+<area shape="rect" id="Node000006" href="$class_timeline_1_1_samples_1_1_video_scheduler_playable_behaviour.html" title=" " alt="" coords="182,323,401,365"/>
+<area shape="poly" id="edge1636_Node000000_Node000006" title=" " alt="" coords="84,482,122,428,149,400,179,375,200,364,203,368,182,380,153,403,127,431,88,485"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_timeline_1_1_activation_control_playable.html" title="Playable that controls the active state of a GameObject." alt="" coords="190,389,393,432"/>
+<area shape="poly" id="edge1637_Node000000_Node000007" title=" " alt="" coords="101,486,138,463,180,442,209,430,211,435,182,446,140,468,104,491"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_timeline_1_1_activation_mixer_playable.html" title=" " alt="" coords="190,456,393,499"/>
+<area shape="poly" id="edge1638_Node000000_Node000008" title=" " alt="" coords="148,496,189,490,190,495,149,501"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_timeline_1_1_audio_clip_properties.html" title=" " alt="" coords="201,523,382,565"/>
+<area shape="poly" id="edge1639_Node000000_Node000009" title=" " alt="" coords="148,520,201,528,200,533,148,525"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_timeline_1_1_audio_mixer_properties.html" title=" " alt="" coords="201,589,382,632"/>
+<area shape="poly" id="edge1640_Node000000_Node000010" title=" " alt="" coords="104,530,140,553,182,575,211,586,209,591,180,580,138,558,101,535"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_timeline_1_1_director_control_playable.html" title="Playable Behaviour used to control a PlayableDirector." alt="" coords="195,656,388,699"/>
+<area shape="poly" id="edge1641_Node000000_Node000011" title=" " alt="" coords="88,536,127,590,153,618,182,642,203,653,200,658,179,646,149,622,122,593,84,539"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_timeline_1_1_particle_control_playable.html" title="Playable that synchronizes a particle system simulation." alt="" coords="196,723,387,765"/>
+<area shape="poly" id="edge1642_Node000000_Node000012" title=" " alt="" coords="81,538,95,576,116,622,145,669,182,709,200,720,197,724,179,713,141,672,111,625,90,578,76,540"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_timeline_1_1_prefab_control_playable.html" title="Playable that controls and instantiates a Prefab." alt="" coords="199,789,384,832"/>
+<area shape="poly" id="edge1643_Node000000_Node000013" title=" " alt="" coords="77,539,87,590,106,654,137,719,158,749,182,775,200,788,197,792,179,779,154,752,133,722,101,656,82,591,72,540"/>
+<area shape="rect" id="Node000014" href="$class_unity_engine_1_1_timeline_1_1_time_control_playable.html" title="A PlayableBehaviour that manages a component that implements the ITimeControl interface." alt="" coords="204,856,379,899"/>
+<area shape="poly" id="edge1644_Node000000_Node000014" title=" " alt="" coords="74,539,80,602,97,683,111,726,130,768,153,808,182,842,205,858,202,862,179,846,149,811,125,771,106,728,92,685,75,603,69,540"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_timeline_1_1_time_notification_behaviour.html" title="Use this PlayableBehaviour to send notifications at a given time." alt="" coords="204,923,379,965"/>
+<area shape="poly" id="edge1645_Node000000_Node000015" title=" " alt="" coords="72,540,75,613,89,712,103,765,122,817,149,866,183,909,205,925,202,929,179,913,144,869,117,820,98,767,84,714,69,614,67,540"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_timeline_1_1_timeline_playable.html" title="The root Playable generated by timeline." alt="" coords="194,989,389,1032"/>
+<area shape="poly" id="edge1646_Node000000_Node000016" title=" " alt="" coords="76,539,89,637,111,768,125,834,142,894,161,942,183,976,196,987,193,991,179,979,157,945,137,895,120,835,105,769,83,638,71,540"/>
+</map>

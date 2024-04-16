@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.FingerFeatureStateThresholds" name="Oculus.Interaction.PoseDetection.FingerFeatureStateThresholds">
+<area shape="rect" id="Node000001" title="A configuration class that contains a list of threshold boundaries." alt="" coords="37,96,256,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,123,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,50,129,94,126,97,84,53"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_feature_thresholds.html" title=" " alt="" coords="147,5,312,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,61,168,98,164,94,198,58"/>
+</map>

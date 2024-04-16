@@ -1,0 +1,6 @@
+<map id="UnityEngine.InputSystem.Interactions.PressInteraction" name="UnityEngine.InputSystem.Interactions.PressInteraction">
+<area shape="rect" id="Node000001" title="Performs the action at specific points in a button press&#45;and&#45;release sequence according top behavior." alt="" coords="5,82,192,125"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_interaction.html" title="Interface for interaction patterns that drive actions." alt="" coords="42,8,155,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,50,101,82,96,82,96,50"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="148,3,171,7,178,12,181,21,177,31,165,37,132,38,132,32,164,32,173,28,176,21,174,16,168,12,147,8"/>
+</map>

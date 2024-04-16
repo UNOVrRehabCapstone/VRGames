@@ -1,0 +1,9 @@
+<map id="OculusSampleFramework.InteractableCollisionInfo" name="OculusSampleFramework.InteractableCollisionInfo">
+<area shape="rect" id="Node000001" title="Describes tool&#45;to&#45;collision information." alt="" coords="79,172,321,215"/>
+<area shape="rect" id="Node000002" href="$interface_oculus_sample_framework_1_1_collider_zone.html" title="Zone that can be collided with in example code." alt="" coords="5,81,251,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,119,187,170,182,173,144,122"/>
+<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="275,81,541,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,117,246,174,244,169,366,112"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="353,5,463,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,47,411,81,405,81,405,47"/>
+</map>

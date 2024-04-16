@@ -1,0 +1,16 @@
+<map id="SocialPlatformManager.OnApplicationQuit" name="SocialPlatformManager.OnApplicationQuit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,182,116"/>
+<area shape="rect" id="Node000002" href="$class_p2_p_manager.html#a995b8e70835ecda281854e1431a7a8fe" title=" " alt="" coords="256,5,422,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,70,229,41,257,34,258,39,230,47,149,75"/>
+<area shape="rect" id="Node000004" href="$class_voip_manager.html#a0cedeeee6c11b83caf0d41a1e3be3d58" title=" " alt="" coords="256,56,422,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,83,240,77,240,82,182,88"/>
+<area shape="rect" id="Node000005" href="$class_room_manager.html#a5da280ea01fdffb1c9788b0b49b2f2a0" title=" " alt="" coords="230,107,448,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="182,101,214,104,214,110,182,106"/>
+<area shape="rect" id="Node000007" href="$class_social_platform_manager.html#ae5fa6dc51ac28145c87108c751efb2cc" title=" " alt="" coords="249,157,429,200"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="152,114,231,143,251,150,250,155,229,148,150,119"/>
+<area shape="rect" id="Node000003" href="$class_social_platform_manager.html#a7c9761f81d519da34cdc19d6639ab7b6" title=" " alt="" coords="514,15,694,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,21,498,26,498,32,422,27"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="422,56,498,47,498,52,423,62"/>
+<area shape="rect" id="Node000006" href="$class_social_platform_manager.html#af25adf6ae6f543aad48cc4c8c98b025c" title=" " alt="" coords="496,99,711,141"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="448,117,481,117,481,123,448,123"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.Timeline.INotificationOptionProvider" name="UnityEngine.Timeline.INotificationOptionProvider">
+<area shape="rect" id="Node000001" title="Implement this interface to change the behaviour of an INotification." alt="" coords="5,5,220,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_signal_emitter.html" title="Marker that emits a signal to a SignalReceiver." alt="" coords="21,96,204,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,64,115,96,110,96,110,64"/>
+</map>

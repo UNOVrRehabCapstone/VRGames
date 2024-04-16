@@ -1,0 +1,5 @@
+<map id="TeleportTargetHandlerNavMesh.ConsiderDestination" name="TeleportTargetHandlerNavMesh.ConsiderDestination">
+<area shape="rect" id="Node000001" title="This version of ConsiderDestination will only return a valid location if the pathing system is able t..." alt="" coords="5,5,179,48"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a993656ef64bfa3c9937cc1469f0034d9" title="Convenience method for finding the character&#39;s position." alt="" coords="227,5,442,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,24,211,24,211,29,179,29"/>
+</map>

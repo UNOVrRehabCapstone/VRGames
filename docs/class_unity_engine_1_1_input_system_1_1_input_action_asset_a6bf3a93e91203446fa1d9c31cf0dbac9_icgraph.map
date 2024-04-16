@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.InputActionAsset.GetEnumerator" name="UnityEngine.InputSystem.InputActionAsset.GetEnumerator">
+<area shape="rect" id="Node000001" title="Enumerate all actions in the asset." alt="" coords="284,80,496,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_default_input_actions.html#ad31f0d84ce6f6c596e46d746f8c1e096" title=" " alt="" coords="8,5,233,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,78,200,51,201,46,296,73"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html#a8219cc2ade9d0c690f144375a53ada6e" title=" " alt="" coords="5,72,236,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,104,236,104,236,99,268,99"/>
+<area shape="rect" id="Node000004" href="$class_simple_controls.html#a754e9aa3a68b76cd802d061b0ce61b0d" title=" " alt="" coords="20,155,221,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="296,130,236,145,188,157,186,151,235,140,295,125"/>
+</map>

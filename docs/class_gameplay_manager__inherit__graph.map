@@ -1,0 +1,15 @@
+<map id="GameplayManager" name="GameplayManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,147,293,173"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_balloon_gameplay_manager.html" title=" " alt="" coords="363,5,539,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,133,289,94,340,58,364,46,366,51,342,62,292,99,253,137"/>
+<area shape="rect" id="Node000004" href="$class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html" title=" " alt="" coords="341,72,560,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,139,376,113,378,118,290,144"/>
+<area shape="rect" id="Node000005" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html" title=" " alt="" coords="355,139,547,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="308,157,354,157,354,163,308,163"/>
+<area shape="rect" id="Node000006" href="$class_master_architecture_gameplay_manager.html" title=" " alt="" coords="356,205,546,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="290,176,378,202,376,207,289,181"/>
+<area shape="rect" id="Node000007" href="$class_plane_gameplay_manager.html" title="Manages the gameplay logic for plane interactions, including spawning and lifecycle management." alt="" coords="369,272,532,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="252,183,291,222,316,241,342,258,370,269,368,274,340,262,313,246,288,226,248,186"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,147,115,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,157,162,157,162,163,130,163"/>
+</map>

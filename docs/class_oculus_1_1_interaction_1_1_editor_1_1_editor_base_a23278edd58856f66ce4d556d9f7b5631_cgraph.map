@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.Editor.EditorBase.Foldout" name="Oculus.Interaction.Editor.EditorBase.Foldout">
+<area shape="rect" id="Node000001" title="Groups the given properties into a foldout with a given name." alt="" coords="5,5,174,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#acbd3e29e0dfc551815e0ee0ad0002161" title="Call in OnInit to specify a custom grouping behaviour for a range of properties. Specify the first an..." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,206,24,206,29,174,29"/>
+</map>

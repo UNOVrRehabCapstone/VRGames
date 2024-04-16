@@ -1,0 +1,13 @@
+<map id="UnityEngine.Timeline.Marker" name="UnityEngine.Timeline.Marker">
+<area shape="rect" id="Node000001" title="Use Marker as a base class when creating a custom marker." alt="" coords="171,96,358,123"/>
+<area shape="rect" id="Node000004" href="$class_doc_code_examples_1_1_timeline_attributes_examples___hide_a_p_i_1_1_my_marker.html" title=" " alt="" coords="406,5,617,64"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,89,412,62,413,67,326,94"/>
+<area shape="rect" id="Node000005" href="$class_timeline_1_1_samples_1_1_annotation_marker.html" title=" " alt="" coords="417,88,607,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="374,107,416,107,416,112,374,112"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_timeline_1_1_signal_emitter.html" title="Marker that emits a signal to a SignalReceiver." alt="" coords="420,155,603,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="332,125,430,151,429,157,331,130"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,71,123,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,91,171,95,170,100,138,96"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_timeline_1_1_i_marker.html" title="Interface implemented by markers." alt="" coords="32,121,96,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,126,170,119,171,124,112,131"/>
+</map>

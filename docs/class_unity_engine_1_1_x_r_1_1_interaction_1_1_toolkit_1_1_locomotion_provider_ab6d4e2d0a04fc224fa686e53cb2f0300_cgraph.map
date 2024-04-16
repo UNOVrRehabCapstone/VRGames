@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider.EndLocomotion" name="UnityEngine.XR.Interaction.Toolkit.LocomotionProvider.EndLocomotion">
+<area shape="rect" id="Node000001" title="Invokes end locomotion events." alt="" coords="5,13,276,56"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_system.html#ad32d72df076bc9c629e437bb5d9430f0" title="Informs the LocomotionSystem that exclusive access to the XR Origin is no longer required." alt="" coords="324,5,538,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,32,308,32,308,37,276,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.MouseButtonEventData.PressedThisFrame" name="UnityEngine.EventSystems.PointerInputModule.MouseButtonEventData.PressedThisFrame">
+<area shape="rect" id="Node000001" title="Was the button pressed this frame?" alt="" coords="662,5,875,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a54b548c9a6f6ec22bc68499846f58a01" title="Calculate and process any mouse button state changes." alt="" coords="333,13,614,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="646,37,614,37,614,32,646,32"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a5ee4634ca3dbbf691484d60accaaed3d" title="Process all mouse events." alt="" coords="5,13,285,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,37,285,37,285,32,317,32"/>
+</map>

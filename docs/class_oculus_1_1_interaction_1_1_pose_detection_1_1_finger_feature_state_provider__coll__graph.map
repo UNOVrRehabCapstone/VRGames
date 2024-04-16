@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.FingerFeatureStateProvider" name="Oculus.Interaction.PoseDetection.FingerFeatureStateProvider">
+<area shape="rect" id="Node000001" title="Interprets finger feature values using FingerShapes and uses the given FingerFeatureStateThresholds t..." alt="" coords="34,80,254,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,41,125,78,121,82,82,45"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_pose_detection_1_1_i_finger_feature_state_provider.html" title=" " alt="" coords="139,5,320,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,45,168,81,164,78,203,41"/>
+</map>

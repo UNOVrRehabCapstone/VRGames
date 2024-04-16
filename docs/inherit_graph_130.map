@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,131,197,157"/>
+<area shape="rect" id="Node000001" href="$class_o_v_r_gradle_generation.html" title=" " alt="" coords="279,256,429,283"/>
+<area shape="poly" id="edge290_Node000000_Node000001" title=" " alt="" coords="175,161,198,175,214,193,223,210,231,227,246,242,279,257,277,262,243,246,226,230,218,212,210,196,195,179,172,166"/>
+<area shape="rect" id="Node000003" href="$class_samples_1_1_sample_build_processor.html" title="Simple build processor that makes sure that any custom configuration that the user creates is correct..." alt="" coords="250,5,458,32"/>
+<area shape="poly" id="edge291_Node000000_Node000003" title=" " alt="" coords="128,118,179,79,244,42,276,30,277,35,246,46,182,83,131,122"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_editor_1_1_project_configuration_builder.html" title=" " alt="" coords="245,56,463,99"/>
+<area shape="poly" id="edge292_Node000000_Node000005" title=" " alt="" coords="169,124,269,97,271,102,170,129"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_build_helper.html" title="Base abstract class that provides some common functionality for plugins wishing to integrate with man..." alt="" coords="260,123,448,165"/>
+<area shape="poly" id="edge293_Node000000_Node000006" title=" " alt="" coords="212,141,259,141,259,147,212,147"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_build_processor.html" title=" " alt="" coords="260,189,448,232"/>
+<area shape="poly" id="edge294_Node000000_Node000007" title=" " alt="" coords="170,159,271,186,269,191,169,164"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,189,193,216"/>
+<area shape="poly" id="edge295_Node000002_Node000001" title=" " alt="" coords="163,218,245,241,291,253,290,258,244,247,161,223"/>
+<area shape="poly" id="edge296_Node000002_Node000003" title=" " alt="" coords="178,180,195,167,207,152,213,137,217,105,222,74,229,57,243,42,261,30,263,35,246,46,234,60,227,75,222,106,218,138,211,155,199,171,181,184"/>
+<area shape="poly" id="edge298_Node000002_Node000005" title=" " alt="" coords="170,181,195,167,210,153,218,138,227,123,243,109,264,97,267,101,246,113,231,127,223,141,214,156,198,171,173,186"/>
+<area shape="poly" id="edge299_Node000002_Node000006" title=" " alt="" coords="176,183,259,163,260,168,177,188"/>
+<area shape="poly" id="edge300_Node000002_Node000007" title=" " alt="" coords="209,203,259,205,259,210,209,209"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___pre_build_processor.html" title=" " alt="" coords="251,307,457,333"/>
+<area shape="poly" id="edge297_Node000002_Node000004" title=" " alt="" coords="133,223,184,259,246,292,279,304,277,309,244,297,181,263,130,228"/>
+</map>

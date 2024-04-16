@@ -1,0 +1,5 @@
+var class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute =
+[
+    [ "ScriptableSettingsPathAttribute", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute.html#aa71b24a9db3193abadb8424713138f23", null ],
+    [ "path", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute.html#a5f53587203905cdd44eba0eeba490afa", null ]
+];

@@ -1,0 +1,8 @@
+<map id="UnityEditor.Timeline.WindowState.EvaluateImmediate" name="UnityEditor.Timeline.WindowState.EvaluateImmediate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="531,5,718,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_animation_track_recorder.html#a380c9200939121de63d86333cd1a6ebb" title=" " alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,26,483,25,266,25,218,26,218,21,266,20,483,20,515,21"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_window.html#acc50183d8d8bb06a0714764d62452f77" title=" " alt="" coords="266,35,483,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="516,42,484,46,483,41,515,37"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="250,45,218,41,218,36,250,39"/>
+</map>

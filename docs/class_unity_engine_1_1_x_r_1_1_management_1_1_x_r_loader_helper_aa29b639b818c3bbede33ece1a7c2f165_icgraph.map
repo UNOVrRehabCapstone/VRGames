@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Management.XRLoaderHelper.GetLoadedSubsystem&lt; T &gt;" name="UnityEngine.XR.Management.XRLoaderHelper.GetLoadedSubsystem&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Gets the loaded subsystem of the specified type. Implementation dependent as only implemetnations kno..." alt="" coords="313,72,590,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html#af003dc53f3a8d7533224be62f9dc2dd4" title="Destroy a subsystem instance of a given type. Subsystem assumed to already be loaded from a previous ..." alt="" coords="5,5,265,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,71,239,51,240,46,333,66"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html#ab96fec48e417ffc3f7f05cf0d3b99abc" title="Start a subsystem instance of a given type. Subsystem assumed to already be loaded from a previous ca..." alt="" coords="14,72,256,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,96,257,96,257,91,297,91"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html#a13b987a23d77b4094bf0d062284cfbe7" title="Stop a subsystem instance of a given type. Subsystem assumed to already be loaded from a previous cal..." alt="" coords="14,139,256,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,121,240,141,239,135,332,116"/>
+</map>

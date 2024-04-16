@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.EditorBase" name="Oculus.Interaction.Editor.EditorBase">
+<area shape="rect" id="Node000001" title="A utility class for building custom editors with less work required." alt="" coords="37,80,205,123"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_render_texture_editor.html" title=" " alt="" coords="5,171,237,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,138,124,170,118,170,118,138"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="57,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,48,124,80,118,80,118,48"/>
+</map>

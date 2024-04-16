@@ -1,0 +1,5 @@
+<map id="TeleportTransition.AddEventHandlers" name="TeleportTransition.AddEventHandlers">
+<area shape="rect" id="Node000001" title="Derived classes that need to use event handlers need to override this method and call the base class ..." alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000002" href="$class_teleport_transition.html#aac916141577623dac23e8f73e85beb0e" title="When the teleport state is entered, simply move the player to the new location without any delay or o..." alt="" coords="236,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,24,220,24,220,29,188,29"/>
+</map>

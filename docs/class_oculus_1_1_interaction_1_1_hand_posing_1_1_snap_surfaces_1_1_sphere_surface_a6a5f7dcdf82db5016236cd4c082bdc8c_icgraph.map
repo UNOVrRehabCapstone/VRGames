@@ -1,0 +1,12 @@
+<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.RotationAtPoint" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.RotationAtPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="591,47,834,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#a81b6c72010c93228e8fa14f8f96907da" title=" " alt="" coords="303,5,543,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,59,543,54,544,49,576,54"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aed06165e68aa41c23f30e0aa0782df19" title=" " alt="" coords="303,88,543,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="576,98,544,103,543,98,575,93"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aeb138297d200371d0f8a7ab9026129fa" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="5,5,255,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,37,255,37,255,32,287,32"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="301,86,236,67,237,62,303,81"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#afa3a6f15c32b332a81874b4c23213e0a" title="Finds the Pose at the surface that is the closest to the given ray." alt="" coords="5,88,255,147"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="287,120,255,120,255,115,287,115"/>
+</map>

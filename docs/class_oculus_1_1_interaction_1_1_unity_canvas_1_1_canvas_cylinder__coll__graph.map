@@ -1,0 +1,26 @@
+<map id="Oculus.Interaction.UnityCanvas.CanvasCylinder" name="Oculus.Interaction.UnityCanvas.CanvasCylinder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1130,118,1290,161"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html" title=" " alt="" coords="901,91,1081,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1094,118,1130,124,1129,129,1094,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,31,115,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,25,138,23,197,18,256,17,432,8,571,3,637,6,708,14,786,30,878,54,924,71,963,88,961,93,922,76,877,59,785,35,707,19,637,11,571,8,432,14,256,22,197,23,139,29,129,30"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="256,31,345,58"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="130,42,255,42,255,47,130,47"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_overlay.html" title="Add OVROverlay script to an object with an optional mesh primitive rendered as a TimeWarp overlay ins..." alt="" coords="576,126,668,153"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="130,54,576,129,575,134,129,59"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html" title=" " alt="" coords="525,41,718,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="734,72,902,92,901,97,734,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,45,525,54,525,60,360,51"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="576,177,667,203"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="683,190,727,189,777,183,828,172,876,153,888,141,900,128,925,116,927,121,903,132,891,145,879,158,830,177,778,189,728,194,683,196"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="683,134,877,119,904,116,905,121,878,125,684,139"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="258,197,343,223"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="358,208,428,201,465,193,500,181,511,172,524,162,574,145,576,150,526,167,515,176,502,186,466,198,428,206,359,213"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="33,159,87,186"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="102,167,139,165,575,139,575,145,139,170,102,173"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="102,177,258,201,257,206,102,182"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="267,247,334,274"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="349,264,385,264,425,259,465,248,499,228,509,214,511,198,512,180,523,163,548,148,575,140,576,145,550,153,527,167,518,182,516,198,514,215,503,232,467,253,426,265,386,269,349,269"/>
+<area shape="rect" id="Node000011" href="$interface_oculus_1_1_interaction_1_1_i_curved_plane.html" title="Represents a curved rectangular section of a cylinder wall." alt="" coords="943,142,1039,169"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1054,148,1129,143,1130,148,1055,154"/>
+</map>

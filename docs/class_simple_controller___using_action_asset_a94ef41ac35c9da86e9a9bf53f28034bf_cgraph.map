@@ -1,0 +1,7 @@
+<map id="SimpleController_UsingActionAsset.OnDisable" name="SimpleController_UsingActionAsset.OnDisable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,48"/>
+<area shape="rect" id="Node000002" href="$class_simple_controls.html#aeec60e089683297d9dcfdfe45856c9f3" title="Disable all actions in the collection." alt="" coords="247,13,403,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,231,24,231,29,199,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a55579dc0d3f6b512cf46518e900fe118" title="Disable all action maps in the asset." alt="" coords="451,5,623,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,24,436,24,436,29,404,29"/>
+</map>

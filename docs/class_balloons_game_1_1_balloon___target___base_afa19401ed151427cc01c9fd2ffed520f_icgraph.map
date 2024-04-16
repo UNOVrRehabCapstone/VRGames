@@ -1,0 +1,5 @@
+<map id="BalloonsGame.Balloon_Target_Base.TargetHit" name="BalloonsGame.Balloon_Target_Base.TargetHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,5,423,48"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon___target___bullseye.html#a50cefdae2b5a1f33b0e34b158218ef36" title=" " alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,29,218,29,218,24,250,24"/>
+</map>

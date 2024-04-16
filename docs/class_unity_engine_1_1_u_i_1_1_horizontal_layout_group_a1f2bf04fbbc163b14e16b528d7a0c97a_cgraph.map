@@ -1,0 +1,18 @@
+<map id="UnityEngine.UI.HorizontalLayoutGroup.SetLayoutHorizontal" name="UnityEngine.UI.HorizontalLayoutGroup.SetLayoutHorizontal">
+<area shape="rect" id="Node000001" title="Called by the layout system. Also see ILayoutElement." alt="" coords="5,139,222,182"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_horizontal_or_vertical_layout_group.html#a570037a65f7088099d020e74c426dc87" title="Set the positions and sizes of the child layout elements for the given axis." alt="" coords="270,131,494,190"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,158,254,158,254,163,222,163"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a3c425bc59e53bca743a5e50ef494b92a" title="Returns the alignment on the specified axis as a fraction where 0 is left/top, 0.5 is middle,..." alt="" coords="779,10,969,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,129,462,72,500,45,541,24,597,10,654,4,711,4,764,8,764,13,711,9,655,9,598,15,543,29,502,50,466,76,409,133"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6e6b2d5488ac9d3a0023e2328260efcf" title="Returns the calculated position of the first child layout element along the given axis." alt="" coords="542,39,731,82"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,128,541,91,557,85,559,90,543,96,453,133"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a44d0491c06cb47c5db7020b2cd93224f" title="The flexible size for the layout group on the given axis." alt="" coords="542,106,731,148"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="494,143,526,139,527,144,495,148"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a0a51f38c2ba128840a0beaeb075d6562" title="The min size for the layout group on the given axis." alt="" coords="542,172,731,215"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="495,172,527,177,526,182,494,178"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#af466b9e643828030937bbac84077b1b3" title="The preferred size for the layout group on the given axis." alt="" coords="542,239,731,282"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="453,188,543,224,559,231,557,236,541,229,451,193"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#ad23548e64198cd88fb65f6c00e58d032" title="Set the position and size of a child layout element along the given axis." alt="" coords="542,306,731,348"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="414,188,471,240,506,267,543,291,553,296,550,301,541,296,503,272,468,244,410,192"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="731,46,763,42,764,47,732,51"/>
+</map>

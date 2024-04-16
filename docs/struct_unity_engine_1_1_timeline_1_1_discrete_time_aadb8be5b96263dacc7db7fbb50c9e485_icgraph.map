@@ -1,0 +1,15 @@
+<map id="UnityEngine.Timeline.DiscreteTime.DoubleToDiscreteTime" name="UnityEngine.Timeline.DiscreteTime.DoubleToDiscreteTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="492,139,687,181"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#ada8baf1304fcead9e96c707bb3ce1b16" title=" " alt="" coords="249,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="548,131,499,96,443,62,417,51,419,46,445,58,502,91,551,127"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#aa281f7685fd55461b4dc3e7e6e296e97" title=" " alt="" coords="249,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="494,137,426,118,428,113,495,131"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a8874a1b1dd33b35c24b49fe8543cde44" title=" " alt="" coords="249,139,444,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,163,444,163,444,157,476,157"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a7c5775a0b21728875b105b2d75555f8a" title=" " alt="" coords="249,205,444,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="495,189,428,207,426,202,494,183"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a36a2bfe68b8e8aa8c76b52815e915fc4" title=" " alt="" coords="249,272,444,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="551,193,502,229,445,262,419,274,417,269,443,258,499,224,548,189"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_timeline_1_1_discrete_time.html#a40ee5399e8f5f4b176a167fb7619fede" title=" " alt="" coords="5,205,201,248"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,229,201,229,201,224,233,224"/>
+</map>

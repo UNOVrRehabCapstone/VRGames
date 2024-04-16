@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Input.JointRotationHistoryHand.InjectAllJointRotationHistoryModifier" name="Oculus.Interaction.Input.JointRotationHistoryHand.InjectAllJointRotationHistoryModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,208,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_joint_rotation_history_hand.html#a9543fab4b82cdf3a30809279e976f25f" title=" " alt="" coords="271,5,473,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,58,255,50,256,55,209,63"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_joint_rotation_history_hand.html#a96f7f663f0fec461f7907cbe7e20c93f" title=" " alt="" coords="256,88,488,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,89,241,94,240,99,208,94"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#ae2e6e423b0e7418f29f8836677761078" title=" " alt="" coords="536,96,767,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,115,520,115,520,120,488,120"/>
+</map>

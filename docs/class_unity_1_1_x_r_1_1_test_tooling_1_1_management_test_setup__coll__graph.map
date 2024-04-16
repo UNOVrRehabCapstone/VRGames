@@ -1,0 +1,19 @@
+<map id="Unity.XR.TestTooling.ManagementTestSetup" name="Unity.XR.TestTooling.ManagementTestSetup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1023,109,1243,152"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="330,32,383,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,39,488,35,633,33,746,39,858,56,999,88,1065,106,1063,111,998,93,857,61,746,44,633,38,488,40,399,45"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_general_settings.html" title="General settings container used to house the instance of the active settings as well as the manager i..." alt="" coords="672,79,867,121"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="399,51,489,67,672,89,672,94,488,72,398,56"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html" title="Class to handle active loader and subsystem management for XR. This class is to be added as a Scripta..." alt="" coords="260,115,454,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="469,140,655,147,867,147,1022,137,1022,143,867,152,655,153,469,145"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="469,127,648,113,672,111,672,116,649,119,470,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,181,161,208"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,175,261,155,262,161,177,180"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="176,189,310,182,464,167,556,153,648,132,692,119,694,124,649,137,557,158,465,172,311,187,177,195"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html" title="Container class that holds general settings for each build target group installed in Unity." alt="" coords="249,232,464,275"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="177,209,262,229,261,234,176,214"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="882,107,1022,119,1022,124,882,112"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="479,233,998,152,1022,148,1023,153,999,157,480,238"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,248,200,275"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="215,255,249,254,249,259,215,260"/>
+</map>

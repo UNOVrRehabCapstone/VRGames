@@ -1,0 +1,20 @@
+<map id="UnityEngine.InputSystem.Pointer" name="UnityEngine.InputSystem.Pointer">
+<area shape="rect" id="Node000001" title="Base class for pointer&#45;style devices moving on a 2D screen." alt="" coords="374,64,546,107"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_input_system_1_1_mouse.html" title="An input device representing a mouse." alt="" coords="606,5,778,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="561,57,605,46,606,51,562,62"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_input_system_1_1_pen.html" title="Represents a pen/stylus input device." alt="" coords="594,72,790,99"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="562,83,594,83,594,88,562,88"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_input_system_1_1_touchscreen.html" title="A multi&#45;touch surface." alt="" coords="606,123,778,165"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="562,108,606,120,605,125,561,113"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_device.html" title="Represents an input device which is always the root of a hierarchy of InputControl instances." alt="" coords="191,47,279,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,64,374,73,373,78,294,69"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title="A typed and named source of input values in a hierarchy of controls." alt="" coords="5,47,96,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,57,191,57,191,63,111,63"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="17,29,28,23,50,20,71,22,84,28,88,38,82,48,78,45,82,37,80,32,70,27,51,25,30,28,19,34"/>
+<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_state_callback_receiver.html" title="Interface for devices that implement their own state update handling." alt="" coords="144,97,326,124"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="341,96,373,92,374,98,342,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="838,5,1010,48"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="794,24,837,24,837,29,794,29"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="838,123,1010,165"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="794,141,837,141,837,147,794,147"/>
+</map>

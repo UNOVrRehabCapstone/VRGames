@@ -1,0 +1,9 @@
+<map id="Oculus.Platform.Samples.VrBoardGame.GameController.MakeRemoteMove" name="Oculus.Platform.Samples.VrBoardGame.GameController.MakeRemoteMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,239,123"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#ac7f0aaf667f04ab1f4ca45c9575c129d" title=" " alt="" coords="305,5,541,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,65,308,49,309,55,240,70"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#aa7b4161e0d8bfab0e674eb2883181dd7" title=" " alt="" coords="287,72,559,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,91,271,91,271,96,239,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_piece.html#ad5295d23c34fe65bdc4958eabe384a5d" title=" " alt="" coords="305,139,541,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,117,309,132,308,137,238,122"/>
+</map>

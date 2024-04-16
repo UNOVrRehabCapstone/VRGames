@@ -1,0 +1,5 @@
+<map id="OVRProgressIndicator" name="OVRProgressIndicator">
+<area shape="rect" id="Node000001" title="Visualizes progress for operations such as loading." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,5,135,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,48,83,80,78,80,78,48"/>
+</map>

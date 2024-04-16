@@ -1,0 +1,13 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.CreatePoint" name="Oculus.Interaction.HandPosing.HandGrabInteractable.CreatePoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1199,51,1417,93"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#a678f23fac6b146df88f35b352cc32bd4" title=" " alt="" coords="942,51,1151,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1183,75,1151,75,1151,69,1183,69"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a9475812f51d9eca8778811f108bc7bc4" title="Creates a new HandGrabInteractable at the exact pose of a given hand. Mostly used with Hand&#45;Tracking ..." alt="" coords="649,5,894,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="927,58,895,54,895,49,927,53"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#a983d54694caf1113dae7158dc5ed52bf" title="Populates the HandGrabInteractable with the serialized data version." alt="" coords="669,88,874,131"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="927,91,875,98,874,93,926,86"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a87356c9936d4e5a192e721cc38ba649b" title="Finds the nearest object that can be snapped to and adds a new HandGrabInteractable to it with the us..." alt="" coords="338,13,601,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="633,37,601,37,601,32,633,32"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a5491dc7451dbcef7870aef92fb095df6" title=" " alt="" coords="5,13,290,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="322,37,290,37,290,32,322,32"/>
+</map>

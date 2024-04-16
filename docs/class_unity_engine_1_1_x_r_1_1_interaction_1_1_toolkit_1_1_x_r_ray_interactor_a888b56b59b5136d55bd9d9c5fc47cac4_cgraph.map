@@ -1,0 +1,8 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetValidTargets" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.GetValidTargets">
+<area shape="rect" id="Node000001" title="Retrieve the list of Interactables that this Interactor could possibly interact with this frame...." alt="" coords="5,71,216,129"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#ab81c7b8e9e8220de51763dc0aef41b5d" title=" " alt="" coords="264,29,505,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,81,248,77,249,82,217,87"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a7c54f4c89ebae145009dad5b165e09ab" title="Gets the Interactable a specific Collider is attached to." alt="" coords="279,112,490,171"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="217,113,264,120,263,126,216,119"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="331,29,332,19,342,10,359,5,384,3,413,5,431,13,429,17,412,11,384,8,360,10,344,15,337,21,336,29"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="UnityEditor.ProBuilder.Actions.MirrorObjects.OnSettingsGUI" name="UnityEditor.ProBuilder.Actions.MirrorObjects.OnSettingsGUI">
+<area shape="rect" id="Node000001" title="Implement the extra settings GUI for your action in this method." alt="" coords="5,51,207,93"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="270,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,52,254,43,255,48,208,57"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_settings_management_1_1_user_setting.html#a51f6c0399ef3deb35151ed650b27312c" title="Set the value for this setting." alt="" coords="255,96,471,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,87,239,93,239,98,207,92"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="519,5,751,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,24,503,24,503,29,456,29"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="314,96,312,86,321,77,337,71,363,69,390,72,407,78,405,83,389,77,363,75,338,77,323,81,318,87,320,95"/>
+</map>

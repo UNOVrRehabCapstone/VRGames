@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Models.ApplicationInvite" name="Oculus.Platform.Models.ApplicationInvite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,112,352,155"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_models_1_1_destination.html" title=" " alt="" coords="5,5,235,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,41,218,110,214,114,142,44"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_models_1_1_user.html" title=" " alt="" coords="259,5,450,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,47,328,69,310,90,278,114,275,109,306,86,324,65,339,44"/>
+</map>

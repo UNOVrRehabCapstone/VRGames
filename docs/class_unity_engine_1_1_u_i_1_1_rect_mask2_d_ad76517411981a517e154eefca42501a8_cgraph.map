@@ -1,0 +1,7 @@
+<map id="UnityEngine.UI.RectMask2D.UpdateClipSoftness" name="UnityEngine.UI.RectMask2D.UpdateClipSoftness">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,183,81"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_u_i_1_1_i_clippable.html#af62d9bcab5a1d207c6fd90089d39c0c5" title="Set the clip softness for the IClippable." alt="" coords="253,5,425,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,45,237,38,238,43,183,51"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html#a7d529345c46cba834558aeab469007ad" title="Set the clip softness for the IClippable." alt="" coords="231,72,447,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,69,215,74,215,79,183,75"/>
+</map>

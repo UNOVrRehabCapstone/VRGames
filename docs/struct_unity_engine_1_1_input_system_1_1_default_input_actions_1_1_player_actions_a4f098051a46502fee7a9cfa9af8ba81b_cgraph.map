@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.DefaultInputActions.PlayerActions.Disable" name="UnityEngine.InputSystem.DefaultInputActions.PlayerActions.Disable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,228,89"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#a215d9741eaf7205b3ad4ac865efae047" title="Disable all the actions in the map." alt="" coords="311,5,484,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,44,295,36,296,41,228,49"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_player_actions.html#adbffa61b2660eacc8ca1367c736dfece" title=" " alt="" coords="276,72,519,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,71,260,74,260,80,228,76"/>
+</map>

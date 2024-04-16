@@ -1,0 +1,5 @@
+<map id="Samples.SampleStandaloneLoaderUI" name="Samples.SampleStandaloneLoaderUI">
+<area shape="rect" id="Node000001" title="Sample loader UI demonstrating how to provide your own loader selection UI for the loader selection l..." alt="" coords="5,80,191,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_x_r_1_1_management_1_1_i_x_r_custom_loader_u_i.html" title="Custom interface provided by the package if the package uses its own UI in the XR Plug&#45;in Management ..." alt="" coords="30,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,48,101,80,95,80,95,48"/>
+</map>

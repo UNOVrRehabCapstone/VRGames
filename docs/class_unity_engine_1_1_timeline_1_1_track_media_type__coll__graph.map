@@ -1,0 +1,15 @@
+<map id="UnityEngine.Timeline.TrackMediaType" name="UnityEngine.Timeline.TrackMediaType">
+<area shape="rect" id="Node000001" title="TrackMediaType defines the type of a track. This attribute is obsolete; it will have no effect." alt="" coords="98,188,277,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="131,89,201,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,131,186,187,181,188,169,132"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html" title="A PlayableAsset that represents a timeline." alt="" coords="226,81,421,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,136,216,190,213,185,283,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,111,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,34,257,78,255,83,113,40"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="134,5,329,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="259,40,302,79,299,83,255,44"/>
+<area shape="rect" id="Node000006" href="$interface_unity_engine_1_1_timeline_1_1_i_timeline_clip_asset.html" title="Implement this interface to support advanced features of timeline clips." alt="" coords="353,5,481,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="393,44,348,83,345,79,390,40"/>
+<area shape="rect" id="Node000007" href="$interface_unity_engine_1_1_timeline_1_1_i_property_preview.html" title="Implement this interface in a PlayableAsset to specify which properties will be modified when Timelin..." alt="" coords="505,5,622,32"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="513,40,385,83,383,78,511,35"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Achievements.checkAllAchievements" name="Achievements.checkAllAchievements">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,243,57"/>
+<area shape="rect" id="Node000002" href="$class_achievements.html#a5c77925eb88bfb8490a4c50d83aad987" title=" " alt="" coords="291,5,506,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,30,275,27,276,33,244,36"/>
+<area shape="rect" id="Node000004" href="$class_achievements.html#a045289be8e16603209010538e0103519" title=" " alt="" coords="297,56,500,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,52,281,56,281,61,243,58"/>
+<area shape="rect" id="Node000003" href="$class_achievements.html#a4d45e828ad9321767b41252134cdb1a5" title=" " alt="" coords="554,5,730,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,16,538,16,538,21,506,21"/>
+</map>

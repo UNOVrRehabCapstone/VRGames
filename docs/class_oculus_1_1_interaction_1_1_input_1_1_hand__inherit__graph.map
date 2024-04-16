@@ -1,0 +1,19 @@
+<map id="Oculus.Interaction.Input.Hand" name="Oculus.Interaction.Input.Hand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,180,454,207"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_fixed_scale_hand.html" title=" " alt="" coords="511,5,673,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,166,431,112,465,83,501,58,523,46,525,51,503,62,468,88,435,116,383,170"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_joint_rotation_history_hand.html" title="Tracks the history of finger rotations and can be set to use the joint rotations from some number of ..." alt="" coords="508,72,675,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="400,170,501,124,529,113,531,118,503,129,402,175"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_last_known_good_hand.html" title=" " alt="" coords="511,139,673,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="469,175,510,169,510,174,470,180"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_one_euro_filter_position_hand.html" title=" " alt="" coords="503,205,681,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="470,207,502,211,501,217,469,212"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_one_euro_filter_rotation_hand.html" title="Data Modifier used to apply the One Euro Filter to a hand pose. Filtering can be applied to the wrist..." alt="" coords="502,272,681,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="402,212,503,258,531,269,529,274,501,262,400,216"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html" title="Alters hand data piped into this modifier to lock and unlock joints (wrist position and rotation,..." alt="" coords="511,339,673,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="383,217,435,270,468,299,503,324,525,336,523,341,501,329,465,303,431,274,379,221"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_modifier.html" title=" " alt="" coords="5,155,214,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,178,262,181,261,186,229,183"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html" title=" " alt="" coords="82,205,137,232"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,212,261,201,261,206,153,217"/>
+</map>

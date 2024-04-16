@@ -1,0 +1,5 @@
+<map id="Facebook.WitAi.Interfaces.IAudioInputSource.StartRecording" name="Facebook.WitAi.Interfaces.IAudioInputSource.StartRecording">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,5,458,48"/>
+<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_wit.html#aed1581071ca783c5857ee04cbb42554c" title="Activate the microphone and send data to Wit for NLU processing." alt="" coords="5,13,194,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,29,194,29,194,24,226,24"/>
+</map>

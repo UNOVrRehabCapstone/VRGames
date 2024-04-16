@@ -1,0 +1,9 @@
+<map id="Unity.XR.CoreUtils.Editor.XROriginEditor.DrawScript" name="Unity.XR.CoreUtils.Editor.XROriginEditor.DrawScript">
+<area shape="rect" id="Node000001" title="Draw the standard read&#45;only Script property." alt="" coords="776,5,949,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a840a03b97e6cb1e7cbf445f1fe63212e" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="494,5,728,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="761,29,729,29,729,24,761,24"/>
+<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a0627cd72e2f13102a412ebe599f5e834" title="This method is automatically called by OnInspectorGUI to draw the custom inspector...." alt="" coords="255,5,446,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,29,446,29,446,24,478,24"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#ab31a8108d738b770f8ce853fa1c57cdc" title=" " alt="" coords="5,5,207,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,29,207,29,207,24,239,24"/>
+</map>

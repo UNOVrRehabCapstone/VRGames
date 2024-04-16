@@ -1,0 +1,6 @@
+var _feature_state_thresholds_editor_8cs =
+[
+    [ "Oculus.Interaction.PoseDetection.Editor.FeatureStateThresholdsEditor< TFeature >", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor" ],
+    [ "Oculus.Interaction.PoseDetection.Editor.FeatureStateThresholdsEditor< TFeature >.FeatureStateThresholdsModel", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692" ],
+    [ "Oculus.Interaction.PoseDetection.Editor.FeatureStateThresholdsEditor< TFeature >.FeatureStateThresholdModel", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1a9c7f7bf5ba8b07ccc6df61a1d3f3ff5" ]
+];

@@ -1,0 +1,5 @@
+<map id="UnityEngine.EventSystems.PointerInputModule.GetLastPointerEventData" name="UnityEngine.EventSystems.PointerInputModule.GetLastPointerEventData">
+<area shape="rect" id="Node000001" title="Return the last PointerEventData for the given touch / mouse id." alt="" coords="5,5,229,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a9bfbf3091dc432b4223a52d7d277381d" title="Search the cache for currently active pointers, return true if found." alt="" coords="277,13,502,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,32,261,32,261,37,229,37"/>
+</map>

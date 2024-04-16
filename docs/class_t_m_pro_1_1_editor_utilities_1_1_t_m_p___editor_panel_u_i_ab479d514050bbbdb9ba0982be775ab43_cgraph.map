@@ -1,0 +1,29 @@
+<map id="TMPro.EditorUtilities.TMP_EditorPanelUI.DrawExtraSettings" name="TMPro.EditorUtilities.TMP_EditorPanelUI.DrawExtraSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,355,225,397"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a585170858dbbb92e0e09828c06798fc0" title=" " alt="" coords="273,5,529,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,353,133,294,162,214,182,172,207,130,237,91,271,58,276,54,279,59,274,62,241,95,212,133,187,174,167,216,138,296,123,355"/>
+<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#abf4cebbc2438a1d7929f2cf20f27e91a" title=" " alt="" coords="285,72,517,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,353,143,309,175,251,218,192,243,165,271,141,276,137,279,141,274,145,247,168,222,195,180,254,148,311,127,355"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a7a801b12cf3a9d08b0a2c19e450b3713" title=" " alt="" coords="300,155,502,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,353,185,281,225,241,271,207,284,200,286,205,274,212,229,245,189,285,132,356"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#abbf85a27920dd905ebe05c05c8bc0af8" title=" " alt="" coords="299,221,503,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,352,200,312,272,274,288,267,290,272,274,278,203,317,146,357"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel_u_i.html#ac21713e50d783201e845048205759f5a" title=" " alt="" coords="303,288,499,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="209,351,291,332,292,337,210,357"/>
+<area shape="rect" id="Node000008" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#ac66e725c1c635a3c2c301bc3f741f8b8" title=" " alt="" coords="298,355,504,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="225,373,283,373,283,379,225,379"/>
+<area shape="rect" id="Node000009" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a26fbb356584983194be6c3251088d033" title=" " alt="" coords="300,421,502,464"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="210,395,292,415,291,420,209,401"/>
+<area shape="rect" id="Node000010" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel_u_i.html#a81bb1c9036bd344be707af9620d9ca67" title=" " alt="" coords="289,488,513,531"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="146,395,203,435,274,474,290,480,288,485,272,478,200,440,143,400"/>
+<area shape="rect" id="Node000011" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#ab0c714c3b42cc58446443353f51f54c5" title=" " alt="" coords="296,555,506,597"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="132,396,189,467,229,507,274,540,283,545,281,550,271,545,225,511,185,471,128,399"/>
+<area shape="rect" id="Node000012" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#ad5953c50fa4e149757cdf93769023a49" title=" " alt="" coords="288,621,514,664"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="127,397,147,441,178,499,221,558,246,584,274,607,281,611,278,616,271,611,243,588,217,561,174,501,142,444,122,399"/>
+<area shape="rect" id="Node000013" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a9229f6798cf3022fb29ade35a32de9e4" title=" " alt="" coords="290,688,512,731"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="124,397,140,453,169,528,189,568,213,607,242,643,274,674,280,678,276,682,271,678,238,646,209,610,185,571,164,530,135,455,119,398"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#af44c33a23c1dc0d7821d96be352c8d56" title=" " alt="" coords="577,221,823,264"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="503,240,562,240,562,245,503,245"/>
+<area shape="rect" id="Node000014" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html#a6006e15a2f1758f62ac5f5dea67e57da" title=" " alt="" coords="590,688,811,731"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="513,707,574,707,574,712,513,712"/>
+</map>

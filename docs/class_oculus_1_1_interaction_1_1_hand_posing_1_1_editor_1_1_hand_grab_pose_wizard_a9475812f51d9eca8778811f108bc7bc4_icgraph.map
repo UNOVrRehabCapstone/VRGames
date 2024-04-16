@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.Editor.HandGrabPoseWizard.AddHandGrabPoint" name="Oculus.Interaction.HandPosing.Editor.HandGrabPoseWizard.AddHandGrabPoint">
+<area shape="rect" id="Node000001" title="Creates a new HandGrabInteractable at the exact pose of a given hand. Mostly used with Hand&#45;Tracking ..." alt="" coords="649,5,894,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a87356c9936d4e5a192e721cc38ba649b" title="Finds the nearest object that can be snapped to and adds a new HandGrabInteractable to it with the us..." alt="" coords="338,13,601,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="633,37,601,37,601,32,633,32"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a5491dc7451dbcef7870aef92fb095df6" title=" " alt="" coords="5,13,290,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,37,290,37,290,32,322,32"/>
+</map>

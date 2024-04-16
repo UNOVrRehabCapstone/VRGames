@@ -1,0 +1,11 @@
+<map id="UnityEngine.ProBuilder.ProBuilderMesh.GetSelectedFaces" name="UnityEngine.ProBuilder.ProBuilderMesh.GetSelectedFaces">
+<area shape="rect" id="Node000001" title="Returns a copy of the array of selected faces." alt="" coords="374,105,579,148"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_conform_face_normals.html#a7b9febb0a609943281afe2d30f567703" title=" " alt="" coords="5,5,326,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,101,325,63,284,51,286,46,327,57,420,96"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_extrude_faces.html#a1805065d58575620ffa99877e1bb68aa" title=" " alt="" coords="27,72,304,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,117,304,111,305,106,358,111"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_flip_face_normals.html#a4e6f52d037ad28a62c3732f5f21d7eca" title=" " alt="" coords="19,139,312,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,142,313,147,312,142,358,137"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_grow_selection.html#af6fccf3d5064419ccb0401d760bb1a71" title=" " alt="" coords="26,205,305,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="420,158,327,196,286,207,284,202,325,191,418,153"/>
+</map>

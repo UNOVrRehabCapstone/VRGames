@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.ProcessControlInput" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.ProcessControlInput">
+<area shape="rect" id="Node000001" title="Process input from the user and update the state of manipulated controller device(s) related to input..." alt="" coords="5,47,227,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#ae8f3ae524edfcbcc738faacb59798dfc" title="Process input from the user and update the state of manipulated controller device(s) related to 2D Ax..." alt="" coords="275,5,514,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,57,259,52,259,57,227,62"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#a01f9bd054b23d63ca1c8fbfdd2286f18" title="Process input from the user and update the state of manipulated controller device(s) related to butto..." alt="" coords="277,88,512,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,90,262,95,261,100,227,95"/>
+</map>

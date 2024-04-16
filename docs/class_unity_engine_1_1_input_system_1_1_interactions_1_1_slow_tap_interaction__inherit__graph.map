@@ -1,0 +1,6 @@
+<map id="UnityEngine.InputSystem.Interactions.SlowTapInteraction" name="UnityEngine.InputSystem.Interactions.SlowTapInteraction">
+<area shape="rect" id="Node000001" title="Performs the action if the control is pressed and held for at least the set duration (which defaults ..." alt="" coords="5,82,207,125"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_interaction.html" title="Interface for interaction patterns that drive actions." alt="" coords="50,8,162,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,50,109,82,103,82,103,50"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="155,3,178,7,186,12,189,21,184,31,172,37,140,38,140,32,171,32,180,28,184,21,182,16,176,12,154,8"/>
+</map>

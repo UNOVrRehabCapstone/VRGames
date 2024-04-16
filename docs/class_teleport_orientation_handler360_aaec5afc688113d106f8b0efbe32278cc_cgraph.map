@@ -1,0 +1,5 @@
+<map id="TeleportOrientationHandler360.UpdateTeleportDestination" name="TeleportOrientationHandler360.UpdateTeleportDestination">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,205,48"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a2868f89c5694a1d90192e52a0bbbf97c" title="When the active aim and orientation handler finishes preparing the data for the teleport destination,..." alt="" coords="253,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+</map>

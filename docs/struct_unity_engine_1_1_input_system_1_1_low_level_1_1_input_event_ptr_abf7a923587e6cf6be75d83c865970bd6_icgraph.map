@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.LowLevel.InputEventPtr.InputEventPtr" name="UnityEngine.InputSystem.LowLevel.InputEventPtr.InputEventPtr">
+<area shape="rect" id="Node000001" title="Initialize the pointer to refer to the given event." alt="" coords="259,64,445,123"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_ptr.html#aff3cc83454b087cb51551b988544ab44" title=" " alt="" coords="14,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,66,188,51,190,46,244,61"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_ptr.html#af4aefdb0573121cac9f70ee70b535af3" title=" " alt="" coords="15,72,201,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,96,201,96,201,91,243,91"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_ptr.html#a49a5774e7063421cd3f82a088b1871ae" title=" " alt="" coords="5,139,211,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,129,207,141,205,136,243,124"/>
+</map>

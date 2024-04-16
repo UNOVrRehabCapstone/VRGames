@@ -1,0 +1,7 @@
+<map id="UnityEngine.UI.HorizontalLayoutGroup.CalculateLayoutInputVertical" name="UnityEngine.UI.HorizontalLayoutGroup.CalculateLayoutInputVertical">
+<area shape="rect" id="Node000001" title="Called by the layout system. Also see ILayoutElement." alt="" coords="5,5,226,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_horizontal_or_vertical_layout_group.html#abb73fa42e5a49092401cf3c7780a02e8" title="Calculate the layout element properties for this layout element along the given axis." alt="" coords="274,13,516,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,32,258,32,258,37,226,37"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6a091521efd71c3a4cfb82e42ea4a713" title="Used to set the calculated layout properties for the given axis." alt="" coords="564,13,753,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,32,548,32,548,37,516,37"/>
+</map>

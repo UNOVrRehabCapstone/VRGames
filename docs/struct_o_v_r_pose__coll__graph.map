@@ -1,0 +1,5 @@
+<map id="OVRPose" name="OVRPose">
+<area shape="rect" id="Node000001" title="An affine transformation built from a Unity position and orientation." alt="" coords="11,112,91,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,97,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,47,54,112,48,112,48,47"/>
+</map>

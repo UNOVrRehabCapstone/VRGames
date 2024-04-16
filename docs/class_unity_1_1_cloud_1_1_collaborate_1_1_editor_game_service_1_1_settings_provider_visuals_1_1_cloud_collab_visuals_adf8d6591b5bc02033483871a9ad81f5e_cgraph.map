@@ -1,0 +1,5 @@
+<map id="Unity.Cloud.Collaborate.EditorGameService.SettingsProviderVisuals.CloudCollabVisuals.Init" name="Unity.Cloud.Collaborate.EditorGameService.SettingsProviderVisuals.CloudCollabVisuals.Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,236,64"/>
+<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_editor_1_1_i_editor_game_service_enabler.html#aa6c50b934d6b4a1d74f0a3e7d930788e" title="Gets the enablement status of the service." alt="" coords="284,13,524,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,268,32,268,37,236,37"/>
+</map>

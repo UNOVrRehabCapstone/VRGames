@@ -1,0 +1,7 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.PointOnEdgeException" name="UnityEngine.ProBuilder.Poly2Tri.PointOnEdgeException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,144,291,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,179,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,51,181,142,177,145,109,54"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_triangulation_point.html" title=" " alt="" coords="203,5,395,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,62,212,145,208,142,271,59"/>
+</map>

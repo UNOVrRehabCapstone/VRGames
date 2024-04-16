@@ -1,0 +1,9 @@
+<map id="MasterArchitectureGameplayManager.killPlane" name="MasterArchitectureGameplayManager.killPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="482,39,672,81"/>
+<area shape="rect" id="Node000002" href="$class_master_architecture_gameplay_manager.html#a5126d9819998f32589f98857afd0370c" title=" " alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,47,434,43,435,37,467,42"/>
+<area shape="rect" id="Node000004" href="$class_master_architecture_gameplay_manager.html#a2d5148efea3bc8ceb0b02eae87d75877" title=" " alt="" coords="244,72,434,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="467,78,435,83,434,77,466,73"/>
+<area shape="rect" id="Node000003" href="$class_master_architecture_gameplay_manager.html#a826bfeb014dda525ee64966b3067e971" title=" " alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,29,196,29,196,24,228,24"/>
+</map>

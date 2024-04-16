@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Editor.CdnConfiguredEndpoint&lt; T &gt;" name="Unity.Services.Core.Editor.CdnConfiguredEndpoint&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Helper class for managing CDN based endpoint configurations." alt="" coords="53,80,241,123"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_remote_configuration.html" title="Fetches and parses JSON config object or returns a newly constructed object on failure...." alt="" coords="5,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,48,150,80,144,80,144,48"/>
+</map>

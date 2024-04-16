@@ -1,0 +1,7 @@
+<map id="OVRPlugin.BoneCapsule" name="OVRPlugin.BoneCapsule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,172,229"/>
+<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_vector3f.html" title=" " alt="" coords="20,96,157,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,138,91,202,86,202,86,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="62,5,115,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,48,91,95,86,95,86,48"/>
+</map>

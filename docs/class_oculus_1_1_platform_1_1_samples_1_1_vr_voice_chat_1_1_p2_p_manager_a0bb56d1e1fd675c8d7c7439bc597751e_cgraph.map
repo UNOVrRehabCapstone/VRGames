@@ -1,0 +1,7 @@
+<map id="Oculus.Platform.Samples.VrVoiceChat.P2PManager.GetRemoteHeadTransform" name="Oculus.Platform.Samples.VrVoiceChat.P2PManager.GetRemoteHeadTransform">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,249,64"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_packet.html#a3e1bd752b0472cbf8f9ef0e7aa78fad1" title=" " alt="" coords="297,13,490,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,32,281,32,281,37,249,37"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#afdb49ff746e472f8fccd55d44c821370" title=" " alt="" coords="538,13,706,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,32,522,32,522,37,491,37"/>
+</map>

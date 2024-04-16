@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.MigrateEvents" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.MigrateEvents">
+<area shape="rect" id="Node000001" title="Migrate the persistent listeners from the deprecated UnityEvent properties to the new events on an XR..." alt="" coords="753,47,955,105"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#ac792e1caa78805711b5440ed77c0ca7d" title="Draw the Interactor Events foldout." alt="" coords="504,5,705,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,59,705,54,706,49,738,54"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a26b837b70236a9eac01b60c7da045658" title="Migrate the persistent listeners from the deprecated UnityEvent properties to the new events on an XR..." alt="" coords="504,88,705,147"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="738,98,706,103,705,98,737,93"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aeca3328e44166a1256087af043f40876" title="This method is automatically called by DrawInspector to draw the event properties...." alt="" coords="255,5,456,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,37,456,37,456,32,488,32"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aae36f715bd5ef9034b8218c1b3d6d783" title=" " alt="" coords="5,5,207,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,37,207,37,207,32,239,32"/>
+</map>

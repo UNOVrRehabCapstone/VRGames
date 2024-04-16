@@ -1,0 +1,5 @@
+<map id="UnityEditor.EventSystems.Physics2DRaycasterEditor" name="UnityEditor.EventSystems.Physics2DRaycasterEditor">
+<area shape="rect" id="Node000001" title="Custom Editor for the EventSystem Component. Extend this class to write a custom editor for a compone..." alt="" coords="5,80,183,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="66,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
+</map>

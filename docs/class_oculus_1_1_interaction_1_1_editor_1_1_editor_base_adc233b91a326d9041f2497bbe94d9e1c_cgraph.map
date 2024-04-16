@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.Editor.EditorBase.Defer" name="Oculus.Interaction.Editor.EditorBase.Defer">
+<area shape="rect" id="Node000001" title="Call in OnInit with a single property name and a custom property drawer. Equivalent to calling Draw a..." alt="" coords="5,39,174,81"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a2176498470c23715643cb7f0a16e34b3" title="Call in OnInit with one or more property names to defer drawing them until after all non&#45;deferred pro..." alt="" coords="222,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,44,206,39,207,45,174,50"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#ac2c7e078ccb4a12383a856dc42b7394d" title="Call in OnInit to specify a custom drawer for a single property. Whenever the property is drawn,..." alt="" coords="222,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,70,207,75,206,81,174,76"/>
+</map>

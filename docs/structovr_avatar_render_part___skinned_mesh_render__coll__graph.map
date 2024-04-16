@@ -1,0 +1,14 @@
+<map id="ovrAvatarRenderPart_SkinnedMeshRender" name="ovrAvatarRenderPart_SkinnedMeshRender">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,309,285,352"/>
+<area shape="rect" id="Node000002" href="$structovr_avatar_transform.html" title=" " alt="" coords="5,128,136,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,168,33,185,21,205,17,225,22,244,45,270,73,289,105,304,137,314,135,319,103,309,71,294,41,274,17,247,11,225,16,203,28,182,43,164"/>
+<area shape="rect" id="Node000006" href="$structovr_avatar_skinned_mesh_pose.html" title=" " alt="" coords="119,219,302,245"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="105,161,192,216,189,220,102,166"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,5,116,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,48,73,127,68,127,68,48"/>
+<area shape="rect" id="Node000004" href="$structovr_avatar_material_state.html" title=" " alt="" coords="326,219,476,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,255,253,311,250,306,362,250"/>
+<area shape="rect" id="Node000005" href="$structovr_avatar_material_layer_state.html" title=" " alt="" coords="310,128,492,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="404,170,404,218,399,218,399,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,261,213,309,208,309,208,261"/>
+</map>

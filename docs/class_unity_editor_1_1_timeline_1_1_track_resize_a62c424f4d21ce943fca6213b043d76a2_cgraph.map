@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.TrackResize.MouseDown" name="UnityEditor.Timeline.TrackResize.MouseDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,179,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#aea2f15e02d1c279836c9147416a00fc8" title=" " alt="" coords="227,5,414,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,45,211,40,212,45,180,50"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#af1e0a5f9a63a8aaa835f5ed772a25741" title=" " alt="" coords="227,72,414,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,70,212,75,211,80,179,75"/>
+</map>

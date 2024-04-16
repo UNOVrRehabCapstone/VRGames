@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TranslateAnchor" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TranslateAnchor">
+<area shape="rect" id="Node000001" title="Translates the attach anchor for this interactor. This can be useful to move a held object closer or ..." alt="" coords="262,5,475,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a2d195c395e90d9fd614323d331b7415f" title="The XRInteractionManager calls this method to update the Interactor after interaction events occur...." alt="" coords="5,5,214,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,37,214,37,214,32,246,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Telemetry.Internal.MetricsFactory.Create" name="Unity.Services.Core.Telemetry.Internal.MetricsFactory.Create">
+<area shape="rect" id="Node000001" title="Create a IMetrics setup with common tags for the given packageName ." alt="" coords="266,5,466,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_registration_1_1_core_package_initializer.html#a1fc38b8c1b5cdf84cbed28e72e614c77" title="This is the Initialize callback that will be triggered by the Core package. This method will be invok..." alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,29,218,29,218,24,250,24"/>
+</map>

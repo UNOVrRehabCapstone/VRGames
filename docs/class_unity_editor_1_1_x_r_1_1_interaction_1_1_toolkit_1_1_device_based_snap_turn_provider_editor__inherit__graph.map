@@ -1,0 +1,7 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.DeviceBasedSnapTurnProviderEditor" name="UnityEditor.XR.Interaction.Toolkit.DeviceBasedSnapTurnProviderEditor">
+<area shape="rect" id="Node000001" title="Custom editor for a DeviceBasedSnapTurnProvider." alt="" coords="5,155,245,213"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="52,80,198,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,123,128,154,122,154,122,123"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,5,153,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,48,128,80,122,80,122,48"/>
+</map>

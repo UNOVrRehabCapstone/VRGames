@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.SequenceContext" name="UnityEditor.Timeline.SequenceContext">
+<area shape="rect" id="Node000001" title="A context for the Timeline window (RO)" alt="" coords="88,96,287,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,215,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,43,173,94,169,97,128,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,5,293,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,46,206,97,202,94,244,42"/>
+</map>

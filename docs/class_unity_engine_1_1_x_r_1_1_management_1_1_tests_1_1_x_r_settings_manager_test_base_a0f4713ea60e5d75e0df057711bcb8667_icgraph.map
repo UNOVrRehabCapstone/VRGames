@@ -1,0 +1,9 @@
+<map id="UnityEngine.XR.Management.Tests.XRSettingsManagerTestBase.TeardownBase" name="UnityEngine.XR.Management.Tests.XRSettingsManagerTestBase.TeardownBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="393,88,623,147"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_editor_active_loaders_manipulation_tests.html#a3895f03e41aeb68d7c2345e1d403def9" title=" " alt="" coords="12,5,338,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,87,344,79,298,67,299,62,345,73,378,82"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_runtime_active_loaders_manipulation_tests.html#a66cbdf0ee38d88043f7ef3135e2433d5" title=" " alt="" coords="5,88,345,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,120,345,120,345,115,377,115"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_manual_lifetime_tests.html#a711c0f91f27dc793341600b906187683" title=" " alt="" coords="57,171,293,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="378,153,345,161,294,174,293,169,344,156,377,148"/>
+</map>

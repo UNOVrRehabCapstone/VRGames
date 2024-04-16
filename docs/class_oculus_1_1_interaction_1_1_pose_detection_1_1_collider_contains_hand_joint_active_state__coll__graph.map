@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.ColliderContainsHandJointActiveState" name="Oculus.Interaction.PoseDetection.ColliderContainsHandJointActiveState">
+<area shape="rect" id="Node000001" title="Test if hand joint is inside generic collider and updates its active state based on that test...." alt="" coords="5,80,244,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,43,111,78,107,81,80,46"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_active_state.html" title=" " alt="" coords="142,5,232,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,46,142,81,138,78,166,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SPPquad.Grab" name="SPPquad.Grab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,114,40"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_passthrough_layer.html#a9eab443b65558594a7f3413cf1a833b5" title="Removes a GameObject that was previously added using AddSurfaceGeometry from the projection surface." alt="" coords="162,5,366,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,24,146,24,146,29,114,29"/>
+</map>

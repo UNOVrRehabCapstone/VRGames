@@ -1,0 +1,14 @@
+<map id="UnityEngine.EventSystems.AbstractEventData.Reset" name="UnityEngine.EventSystems.AbstractEventData.Reset">
+<area shape="rect" id="Node000001" title="Reset the event." alt="" coords="539,109,722,152"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a118ed5ea055cae39a0311086c741a24c" title="Get state for pointer which is a pointer moving in world space across the surface of a world space ca..." alt="" coords="237,5,491,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,104,490,62,456,51,458,46,492,58,580,99"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7942780a6fac1c5d491b18294b854755" title="State for a pointer controlled by a world space ray. E.g. gaze pointer." alt="" coords="242,72,486,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="523,118,486,113,486,108,524,113"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#ab7c4b103d471dc44136aa8a847cf51f7" title="Return the current MouseState." alt="" coords="245,139,483,197"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="524,148,483,154,482,149,523,143"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a1aebc2278bab5233e88ef1cf8c95b133" title="Given a touch populate the PointerEventData and return if we are pressed or released." alt="" coords="247,221,481,280"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="584,163,492,212,464,223,462,218,490,207,581,158"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#aa4124a35a3a2edd2db5dd0dd1c14b906" title="Process this InputModule. Same as the StandaloneInputModule version, except that it calls ProcessMous..." alt="" coords="5,39,189,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,47,189,51,189,46,221,42"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="226,79,189,74,189,69,227,74"/>
+</map>

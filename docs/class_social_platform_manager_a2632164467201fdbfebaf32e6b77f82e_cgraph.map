@@ -1,0 +1,9 @@
+<map id="SocialPlatformManager.OnLocalAvatarPacketRecorded" name="SocialPlatformManager.OnLocalAvatarPacketRecorded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,190,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_avatar_1_1_c_a_p_i.html#a8f41f45cbe4c362d57e7e58c3f6343a9" title=" " alt="" coords="245,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,69,245,50,247,55,179,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_avatar_1_1_c_a_p_i.html#a227e5727809455ef29cbf774640ac9fa" title=" " alt="" coords="245,72,438,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,91,229,91,229,96,190,96"/>
+<area shape="rect" id="Node000004" href="$class_p2_p_manager.html#a8341d4b355cd24a33b232d5511722903" title=" " alt="" coords="238,139,445,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,113,269,132,267,137,188,118"/>
+</map>

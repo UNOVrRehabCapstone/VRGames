@@ -1,0 +1,5 @@
+<map id="Timeline.Samples.CreateAnnotationAction.Execute" name="Timeline.Samples.CreateAnnotationAction.Execute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,234,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#ac843e25a3ff466f9843381e8acf005a9" title="Creates a marker of the requested type, at a specific time, and adds the marker to the current asset." alt="" coords="282,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,24,266,24,266,29,234,29"/>
+</map>

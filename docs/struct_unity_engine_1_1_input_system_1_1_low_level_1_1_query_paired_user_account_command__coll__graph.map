@@ -1,0 +1,12 @@
+<map id="UnityEngine.InputSystem.LowLevel.QueryPairedUserAccountCommand" name="UnityEngine.InputSystem.LowLevel.QueryPairedUserAccountCommand">
+<area shape="rect" id="Node000001" title="Query the ID and the name of the user paired to the device the command is sent to." alt="" coords="5,295,230,353"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="11,89,181,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,131,117,294,112,295,96,132"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_device_command.html" title="Data header for a command send to an InputDevice." alt="" coords="134,188,336,231"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="126,123,209,185,206,190,123,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,243,149,296,145,292,201,240"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_four_c_c.html" title="A four&#45;character code." alt="" coords="205,81,377,124"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="275,139,248,189,244,186,270,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="216,5,366,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="294,48,294,81,288,81,288,48"/>
+</map>

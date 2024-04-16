@@ -1,0 +1,15 @@
+<map id="TMPro.TMP_Text.GetPreferredWidth" name="TMPro.TMP_Text.GetPreferredWidth">
+<area shape="rect" id="Node000001" title="Method to calculate the preferred width of a text object." alt="" coords="5,139,205,181"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#acc9b0abc219f02c05f5badfd0e649094" title="Method to calculate the preferred width and height of the text object." alt="" coords="269,105,450,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,144,253,138,254,143,205,150"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_t_m_p___text.html#abf101b7be511178e9d0d6999dcd26977" title="Method to parse the input text based on its source." alt="" coords="253,176,466,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,169,237,173,237,178,205,174"/>
+<area shape="rect" id="Node000003" href="$struct_t_m_pro_1_1_t_m_p___text_processing_stack.html#a251279ee81e8a656885c8f07e48200f2" title="Function to clear and reset stack to first item." alt="" coords="541,5,728,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,102,513,58,534,51,536,56,515,62,408,107"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___text.html#a0555e7043aed6e3db5ef6113eac2fa77" title="Restore the State of various variables used in the mesh creation loop." alt="" coords="533,72,735,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="450,113,517,105,518,110,450,118"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_t_m_p___text.html#af4575fb91d41221be3bd2764a356eda1" title="Save the State of various variables used in the mesh creation loop in conjunction with Word Wrapping." alt="" coords="514,139,754,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="450,135,499,141,498,146,450,140"/>
+<area shape="rect" id="Node000007" href="$interface_t_m_pro_1_1_i_text_preprocessor.html#a211b26c6e7a5eec73c08ab268289c38a" title="Function used for preprocessing of text." alt="" coords="548,205,720,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="463,201,533,210,532,216,462,206"/>
+</map>

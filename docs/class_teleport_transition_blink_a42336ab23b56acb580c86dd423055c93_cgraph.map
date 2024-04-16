@@ -1,0 +1,5 @@
+<map id="TeleportTransitionBlink.BlinkCoroutine" name="TeleportTransitionBlink.BlinkCoroutine">
+<area shape="rect" id="Node000001" title="This coroutine will fade out the view, perform the teleport, and then fade the view back in." alt="" coords="5,5,162,48"/>
+<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a8238ffd4461ad60fb1bfa634edcef054" title="Perform the actual teleport. Note that warp transitions do not call this function and instead moves t..." alt="" coords="210,13,410,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,24,194,24,194,29,162,29"/>
+</map>

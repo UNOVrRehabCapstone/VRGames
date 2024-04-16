@@ -1,0 +1,18 @@
+<map id="OVRCameraRig.Start" name="OVRCameraRig.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,151,140"/>
+<area shape="rect" id="Node000002" href="$class_o_v_r_camera_rig.html#a465790fa4aa1771f03648f107d2f8d32" title=" " alt="" coords="199,76,411,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,115,183,110,184,116,151,120"/>
+<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html#a5404761b6effb5c90b4fef6792448c4d" title=" " alt="" coords="459,113,665,140"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="151,127,199,128,411,128,443,127,443,133,411,133,199,133,151,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,107,444,110,443,116,411,112"/>
+<area shape="rect" id="Node000004" href="$class_o_v_r_camera_rig.html#a4967dbeb017a9817e2152f84840cf9eb" title=" " alt="" coords="714,5,946,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,110,646,84,712,58,733,51,734,56,714,62,649,89,593,115"/>
+<area shape="rect" id="Node000006" href="$class_o_v_r_manager.html#aa730949ad5abb2b67c82898864d13304" title="Specifies the pose offset required to make an OpenVR controller&#39;s reported pose match the virtual pos..." alt="" coords="716,72,944,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="665,111,700,107,701,112,666,116"/>
+<area shape="rect" id="Node000007" href="$class_o_v_r_camera_rig.html#a750f810522c32a2ed34eb85e98b7c5f5" title=" " alt="" coords="731,139,929,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="666,137,716,143,715,148,665,142"/>
+<area shape="rect" id="Node000008" href="$class_o_v_r_manager.html#a6b918a57cdb3be1d4e6100d5760a29b8" title="Specifies OpenVR pose local to tracking space." alt="" coords="713,205,947,232"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="592,138,647,165,714,191,741,199,740,204,712,196,645,170,589,143"/>
+<area shape="rect" id="Node000005" href="$class_o_v_r_camera_rig.html#a0cdc2a61808f7c6b12e12a76143f390a" title=" " alt="" coords="995,13,1207,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="946,24,979,24,979,29,946,29"/>
+</map>

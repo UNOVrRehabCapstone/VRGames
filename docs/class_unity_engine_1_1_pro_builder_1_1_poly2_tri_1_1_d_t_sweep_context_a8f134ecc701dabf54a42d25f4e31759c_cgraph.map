@@ -1,0 +1,9 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DTSweepContext.MapTriangleToNodes" name="UnityEngine.ProBuilder.Poly2Tri.DTSweepContext.MapTriangleToNodes">
+<area shape="rect" id="Node000001" title="Try to map a node to all sides of this triangle that don&#39;t have a neighbor." alt="" coords="5,39,270,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_advancing_front.html#abaa8102ceaefae14dd1dd93f74adf1ed" title="This implementation will use simple node traversal algorithm to find a point on the front." alt="" coords="329,5,531,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,42,314,37,314,42,270,48"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a0a24b8462df5b0d849ea26201e97042b" title=" " alt="" coords="318,72,542,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,72,303,76,302,81,270,78"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a40e80cf8bbd8471094c4596ab0d8f0d7" title=" " alt="" coords="590,72,782,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="542,91,574,91,574,96,542,96"/>
+</map>

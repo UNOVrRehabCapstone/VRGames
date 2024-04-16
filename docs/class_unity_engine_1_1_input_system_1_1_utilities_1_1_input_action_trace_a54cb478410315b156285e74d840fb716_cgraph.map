@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Utilities.InputActionTrace.RecordAction" name="UnityEngine.InputSystem.Utilities.InputActionTrace.RecordAction">
+<area shape="rect" id="Node000001" title="Record the triggering of an action as an action event." alt="" coords="5,5,216,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_buffer.html#af3232afa8fed610c36b33412a4e95f96" title="Make space for an event of sizeInBytes &#160;bytes and return a pointer to the memory for the event." alt="" coords="264,13,517,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,32,248,32,248,37,216,37"/>
+</map>

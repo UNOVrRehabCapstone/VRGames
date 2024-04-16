@@ -1,0 +1,5 @@
+<map id="Unity.Services.Core.Telemetry.Internal.MetricsHandler" name="Unity.Services.Core.Telemetry.Internal.MetricsHandler">
+<area shape="rect" id="Node000001" title="Handles common logic between all Metrics instances." alt="" coords="5,96,206,139"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_telemetry_handler.html" title=" " alt="" coords="17,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,64,108,96,103,96,103,64"/>
+</map>

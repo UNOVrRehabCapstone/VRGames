@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.CalculateBestPose" name="Oculus.Interaction.HandPosing.HandGrabInteractable.CalculateBestPose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,267,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_grab_points_pose_finder.html#a562a23f971198818c6d617ca0a0ba633" title="Finds the best valid hand&#45;pose at this HandGrabInteractable. Remember that a HandGrabPoint can actual..." alt="" coords="315,5,553,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,24,299,24,299,29,267,29"/>
+</map>

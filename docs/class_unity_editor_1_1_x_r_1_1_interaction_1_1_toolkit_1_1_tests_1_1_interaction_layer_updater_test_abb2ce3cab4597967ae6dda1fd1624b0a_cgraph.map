@@ -1,0 +1,5 @@
+<map id="UnityEditor.XR.Interaction.Toolkit.Tests.InteractionLayerUpdaterTest.InteractableUpdate" name="UnityEditor.XR.Interaction.Toolkit.Tests.InteractionLayerUpdaterTest.InteractableUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,242,64"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interaction_layer_mask.html#af160021bba1899df25ad6262d6fab4a1" title="Given an Interaction Layer name, returns the index as defined by either a Builtin or a User Layer." alt="" coords="290,5,515,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,32,274,32,274,37,242,37"/>
+</map>

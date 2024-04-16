@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.Editor.EditorBase.OnInspectorGUI" name="Oculus.Interaction.Editor.EditorBase.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,187,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a9dd824e02d8ae236b7c51da35e672b37" title=" " alt="" coords="240,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,69,239,50,241,55,175,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a989e4783a3b96c7b1cd5f061fefd1788" title=" " alt="" coords="235,72,431,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,91,219,91,219,96,187,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#a4b8532a75683a38ad8c3e42cf71f43a9" title="You must put all of the editor specifications into OnInit." alt="" coords="249,139,417,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,113,241,131,239,137,173,118"/>
+</map>

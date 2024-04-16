@@ -1,0 +1,7 @@
+<map id="Unity.XR.CoreUtils.XROrigin" name="Unity.XR.CoreUtils.XROrigin">
+<area shape="rect" id="Node000001" title="The XR Origin component is typically attached to the base object of the XR Origin,..." alt="" coords="5,80,188,107"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig.html" title="(Deprecated) The XR Rig component is typically attached to the base object of the XR Rig,..." alt="" coords="7,155,186,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,122,99,154,94,154,94,122"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,151,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
+</map>

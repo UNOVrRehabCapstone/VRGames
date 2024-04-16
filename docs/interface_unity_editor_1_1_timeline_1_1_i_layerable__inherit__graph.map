@@ -1,0 +1,17 @@
+<map id="UnityEditor.Timeline.ILayerable" name="UnityEditor.Timeline.ILayerable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,206,165"/>
+<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_selectable.html" title=" " alt="" coords="254,80,459,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,132,296,105,297,110,181,137"/>
+<area shape="rect" id="Node000007" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_handle.html" title=" " alt="" coords="262,131,451,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="221,149,261,149,261,155,221,155"/>
+<area shape="rect" id="Node000008" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html" title=" " alt="" coords="262,197,451,240"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="174,167,274,194,273,199,173,172"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_item_g_u_i.html" title=" " alt="" coords="507,72,696,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,91,506,91,506,96,475,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_g_u_i.html" title=" " alt="" coords="744,5,934,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,65,760,46,761,51,695,70"/>
+<area shape="rect" id="Node000005" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_cluster_g_u_i.html" title=" " alt="" coords="744,72,934,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="712,91,744,91,744,96,712,96"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html" title=" " alt="" coords="744,139,934,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="695,117,761,135,760,141,693,122"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnUnregistered" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnUnregistered">
+<area shape="rect" id="Node000001" title="Automatically called when an Interactable is unregistered from this Interaction Manager...." alt="" coords="5,5,216,64"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactable.html#a09b9ce8eae9a18dd5893e1e6c617c604" title="The XRInteractionManager calls this method when this Interactable is unregistered from it." alt="" coords="264,13,507,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,32,248,32,248,37,216,37"/>
+</map>

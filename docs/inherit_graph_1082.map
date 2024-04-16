@@ -1,0 +1,314 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="42,2919,166,2945"/>
+<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_editor_1_1_box_proximity_field_editor.html" title=" " alt="" coords="282,712,451,755"/>
+<area shape="poly" id="edge1896_Node000000_Node000001" title=" " alt="" coords="103,2903,106,2490,112,2165,123,1808,140,1455,166,1139,183,1007,202,898,223,816,236,786,249,765,263,751,281,742,283,747,266,756,253,768,240,789,228,818,207,899,188,1008,171,1140,146,1455,128,1809,117,2165,111,2490,108,2903"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_circle_proximity_field_editor.html" title=" " alt="" coords="281,779,452,821"/>
+<area shape="poly" id="edge1897_Node000000_Node000002" title=" " alt="" coords="103,2903,107,2502,113,2187,125,1841,142,1499,168,1194,184,1066,203,960,224,881,236,852,249,832,263,819,279,809,282,814,266,823,253,835,241,855,229,883,208,961,189,1067,173,1194,148,1499,130,1842,118,2187,112,2502,108,2903"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_editor_1_1_conical_frustum_editor.html" title=" " alt="" coords="282,845,451,888"/>
+<area shape="poly" id="edge1898_Node000000_Node000003" title=" " alt="" coords="103,2903,107,2513,114,2208,126,1874,144,1543,170,1248,186,1125,204,1023,225,946,236,918,249,898,263,885,281,875,283,880,266,889,253,902,241,921,230,948,209,1024,191,1126,175,1249,150,1543,132,1874,120,2208,113,2513,108,2903"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_editor_1_1_controller_offset_editor.html" title=" " alt="" coords="282,912,451,955"/>
+<area shape="poly" id="edge1899_Node000000_Node000004" title=" " alt="" coords="103,2903,108,2524,116,2230,128,1907,147,1587,172,1303,187,1183,205,1085,226,1011,237,984,249,965,263,951,281,942,283,947,266,956,253,968,241,987,231,1013,211,1086,193,1184,177,1303,152,1587,134,1907,121,2230,114,2525,108,2903"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_editor_1_1_cylinder_proximity_field_editor.html" title=" " alt="" coords="274,979,459,1021"/>
+<area shape="poly" id="edge1900_Node000000_Node000005" title=" " alt="" coords="103,2903,109,2536,117,2251,130,1939,149,1631,174,1357,189,1242,207,1147,226,1076,249,1032,271,1013,275,1017,253,1035,231,1078,212,1148,194,1243,179,1358,154,1632,135,1940,123,2251,115,2536,108,2903"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html" title="A utility class for building custom editors with less work required." alt="" coords="282,1045,451,1088"/>
+<area shape="poly" id="edge1901_Node000000_Node000006" title=" " alt="" coords="103,2903,110,2547,119,2273,132,1972,151,1675,176,1412,191,1301,208,1210,227,1141,249,1098,263,1085,281,1075,283,1080,266,1089,253,1102,232,1143,213,1211,196,1302,181,1412,156,1676,137,1973,124,2273,116,2548,108,2903"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_editor_1_1_hand_wrist_offset_editor.html" title=" " alt="" coords="282,1112,451,1155"/>
+<area shape="poly" id="edge1903_Node000000_Node000008" title=" " alt="" coords="103,2903,111,2559,120,2294,134,2005,153,1720,178,1466,192,1360,209,1272,228,1206,249,1165,263,1152,280,1142,283,1147,266,1156,253,1168,233,1208,214,1273,198,1361,183,1467,158,1720,139,2006,126,2295,116,2559,108,2903"/>
+<area shape="rect" id="Node000009" href="$class_oculus_1_1_interaction_1_1_editor_1_1_pointable_cylinder_editor.html" title=" " alt="" coords="282,1179,451,1221"/>
+<area shape="poly" id="edge1904_Node000000_Node000009" title=" " alt="" coords="103,2903,112,2572,136,2039,155,1765,179,1521,194,1419,210,1334,228,1271,249,1232,263,1218,280,1209,283,1214,266,1223,253,1235,233,1273,216,1336,199,1420,185,1522,160,1765,141,2039,117,2572,109,2903"/>
+<area shape="rect" id="Node000010" href="$class_oculus_1_1_interaction_1_1_editor_1_1_pointable_plane_editor.html" title=" " alt="" coords="282,1245,451,1288"/>
+<area shape="poly" id="edge1905_Node000000_Node000010" title=" " alt="" coords="103,2903,113,2583,138,2072,157,1809,181,1575,196,1478,212,1397,229,1336,249,1298,263,1285,280,1276,283,1280,266,1289,253,1302,234,1338,217,1398,201,1479,187,1576,162,1809,143,2072,118,2583,109,2903"/>
+<area shape="rect" id="Node000011" href="$class_oculus_1_1_interaction_1_1_editor_1_1_poke_interactable_editor.html" title=" " alt="" coords="282,1312,451,1355"/>
+<area shape="poly" id="edge1906_Node000000_Node000011" title=" " alt="" coords="103,2903,114,2595,140,2105,159,1853,183,1630,197,1536,213,1459,230,1401,249,1365,263,1352,280,1342,283,1347,266,1356,253,1368,235,1403,218,1460,203,1537,189,1631,164,1854,145,2105,119,2595,109,2903"/>
+<area shape="rect" id="Node000012" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_interactable_editor.html" title=" " alt="" coords="257,1379,476,1421"/>
+<area shape="poly" id="edge1907_Node000000_Node000012" title=" " alt="" coords="104,2903,115,2606,142,2138,161,1898,185,1684,199,1595,214,1522,231,1466,249,1432,261,1420,265,1424,253,1435,236,1468,219,1523,204,1596,190,1685,166,1898,147,2138,120,2607,109,2903"/>
+<area shape="rect" id="Node000013" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_point_editor.html" title=" " alt="" coords="264,1445,469,1488"/>
+<area shape="poly" id="edge1908_Node000000_Node000013" title=" " alt="" coords="104,2903,116,2618,143,2171,163,1942,187,1739,215,1584,231,1531,249,1498,262,1486,266,1490,253,1502,236,1533,221,1585,192,1740,169,1943,149,2172,121,2619,109,2903"/>
+<area shape="rect" id="Node000014" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_editor_1_1_box_editor.html" title=" " alt="" coords="264,1512,469,1555"/>
+<area shape="poly" id="edge1909_Node000000_Node000014" title=" " alt="" coords="104,2903,117,2631,145,2205,165,1987,189,1794,217,1646,232,1596,249,1565,262,1553,266,1557,253,1568,237,1598,222,1648,194,1795,171,1987,151,2205,122,2631,109,2904"/>
+<area shape="rect" id="Node000015" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_editor_1_1_cylinder_editor.html" title=" " alt="" coords="254,1579,479,1621"/>
+<area shape="poly" id="edge1910_Node000000_Node000015" title=" " alt="" coords="104,2903,118,2642,147,2238,167,2031,191,1848,218,1709,233,1661,249,1632,262,1620,265,1624,253,1635,238,1663,223,1710,196,1849,173,2032,153,2238,124,2642,109,2903"/>
+<area shape="rect" id="Node000016" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_editor_1_1_sphere_editor.html" title=" " alt="" coords="257,1645,476,1688"/>
+<area shape="poly" id="edge1911_Node000000_Node000016" title=" " alt="" coords="104,2903,119,2654,149,2271,170,2075,193,1903,219,1771,233,1726,249,1698,262,1686,265,1690,253,1702,238,1728,224,1772,198,1904,175,2076,155,2271,125,2654,110,2903"/>
+<area shape="rect" id="Node000017" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_editor_1_1_hand_puppet_editor.html" title=" " alt="" coords="261,1712,472,1755"/>
+<area shape="poly" id="edge1912_Node000000_Node000017" title=" " alt="" coords="102,2903,103,2682,107,2519,117,2341,135,2161,161,1996,178,1923,198,1859,222,1806,249,1765,262,1753,265,1757,253,1768,226,1808,203,1861,183,1925,166,1997,140,2162,123,2341,113,2519,108,2682,107,2903"/>
+<area shape="rect" id="Node000018" href="$class_oculus_1_1_interaction_1_1_hands_1_1_editor_1_1_hand_visual_editor.html" title=" " alt="" coords="281,1779,452,1821"/>
+<area shape="poly" id="edge1913_Node000000_Node000018" title=" " alt="" coords="102,2903,105,2694,110,2540,121,2372,139,2204,165,2049,181,1980,201,1920,223,1870,249,1832,263,1819,279,1810,281,1815,266,1823,253,1835,228,1872,206,1922,186,1981,170,2050,144,2205,126,2373,116,2540,110,2694,108,2903"/>
+<area shape="rect" id="Node000019" href="$class_oculus_1_1_interaction_1_1_input_1_1_editor_1_1_input_data_provider_update_trigger_o_v_r_editor.html" title=" " alt="" coords="266,1845,467,1904"/>
+<area shape="poly" id="edge1914_Node000000_Node000019" title=" " alt="" coords="103,2903,108,2708,116,2566,128,2412,146,2258,172,2115,187,2052,205,1996,226,1950,249,1914,264,1900,267,1904,253,1918,230,1953,210,1998,192,2053,177,2116,152,2258,133,2413,121,2567,114,2708,108,2903"/>
+<area shape="rect" id="Node000020" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor.html" title=" " alt="" coords="251,1928,482,1987"/>
+<area shape="poly" id="edge1915_Node000000_Node000020" title=" " alt="" coords="103,2903,111,2722,120,2592,133,2451,151,2310,176,2180,208,2072,227,2030,249,1997,261,1985,264,1989,253,2000,232,2032,213,2074,181,2181,157,2311,138,2452,125,2593,116,2722,109,2903"/>
+<area shape="rect" id="Node000021" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_cylinder_editor.html" title=" " alt="" coords="269,2011,464,2069"/>
+<area shape="poly" id="edge1916_Node000000_Node000021" title=" " alt="" coords="104,2903,114,2737,137,2491,156,2363,181,2245,211,2147,229,2109,249,2080,267,2063,270,2067,253,2083,234,2112,216,2149,186,2246,162,2364,143,2491,119,2737,109,2904"/>
+<area shape="rect" id="Node000022" href="$class_oculus_1_1_platform_1_1_oculus_platform_settings_editor.html" title=" " alt="" coords="263,2093,470,2136"/>
+<area shape="poly" id="edge1917_Node000000_Node000022" title=" " alt="" coords="104,2903,115,2747,140,2520,159,2403,183,2296,212,2207,230,2173,249,2146,262,2134,266,2138,253,2150,234,2175,217,2209,188,2297,164,2404,145,2521,120,2748,109,2903"/>
+<area shape="rect" id="Node000023" href="$class_oculus_1_1_voice_1_1_upgrade_1_1_wit_upgrader.html" title=" " alt="" coords="279,2160,454,2203"/>
+<area shape="poly" id="edge1918_Node000000_Node000023" title=" " alt="" coords="105,2903,117,2759,144,2552,163,2446,187,2348,215,2268,231,2237,249,2213,277,2193,280,2197,253,2217,236,2240,220,2270,192,2350,168,2447,149,2553,123,2759,110,2903"/>
+<area shape="rect" id="Node000024" href="$class_oculus_spatializer_user_params_editor.html" title=" " alt="" coords="269,2227,464,2269"/>
+<area shape="poly" id="edge1919_Node000000_Node000024" title=" " alt="" coords="105,2903,120,2771,148,2584,167,2488,191,2401,217,2329,233,2301,249,2279,266,2265,270,2270,253,2283,237,2304,222,2331,196,2403,173,2490,153,2585,125,2772,111,2904"/>
+<area shape="rect" id="Node000025" href="$class_pro_builder_1_1_editor_examples_1_1_clear_unused_attributes.html" title="This script demonstrates one use case for the pb_EditorUtility.onMeshCompiled delegate...." alt="" coords="276,2293,457,2336"/>
+<area shape="poly" id="edge1920_Node000000_Node000025" title=" " alt="" coords="106,2903,123,2783,152,2616,172,2531,194,2454,220,2390,249,2346,274,2328,277,2333,253,2350,225,2392,199,2455,177,2532,158,2617,128,2784,111,2904"/>
+<area shape="rect" id="Node000026" href="$class_samples_1_1_gameplay_sequence_1_1_readme_editor.html" title=" " alt="" coords="268,2360,465,2403"/>
+<area shape="poly" id="edge1921_Node000000_Node000026" title=" " alt="" coords="102,2903,105,2810,111,2747,122,2678,141,2607,167,2537,202,2471,249,2413,266,2400,269,2404,253,2417,207,2474,172,2539,146,2609,128,2679,116,2748,110,2810,107,2903"/>
+<area shape="rect" id="Node000027" href="$class_samples_1_1_sample_settings_editor.html" title="Simple custom editor used to show how to enable custom UI for XR Management configuraton data." alt="" coords="265,2427,468,2453"/>
+<area shape="poly" id="edge1922_Node000000_Node000027" title=" " alt="" coords="102,2903,107,2817,114,2760,126,2698,145,2634,170,2572,205,2514,249,2463,266,2452,269,2456,252,2467,209,2517,175,2574,150,2636,132,2700,120,2761,112,2818,108,2904"/>
+<area shape="rect" id="Node000028" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___base_editor_panel.html" title=" " alt="" coords="281,2477,452,2520"/>
+<area shape="poly" id="edge1923_Node000000_Node000028" title=" " alt="" coords="105,2903,114,2828,137,2728,156,2675,180,2622,211,2573,249,2530,279,2511,282,2516,252,2534,215,2576,185,2625,161,2677,142,2730,119,2829,110,2903"/>
+<area shape="rect" id="Node000031" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___color_gradient_editor.html" title=" " alt="" coords="281,2544,452,2587"/>
+<area shape="poly" id="edge1926_Node000000_Node000031" title=" " alt="" coords="107,2903,120,2840,146,2757,165,2714,188,2671,216,2631,249,2597,279,2579,281,2583,252,2601,220,2635,192,2674,170,2716,151,2759,125,2841,112,2904"/>
+<area shape="rect" id="Node000032" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___context_menus.html" title=" " alt="" coords="281,2611,452,2653"/>
+<area shape="poly" id="edge1927_Node000000_Node000032" title=" " alt="" coords="110,2903,127,2852,155,2787,196,2720,221,2690,249,2663,279,2646,281,2651,252,2667,224,2694,200,2724,160,2789,132,2854,115,2905"/>
+<area shape="rect" id="Node000033" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___font_asset_editor.html" title=" " alt="" coords="281,2677,452,2720"/>
+<area shape="poly" id="edge1928_Node000000_Node000033" title=" " alt="" coords="115,2904,136,2865,165,2818,203,2770,249,2730,279,2714,281,2719,252,2734,207,2774,170,2821,140,2868,120,2906"/>
+<area shape="rect" id="Node000034" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___settings_editor.html" title=" " alt="" coords="281,2744,452,2787"/>
+<area shape="poly" id="edge1929_Node000000_Node000034" title=" " alt="" coords="125,2905,178,2850,212,2821,249,2796,279,2783,281,2788,252,2801,215,2825,181,2854,128,2908"/>
+<area shape="rect" id="Node000035" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___sprite_asset_editor.html" title=" " alt="" coords="281,2811,452,2853"/>
+<area shape="poly" id="edge1930_Node000000_Node000035" title=" " alt="" coords="145,2909,250,2863,284,2851,285,2856,252,2868,147,2914"/>
+<area shape="rect" id="Node000036" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___style_editor.html" title=" " alt="" coords="281,2877,452,2920"/>
+<area shape="poly" id="edge1931_Node000000_Node000036" title=" " alt="" coords="181,2920,280,2907,281,2912,181,2925"/>
+<area shape="rect" id="Node000037" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___sub_mesh_u_i___editor.html" title=" " alt="" coords="281,2944,452,2987"/>
+<area shape="poly" id="edge1932_Node000000_Node000037" title=" " alt="" coords="181,2939,281,2952,280,2957,181,2944"/>
+<area shape="rect" id="Node000038" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___sub_mesh___editor.html" title=" " alt="" coords="281,3011,452,3053"/>
+<area shape="poly" id="edge1933_Node000000_Node000038" title=" " alt="" coords="147,2950,252,2996,285,3008,284,3013,250,3001,145,2955"/>
+<area shape="rect" id="Node000039" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_pro___text_container_editor.html" title=" " alt="" coords="275,3077,458,3120"/>
+<area shape="poly" id="edge1934_Node000000_Node000039" title=" " alt="" coords="128,2956,181,3010,215,3039,252,3063,276,3074,274,3079,249,3068,212,3043,178,3014,125,2959"/>
+<area shape="rect" id="Node000040" href="$class_teleport_transition_warp_inspector.html" title=" " alt="" coords="263,3144,470,3171"/>
+<area shape="poly" id="edge1935_Node000000_Node000040" title=" " alt="" coords="120,2958,140,2997,169,3044,207,3091,252,3130,274,3141,272,3146,249,3134,203,3095,165,3047,135,3000,115,2961"/>
+<area shape="rect" id="Node000041" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html" title="Custom editor for an XROrigin." alt="" coords="281,3195,452,3237"/>
+<area shape="poly" id="edge1936_Node000000_Node000041" title=" " alt="" coords="116,2959,134,3008,163,3067,202,3129,226,3156,252,3181,282,3197,279,3202,249,3185,222,3160,198,3132,158,3070,129,3010,111,2961"/>
+<area shape="rect" id="Node000042" href="$class_unity_1_1_x_r_1_1_management_1_1_test_package_1_1_editor_1_1_test_settings_editor.html" title=" " alt="" coords="256,3261,477,3304"/>
+<area shape="poly" id="edge1937_Node000000_Node000042" title=" " alt="" coords="113,2960,127,3020,153,3098,172,3139,194,3178,221,3215,252,3247,269,3259,266,3263,249,3251,217,3219,190,3181,167,3141,148,3100,122,3022,108,2961"/>
+<area shape="rect" id="Node000043" href="$class_unity_1_1_x_r_1_1_oculus_1_1_editor_1_1_oculus_settings_editor.html" title=" " alt="" coords="267,3328,466,3371"/>
+<area shape="poly" id="edge1938_Node000000_Node000043" title=" " alt="" coords="110,2961,121,3032,145,3128,163,3178,187,3228,216,3274,252,3314,268,3325,265,3330,249,3318,212,3277,182,3230,158,3180,139,3129,116,3033,105,2962"/>
+<area shape="rect" id="Node000044" href="$class_unity_editor_1_1_event_systems_1_1_event_system_editor.html" title="Custom Editor for the EventSystem Component. Extend this class to write a custom editor for a compone..." alt="" coords="278,3395,455,3437"/>
+<area shape="poly" id="edge1939_Node000000_Node000044" title=" " alt="" coords="108,2961,115,3043,123,3097,136,3156,154,3217,179,3276,212,3332,252,3381,278,3398,276,3402,249,3385,207,3335,174,3279,149,3219,131,3157,118,3098,110,3044,103,2961"/>
+<area shape="rect" id="Node000045" href="$class_unity_editor_1_1_event_systems_1_1_event_trigger_editor.html" title=" " alt="" coords="278,3461,455,3504"/>
+<area shape="poly" id="edge1940_Node000000_Node000045" title=" " alt="" coords="107,2961,110,3054,116,3116,128,3185,146,3255,172,3325,207,3390,252,3447,279,3465,276,3470,249,3451,202,3393,167,3327,141,3257,122,3186,111,3117,105,3054,102,2961"/>
+<area shape="rect" id="Node000046" href="$class_unity_editor_1_1_event_systems_1_1_physics2_d_raycaster_editor.html" title="Custom Editor for the EventSystem Component. Extend this class to write a custom editor for a compone..." alt="" coords="278,3528,455,3571"/>
+<area shape="poly" id="edge1941_Node000000_Node000046" title=" " alt="" coords="111,2960,128,3080,158,3247,177,3332,199,3409,225,3472,253,3514,279,3532,276,3537,249,3518,220,3474,194,3410,172,3333,152,3248,123,3081,106,2961"/>
+<area shape="rect" id="Node000047" href="$class_unity_editor_1_1_event_systems_1_1_physics_raycaster_editor.html" title="Custom Editor for the EventSystem Component. Extend this class to write a custom editor for a compone..." alt="" coords="278,3595,455,3637"/>
+<area shape="poly" id="edge1942_Node000000_Node000047" title=" " alt="" coords="111,2960,125,3092,153,3279,173,3374,196,3461,222,3533,237,3560,253,3581,279,3599,276,3604,249,3585,233,3563,217,3535,191,3463,167,3376,148,3280,120,3093,105,2961"/>
+<area shape="rect" id="Node000048" href="$class_unity_editor_1_1_pro_builder_1_1_bezier_shape_editor.html" title=" " alt="" coords="271,3661,462,3704"/>
+<area shape="poly" id="edge1943_Node000000_Node000048" title=" " alt="" coords="110,2961,123,3105,149,3311,168,3417,192,3514,220,3594,236,3624,253,3647,272,3663,269,3667,249,3651,231,3627,215,3596,187,3516,163,3418,144,3312,117,3105,105,2961"/>
+<area shape="rect" id="Node000049" href="$class_unity_editor_1_1_pro_builder_1_1_entity_editor.html" title=" " alt="" coords="273,3728,460,3771"/>
+<area shape="poly" id="edge1944_Node000000_Node000049" title=" " alt="" coords="109,2961,120,3116,145,3343,164,3460,188,3567,217,3655,234,3689,253,3714,274,3730,271,3735,249,3718,230,3691,212,3657,183,3568,159,3461,140,3344,115,3117,104,2961"/>
+<area shape="rect" id="Node000050" href="$class_unity_editor_1_1_pro_builder_1_1_poly_shape_editor.html" title=" " alt="" coords="277,3795,456,3837"/>
+<area shape="poly" id="edge1945_Node000000_Node000050" title=" " alt="" coords="109,2960,118,3128,141,3374,160,3502,184,3619,215,3716,233,3753,253,3781,278,3799,275,3804,249,3785,228,3756,210,3718,179,3621,154,3503,136,3375,112,3128,104,2961"/>
+<area shape="rect" id="Node000051" href="$class_unity_editor_1_1_pro_builder_1_1_preference_dictionary_editor.html" title=" " alt="" coords="259,3861,474,3904"/>
+<area shape="poly" id="edge1946_Node000000_Node000051" title=" " alt="" coords="109,2961,116,3140,124,3268,137,3406,155,3545,180,3672,195,3728,212,3777,232,3817,253,3848,265,3859,262,3863,249,3851,227,3820,208,3779,190,3729,175,3673,150,3546,132,3407,119,3268,110,3140,103,2961"/>
+<area shape="rect" id="Node000052" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_mesh_editor.html" title="Custom editor for ProBuilderMesh type." alt="" coords="280,3928,453,3971"/>
+<area shape="poly" id="edge1947_Node000000_Node000052" title=" " alt="" coords="108,2961,113,3151,121,3288,133,3438,151,3587,176,3724,192,3785,210,3838,230,3881,253,3914,265,3926,280,3934,278,3939,262,3930,249,3918,225,3884,205,3839,187,3786,171,3726,146,3588,128,3438,116,3289,108,3151,103,2961"/>
+<area shape="rect" id="Node000053" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_shape_editor.html" title=" " alt="" coords="280,3995,453,4037"/>
+<area shape="poly" id="edge1948_Node000000_Node000053" title=" " alt="" coords="108,2961,111,3162,118,3309,129,3469,147,3629,173,3777,189,3842,207,3898,229,3945,253,3981,265,3992,280,4001,278,4005,262,3997,249,3984,224,3948,203,3900,184,3843,167,3778,142,3630,124,3470,112,3309,106,3163,103,2961"/>
+<area shape="rect" id="Node000054" href="$class_unity_editor_1_1_pro_builder_1_1_unwrap_parameters_editor.html" title="Inspector for working with lightmap UV generation params." alt="" coords="268,4061,465,4104"/>
+<area shape="poly" id="edge1949_Node000000_Node000054" title=" " alt="" coords="108,2961,109,3174,115,3330,125,3501,143,3672,169,3829,186,3899,205,3959,227,4010,253,4048,269,4062,266,4066,249,4051,223,4012,200,3961,180,3900,164,3830,138,3673,120,3501,109,3331,104,3174,102,2961"/>
+<area shape="rect" id="Node000055" href="$class_unity_editor_1_1_timeline_1_1_animation_playable_asset_inspector.html" title=" " alt="" coords="267,4128,466,4171"/>
+<area shape="poly" id="edge1950_Node000000_Node000055" title=" " alt="" coords="110,2961,125,3201,156,3569,176,3756,200,3921,225,4047,239,4089,253,4114,268,4128,265,4132,249,4118,234,4091,220,4048,194,3922,171,3756,151,3569,120,3202,104,2961"/>
+<area shape="rect" id="Node000056" href="$class_unity_editor_1_1_timeline_1_1_basic_asset_inspector.html" title=" " alt="" coords="279,5544,454,5587"/>
+<area shape="poly" id="edge1951_Node000000_Node000056" title=" " alt="" coords="109,2961,120,3424,146,4204,166,4613,190,4981,219,5267,236,5367,253,5431,271,5464,293,5494,340,5542,336,5545,289,5498,266,5467,248,5433,230,5368,214,5268,185,4981,161,4614,141,4205,114,3424,103,2961"/>
+<area shape="rect" id="Node000091" href="$class_unity_editor_1_1_timeline_1_1_clip_inspector.html" title=" " alt="" coords="285,4195,448,4237"/>
+<area shape="poly" id="edge1956_Node000000_Node000091" title=" " alt="" coords="109,2961,124,3213,154,3602,174,3800,198,3976,224,4109,238,4154,253,4181,267,4194,285,4203,283,4208,264,4198,249,4184,233,4156,219,4110,192,3976,169,3801,149,3603,119,3214,104,2961"/>
+<area shape="rect" id="Node000092" href="$class_unity_editor_1_1_timeline_1_1_control_playable_inspector.html" title=" " alt="" coords="275,4261,458,4304"/>
+<area shape="poly" id="edge1957_Node000000_Node000092" title=" " alt="" coords="109,2961,123,3226,152,3636,172,3845,196,4030,223,4172,237,4219,253,4248,277,4266,273,4270,249,4251,233,4221,218,4173,190,4031,167,3846,147,3636,118,3226,104,2961"/>
+<area shape="rect" id="Node000093" href="$class_unity_editor_1_1_timeline_1_1_director_named_color_inspector.html" title="Internally used Inspector." alt="" coords="273,4328,460,4371"/>
+<area shape="poly" id="edge1958_Node000000_Node000093" title=" " alt="" coords="109,2961,122,3237,150,3669,170,3889,194,4085,221,4234,237,4284,253,4314,274,4331,271,4336,249,4318,232,4286,216,4235,189,4086,165,3890,145,3669,117,3238,104,2961"/>
+<area shape="rect" id="Node000094" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_asset_inspector.html" title=" " alt="" coords="272,4395,461,4437"/>
+<area shape="poly" id="edge1959_Node000000_Node000094" title=" " alt="" coords="109,2960,121,3248,148,3701,168,3933,192,4139,220,4296,236,4349,253,4381,273,4398,270,4402,249,4384,231,4351,215,4297,187,4140,163,3934,143,3702,116,3248,104,2961"/>
+<area shape="rect" id="Node000095" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_receiver_inspector.html" title=" " alt="" coords="272,4461,461,4504"/>
+<area shape="poly" id="edge1960_Node000000_Node000095" title=" " alt="" coords="109,2961,120,3260,146,3735,166,3978,190,4194,204,4284,219,4359,235,4414,253,4448,273,4464,270,4468,249,4451,230,4416,214,4360,199,4285,185,4195,160,3978,141,3735,115,3260,104,2961"/>
+<area shape="rect" id="Node000096" href="$class_unity_editor_1_1_timeline_1_1_timeline_asset_inspector.html" title=" " alt="" coords="272,4528,461,4571"/>
+<area shape="poly" id="edge1961_Node000000_Node000096" title=" " alt="" coords="109,2961,119,3273,144,3769,164,4023,188,4249,202,4343,218,4421,235,4479,253,4514,273,4531,269,4535,249,4518,230,4481,213,4422,197,4344,183,4250,158,4024,139,3769,114,3273,103,2961"/>
+<area shape="rect" id="Node000097" href="$class_unity_editor_1_1_timeline_1_1_track_asset_inspector.html" title=" " alt="" coords="280,4595,453,4637"/>
+<area shape="poly" id="edge1962_Node000000_Node000097" title=" " alt="" coords="109,2961,118,3285,143,3802,162,4067,186,4303,201,4402,216,4484,234,4544,253,4581,265,4593,281,4601,278,4606,262,4597,249,4584,229,4546,211,4485,195,4403,181,4304,156,4068,137,3802,113,3285,103,2961"/>
+<area shape="rect" id="Node000102" href="$class_unity_editor_1_1_u_i_1_1_canvas_scaler_editor.html" title="Custom Editor for the CanvasScaler component. Extend this class to write a custom editor for a compon..." alt="" coords="274,4661,459,4704"/>
+<area shape="poly" id="edge1967_Node000000_Node000102" title=" " alt="" coords="108,2960,117,3295,141,3833,159,4111,184,4357,199,4461,215,4546,233,4609,253,4648,275,4666,272,4670,249,4651,228,4611,210,4547,194,4461,179,4358,154,4111,135,3834,112,3295,103,2960"/>
+<area shape="rect" id="Node000103" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html" title="Editor class used to edit UI Graphics. Extend this class to write your own graphic editor." alt="" coords="274,4728,459,4755"/>
+<area shape="poly" id="edge1968_Node000000_Node000103" title=" " alt="" coords="108,2961,115,3308,124,3576,137,3869,155,4158,180,4414,195,4521,213,4609,232,4675,253,4714,275,4731,272,4735,249,4718,227,4677,207,4611,190,4522,175,4415,150,4158,131,3869,118,3576,110,3308,103,2961"/>
+<area shape="rect" id="Node000108" href="$class_unity_editor_1_1_u_i_1_1_grid_layout_group_editor.html" title="Custom Editor for the GridLayout Component. Extend this class to write a custom editor for a componen..." alt="" coords="282,4779,451,4821"/>
+<area shape="poly" id="edge1973_Node000000_Node000108" title=" " alt="" coords="108,2960,115,3315,124,3590,137,3891,156,4189,181,4453,196,4564,213,4655,232,4724,253,4765,266,4778,283,4787,281,4791,263,4782,249,4768,227,4726,208,4657,191,4565,175,4454,151,4189,132,3891,119,3590,110,3315,103,2960"/>
+<area shape="rect" id="Node000109" href="$class_unity_editor_1_1_u_i_1_1_horizontal_or_vertical_layout_group_editor.html" title="Custom Editor for the HorizontalOrVerticalLayoutGroupEditor Component. Extend this class to write a c..." alt="" coords="273,4845,460,4888"/>
+<area shape="poly" id="edge1974_Node000000_Node000109" title=" " alt="" coords="108,2960,115,3327,123,3612,135,3924,154,4233,179,4508,194,4623,212,4718,231,4789,253,4832,274,4849,271,4853,249,4835,226,4791,207,4719,189,4624,174,4509,148,4234,130,3925,117,3612,109,3327,103,2961"/>
+<area shape="rect" id="Node000110" href="$class_unity_editor_1_1_u_i_1_1_layout_element_editor.html" title="Custom editor for the LayoutElement component Extend this class to write a custom editor for a compon..." alt="" coords="270,4912,463,4955"/>
+<area shape="poly" id="edge1975_Node000000_Node000110" title=" " alt="" coords="108,2961,114,3340,121,3635,134,3959,152,4278,177,4563,193,4682,210,4780,231,4854,241,4880,253,4898,272,4914,268,4918,249,4902,237,4882,226,4856,205,4782,187,4683,172,4564,146,4279,128,3959,116,3635,108,3340,103,2961"/>
+<area shape="rect" id="Node000111" href="$class_unity_editor_1_1_u_i_1_1_mask_editor.html" title="Custom Editor for the Mask component. Extend this class to write a custom editor for a component deri..." alt="" coords="281,4979,452,5005"/>
+<area shape="poly" id="edge1976_Node000000_Node000111" title=" " alt="" coords="108,2961,112,3352,118,3658,129,3993,147,4325,173,4619,189,4742,208,4844,229,4920,241,4946,253,4965,266,4976,281,4984,279,4989,263,4980,249,4968,236,4949,224,4921,202,4845,184,4743,168,4620,142,4325,124,3993,113,3658,106,3352,103,2961"/>
+<area shape="rect" id="Node000112" href="$class_unity_editor_1_1_u_i_1_1_rect_mask2_d_editor.html" title="Custom editor for the RectMask2d component. Extend this class to write a custom editor for a componen..." alt="" coords="281,5029,452,5072"/>
+<area shape="poly" id="edge1977_Node000000_Node000112" title=" " alt="" coords="108,2961,112,3360,119,3673,130,4016,148,4356,174,4659,190,4785,208,4890,229,4968,241,4996,253,5016,266,5028,282,5037,279,5041,263,5032,249,5019,236,4999,224,4970,203,4891,185,4786,168,4659,143,4356,125,4016,113,3673,107,3360,103,2961"/>
+<area shape="rect" id="Node000113" href="$class_unity_editor_1_1_u_i_1_1_scroll_rect_editor.html" title="Custom Editor for the ScrollRect Component. Extend this class to write a custom editor for a componen..." alt="" coords="284,5096,449,5139"/>
+<area shape="poly" id="edge1978_Node000000_Node000113" title=" " alt="" coords="108,2961,111,3371,117,3694,128,4049,146,4400,172,4713,188,4844,207,4952,229,5033,240,5062,253,5082,267,5095,284,5104,282,5109,264,5100,249,5086,236,5065,224,5035,202,4954,183,4845,166,4714,141,4400,123,4049,112,3694,106,3371,103,2961"/>
+<area shape="rect" id="Node000114" href="$class_unity_editor_1_1_u_i_1_1_selectable_editor.html" title="Custom Editor for the Selectable Component. Extend this class to write a custom editor for a componen..." alt="" coords="283,5163,450,5205"/>
+<area shape="poly" id="edge1979_Node000000_Node000114" title=" " alt="" coords="108,2961,110,3382,116,3715,127,4081,144,4444,170,4767,186,4903,206,5015,228,5098,240,5128,253,5149,267,5162,284,5171,281,5176,264,5166,249,5152,235,5131,223,5100,201,5016,181,4904,165,4768,139,4444,121,4081,111,3715,105,3382,103,2961"/>
+<area shape="rect" id="Node000123" href="$class_unity_editor_1_1_u_i_1_1_self_controller_editor.html" title="Base class for custom editors that are for components that implement the SelfControllerEditor interfa..." alt="" coords="275,5377,458,5420"/>
+<area shape="poly" id="edge1988_Node000000_Node000123" title=" " alt="" coords="108,2961,110,3348,115,3658,126,4008,143,4367,169,4708,186,4862,205,5001,228,5120,253,5216,273,5263,298,5308,348,5375,344,5379,294,5310,268,5266,248,5218,223,5121,200,5002,181,4863,164,4709,138,4368,121,4008,110,3659,105,3348,103,2961"/>
+<area shape="rect" id="Node000126" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="273,413,460,456"/>
+<area shape="poly" id="edge1991_Node000000_Node000126" title=" " alt="" coords="103,2903,118,2423,148,1622,169,1211,193,853,219,590,233,508,248,466,271,448,274,452,253,470,239,510,224,591,198,853,174,1211,154,1622,123,2423,109,2903"/>
+<area shape="rect" id="Node000152" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interaction_layer_settings_editor.html" title="Custom editor for an InteractionLayerSettings." alt="" coords="265,480,468,539"/>
+<area shape="poly" id="edge2017_Node000000_Node000152" title=" " alt="" coords="103,2903,104,2454,109,2097,119,1704,137,1314,163,965,180,819,199,697,222,606,235,573,249,549,262,535,266,539,253,552,240,575,227,608,205,698,185,819,168,966,142,1314,125,1704,114,2097,109,2454,108,2903"/>
+<area shape="rect" id="Node000153" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recorder_editor.html" title="Custom editor for an XRControllerRecorder." alt="" coords="256,563,477,605"/>
+<area shape="poly" id="edge2018_Node000000_Node000153" title=" " alt="" coords="103,2903,104,2466,108,2118,119,1736,136,1356,162,1018,179,876,199,758,222,670,235,638,249,616,261,604,264,608,253,619,239,641,227,672,204,760,184,877,167,1018,141,1356,124,1736,114,2118,109,2466,108,2903"/>
+<area shape="rect" id="Node000154" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_editor_settings_editor.html" title="Editor inspector for XRInteractionEditorSettings." alt="" coords="256,629,477,688"/>
+<area shape="poly" id="edge2019_Node000000_Node000154" title=" " alt="" coords="103,2903,106,2481,112,2146,123,1778,141,1413,167,1087,183,950,202,837,224,752,236,721,249,698,260,687,263,690,253,702,240,723,229,753,207,838,188,951,172,1088,146,1413,129,1778,117,2146,111,2481,108,2903"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_render_texture_editor.html" title=" " alt="" coords="534,1037,765,1096"/>
+<area shape="poly" id="edge1902_Node000006_Node000007" title=" " alt="" coords="466,1064,534,1064,534,1069,466,1069"/>
+<area shape="rect" id="Node000029" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel.html" title=" " alt="" coords="564,2511,735,2553"/>
+<area shape="poly" id="edge1924_Node000028_Node000029" title=" " alt="" coords="468,2508,564,2519,563,2525,467,2513"/>
+<area shape="rect" id="Node000030" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel_u_i.html" title=" " alt="" coords="564,2444,735,2487"/>
+<area shape="poly" id="edge1925_Node000028_Node000030" title=" " alt="" coords="467,2484,563,2473,564,2478,468,2489"/>
+<area shape="rect" id="Node000057" href="$class_unity_editor_1_1_timeline_1_1_activation_playable_asset_inspector.html" title=" " alt="" coords="551,5644,748,5687"/>
+<area shape="poly" id="edge1952_Node000056_Node000057" title=" " alt="" coords="432,5591,531,5629,567,5641,565,5646,529,5635,430,5596"/>
+<area shape="rect" id="Node000058" href="$class_unity_editor_1_1_timeline_1_1_marker_inspector.html" title=" " alt="" coords="559,5511,740,5553"/>
+<area shape="poly" id="edge1953_Node000056_Node000058" title=" " alt="" coords="469,5551,558,5540,559,5545,470,5556"/>
+<area shape="rect" id="Node000089" href="$class_unity_engine_1_1_timeline_1_1_audio_playable_asset_inspector.html" title=" " alt="" coords="560,5577,740,5620"/>
+<area shape="poly" id="edge1955_Node000056_Node000089" title=" " alt="" coords="470,5575,560,5585,559,5591,469,5580"/>
+<area shape="rect" id="Node000059" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_emitter_inspector.html" title=" " alt="" coords="846,5577,1035,5620"/>
+<area shape="poly" id="edge1954_Node000058_Node000059" title=" " alt="" coords="756,5554,846,5574,845,5580,755,5559"/>
+<area shape="rect" id="Node000098" href="$class_unity_editor_1_1_timeline_1_1_activation_track_inspector.html" title=" " alt="" coords="551,4528,748,4571"/>
+<area shape="poly" id="edge1963_Node000097_Node000098" title=" " alt="" coords="467,4590,555,4569,556,4574,469,4595"/>
+<area shape="rect" id="Node000099" href="$class_unity_editor_1_1_timeline_1_1_animation_track_inspector.html" title=" " alt="" coords="550,4595,749,4637"/>
+<area shape="poly" id="edge1964_Node000097_Node000099" title=" " alt="" coords="469,4613,549,4613,549,4619,469,4619"/>
+<area shape="rect" id="Node000100" href="$class_unity_editor_1_1_timeline_1_1_group_track_inspector.html" title=" " alt="" coords="562,4661,738,4704"/>
+<area shape="poly" id="edge1965_Node000097_Node000100" title=" " alt="" coords="469,4637,562,4659,561,4665,467,4642"/>
+<area shape="rect" id="Node000101" href="$class_unity_engine_1_1_timeline_1_1_audio_track_inspector.html" title=" " alt="" coords="560,4461,740,4504"/>
+<area shape="poly" id="edge1966_Node000097_Node000101" title=" " alt="" coords="466,4589,480,4581,496,4565,504,4548,512,4531,528,4514,558,4498,561,4503,532,4518,516,4534,508,4550,500,4568,484,4585,469,4594"/>
+<area shape="rect" id="Node000104" href="$class_unity_editor_1_1_u_i_1_1_image_editor.html" title="Editor class used to edit UI Sprites." alt="" coords="563,4779,737,4805"/>
+<area shape="poly" id="edge1969_Node000103_Node000104" title=" " alt="" coords="461,4755,572,4775,571,4781,460,4761"/>
+<area shape="rect" id="Node000106" href="$class_unity_editor_1_1_u_i_1_1_raw_image_editor.html" title="Custom editor for RawImage. Extend this class to write a custom editor for a component derived from R..." alt="" coords="550,4829,749,4856"/>
+<area shape="poly" id="edge1971_Node000103_Node000106" title=" " alt="" coords="471,4758,483,4764,499,4777,508,4791,517,4803,531,4815,558,4826,555,4831,529,4820,513,4807,504,4794,495,4781,481,4769,469,4763"/>
+<area shape="rect" id="Node000107" href="$class_unity_editor_1_1_u_i_1_1_text_editor.html" title="Custom Editor for the Text Component. Extend this class to write a custom editor for a component deri..." alt="" coords="568,4728,732,4755"/>
+<area shape="poly" id="edge1972_Node000103_Node000107" title=" " alt="" coords="474,4739,567,4739,567,4744,474,4744"/>
+<area shape="rect" id="Node000105" href="$class_media_player_image_editor.html" title=" " alt="" coords="859,4779,1022,4805"/>
+<area shape="poly" id="edge1970_Node000104_Node000105" title=" " alt="" coords="753,4789,859,4789,859,4795,753,4795"/>
+<area shape="rect" id="Node000115" href="$class_t_m_pro_1_1_editor_utilities_1_1_dropdown_editor.html" title=" " alt="" coords="549,5193,750,5236"/>
+<area shape="poly" id="edge1980_Node000114_Node000115" title=" " alt="" coords="465,5192,549,5201,548,5206,465,5197"/>
+<area shape="rect" id="Node000116" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___input_field_editor.html" title=" " alt="" coords="564,5260,735,5303"/>
+<area shape="poly" id="edge1981_Node000114_Node000116" title=" " alt="" coords="434,5209,531,5245,567,5257,566,5262,529,5251,432,5214"/>
+<area shape="rect" id="Node000117" href="$class_unity_editor_1_1_u_i_1_1_button_editor.html" title="Custom Editor for the Button Component. Extend this class to write a custom editor for a component de..." alt="" coords="561,5327,738,5353"/>
+<area shape="poly" id="edge1982_Node000114_Node000117" title=" " alt="" coords="401,5215,458,5266,494,5291,531,5312,562,5324,560,5329,529,5317,491,5296,455,5270,397,5219"/>
+<area shape="rect" id="Node000118" href="$class_unity_editor_1_1_u_i_1_1_dropdown_editor.html" title="Custom editor for the Dropdown component Extend this class to write a custom editor for a component d..." alt="" coords="552,4908,748,4935"/>
+<area shape="poly" id="edge1983_Node000114_Node000118" title=" " alt="" coords="462,5163,480,5149,497,5124,505,5099,505,5074,502,5048,500,5022,501,4996,509,4970,528,4945,550,4930,553,4934,532,4949,514,4973,506,4997,505,5022,508,5048,510,5074,510,5100,502,5126,484,5153,465,5167"/>
+<area shape="rect" id="Node000119" href="$class_unity_editor_1_1_u_i_1_1_input_field_editor.html" title="Custom Editor for the InputField Component. Extend this class to write a custom editor for a componen..." alt="" coords="569,4959,730,5001"/>
+<area shape="poly" id="edge1984_Node000114_Node000119" title=" " alt="" coords="462,5162,480,5149,493,5132,500,5116,503,5082,507,5047,514,5029,528,5011,547,4998,568,4989,570,4993,550,5003,532,5015,519,5031,512,5048,509,5082,505,5117,498,5135,484,5153,465,5166"/>
+<area shape="rect" id="Node000120" href="$class_unity_editor_1_1_u_i_1_1_scrollbar_editor.html" title="Custom Editor for the Scrollbar Component. Extend this class to write a custom editor for a component..." alt="" coords="572,5025,728,5068"/>
+<area shape="poly" id="edge1985_Node000114_Node000120" title=" " alt="" coords="462,5159,480,5149,496,5132,504,5114,512,5096,528,5078,570,5058,572,5062,532,5082,516,5099,508,5116,500,5135,484,5153,465,5164"/>
+<area shape="rect" id="Node000121" href="$class_unity_editor_1_1_u_i_1_1_slider_editor.html" title="Custom Editor for the Slider Component. Extend this class to write a custom editor for a component de..." alt="" coords="564,5092,736,5119"/>
+<area shape="poly" id="edge1986_Node000114_Node000121" title=" " alt="" coords="460,5155,481,5148,529,5128,573,5117,574,5122,531,5133,483,5153,462,5160"/>
+<area shape="rect" id="Node000122" href="$class_unity_editor_1_1_u_i_1_1_toggle_editor.html" title="Custom Editor for the Toggle Component. Extend this class to write a custom editor for a component de..." alt="" coords="561,5143,738,5169"/>
+<area shape="poly" id="edge1987_Node000114_Node000122" title=" " alt="" coords="465,5172,560,5162,561,5167,465,5177"/>
+<area shape="rect" id="Node000124" href="$class_unity_editor_1_1_u_i_1_1_aspect_ratio_fitter_editor.html" title="Custom Editor for the AspectRatioFitter component. Extend this class to write a custom editor for a c..." alt="" coords="562,5444,738,5487"/>
+<area shape="poly" id="edge1989_Node000123_Node000124" title=" " alt="" coords="473,5421,562,5442,560,5447,472,5426"/>
+<area shape="rect" id="Node000125" href="$class_unity_editor_1_1_u_i_1_1_content_size_fitter_editor.html" title="Custom Editor for the ContentSizeFitter Component. Extend this class to write a custom editor for a c..." alt="" coords="562,5377,738,5420"/>
+<area shape="poly" id="edge1990_Node000123_Node000125" title=" " alt="" coords="473,5396,561,5396,561,5401,473,5401"/>
+<area shape="rect" id="Node000127" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_snap_turn_provider_editor.html" title="Custom editor for a DeviceBasedSnapTurnProvider." alt="" coords="530,99,769,157"/>
+<area shape="poly" id="edge1992_Node000126_Node000127" title=" " alt="" coords="378,398,400,347,432,285,475,222,500,193,528,167,545,156,548,160,532,171,504,197,479,225,437,288,405,349,383,400"/>
+<area shape="rect" id="Node000128" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_editor.html" title="Custom editor for an XRBaseController." alt="" coords="551,181,749,224"/>
+<area shape="poly" id="edge1993_Node000126_Node000128" title=" " alt="" coords="400,400,528,287,615,223,618,227,532,291,403,404"/>
+<area shape="rect" id="Node000131" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html" title="Custom editor for an XRBaseInteractable." alt="" coords="545,301,755,344"/>
+<area shape="poly" id="edge1996_Node000126_Node000131" title=" " alt="" coords="436,405,592,342,594,347,438,410"/>
+<area shape="rect" id="Node000143" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html" title="Custom editor for an XRBaseInteractor." alt="" coords="551,413,748,456"/>
+<area shape="poly" id="edge2008_Node000126_Node000143" title=" " alt="" coords="475,432,550,432,550,437,475,437"/>
+<area shape="rect" id="Node000149" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recording_editor.html" title="Custom editor for an XRControllerRecording." alt="" coords="537,480,763,523"/>
+<area shape="poly" id="edge2014_Node000126_Node000149" title=" " alt="" coords="475,457,557,477,555,482,474,463"/>
+<area shape="rect" id="Node000150" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interactor_line_visual_editor.html" title="Custom editor for an XRInteractorLineVisual." alt="" coords="536,547,763,589"/>
+<area shape="poly" id="edge2015_Node000126_Node000150" title=" " alt="" coords="475,460,484,466,500,483,508,500,516,517,532,533,552,544,549,549,528,537,512,520,504,503,496,486,480,470,472,465"/>
+<area shape="rect" id="Node000151" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_rig_editor.html" title="Custom editor for the deprecated XRRig." alt="" coords="563,613,736,656"/>
+<area shape="poly" id="edge2016_Node000126_Node000151" title=" " alt="" coords="475,459,484,466,498,483,505,500,509,534,512,568,519,584,532,599,564,619,562,624,528,603,514,586,507,569,503,535,500,502,493,486,480,470,471,463"/>
+<area shape="rect" id="Node000129" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_controller_editor.html" title="Custom editor for an ActionBasedController." alt="" coords="827,63,1054,105"/>
+<area shape="poly" id="edge1994_Node000128_Node000129" title=" " alt="" coords="759,172,768,167,782,155,791,142,800,128,816,115,839,104,841,108,819,120,804,132,796,145,786,158,771,172,762,177"/>
+<area shape="rect" id="Node000130" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_editor.html" title="Custom editor for an XRController." alt="" coords="854,129,1027,172"/>
+<area shape="poly" id="edge1995_Node000128_Node000130" title=" " alt="" coords="764,180,853,164,854,169,765,185"/>
+<area shape="rect" id="Node000132" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_base_gesture_interactable_editor.html" title="Custom editor for an ARBaseGestureInteractable." alt="" coords="817,345,1064,404"/>
+<area shape="poly" id="edge1997_Node000131_Node000132" title=" " alt="" coords="771,342,817,350,816,355,770,347"/>
+<area shape="rect" id="Node000139" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable_editor.html" title="Custom editor for an BaseTeleportationInteractable." alt="" coords="823,196,1058,255"/>
+<area shape="poly" id="edge2004_Node000131_Node000139" title=" " alt="" coords="730,293,850,253,852,258,731,298"/>
+<area shape="rect" id="Node000142" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable_editor.html" title="Custom editor for an XRGrabInteractable." alt="" coords="836,279,1045,321"/>
+<area shape="poly" id="edge2007_Node000131_Node000142" title=" " alt="" coords="770,311,836,305,836,311,771,316"/>
+<area shape="rect" id="Node000133" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_annotation_interactable_editor.html" title="Custom editor for an ARAnnotationInteractable." alt="" coords="1114,304,1347,363"/>
+<area shape="poly" id="edge1998_Node000132_Node000133" title=" " alt="" coords="1079,352,1113,347,1114,353,1080,358"/>
+<area shape="rect" id="Node000134" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_placement_interactable_editor.html" title="Custom editor for an ARPlacementInteractable." alt="" coords="1114,387,1347,445"/>
+<area shape="poly" id="edge1999_Node000132_Node000134" title=" " alt="" coords="1080,392,1114,397,1113,402,1079,397"/>
+<area shape="rect" id="Node000135" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_rotation_interactable_editor.html" title="Custom editor for an ARRotationInteractable." alt="" coords="1121,469,1340,528"/>
+<area shape="poly" id="edge2000_Node000132_Node000135" title=" " alt="" coords="1056,409,1065,414,1089,435,1113,455,1135,466,1133,471,1110,460,1086,439,1062,418,1053,414"/>
+<area shape="rect" id="Node000136" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_scale_interactable_editor.html" title="Custom editor for an ARScaleInteractable." alt="" coords="1112,552,1349,595"/>
+<area shape="poly" id="edge2001_Node000132_Node000136" title=" " alt="" coords="1063,412,1066,414,1078,430,1086,446,1090,478,1094,509,1101,523,1113,538,1129,549,1126,554,1110,542,1097,526,1089,510,1085,479,1080,448,1074,433,1062,418,1059,416"/>
+<area shape="rect" id="Node000137" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_selection_interactable_editor.html" title="Custom editor for an ARSelectionInteractable." alt="" coords="1118,139,1343,197"/>
+<area shape="poly" id="edge2002_Node000132_Node000137" title=" " alt="" coords="1059,334,1062,332,1074,317,1081,302,1085,271,1090,240,1097,223,1110,207,1124,196,1128,200,1114,211,1101,226,1095,241,1090,272,1086,303,1079,319,1066,335,1063,338"/>
+<area shape="rect" id="Node000138" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_translation_interactable_editor.html" title="Custom editor for an ARTranslationInteractable." alt="" coords="1114,221,1347,280"/>
+<area shape="poly" id="edge2003_Node000132_Node000138" title=" " alt="" coords="1053,336,1062,331,1086,311,1110,290,1133,278,1135,283,1113,294,1089,315,1065,336,1056,341"/>
+<area shape="rect" id="Node000140" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_anchor_editor.html" title="Custom editor for an TeleportationAnchor." alt="" coords="1124,5,1337,48"/>
+<area shape="poly" id="edge2005_Node000139_Node000140" title=" " alt="" coords="1059,184,1062,182,1074,167,1080,152,1085,121,1089,90,1097,74,1110,58,1126,46,1129,51,1113,62,1101,77,1094,91,1090,122,1086,154,1078,170,1066,186,1063,188"/>
+<area shape="rect" id="Node000141" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_teleportation_area_editor.html" title="Custom editor for an TeleportationArea." alt="" coords="1131,72,1330,115"/>
+<area shape="poly" id="edge2006_Node000139_Node000141" title=" " alt="" coords="1056,186,1062,182,1077,168,1085,154,1094,139,1110,124,1132,113,1135,118,1113,129,1098,142,1090,156,1081,171,1065,186,1059,190"/>
+<area shape="rect" id="Node000144" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_a_r_1_1_a_r_gesture_interactor_editor.html" title="Custom editor for an ARGestureInteractor." alt="" coords="822,577,1059,620"/>
+<area shape="poly" id="edge2009_Node000143_Node000144" title=" " alt="" coords="763,460,771,466,783,478,790,491,796,516,802,541,808,552,819,563,836,574,833,579,816,567,804,555,797,542,791,517,785,493,778,481,768,470,760,464"/>
+<area shape="rect" id="Node000145" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html" title="Custom editor for an XRBaseControllerInteractor." alt="" coords="831,428,1050,487"/>
+<area shape="poly" id="edge2010_Node000143_Node000145" title=" " alt="" coords="764,441,831,446,831,451,764,446"/>
+<area shape="rect" id="Node000148" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_socket_interactor_editor.html" title="Custom editor for an XRSocketInteractor." alt="" coords="836,511,1045,553"/>
+<area shape="poly" id="edge2013_Node000143_Node000148" title=" " alt="" coords="755,459,771,466,795,481,819,496,849,508,847,513,816,501,792,486,768,470,753,464"/>
+<area shape="rect" id="Node000146" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_direct_interactor_editor.html" title="Custom editor for an XRDirectInteractor." alt="" coords="1130,619,1331,661"/>
+<area shape="poly" id="edge2011_Node000145_Node000146" title=" " alt="" coords="1062,494,1066,497,1077,511,1084,525,1090,553,1095,579,1102,592,1113,605,1131,616,1128,621,1110,609,1098,595,1090,581,1085,554,1079,526,1073,514,1062,501,1059,498"/>
+<area shape="rect" id="Node000147" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_editor.html" title="Custom editor for an XRRayInteractor." alt="" coords="1135,685,1326,728"/>
+<area shape="poly" id="edge2012_Node000145_Node000147" title=" " alt="" coords="1064,495,1066,497,1082,519,1089,542,1090,586,1091,630,1098,651,1114,671,1136,688,1133,692,1110,675,1093,653,1085,631,1084,587,1084,543,1077,522,1062,500,1060,499"/>
+<area shape="rect" id="Node000071" href="$interface_unity_editor_1_1_timeline_1_1_i_attractable.html" title=" " alt="" coords="1127,6428,1334,6455"/>
+<area shape="rect" id="Node000072" href="$class_unity_editor_1_1_timeline_1_1_move_item_handler.html" title=" " alt="" coords="1406,6469,1577,6512"/>
+<area shape="poly" id="edge2020_Node000071_Node000072" title=" " alt="" coords="1320,6456,1406,6472,1405,6477,1319,6461"/>
+<area shape="rect" id="Node000070" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_g_u_i.html" title=" " alt="" coords="1397,6328,1586,6371"/>
+<area shape="poly" id="edge2021_Node000071_Node000070" title=" " alt="" coords="1329,6421,1348,6414,1372,6398,1396,6380,1421,6369,1423,6374,1398,6385,1375,6402,1350,6418,1331,6426"/>
+<area shape="rect" id="Node000074" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html" title=" " alt="" coords="1397,6395,1586,6437"/>
+<area shape="poly" id="edge2022_Node000071_Node000074" title=" " alt="" coords="1349,6427,1396,6423,1397,6428,1350,6432"/>
+<area shape="rect" id="Node000073" href="$interface_unity_editor_1_1_timeline_1_1_i_attraction_handler.html" title=" " alt="" coords="1130,6479,1331,6521"/>
+<area shape="poly" id="edge2023_Node000073_Node000072" title=" " alt="" coords="1346,6493,1406,6491,1406,6496,1346,6499"/>
+<area shape="rect" id="Node000084" href="$interface_unity_editor_1_1_timeline_1_1_i_bounds.html" title=" " alt="" coords="556,6403,744,6429"/>
+<area shape="rect" id="Node000085" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_editor.html" title=" " alt="" coords="855,6495,1026,6537"/>
+<area shape="poly" id="edge2024_Node000084_Node000085" title=" " alt="" coords="697,6433,818,6480,855,6492,853,6497,816,6485,695,6438"/>
+<area shape="rect" id="Node000086" href="$class_unity_editor_1_1_timeline_1_1_inline_curve_resize_handle.html" title=" " alt="" coords="855,6361,1026,6404"/>
+<area shape="poly" id="edge2025_Node000084_Node000086" title=" " alt="" coords="759,6401,854,6390,855,6395,760,6406"/>
+<area shape="rect" id="Node000066" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="846,6111,1035,6153"/>
+<area shape="poly" id="edge2026_Node000084_Node000066" title=" " alt="" coords="677,6390,723,6346,767,6289,781,6255,786,6224,793,6194,802,6179,816,6163,844,6145,847,6150,819,6167,806,6182,798,6196,791,6225,787,6256,772,6292,727,6349,681,6394"/>
+<area shape="rect" id="Node000087" href="$class_unity_editor_1_1_timeline_1_1_track_resize_handle.html" title=" " alt="" coords="854,6428,1027,6471"/>
+<area shape="poly" id="edge2030_Node000084_Node000087" title=" " alt="" coords="760,6426,854,6437,853,6442,759,6431"/>
+<area shape="rect" id="Node000067" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html" title=" " alt="" coords="1136,6111,1325,6153"/>
+<area shape="poly" id="edge2027_Node000066_Node000067" title=" " alt="" coords="1051,6129,1135,6129,1135,6135,1051,6135"/>
+<area shape="rect" id="Node000083" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_error_g_u_i.html" title=" " alt="" coords="1136,6177,1325,6220"/>
+<area shape="poly" id="edge2029_Node000066_Node000083" title=" " alt="" coords="1051,6155,1136,6174,1134,6179,1050,6160"/>
+<area shape="rect" id="Node000068" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_g_u_i.html" title=" " alt="" coords="1397,6111,1586,6153"/>
+<area shape="poly" id="edge2028_Node000067_Node000068" title=" " alt="" coords="1340,6129,1396,6129,1396,6135,1340,6135"/>
+<area shape="rect" id="Node000069" href="$interface_unity_editor_1_1_timeline_1_1_i_clip_curve_editor_owner.html" title=" " alt="" coords="1147,6244,1314,6287"/>
+<area shape="poly" id="edge2031_Node000069_Node000070" title=" " alt="" coords="1326,6289,1350,6296,1398,6313,1430,6325,1428,6330,1396,6319,1348,6301,1325,6294"/>
+<area shape="poly" id="edge2032_Node000069_Node000068" title=" " alt="" coords="1327,6238,1348,6230,1412,6191,1464,6152,1467,6156,1415,6196,1350,6234,1329,6243"/>
+<area shape="rect" id="Node000090" href="$interface_unity_editor_1_1_timeline_1_1_i_inspector_change_handler.html" title="Implement this interface in your PlayableAsset inspector to change what happens when a UI component i..." alt="" coords="5,5544,203,5587"/>
+<area shape="poly" id="edge2033_Node000090_Node000056" title=" " alt="" coords="218,5563,279,5563,279,5568,218,5568"/>
+<area shape="rect" id="Node000078" href="$interface_unity_editor_1_1_timeline_1_1_i_layerable.html" title=" " alt="" coords="550,6252,750,6279"/>
+<area shape="rect" id="Node000077" href="$interface_unity_editor_1_1_timeline_1_1_i_selectable.html" title=" " alt="" coords="838,6311,1043,6337"/>
+<area shape="poly" id="edge2034_Node000078_Node000077" title=" " alt="" coords="735,6280,871,6307,870,6313,734,6285"/>
+<area shape="rect" id="Node000079" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_handle.html" title=" " alt="" coords="846,6244,1035,6287"/>
+<area shape="poly" id="edge2039_Node000078_Node000079" title=" " alt="" coords="765,6263,846,6263,846,6268,765,6268"/>
+<area shape="rect" id="Node000080" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html" title=" " alt="" coords="846,6177,1035,6220"/>
+<area shape="poly" id="edge2040_Node000078_Node000080" title=" " alt="" coords="725,6245,845,6218,846,6223,727,6251"/>
+<area shape="rect" id="Node000075" href="$class_unity_editor_1_1_timeline_1_1_timeline_item_g_u_i.html" title=" " alt="" coords="1136,6311,1325,6353"/>
+<area shape="poly" id="edge2035_Node000077_Node000075" title=" " alt="" coords="1059,6325,1135,6327,1135,6332,1059,6330"/>
+<area shape="poly" id="edge2036_Node000075_Node000070" title=" " alt="" coords="1340,6337,1397,6340,1396,6346,1340,6342"/>
+<area shape="poly" id="edge2038_Node000075_Node000074" title=" " alt="" coords="1326,6356,1350,6363,1398,6380,1430,6392,1428,6397,1396,6385,1348,6368,1325,6361"/>
+<area shape="rect" id="Node000076" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_cluster_g_u_i.html" title=" " alt="" coords="1397,6261,1586,6304"/>
+<area shape="poly" id="edge2037_Node000075_Node000076" title=" " alt="" coords="1340,6309,1396,6298,1397,6303,1341,6314"/>
+<area shape="rect" id="Node000081" href="$interface_unity_editor_1_1_timeline_1_1_i_row_g_u_i.html" title=" " alt="" coords="554,6123,745,6149"/>
+<area shape="poly" id="edge2042_Node000081_Node000068" title=" " alt="" coords="714,6116,764,6104,817,6096,966,6081,1083,6076,1200,6081,1349,6096,1412,6107,1411,6113,1349,6101,1200,6086,1083,6081,967,6087,818,6101,765,6110,715,6121"/>
+<area shape="poly" id="edge2041_Node000081_Node000080" title=" " alt="" coords="731,6151,846,6176,845,6181,730,6156"/>
+<area shape="rect" id="Node000060" href="$interface_unity_editor_1_1_timeline_1_1_signals_1_1_i_signal_asset_provider.html" title=" " alt="" coords="556,5711,744,5753"/>
+<area shape="poly" id="edge2043_Node000060_Node000059" title=" " alt="" coords="752,5703,768,5696,844,5657,906,5618,909,5623,847,5662,770,5701,754,5708"/>
+<area shape="rect" id="Node000061" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_receiver_item.html" title=" " alt="" coords="846,5711,1035,5753"/>
+<area shape="poly" id="edge2044_Node000060_Node000061" title=" " alt="" coords="759,5729,846,5729,846,5735,759,5735"/>
+<area shape="rect" id="Node000082" href="$interface_unity_editor_1_1_timeline_1_1_i_snappable.html" title=" " alt="" coords="1128,6377,1333,6404"/>
+<area shape="poly" id="edge2045_Node000082_Node000070" title=" " alt="" coords="1334,6372,1396,6362,1397,6367,1334,6377"/>
+<area shape="poly" id="edge2046_Node000082_Node000074" title=" " alt="" coords="1349,6399,1397,6404,1396,6409,1349,6405"/>
+<area shape="rect" id="Node000062" title=" " alt="" coords="600,5897,699,5924"/>
+<area shape="poly" id="edge2051_Node000062_Node000066" title=" " alt="" coords="680,5932,819,6046,908,6108,905,6112,816,6050,676,5936"/>
+<area shape="poly" id="edge2050_Node000062_Node000061" title=" " alt="" coords="671,5884,732,5823,772,5791,816,5763,845,5750,847,5755,819,5768,776,5795,736,5827,675,5887"/>
+<area shape="rect" id="Node000063" href="$class_unity_1_1_plastic_s_c_m_1_1_editor_1_1_views_1_1_branches_1_1_branch_list_view_item.html" title=" " alt="" coords="823,5777,1058,5820"/>
+<area shape="poly" id="edge2047_Node000062_Node000063" title=" " alt="" coords="689,5887,748,5858,816,5830,851,5818,853,5823,818,5834,750,5863,691,5892"/>
+<area shape="rect" id="Node000064" href="$class_unity_1_1_plastic_s_c_m_1_1_editor_1_1_views_1_1_changesets_1_1_changeset_list_view_item.html" title=" " alt="" coords="832,5844,1049,5903"/>
+<area shape="poly" id="edge2048_Node000062_Node000064" title=" " alt="" coords="715,5900,832,5885,832,5890,715,5905"/>
+<area shape="rect" id="Node000065" href="$class_unity_editor_1_1_timeline_1_1_curve_tree_view_node.html" title=" " alt="" coords="854,5927,1027,5969"/>
+<area shape="poly" id="edge2049_Node000062_Node000065" title=" " alt="" coords="715,5916,854,5934,853,5940,714,5922"/>
+<area shape="rect" id="Node000088" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_tree_item.html" title=" " alt="" coords="844,5993,1037,6036"/>
+<area shape="poly" id="edge2052_Node000062_Node000088" title=" " alt="" coords="695,5929,818,5979,854,5990,853,5995,816,5984,693,5933"/>
+</map>

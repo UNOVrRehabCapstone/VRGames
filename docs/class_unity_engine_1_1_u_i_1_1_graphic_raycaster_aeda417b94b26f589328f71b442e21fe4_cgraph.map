@@ -1,0 +1,6 @@
+<map id="UnityEngine.UI.GraphicRaycaster.Raycast" name="UnityEngine.UI.GraphicRaycaster.Raycast">
+<area shape="rect" id="Node000001" title="Perform the raycast against the list of graphics associated with the Canvas." alt="" coords="5,29,225,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="64,29,62,19,71,10,88,5,115,3,144,5,162,12,160,17,143,10,115,8,89,10,73,15,67,21,69,28"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_graphic_registry.html#a9fa769a41fe03b43e00e478d73ed0936" title="Retrieves the list of Graphics that are raycastable and associated with a Canvas." alt="" coords="273,29,500,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,257,48,257,53,225,53"/>
+</map>

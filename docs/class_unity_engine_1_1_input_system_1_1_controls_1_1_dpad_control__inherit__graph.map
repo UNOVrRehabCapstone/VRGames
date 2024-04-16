@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Controls.DpadControl" name="UnityEngine.InputSystem.Controls.DpadControl">
+<area shape="rect" id="Node000001" title="A control made up of four discrete, directional buttons. Forms a vector but can also be addressed as ..." alt="" coords="5,155,178,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_vector2_control.html" title="A floating&#45;point 2D vector control composed of two AxisControls." alt="" coords="38,80,145,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,122,94,154,89,154,89,122"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="12,5,171,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
+</map>

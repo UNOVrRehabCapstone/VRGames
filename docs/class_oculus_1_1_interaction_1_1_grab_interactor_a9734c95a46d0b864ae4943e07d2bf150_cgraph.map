@@ -1,0 +1,14 @@
+<map id="Oculus.Interaction.GrabInteractor.DoSelectUpdate" name="Oculus.Interaction.GrabInteractor.DoSelectUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,222,136"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_tween.html#a762da0954f8858efba97c36d349a20de" title=" " alt="" coords="270,43,465,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,90,291,71,292,76,209,95"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_grabbable.html#a587a315a33530a616b0d758be8fa01ad" title=" " alt="" coords="271,93,464,136"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="222,112,255,112,255,117,222,117"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_tween.html#aaf8891ecbd250bf6066c1d4b4f98f032" title=" " alt="" coords="282,160,453,203"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="198,134,269,153,268,158,197,139"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_progress_curve.html#adb4f851b70467713068439bded88a8d6" title=" " alt="" coords="513,5,695,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,41,497,37,498,43,466,47"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_progress_curve.html#a91af3586a6d8d766231b8ee751ba62da" title=" " alt="" coords="743,35,926,77"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="465,56,513,57,695,57,727,57,727,62,695,63,513,63,465,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="696,36,728,40,727,45,695,41"/>
+</map>

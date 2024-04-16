@@ -1,0 +1,9 @@
+<map id="UnityEditor.UI.ToggleEditor.OnInspectorGUI" name="UnityEditor.UI.ToggleEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,187,115"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a6043a7b489a71fc5908ee5827a0aba9b" title="Are any of the toggles on?" alt="" coords="235,5,423,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,69,236,50,238,55,173,74"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="237,72,421,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,91,222,91,222,96,187,96"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a68bf1d1f68cadb784797c93f9894cf88" title="Notify the group that the given toggle is enabled." alt="" coords="235,139,423,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,113,238,131,236,136,172,118"/>
+</map>

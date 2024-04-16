@@ -1,0 +1,11 @@
+<map id="UnityEditor.XR.Management.Tests.EditorTests.StandaloneLoaderLifecycleTest" name="UnityEditor.XR.Management.Tests.EditorTests.StandaloneLoaderLifecycleTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,237,184"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html#ad1782b8d5200a0389e2dca4df9add4fd" title="Ask loader to deinitialize all initialized subsystems." alt="" coords="299,5,533,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,122,284,74,300,67,302,72,286,78,180,127"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html#a0e506b1a8ea6bea24e38d72d10f8922d" title="Initialize the loader. This should initialize all subsystems to support the desired runtime setup thi..." alt="" coords="299,88,533,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,137,283,131,284,137,237,143"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html#a1241a7e7567d86adeba5d01a90fc8e7f" title="Ask loader to start all initialized subsystems." alt="" coords="285,171,547,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,167,269,171,269,176,237,172"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_loader.html#afe0c9ee81e9d9b2f5e550785cf5246c7" title="Ask loader to stop all initialized subsystems." alt="" coords="285,237,547,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,182,286,223,308,230,306,235,284,228,184,187"/>
+</map>

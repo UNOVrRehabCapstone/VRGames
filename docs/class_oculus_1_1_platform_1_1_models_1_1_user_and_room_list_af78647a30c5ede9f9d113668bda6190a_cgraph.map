@@ -1,0 +1,13 @@
+<map id="Oculus.Platform.Models.UserAndRoomList.UserAndRoomList" name="Oculus.Platform.Models.UserAndRoomList.UserAndRoomList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,214,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a954555f711d1e8eaa86c419bcd07b161" title=" " alt="" coords="262,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,69,269,50,271,55,197,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a691a5ac59909d89e197a761e6e893f25" title=" " alt="" coords="264,72,479,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,91,249,91,249,96,214,96"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5c687f5de32cc4a1c5d1cbc60363a52e" title=" " alt="" coords="273,139,470,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,113,271,132,269,137,195,118"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="529,72,715,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,91,513,91,513,96,479,96"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="763,64,964,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="716,91,748,91,748,96,716,96"/>
+</map>

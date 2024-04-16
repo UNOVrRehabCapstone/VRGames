@@ -1,0 +1,9 @@
+<map id="UnityEngine.InputSystem.PlayerInput.ActivateInput" name="UnityEngine.InputSystem.PlayerInput.ActivateInput">
+<area shape="rect" id="Node000001" title="Enable input on the player." alt="" coords="5,39,178,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#a1070fcb5a4631ca6c0212fb28a19644f" title="Enable all the actions in the map." alt="" coords="256,5,429,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,46,241,37,241,43,179,51"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a52e9e7a8cedae17ae99af6a47d14c1e4" title=" " alt="" coords="226,72,459,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,69,211,73,210,78,178,74"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a1d650ccc70ff717661f895fe341c0df0" title="Find an InputActionMap in the asset by its name or ID." alt="" coords="507,72,718,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,91,492,91,492,96,460,96"/>
+</map>

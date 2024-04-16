@@ -1,0 +1,11 @@
+<map id="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions" name="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,229,284,288"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_action_collection2.html" title="An extended version of IInputActionCollection." alt="" coords="20,155,173,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,192,147,227,143,230,114,195"/>
+<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_i_input_action_collection.html" title="A collection of input actions (see InputAction)." alt="" coords="23,80,170,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,122,99,154,94,154,94,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,188,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,155,286,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,195,194,230,190,227,220,192"/>
+</map>

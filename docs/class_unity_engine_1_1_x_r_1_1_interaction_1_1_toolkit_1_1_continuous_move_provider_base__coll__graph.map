@@ -1,0 +1,7 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase" name="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase">
+<area shape="rect" id="Node000001" title="Locomotion provider that allows the user to smoothly move their rig continuously over time." alt="" coords="5,155,240,197"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html" title="The LocomotionProvider is the base class for various locomotion implementations. This class provides ..." alt="" coords="55,80,190,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,122,125,154,120,154,120,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,5,177,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,48,125,80,120,80,120,48"/>
+</map>

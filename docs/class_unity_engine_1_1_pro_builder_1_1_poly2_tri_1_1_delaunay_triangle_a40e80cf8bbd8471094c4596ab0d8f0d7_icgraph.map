@@ -1,0 +1,41 @@
+<map id="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.IndexOf" name="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.IndexOf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="600,601,792,644"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#aefcf79b1a1019b9f6cd2d7f1cd9fa136" title=" " alt="" coords="319,5,551,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="687,586,669,471,639,319,620,243,598,173,575,117,550,78,537,67,541,63,554,74,580,114,603,172,625,241,644,318,674,470,692,586"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a3e8d93663a068f70076152d698f8ba95" title=" " alt="" coords="319,88,551,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="692,586,684,500,676,446,663,387,645,326,621,266,590,210,550,161,537,149,540,145,554,157,594,207,626,264,650,324,668,385,681,445,690,500,697,586"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a898a159af1bb7b62be79fd6f9bd42f84" title=" " alt="" coords="319,171,551,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="689,586,677,514,653,423,635,374,612,327,584,283,550,243,536,232,540,228,554,239,588,279,616,324,640,372,658,421,682,513,694,585"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a8bfcc786c17417a1be77e6932bf00e53" title=" " alt="" coords="326,253,544,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="684,587,668,530,641,460,603,388,578,355,550,326,535,315,538,310,554,322,582,352,607,385,646,458,673,528,690,585"/>
+<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a42a9946407fb097ec7c5f7eaf9f7d3cc" title=" " alt="" coords="326,336,544,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="678,589,658,547,629,499,593,451,550,409,533,397,536,393,554,405,597,447,634,496,662,545,683,586"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a0f501ee19aa9d03f6b8118b93b453ee2" title=" " alt="" coords="326,419,544,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="665,591,614,540,583,514,551,492,529,480,532,476,553,487,587,510,618,536,668,587"/>
+<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a146eb382f672c1b9f251a48937a13426" title=" " alt="" coords="318,501,552,544"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="638,597,551,558,517,547,519,542,553,554,640,592"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a06d68894a58e1468e3cec6cc990dc29b" title=" " alt="" coords="322,568,548,611"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="584,611,547,606,548,601,585,606"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a02cfc7e6c1ec4b77d53ab3b30af81878" title=" " alt="" coords="318,635,552,677"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="585,640,552,644,551,638,584,634"/>
+<area shape="rect" id="Node000012" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a0a24b8462df5b0d849ea26201e97042b" title=" " alt="" coords="323,701,547,744"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="640,654,553,692,519,703,517,698,551,687,638,649"/>
+<area shape="rect" id="Node000015" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a49f0451056a2e8484826e33a3ab09119" title=" " alt="" coords="319,768,551,827"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="668,658,618,709,587,735,553,758,532,770,529,765,551,754,583,731,614,705,665,654"/>
+<area shape="rect" id="Node000016" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a2ec88af51651916e10e285b8bab49ff4" title=" " alt="" coords="319,851,551,909"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="683,659,662,701,634,749,597,798,554,841,536,852,533,848,550,837,593,795,629,746,658,698,678,657"/>
+<area shape="rect" id="Node000017" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a02212267abddf97588e4044bb0fc8472" title=" " alt="" coords="319,933,551,992"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="690,660,673,717,646,788,607,860,582,894,554,923,538,935,535,931,550,919,578,890,603,857,641,785,668,716,684,659"/>
+<area shape="rect" id="Node000018" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#aecdd58722375ae3e1c5e9db9b255484d" title=" " alt="" coords="327,1016,543,1075"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="694,660,682,732,658,824,640,873,616,921,588,966,554,1006,540,1017,536,1013,550,1002,584,963,612,918,635,871,653,823,677,731,689,659"/>
+<area shape="rect" id="Node000019" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a04d11985ec10333ba19c5f1df5aa50cd" title=" " alt="" coords="327,1099,543,1157"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="697,660,690,746,681,801,668,860,650,921,626,981,594,1038,554,1089,540,1100,537,1096,550,1085,590,1035,621,979,645,919,663,859,676,800,684,745,692,659"/>
+<area shape="rect" id="Node000020" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a130a56942cc61af8388e015704b51ce7" title=" " alt="" coords="327,1181,543,1240"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="692,660,674,775,644,927,625,1004,603,1074,580,1131,554,1171,541,1183,537,1179,550,1168,575,1129,598,1072,620,1003,639,926,669,774,687,659"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#ac0bd56442cdd66f6ff89c7e2e8ab18d3" title="Legalize triangle by rotating clockwise around oPoint." alt="" coords="41,501,234,544"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="302,525,234,525,234,520,302,520"/>
+<area shape="rect" id="Node000013" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_d_t_sweep_context.html#a8f134ecc701dabf54a42d25f4e31759c" title="Try to map a node to all sides of this triangle that don&#39;t have a neighbor." alt="" coords="5,668,270,711"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="307,711,270,707,270,702,307,706"/>
+<area shape="rect" id="Node000014" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a984e939de2f1ce91902df93100aa5014" title=" " alt="" coords="25,735,250,777"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="307,740,250,746,250,741,307,734"/>
+</map>

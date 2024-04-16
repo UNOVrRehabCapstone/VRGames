@@ -1,0 +1,7 @@
+<map id="OculusSampleFramework.FingerTipPokeTool" name="OculusSampleFramework.FingerTipPokeTool">
+<area shape="rect" id="Node000001" title="Poke tool used for near&#45;field (touching) interactions. Assumes that it will be placed on finger tips." alt="" coords="5,155,216,197"/>
+<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_interactable_tool.html" title="A tool that can engage interactables." alt="" coords="54,80,167,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,122,113,154,108,154,108,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,5,165,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,48,113,80,108,80,108,48"/>
+</map>

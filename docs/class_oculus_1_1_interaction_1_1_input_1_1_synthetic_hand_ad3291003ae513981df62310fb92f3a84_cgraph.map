@@ -1,0 +1,17 @@
+<map id="Oculus.Interaction.Input.SyntheticHand.InjectAllSyntheticHandModifier" name="Oculus.Interaction.Input.SyntheticHand.InjectAllSyntheticHandModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,205,217,264"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a1a4fb5eeea640a84e60c5bd0dd4f0e5c" title=" " alt="" coords="271,5,500,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,203,183,130,220,91,263,58,272,53,274,57,266,62,224,95,187,134,132,206"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a05ca43d35c79c9ddc9b78564f7089be3" title=" " alt="" coords="265,72,506,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,203,199,162,263,124,278,118,280,123,266,129,202,167,149,207"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#ac3b25b0ae72087ee161ebaa80d81669d" title=" " alt="" coords="265,139,506,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,203,289,183,291,188,218,208"/>
+<area shape="rect" id="Node000005" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#afd0360636f1a708a9377c42153e6b12e" title=" " alt="" coords="276,205,495,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="217,232,260,232,260,237,217,237"/>
+<area shape="rect" id="Node000006" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a6011453b344fc5141bafa5744eb5863f" title=" " alt="" coords="276,288,495,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="212,262,272,280,270,286,210,267"/>
+<area shape="rect" id="Node000007" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#aa5e6955e1c5cae8eb20bc1a65c2c7e44" title=" " alt="" coords="275,371,496,429"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="144,262,198,310,266,356,276,361,273,366,263,361,195,314,140,266"/>
+<area shape="rect" id="Node000008" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a4da85d91532e2876c5219699f82c2508" title=" " alt="" coords="275,453,496,512"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="129,263,151,303,182,350,221,398,266,439,272,443,269,447,263,443,217,402,178,353,147,306,124,266"/>
+</map>

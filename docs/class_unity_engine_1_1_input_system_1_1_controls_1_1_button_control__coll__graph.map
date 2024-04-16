@@ -1,0 +1,51 @@
+<map id="UnityEngine.InputSystem.Controls.ButtonControl" name="UnityEngine.InputSystem.Controls.ButtonControl">
+<area shape="rect" id="Node000001" title="An axis that has a trigger point beyond which it is considered to be pressed." alt="" coords="2122,679,2295,721"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_axis_control.html" title="A floating&#45;point axis control." alt="" coords="1985,584,2073,611"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2069,617,2171,676,2168,680,2066,621"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="1797,297,1935,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1885,337,2022,582,2018,585,1880,339"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_block.html" title="Information about a memory region storing input state." alt="" coords="387,621,560,664"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,647,708,654,855,657,1604,657,1634,654,1663,646,1689,632,1713,615,1755,569,1789,515,1816,458,1837,403,1859,324,1864,325,1842,405,1821,460,1794,518,1759,572,1716,619,1691,637,1665,651,1636,660,1604,663,855,663,708,659,575,652"/>
+<area shape="rect" id="Node000010" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title="A typed and named source of input values in a hierarchy of controls." alt="" coords="811,387,901,413"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="529,611,624,558,730,492,789,449,836,412,840,416,792,454,732,497,626,562,531,616"/>
+<area shape="rect" id="Node000011" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title="A typed and named source of input values in a hierarchy of controls." alt="" coords="1517,387,1689,429"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="575,637,791,627,1058,606,1191,591,1313,572,1416,549,1491,522,1521,502,1548,477,1586,428,1590,432,1552,481,1525,506,1494,526,1418,554,1314,578,1192,597,1059,612,791,632,575,642"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="77,689,131,716"/>
+<area shape="poly" id="edge32_Node000001_Node000005" title=" " alt="" coords="146,708,290,729,380,738,472,741,2030,741,2092,735,2148,719,2150,725,2093,740,2030,747,472,747,380,743,289,734,145,713"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="146,693,386,654,387,659,146,699"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html" title="Wraps around a string to allow for faster case&#45;insensitive string comparisons while preserving origin..." alt="" coords="387,117,560,160"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="548,109,613,90,689,71,772,56,855,51,1604,51,1630,53,1655,59,1701,82,1742,114,1778,153,1807,195,1832,235,1862,296,1857,298,1827,238,1803,198,1773,157,1738,118,1698,86,1653,64,1629,58,1604,56,855,56,772,62,690,76,614,95,550,114"/>
+<area shape="rect" id="Node000009" href="$class_unity_engine_1_1_input_system_1_1_input_device.html" title="Represents an input device which is always the root of a hierarchy of InputControl instances." alt="" coords="1120,292,1293,335"/>
+<area shape="poly" id="edge28_Node000009_Node000006" title=" " alt="" coords="575,155,814,204,956,237,1097,273,1146,289,1144,294,1096,279,955,242,813,209,574,160"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="517,168,624,247,756,339,831,384,828,388,754,344,621,252,514,172"/>
+<area shape="poly" id="edge17_Node000011_Node000006" title=" " alt="" coords="575,133,748,130,955,132,1152,141,1232,150,1293,163,1356,185,1401,209,1443,241,1494,283,1548,336,1588,385,1583,388,1544,339,1491,287,1440,245,1399,214,1354,190,1292,168,1231,155,1151,146,955,137,748,136,575,138"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="11,151,197,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="212,154,387,142,387,147,213,159"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,100,203,127"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="218,118,387,130,387,135,218,124"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1297,286,1316,283,1449,274,1582,276,1702,286,1797,297,1796,303,1702,291,1582,282,1450,279,1317,288,1298,291"/>
+<area shape="poly" id="edge13_Node000010_Node000009" title=" " alt="" coords="1135,343,1097,355,993,379,902,396,901,390,992,374,1096,349,1133,338"/>
+<area shape="poly" id="edge18_Node000011_Node000009" title=" " alt="" coords="1264,339,1317,360,1517,393,1516,398,1316,365,1262,344"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="892,376,940,348,980,329,1051,315,1120,309,1120,315,1052,320,982,335,943,353,894,381"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="823,369,834,363,856,360,877,362,889,368,893,378,887,388,883,385,888,377,885,372,875,367,856,365,836,368,825,374"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="917,398,1517,404,1517,410,917,403"/>
+<area shape="poly" id="edge30_Node000003_Node000011" title=" " alt="" coords="1676,378,1827,322,1828,327,1678,383"/>
+<area shape="poly" id="edge29_Node000009_Node000011" title=" " alt="" coords="1557,381,1526,363,1492,349,1405,334,1293,322,1293,317,1406,328,1493,344,1528,358,1559,376"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="1501,427,1493,428,1349,437,1237,436,1125,428,981,415,901,407,902,402,982,409,1125,423,1237,431,1349,431,1492,423,1501,422"/>
+<area shape="poly" id="edge19_Node000011_Node000011" title=" " alt="" coords="1578,369,1587,362,1603,360,1617,362,1627,368,1632,377,1631,386,1625,386,1626,378,1623,372,1616,367,1603,365,1589,367,1581,373"/>
+<area shape="rect" id="Node000012" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html" title="A union holding a primitive value." alt="" coords="387,393,560,436"/>
+<area shape="poly" id="edge31_Node000003_Node000012" title=" " alt="" coords="571,386,590,370,599,356,602,341,599,310,597,280,602,265,615,251,732,243,1011,234,1360,234,1533,241,1689,253,1732,260,1774,272,1834,294,1832,299,1772,277,1731,265,1689,259,1533,246,1360,240,1011,239,732,248,617,256,607,268,602,281,604,310,607,341,604,358,594,374,575,390"/>
+<area shape="poly" id="edge24_Node000010_Node000012" title=" " alt="" coords="575,414,731,411,811,403,811,409,731,416,575,419"/>
+<area shape="poly" id="edge20_Node000011_Node000012" title=" " alt="" coords="537,440,617,476,648,481,673,480,731,476,946,479,1114,480,1195,478,1281,470,1378,457,1492,437,1534,427,1535,432,1493,443,1379,463,1281,476,1195,483,1114,486,946,484,731,481,673,485,648,486,615,481,535,445"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="10,432,198,459"/>
+<area shape="poly" id="edge21_Node000012_Node000013" title=" " alt="" coords="214,434,387,419,387,424,214,439"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="60,381,148,408"/>
+<area shape="poly" id="edge22_Node000012_Node000014" title=" " alt="" coords="164,395,387,407,387,413,163,400"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="367,480,580,555"/>
+<area shape="poly" id="edge25_Node000010_Node000015" title=" " alt="" coords="594,478,730,436,810,411,812,416,732,441,595,483"/>
+<area shape="poly" id="edge23_Node000011_Node000015" title=" " alt="" coords="595,530,774,544,882,547,1000,546,1123,540,1248,526,1372,504,1492,472,1536,452,1573,428,1576,432,1538,457,1494,477,1373,510,1249,532,1123,545,1000,552,882,552,773,549,595,535"/>
+<area shape="rect" id="Node000016" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_device_description.html" title="Metadata for an input device." alt="" coords="755,287,957,329"/>
+<area shape="poly" id="edge26_Node000009_Node000016" title=" " alt="" coords="972,296,1034,294,1096,296,1120,298,1119,303,1096,301,1034,300,972,301"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="355,333,592,360"/>
+<area shape="poly" id="edge27_Node000016_Node000017" title=" " alt="" coords="607,337,731,325,754,322,755,328,731,331,608,342"/>
+</map>

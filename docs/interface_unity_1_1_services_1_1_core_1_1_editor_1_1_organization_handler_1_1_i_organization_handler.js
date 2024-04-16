@@ -1,0 +1,4 @@
+var interface_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_i_organization_handler =
+[
+    [ "Key", "interface_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_i_organization_handler.html#a17caaf9e7074a1e47d06305868114869", null ]
+];

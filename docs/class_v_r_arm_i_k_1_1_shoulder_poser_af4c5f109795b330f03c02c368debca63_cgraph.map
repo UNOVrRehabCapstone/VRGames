@@ -1,0 +1,15 @@
+<map id="VRArmIK.ShoulderPoser.Update" name="VRArmIK.ShoulderPoser.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,215,128"/>
+<area shape="rect" id="Node000002" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a625839c056735f3b9b6a1ceeac332f1c" title=" " alt="" coords="263,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,98,285,51,286,56,152,103"/>
+<area shape="rect" id="Node000003" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a7e5e0124987dfe98da1946e01832aa71" title=" " alt="" coords="518,64,719,107"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="215,106,502,89,503,95,215,111"/>
+<area shape="rect" id="Node000004" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a6a9c79d54706120216d19f1a0bcda690" title=" " alt="" coords="263,123,464,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,124,248,128,247,133,215,129"/>
+<area shape="rect" id="Node000005" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#ac61743d356baaa4ef23d8f1d84210540" title=" " alt="" coords="263,189,464,232"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="144,126,264,175,281,181,279,186,262,180,142,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,46,508,57,507,63,459,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="459,119,507,108,508,113,460,125"/>
+<area shape="rect" id="Node000006" href="$class_v_r_arm_i_k_1_1_shoulder_poser.html#a35ac625c25d66b1978416014b892f5e2" title=" " alt="" coords="512,189,725,232"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="465,208,496,208,496,213,465,213"/>
+</map>

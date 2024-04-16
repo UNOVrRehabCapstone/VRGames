@@ -1,0 +1,7 @@
+<map id="UnityEngine.InputSystem.Layouts.InputDeviceDescription.Equals" name="UnityEngine.InputSystem.Layouts.InputDeviceDescription.Equals">
+<area shape="rect" id="Node000001" title="Compare the description to the given other &#160;description." alt="" coords="323,31,529,89"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_device_description.html#a1836e4f44bd82552e88d59f8e6c26ac4" title="Compare the two device descriptions for inequality." alt="" coords="8,5,272,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,49,272,45,273,39,308,44"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_device_description.html#ab84efb9beae6efe913e2e85e549faef6" title="Compare the two device descriptions." alt="" coords="5,72,275,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,76,275,80,275,75,307,71"/>
+</map>

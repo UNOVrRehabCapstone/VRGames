@@ -1,0 +1,7 @@
+<map id="UnityEditor.Timeline.BindingSelector.RefreshCurves" name="UnityEditor.Timeline.BindingSelector.RefreshCurves">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_curve_data_source.html#afe23f6d72f36ab4ffb23da22b04491a8" title=" " alt="" coords="238,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_curve_data_source.html#a7e34b2517db04e174264f8c535ed7f0c" title=" " alt="" coords="488,5,716,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,24,472,24,472,29,441,29"/>
+</map>

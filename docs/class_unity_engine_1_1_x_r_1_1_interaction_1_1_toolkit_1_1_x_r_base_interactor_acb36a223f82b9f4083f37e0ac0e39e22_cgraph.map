@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.CaptureAttachPose" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.CaptureAttachPose">
+<area shape="rect" id="Node000001" title="Capture the current Attach Transform pose. This method is automatically called by Unity to capture th..." alt="" coords="5,5,218,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor.html#af32e58ea9bab577b29ce3f8fcb1c8052" title="Gets the Transform that is used as the attachment point for a given Interactable.Returns the attachme..." alt="" coords="266,5,492,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,32,250,32,250,37,218,37"/>
+</map>

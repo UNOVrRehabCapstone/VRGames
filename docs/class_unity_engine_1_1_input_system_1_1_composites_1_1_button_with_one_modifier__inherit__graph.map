@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Composites.ButtonWithOneModifier" name="UnityEngine.InputSystem.Composites.ButtonWithOneModifier">
+<area shape="rect" id="Node000001" title="A button with an additional modifier. The button only triggers when the modifier is pressed." alt="" coords="5,96,234,139"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="42,5,197,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,64,122,96,117,96,117,64"/>
+</map>

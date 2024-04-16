@@ -1,0 +1,15 @@
+<map id="TMPro.TextMeshPro.SetAllDirty" name="TMPro.TextMeshPro.SetAllDirty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,185,115"/>
+<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#ab11edb348c490d22eca925f2a96029e3" title=" " alt="" coords="237,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,69,243,50,244,55,176,74"/>
+<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_text_mesh_pro.html#af2177065726b878773a7798a3e4aedf7" title="Schedule updating of the material used by the text object." alt="" coords="234,72,444,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,91,218,91,218,96,185,96"/>
+<area shape="rect" id="Node000006" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ca7b09fd7f2319069c84e72c0db0fa8" title="Schedule rebuilding of the text geometry." alt="" coords="233,143,445,185"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,113,249,135,247,140,171,118"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="493,5,701,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,24,478,24,478,29,441,29"/>
+<area shape="rect" id="Node000005" href="$class_t_m_pro_1_1_text_mesh_pro.html#ae087fd09b3ce4bb5bfea21e7207f3d56" title=" " alt="" coords="505,72,690,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,91,489,91,489,96,445,96"/>
+<area shape="rect" id="Node000007" href="$class_t_m_pro_1_1_t_m_p___update_manager.html#a110903981e6a8c00d95957b707cc3c99" title="Function to register elements which require a layout rebuild." alt="" coords="494,139,700,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="446,163,478,163,478,169,446,168"/>
+</map>

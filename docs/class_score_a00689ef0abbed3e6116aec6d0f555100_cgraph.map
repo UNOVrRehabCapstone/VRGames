@@ -1,0 +1,7 @@
+<map id="Score.Load" name="Score.Load">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,93,32"/>
+<area shape="rect" id="Node000002" href="$class_achievements.html#a7f191479055187c119692312b8fbf126" title=" " alt="" coords="141,5,315,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,16,125,16,125,21,93,21"/>
+<area shape="rect" id="Node000003" href="$class_achievements.html#a045289be8e16603209010538e0103519" title=" " alt="" coords="363,5,566,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,16,347,16,347,21,315,21"/>
+</map>

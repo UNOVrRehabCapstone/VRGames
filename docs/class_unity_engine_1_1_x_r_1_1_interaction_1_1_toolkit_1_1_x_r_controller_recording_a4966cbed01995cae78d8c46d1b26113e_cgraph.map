@@ -1,0 +1,5 @@
+<map id="UnityEngine.XR.Interaction.Toolkit.XRControllerRecording.AddRecordingFrame" name="UnityEngine.XR.Interaction.Toolkit.XRControllerRecording.AddRecordingFrame">
+<area shape="rect" id="Node000001" title="(Deprecated) Adds a recording of a frame." alt="" coords="5,5,225,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recording.html#ac096066c95e047fc52451e59378e7bdb" title="Adds a recording of a frame. Adds the supplied state &#160;object as a frame recording; does not allocate ..." alt="" coords="273,5,492,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,32,257,32,257,37,225,37"/>
+</map>

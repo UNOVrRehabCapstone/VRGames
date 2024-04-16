@@ -1,0 +1,9 @@
+<map id="UnityEditor.ProBuilder.ShapeState" name="UnityEditor.ProBuilder.ShapeState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,196,261"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,127,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,95,98,95,155,101,218,95,219,90,155,90,97,94,47"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_shape_state.html" title=" " alt="" coords="191,112,381,155"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="135,38,253,109,250,114,133,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,165,138,220,136,216,235,160"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="397,125,408,133,400,141,382,145,381,140,397,137,402,133,394,129"/>
+</map>

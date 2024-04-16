@@ -1,0 +1,33 @@
+<map id="UnityEngine.InputSystem.Utilities.NamedValue.ConvertTo" name="UnityEngine.InputSystem.Utilities.NamedValue.ConvertTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,323,209,365"/>
+<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#ad8d46c4c8ea504fdb14bb9482688b29d" title="Convert to another type of value." alt="" coords="257,323,468,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,341,241,341,241,347,209,347"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aa81e228bae2b8ee3fa2745a3a0b54c0e" title="Create a PrimitiveValue holding a bool." alt="" coords="516,5,752,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,321,383,268,412,197,455,122,483,88,514,58,519,54,522,59,518,62,487,91,460,125,417,199,388,270,372,323"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a8ca92d93c902295bd811684ecf530331" title="Convert the value to a boolean." alt="" coords="527,72,742,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,321,391,279,422,226,463,171,488,146,514,125,521,120,524,125,518,129,491,150,467,175,426,229,396,282,375,323"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a24b8c6514a833c4dc82a5cc60b6d13e0" title="Convert the value to a byte." alt="" coords="537,139,732,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="379,321,436,260,473,227,515,198,539,185,541,190,517,202,477,231,439,264,383,324"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#ae27c91acf7f228da685f3e8b00ce6232" title="Convert the value to a long" alt="" coords="806,289,1003,332"/>
+<area shape="poly" id="edge13_Node000002_Node000006" title=" " alt="" coords="386,320,442,277,477,257,515,241,581,226,633,222,687,228,753,241,806,258,853,279,851,284,804,263,752,247,686,233,633,227,581,231,517,247,480,262,445,282,389,324"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a18c09255d7b1844a963f527f2f5fcc2d" title="Convert the value to a char." alt="" coords="537,256,732,299"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="452,319,529,300,530,306,453,325"/>
+<area shape="rect" id="Node000008" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a1d9371d914743b108f46a4fa012c6c3f" title="Convert the value to a double." alt="" coords="800,544,1009,587"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="379,364,401,398,432,437,472,477,517,508,564,524,632,537,785,555,785,560,631,543,563,530,515,513,468,481,428,441,397,401,374,367"/>
+<area shape="rect" id="Node000009" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a76e5b57586ab0360fc0e3e89a26f7145" title="Convert the value to a short." alt="" coords="536,323,732,365"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="469,341,521,341,521,347,469,347"/>
+<area shape="rect" id="Node000010" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a56eb94dbfbf255cba553515ee4f0a7bd" title="Convert the value to an int" alt="" coords="536,389,732,432"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="453,363,530,382,529,388,452,369"/>
+<area shape="rect" id="Node000011" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a2c74f174d6bb1caa3c7c7119bca5d9ee" title="Convert the value to a sbyte." alt="" coords="532,456,736,499"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="393,364,449,403,517,442,532,448,530,453,515,446,446,408,390,368"/>
+<area shape="rect" id="Node000012" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a456cf8177d6fd779eccf1ab1513370aa" title="Convert the value to a float." alt="" coords="532,573,736,616"/>
+<area shape="poly" id="edge16_Node000002_Node000012" title=" " alt="" coords="376,365,397,405,428,455,469,507,518,553,536,564,533,569,514,557,465,511,424,458,392,407,371,367"/>
+<area shape="rect" id="Node000013" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a41c0177c36b8070edd2bfd59f280f859" title="Convert the value to a ulong." alt="" coords="532,640,737,683"/>
+<area shape="poly" id="edge18_Node000002_Node000013" title=" " alt="" coords="372,365,388,418,417,489,460,563,487,597,518,626,522,629,519,634,514,630,483,600,455,566,412,491,383,420,367,367"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="712,179,754,198,816,237,869,277,865,281,813,241,751,202,709,184"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="732,287,791,294,791,299,732,292"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="733,329,790,322,791,327,733,335"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="717,386,751,375,843,336,845,341,753,380,719,391"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="726,453,751,442,786,419,819,393,872,342,876,346,822,397,789,424,754,446,728,458"/>
+<area shape="poly" id="edge17_Node000012_Node000008" title=" " alt="" coords="736,581,785,576,786,581,737,586"/>
+</map>

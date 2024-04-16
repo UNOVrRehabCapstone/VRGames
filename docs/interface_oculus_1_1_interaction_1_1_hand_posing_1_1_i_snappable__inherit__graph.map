@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.ISnappable" name="Oculus.Interaction.HandPosing.ISnappable">
+<area shape="rect" id="Node000001" title="Interface for interactables that allow being visually aligned to by an interactor." alt="" coords="5,5,210,48"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html" title="A HandGrabInteractable indicates the properties about how a hand can snap to an object...." alt="" coords="5,96,210,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,64,110,96,105,96,105,64"/>
+</map>

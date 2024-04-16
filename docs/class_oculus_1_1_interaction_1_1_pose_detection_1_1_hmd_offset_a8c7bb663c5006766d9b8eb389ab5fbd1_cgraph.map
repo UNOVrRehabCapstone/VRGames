@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.PoseDetection.HmdOffset.Update" name="Oculus.Interaction.PoseDetection.HmdOffset.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,225,56"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hmd.html#ac223daeb38951e3171885c669686012e" title=" " alt="" coords="273,13,435,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,32,257,32,257,37,225,37"/>
+<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html#a6fabc13dec25262ed7a9fa05da327afc" title="Converts a tracking space pose to a pose in in Unity&#39;s world coordinate space (i.e...." alt="" coords="483,5,690,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,32,468,32,468,37,435,37"/>
+</map>

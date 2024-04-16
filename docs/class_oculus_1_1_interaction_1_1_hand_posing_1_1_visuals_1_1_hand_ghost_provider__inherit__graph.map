@@ -1,0 +1,5 @@
+<map id="Oculus.Interaction.HandPosing.Visuals.HandGhostProvider" name="Oculus.Interaction.HandPosing.Visuals.HandGhostProvider">
+<area shape="rect" id="Node000001" title="Holds references to the prefabs for Ghost&#45;Hands, so they can be instantiated in runtime to represent ..." alt="" coords="5,80,210,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
+</map>

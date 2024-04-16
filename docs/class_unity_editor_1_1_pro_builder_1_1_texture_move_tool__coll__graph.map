@@ -1,0 +1,13 @@
+<map id="UnityEditor.ProBuilder.TextureMoveTool" name="UnityEditor.ProBuilder.TextureMoveTool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,264,234,307"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_texture_tool.html" title=" " alt="" coords="92,188,180,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,230,138,264,133,264,133,230"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_vertex_manipulation_tool.html" title=" " alt="" coords="58,112,214,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,154,138,188,133,188,133,154"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,85,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="68,42,127,110,123,113,64,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="109,5,162,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="138,47,138,112,133,112,133,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="271,5,363,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="314,48,305,70,289,90,254,111,215,122,214,117,252,106,286,86,300,68,309,46"/>
+</map>

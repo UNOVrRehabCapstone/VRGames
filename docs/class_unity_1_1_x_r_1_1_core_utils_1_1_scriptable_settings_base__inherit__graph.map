@@ -1,0 +1,11 @@
+<map id="Unity.XR.CoreUtils.ScriptableSettingsBase&lt; T &gt;" name="Unity.XR.CoreUtils.ScriptableSettingsBase&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Base for all scriptable settings that is easier to look up via&#45;reflection. DO NOT USE THIS CLASS DIRE..." alt="" coords="211,39,401,81"/>
+<area shape="rect" id="Node000004" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_editor_scriptable_settings.html" title="Based off of Unity&#39;s Internal ScriptableSingleton with UnityEditorInternal bits removed." alt="" coords="449,5,641,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,42,448,37,449,43,417,47"/>
+<area shape="rect" id="Node000005" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_scriptable_settings.html" title="Based off of Unity&#39;s Internal ScriptableSingleton with UnityEditorInternal bits removed." alt="" coords="450,72,640,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="417,73,450,77,449,83,416,78"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,21,143,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,40,210,46,210,52,158,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,72,163,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,72,210,68,211,74,178,77"/>
+</map>

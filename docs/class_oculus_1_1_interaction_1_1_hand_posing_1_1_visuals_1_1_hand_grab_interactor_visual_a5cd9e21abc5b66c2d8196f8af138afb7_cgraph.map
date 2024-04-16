@@ -1,0 +1,7 @@
+<map id="Oculus.Interaction.HandPosing.Visuals.HandGrabInteractorVisual.InjectAllHandGrabInteractorVisual" name="Oculus.Interaction.HandPosing.Visuals.HandGrabInteractorVisual.InjectAllHandGrabInteractorVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,226,105"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_grab_interactor_visual.html#a7daa3bcba83ce07cf1d4c2a468dd5451" title=" " alt="" coords="274,5,494,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,56,258,51,259,57,226,62"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_grab_interactor_visual.html#a449c5f62434f57647deb948b627414bc" title=" " alt="" coords="274,88,494,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,90,259,95,258,101,226,96"/>
+</map>

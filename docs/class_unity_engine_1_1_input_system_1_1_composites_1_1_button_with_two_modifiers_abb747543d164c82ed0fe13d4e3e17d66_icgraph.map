@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.Composites.ButtonWithTwoModifiers.ReadValue" name="UnityEngine.InputSystem.Composites.ButtonWithTwoModifiers.ReadValue">
+<area shape="rect" id="Node000001" title="Return the value of the button part while both modifier1 and modifier2 are pressed...." alt="" coords="292,5,530,64"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_button_with_two_modifiers.html#aa9ac1780379ef78b18793d49493fabec" title="Same as ReadValue in this case." alt="" coords="5,5,244,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,37,244,37,244,32,276,32"/>
+</map>

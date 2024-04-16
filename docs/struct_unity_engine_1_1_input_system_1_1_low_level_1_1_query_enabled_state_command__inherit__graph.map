@@ -1,0 +1,5 @@
+<map id="UnityEngine.InputSystem.LowLevel.QueryEnabledStateCommand" name="UnityEngine.InputSystem.LowLevel.QueryEnabledStateCommand">
+<area shape="rect" id="Node000001" title="Command to find out whether a device is currently enabled or not." alt="" coords="5,80,255,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_device_command_info.html" title="Interface implemented by all input device command structs which reports the data format identifier of..." alt="" coords="45,5,215,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,48,133,80,127,80,127,48"/>
+</map>

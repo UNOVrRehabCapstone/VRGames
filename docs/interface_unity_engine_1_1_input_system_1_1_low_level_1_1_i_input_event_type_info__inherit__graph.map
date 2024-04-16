@@ -1,0 +1,19 @@
+<map id="UnityEngine.InputSystem.LowLevel.IInputEventTypeInfo" name="UnityEngine.InputSystem.LowLevel.IInputEventTypeInfo">
+<area shape="rect" id="Node000001" title="Interface implemented by all input event structs which reports the data format identifier of the comm..." alt="" coords="5,239,194,281"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="267,5,439,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,224,134,185,163,140,198,96,240,58,265,44,267,49,243,62,202,100,167,144,139,188,119,226"/>
+<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_delta_state_event.html" title="Partial state update for an input device." alt="" coords="267,72,439,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,225,176,173,207,147,240,124,265,112,268,117,243,129,210,151,179,177,130,229"/>
+<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_device_configuration_event.html" title="Indicates that the configuration of a device has changed." alt="" coords="242,139,464,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,229,241,191,273,179,275,184,243,196,157,234"/>
+<area shape="rect" id="Node000005" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_device_remove_event.html" title="Notifies about the removal of an input device." alt="" coords="256,205,450,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="209,243,255,237,256,242,210,248"/>
+<area shape="rect" id="Node000006" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_device_reset_event.html" title="Event that causes the state of an InputDevice to be reset (see InputSystem.ResetDevice)." alt="" coords="262,272,444,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,272,262,279,261,284,209,277"/>
+<area shape="rect" id="Node000007" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_i_m_e_composition_event.html" title="A specialized event that contains the current IME Composition string, if IME is enabled and active...." alt="" coords="251,339,455,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="157,286,243,324,275,336,273,341,241,329,155,291"/>
+<area shape="rect" id="Node000008" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html" title="A complete state snapshot for an entire input device." alt="" coords="267,405,439,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="130,291,179,343,210,369,243,391,268,403,265,408,240,396,207,373,176,347,126,295"/>
+<area shape="rect" id="Node000009" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_text_event.html" title="A single character text input event." alt="" coords="267,472,439,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="119,294,139,332,167,376,202,420,243,458,267,471,265,476,240,462,198,424,163,380,134,335,114,296"/>
+</map>

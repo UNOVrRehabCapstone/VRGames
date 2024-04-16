@@ -1,0 +1,9 @@
+<map id="Oculus.Interaction.HandWristOffset.InjectAllHandWristOffset" name="Oculus.Interaction.HandWristOffset.InjectAllHandWristOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,206,115"/>
+<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html#aef543ab1a4aaec4d7cf2d451756d5e06" title=" " alt="" coords="254,5,445,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,69,253,50,255,55,187,74"/>
+<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html#a9ccb6b76bb9a9b963270a7ba1c599318" title=" " alt="" coords="254,72,445,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,91,238,91,238,96,206,96"/>
+<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_wrist_offset.html#ac999dae00c581797bb9a7fd20e48f325" title=" " alt="" coords="254,139,445,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,113,255,131,253,137,185,118"/>
+</map>

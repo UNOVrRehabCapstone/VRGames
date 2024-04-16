@@ -1,0 +1,7 @@
+<map id="ToggleTest.ToggleGroupTests" name="ToggleTest.ToggleGroupTests">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,96,207,123"/>
+<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_test_tools_1_1_i_prebuild_setup.html" title="Implement this interface if you want to define a set of actions to run as a pre&#45;build step." alt="" coords="5,5,111,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,44,105,94,100,97,71,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,189,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,47,120,97,115,94,145,44"/>
+</map>
