@@ -29,6 +29,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.41965982, y: 0.4196599, z: 8.393198}
   m_ConstrainProportionsScale: 0
+
   m_Children: []
   m_Father: {fileID: 9213625987648024313}
   m_RootOrder: 1

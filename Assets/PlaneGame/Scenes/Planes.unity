@@ -836,21 +836,13 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 325124500}
   m_Mesh: {fileID: 4300070, guid: 81f3769ab2b82604aad39f57de409e99, type: 3}
-<<<<<<< HEAD
 --- !u!43 &384856910
-=======
---- !u!43 &384342808
->>>>>>> master
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_Name: pb_Mesh-1326
-=======
-  m_Name: pb_Mesh-1292
->>>>>>> master
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2147,11 +2139,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-<<<<<<< HEAD
       objectReference: {fileID: 384856910}
-=======
-      objectReference: {fileID: 384342808}
->>>>>>> master
     - target: {fileID: 3064085590643308750, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
       propertyPath: m_RootOrder
@@ -2211,11 +2199,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-<<<<<<< HEAD
       objectReference: {fileID: 384856910}
-=======
-      objectReference: {fileID: 384342808}
->>>>>>> master
     - target: {fileID: 5182046598587967197, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
       propertyPath: m_Enabled
@@ -2223,14 +2207,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5466912997949585256, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
-<<<<<<< HEAD
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5466912997949585256, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
-=======
->>>>>>> master
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2877872958bb24e4ab16724f15029e57, type: 2}
@@ -2243,19 +2224,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-<<<<<<< HEAD
       objectReference: {fileID: 384856910}
     - target: {fileID: 6097342842927365353, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
       propertyPath: m_VersionIndex
       value: 50
-=======
       objectReference: {fileID: 384342808}
     - target: {fileID: 6097342842927365353, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
       propertyPath: m_VersionIndex
       value: 47
->>>>>>> master
       objectReference: {fileID: 0}
     - target: {fileID: 6261298305278934521, guid: d2abce3f9b318e84dac672f151dc7f6c,
         type: 3}
@@ -2267,12 +2245,8 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 5d1946ce7cee747e6aa39a6ea4350e11, type: 2}
-<<<<<<< HEAD
     m_RemovedComponents:
     - {fileID: 5466912997949585256, guid: d2abce3f9b318e84dac672f151dc7f6c, type: 3}
-=======
-    m_RemovedComponents: []
->>>>>>> master
   m_SourcePrefab: {fileID: 100100000, guid: d2abce3f9b318e84dac672f151dc7f6c, type: 3}
 --- !u!1 &1008840115
 GameObject:
@@ -3033,8 +3007,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1004279511}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-=======
 --- !u!54 &1362825500
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3059,7 +3031,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362825497}
   m_Mesh: {fileID: 4300000, guid: 42ace78ebbcf1814eaa70d76c9ddcc11, type: 3}
->>>>>>> master
 --- !u!1 &1407409024
 GameObject:
   m_ObjectHideFlags: 0
