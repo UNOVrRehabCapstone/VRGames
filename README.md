@@ -34,6 +34,8 @@ Added an expanded iterated of the 180 degree adjustable plane spawns
 - Fully randomized spawn location for the planes
 - Plane can spawn anywhere in a 180 degree arc
 - Added game-side setup for clinitian controlled spawn distance from player
+- Updated table to handle 180 degree spawning
+-- Updated material types for table
 
 Completely decoupled targets, spawn, destroy, and respawn scripts from the generic games manager
 - Only score remains to be decoupled from the monolith game manager
