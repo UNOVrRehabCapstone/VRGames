@@ -46,3 +46,6 @@ Several bugs fixed
 - Table materials inheretence was set incorrectly
 - Fixed plane colliding with target somtimes spawning hundreds of planes
 - Fixed a client crash on target spawn under specific conditions
+
+Known issues
+- Plane sometimes spawns twice
