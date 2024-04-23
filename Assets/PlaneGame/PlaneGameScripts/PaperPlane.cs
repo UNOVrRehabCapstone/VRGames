@@ -83,10 +83,14 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         {
             Debug.Log("Hit the Target!");
             other.GetComponentInChildren<ParticleSystem>().Play();
-            
-            manager.RespawnPlane(gameObject);
 
-            other.GetComponent<Target>().hitTarget();
+            //Default
+            manager.KillPlane(gameObject);
+            
+            //Respawns plane only on collision with target
+            //manager.RespawnPlane(gameObject);
+
+            other.GetComponent<Target>().HitTarget();
 
         }
     }

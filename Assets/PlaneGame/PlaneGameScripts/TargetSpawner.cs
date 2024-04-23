@@ -17,6 +17,9 @@ using UnityEngine;
  */
 public class TargetSpawner : MonoBehaviour
 {
+
+    
+
     //The Target GameObject
     [SerializeField]
     GameObject targetPrefab;
@@ -30,6 +33,14 @@ public class TargetSpawner : MonoBehaviour
     float radius;
 
     Collider[] colliders;
+
+
+    //Tracks the number of target objects currently in the scene
+    [SerializeField]
+    int targetsInScene;
+
+    [SerializeField]
+    int targetsToSpawn;
 
     //The bounds of the box in which to randomly spawn the targets.
     float xSpawnRangeLo;
@@ -75,6 +86,8 @@ public class TargetSpawner : MonoBehaviour
 
         //Spawn the initial "wave" of targets
         SpawnConflictFree(targetsAtOnce);
+
+        targetsToSpawn = 0;
     }
 
     /**
@@ -173,9 +186,49 @@ public class TargetSpawner : MonoBehaviour
         return collisionOccurs;
     }
 
+    //Public function to track the addition of one target to the scene
+    public void AddTarget()
+    {
+        this.targetsInScene++;
+    }
+
+    //Public function to track the removal of one target from the scene
+    public void RemoveTarget()
+    {
+        this.targetsInScene--;
+    }
+
+    //Public function to add targets to the scene
+    public void QueueTargetSpawn(int numTargets)
+    {
+        if(this.targetsToSpawn < 0)
+        {
+            this.targetsToSpawn = 0;
+        }
+
+        this.targetsToSpawn += numTargets;
+    }
+
+    //Public function to add exactly one target to the scene
+    public void SpawnOneTarget()
+    {
+        QueueTargetSpawn(1);
+    }
+
+
+
     // Update is called once per frame
     void Update()
     {
-        
+       if(this.targetsInScene <= 0)
+        {
+            SpawnConflictFree(targetsAtOnce);
+        }
+
+       while (this.targetsToSpawn > 0)
+        {
+            SpawnConflictFree(1);
+            this.targetsToSpawn--;
+        }
     }
 }
