@@ -146,10 +146,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   requiredAimTime: 3
+  useDistanceFromHead: 0
   useGriplessGrabbing: 1
   useAutoReleaseTimer: 0
   useAutoAim: 1
-  useAButtonPressForThrow: 1
+  useButtonPressForThrow: 0
+  releaseButton: 1
 --- !u!64 &7589839553392399744
 MeshCollider:
   m_ObjectHideFlags: 0

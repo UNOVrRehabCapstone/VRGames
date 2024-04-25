@@ -20,13 +20,24 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     // Gripless Grabbing variables
     private Transform handTransform; // Transform of the player's hand
 
+    public enum Quest2Button
+    {
+        AButton = OVRInput.Button.One,
+        BButton = OVRInput.Button.Two,
+        Joystick = OVRInput.Button.PrimaryThumbstick,
+        Trigger = OVRInput.Button.PrimaryIndexTrigger,
+        Grip = OVRInput.Button.PrimaryHandTrigger
+    }
+
 
     [SerializeField] private float requiredAimTime = 3.0f;
     [SerializeField] private bool useDistanceFromHead = false;
     [SerializeField] private bool useGriplessGrabbing = false;
     [SerializeField] private bool useAutoReleaseTimer = false;
     [SerializeField] private bool useAutoAim = false;
-    [SerializeField] private bool useAButtonPressForThrow = false;
+    [SerializeField] private bool useButtonPressForThrow = false;
+    [SerializeField] private Quest2Button releaseButton = Quest2Button.AButton;
+
 
     void Start()
     {
@@ -97,15 +108,17 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     }
 
     bool CheckReleaseButtonPress() {
-        if (useAButtonPressForThrow
-            && OVRInput.GetDown(OVRInput.Button.One, OVRInput.Controller.RTouch)
-            || OVRInput.GetDown(OVRInput.Button.One, OVRInput.Controller.LTouch)) {
-            return true;
-        }
-        else {
-            return false;
-        }
+    // Check the selected button on both the right and left controllers
+    if (useButtonPressForThrow) {
+            if (OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.RTouch) ||
+                OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.LTouch))
+            {
+                return true;
+            }
     }
+    return false;
+}
+
 
     // Fly plane
     void FlyTowardsTarget()
