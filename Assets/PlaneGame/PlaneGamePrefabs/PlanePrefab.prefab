@@ -150,8 +150,8 @@ MonoBehaviour:
   useGriplessGrabbing: 1
   useAutoReleaseTimer: 0
   useAutoAim: 1
-  useButtonPressForThrow: 0
-  releaseButton: 1
+  useButtonPressForThrow: 1
+  releaseButton: 32768
 --- !u!64 &7589839553392399744
 MeshCollider:
   m_ObjectHideFlags: 0

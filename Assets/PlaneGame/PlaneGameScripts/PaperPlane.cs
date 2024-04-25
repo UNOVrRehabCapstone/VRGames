@@ -16,6 +16,8 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private GameObject currentTarget;
     private GameObject potentialTarget;
     private float currentAimTime;
+    private float maxTravelTime = 30;
+    private float currentTravelTime = 0;
 
     // Gripless Grabbing variables
     private Transform handTransform; // Transform of the player's hand
@@ -141,6 +143,11 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         // Manual aiming
         else {
             gameObject.transform.position -= transform.up * .1f;
+        }
+
+        currentTravelTime += Time.deltaTime;
+        if (currentTravelTime >= maxTravelTime) {
+            manager.KillPlane(gameObject);
         }
     }
 
