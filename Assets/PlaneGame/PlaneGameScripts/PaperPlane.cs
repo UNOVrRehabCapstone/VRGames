@@ -48,41 +48,35 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
 
     private void Update()
     {
-        if (aimAssist)
-        {
+        if (aimAssist){
             startAimingRay();
 
+            // All gripless Grabbing throws are in here
             if (useGriplessGrabbing) {
                 CheckTargetLock();
 
+                // Auto-release target on timer
                 if (!thrown && useAutoReleaseTimer && currentAimTime >= requiredAimTime) {
                     GriplessRelease();
                 }
+                // Release target via button press
                 else if (!thrown && CheckReleaseButtonPress())
                 {
-                    thrown = true;
-                    aimAssist = false;
-                    manager.OnPlaneReleased(gameObject);
+                    GriplessRelease();
                 }
             }
             
         }
-        else
-        {
+        else{
             aimingRay.enabled = false;
         }
 
-
-        if (thrown && !useAutoAim)
-        {
-            gameObject.transform.position -= transform.up * .1f;
-        }
-        else if (thrown && useAButtonPressForThrow) {
+        if (thrown) {
             FlyTowardsTarget();
         }
     }
 
-    // Accelerate plane with a force
+    // Accelerate plane with a force for constant acceleration
     void ApplyForceTowardsTarget()
     {
         if (currentTarget)
@@ -113,20 +107,11 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    // Aiming algorithm towards target
+    // Fly plane
     void FlyTowardsTarget()
     {
-        if (currentTarget)
-        {
-            Vector3 worldPosition = transform.position;
-            Quaternion worldRotation = transform.rotation;
-            Debug.Log("Trying to unset parent");
-            transform.SetParent(null);
-            transform.position = worldPosition;
-            transform.rotation = worldRotation;
-
-            rb.freezeRotation = true;
-            rb.isKinematic = false;
+        // Automatic aiming
+        if (currentTarget && useAutoAim) {
             Vector3 directionToTarget = (currentTarget.transform.position - transform.position);
 
             Quaternion modelForwardCorrection = Quaternion.Euler(-90, -200, 203);
@@ -140,11 +125,15 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             float speed = 3.0f;
             rb.velocity = directionToTarget.normalized * speed;
         }
+        // Manual aiming
+        else {
+            gameObject.transform.position -= transform.up * .1f;
+        }
     }
 
 
     void GriplessRelease() {
-        if (currentTarget && !thrown)
+        if (!thrown)
         {
             // Detach the plane properly ensuring world position and rotation are maintained
             Vector3 worldPosition = transform.position;
@@ -155,12 +144,8 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             transform.rotation = worldRotation;
 
             // Ensure the Rigidbody takes over with appropriate settings
-            Rigidbody rb = GetComponent<Rigidbody>();
-            if (rb != null)
-            {
-                rb.isKinematic = false;
-                rb.freezeRotation = true;
-            }
+            rb.isKinematic = false;
+            rb.freezeRotation = true;
 
             // Set flags to reflect new state
             thrown = true;
@@ -193,13 +178,13 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             Debug.Log("Hit the Target!");
             other.GetComponentInChildren<ParticleSystem>().Play();
             
-            manager.RespawnPlane(gameObject);
+            manager.KillPlane(gameObject);
 
             other.GetComponent<Target>().hitTarget();
 
         }
 
-        if (other.CompareTag("RightGrabber") || other.CompareTag("LeftGrabber"))
+        if (other.CompareTag("RightGrabber") || other.CompareTag("LeftGrabber") && !thrown)
         {
             if (!thrown && useGriplessGrabbing) {
                 handTransform = other.transform;
