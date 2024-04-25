@@ -62,6 +62,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
                 {
                     thrown = true;
                     aimAssist = false;
+                    manager.OnPlaneReleased(gameObject);
                 }
             }
             
@@ -117,12 +118,27 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     {
         if (currentTarget)
         {
+            Vector3 worldPosition = transform.position;
+            Quaternion worldRotation = transform.rotation;
+            Debug.Log("Trying to unset parent");
+            transform.SetParent(null);
+            transform.position = worldPosition;
+            transform.rotation = worldRotation;
+
             rb.freezeRotation = true;
-            manager.OnPlaneReleased(gameObject);
             rb.isKinematic = false;
-            Vector3 directionToTarget = (currentTarget.transform.position - transform.position).normalized;
-            float speed = 30.0f;  // Adjust the speed as necessary
-            rb.velocity = directionToTarget * speed;
+            Vector3 directionToTarget = (currentTarget.transform.position - transform.position);
+
+            Quaternion modelForwardCorrection = Quaternion.Euler(-90, -200, 203);
+
+            // Calculate the corrected target orientation
+            Quaternion targetRotation = Quaternion.LookRotation(directionToTarget);
+            Quaternion correctedTargetRotation = targetRotation * modelForwardCorrection;
+
+            // Optionally, smooth the rotation
+            transform.rotation = Quaternion.Slerp(transform.rotation, correctedTargetRotation, Time.deltaTime * 5);
+            float speed = 3.0f;
+            rb.velocity = directionToTarget.normalized * speed;
         }
     }
 
