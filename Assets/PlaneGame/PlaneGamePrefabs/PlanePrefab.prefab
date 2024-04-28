@@ -16,7 +16,6 @@ GameObject:
   - component: {fileID: 3304863863443993663}
   - component: {fileID: 3982003228028246846}
   - component: {fileID: 7589839553392399744}
-  - component: {fileID: 205963087939656720}
   m_Layer: 0
   m_Name: PlanePrefab
   m_TagString: Plane
@@ -124,7 +123,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7308743117189400344}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
   m_Name: 
@@ -146,6 +145,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb642711cefd1bc4e809559a063f5eb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerAvatarPrefab: {fileID: 2548983691015272852, guid: 3af9206f105434a4bb529ec838da9232,
+    type: 3}
+  throwThreshold: 0.35
+  progressIndicatorPrefab: {fileID: 8919826167011501875, guid: d4c021f861701ed4eb810bb507d0f3ab,
+    type: 3}
+  requiredAimTime: 3
+  useDistanceFromHead: 0
+  useGriplessGrabbing: 1
+  useAutoReleaseTimer: 1
+  useAutoAim: 1
+  useButtonPressForThrow: 0
+  releaseButton: 32768
 --- !u!64 &7589839553392399744
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -160,16 +171,3 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 8aef3b7f4c1e2b646b4926e8d58a2f0b, type: 3}
---- !u!114 &205963087939656720
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7308743117189400344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c81f3c9c5a2cb4349b547b5ad78f4571, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  handTransform: {fileID: 0}
