@@ -306,9 +306,6 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         {
             Debug.Log("Hit the Target!");
             other.GetComponentInChildren<ParticleSystem>().Play();
-
-            //Default
-            manager.KillPlane(gameObject);
             
             manager.KillPlane(gameObject);
             DestroyProgressIndicator();
