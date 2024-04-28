@@ -1,6 +1,9 @@
 ﻿using Classes;
 using UnityEngine;
 using OVR;
+using UnityEngine.UI;
+using UnityEngine.XR;
+
 
 public class PaperPlane : MonoBehaviour, IGrabEvent
 {
@@ -13,14 +16,27 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private Vector3 origin;
     private Vector3 endPoint;
 
+    // Distance From Head Throw variables
+    public GameObject playerAvatarPrefab; // Assign this in the inspector
+    private Transform rightHandAnchor;
+    private Transform leftHandAnchor;
+    private Transform centerEyeAnchor;
+    public float throwThreshold;
+    private Vector3 lastHandPosition;
+    private bool isReadyToThrow = false;
+
+    // Gripless Grabbing variables
+    private Transform handTransform; // Transform of the player's hand
     private GameObject currentTarget;
     private GameObject potentialTarget;
     private float currentAimTime;
     private float maxTravelTime = 30;
     private float currentTravelTime = 0;
 
-    // Gripless Grabbing variables
-    private Transform handTransform; // Transform of the player's hand
+    // Variable for visual indicator of target lock and auto-throw
+    public GameObject progressIndicatorPrefab;
+    private GameObject currentIndicator;
+
 
     public enum Quest2Button
     {
@@ -41,6 +57,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     [SerializeField] private Quest2Button releaseButton = Quest2Button.AButton;
 
 
+    /// <summary>
+    /// Perform initial setup and configuration.
+    /// </summary>
     void Start()
     {
         aimingRay = gameObject.AddComponent<LineRenderer>();
@@ -57,16 +76,40 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         {
             manager = (PlaneGameplayManager)GameplayManager.getManager();
         }
+
+        GameObject playerAvatar = GameObject.FindWithTag("Player");
+        if (playerAvatarPrefab != null) {
+            Debug.Log("Player Avatar Found");
+            rightHandAnchor = playerAvatar.transform.Find("AvatarGrabberRight");
+            leftHandAnchor = playerAvatar.transform.Find("AvatarGrabberLeft");
+            centerEyeAnchor = playerAvatar.transform.Find("OVRCameraRig/TrackingSpace/CenterEyeAnchor");
+        }
+        else {
+            Debug.Log("No Player Avatar Found");
+        }
     }
 
+    /// <summary>
+    /// Update is called once per frame and handles user input and lock-on logic.
+    /// </summary>
     private void Update()
     {
+        // if (playerAvatarPrefab == null) {
+           
+        // }
+
         if (aimAssist){
             startAimingRay();
 
             // All gripless Grabbing throws are in here
             if (useGriplessGrabbing) {
-                CheckTargetLock();
+                if (useAutoAim || useAutoReleaseTimer) {
+                    CheckTargetLock();
+                }
+
+                if (useDistanceFromHead) {
+                    CheckThrowCondition();
+                }
 
                 // Auto-release target on timer
                 if (!thrown && useAutoReleaseTimer && currentAimTime >= requiredAimTime) {
@@ -78,9 +121,8 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
                     GriplessRelease();
                 }
             }
-            
         }
-        else{
+        else {
             aimingRay.enabled = false;
         }
 
@@ -100,7 +142,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-
+    /// <summary>
+    /// Checks if the target is locked on based on aiming duration.
+    /// </summary>
     void CheckTargetLock()
     {
         if (currentAimTime >= requiredAimTime)
@@ -109,18 +153,52 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    bool CheckReleaseButtonPress() {
-    // Check the selected button on both the right and left controllers
-    if (useButtonPressForThrow) {
-            if (OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.RTouch) ||
-                OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.LTouch))
-            {
-                return true;
-            }
-    }
-    return false;
-}
+    private void CheckThrowCondition()
+    {
+        // Current positions of the hand and head
+        Vector3 currentHandPosition = rightHandAnchor.position;
+        Vector3 currentHeadPosition = centerEyeAnchor.position;
 
+        Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
+
+        // Check if the hand has moved away from its last position by more than the threshold
+        if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > throwThreshold)
+        {
+            // The hand has moved enough distance; we consider this a throw
+            GriplessRelease();
+            isReadyToThrow = false; // Reset the throw readiness
+        }
+        else if (!isReadyToThrow) {
+            lastHandPosition = currentHandPosition;
+            Vector3 localEulerAngles = rightHandAnchor.rotation.eulerAngles;            
+
+            // Normalize to make angle values the same number shown in inspector
+            localEulerAngles = NormalizeAngles(localEulerAngles);
+
+            if (localEulerAngles.x <= -30  &&
+            localEulerAngles.y >= -90 && localEulerAngles.y <= 90 &&
+            localEulerAngles.z >= -90 && localEulerAngles.z <= 90)
+            {
+                Debug.Log("X Rotation Met");
+                ReadyToThrow();
+            }
+        }
+
+        // Update the last hand position
+        
+    }
+
+    bool CheckReleaseButtonPress() {
+        // Check the selected button on both the right and left controllers
+        if (useButtonPressForThrow) {
+                if (OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.RTouch) ||
+                    OVRInput.GetDown((OVRInput.Button)releaseButton, OVRInput.Controller.LTouch))
+                {
+                    return true;
+                }
+        }
+        return false;
+    }
 
     // Fly plane
     void FlyTowardsTarget()
@@ -151,7 +229,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-
+    /// <summary>
+    /// Triggers the plane's automatic release toward the locked-on target.
+    /// </summary>
     void GriplessRelease() {
         if (!thrown)
         {
@@ -174,7 +254,27 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    //Called by Grabber
+    private Vector3 NormalizeAngles(Vector3 angles)
+    {
+        angles.x = NormalizeAngle(angles.x);
+        angles.y = NormalizeAngle(angles.y);
+        angles.z = NormalizeAngle(angles.z);
+        return angles;
+    }
+
+    private float NormalizeAngle(float angle)
+    {
+        // Adjust the angle to be within -180 and 180 degrees.
+        if (angle > 180) {
+            angle -= 360;
+        }
+        return angle;
+    }
+
+    /// <summary>
+    /// Called when the object is grabbed, initializes the aiming process.
+    /// </summary>
+    /// <param name="hand">The hand GameObject that initiated the grab.</param>
     public void onGrab(GameObject hand){
         if (!useGriplessGrabbing)
         {
@@ -182,6 +282,11 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             aimAssist = true;
         }
     }
+
+    /// <summary>
+    /// Called when the object is released, performs the throw of the paper plane.
+    /// </summary>
+    /// <param name="hand">The hand GameObject that released the plane.</param>
     public void onRelease(GameObject hand){
         if (!useGriplessGrabbing) {
             thrown = true;
@@ -191,6 +296,10 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
+    /// <summary>
+    /// Checks for collision with a target and triggers appropriate behavior.
+    /// </summary>
+    /// <param name="other">The collider the plane collided with.</param>
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Hoop"))
@@ -199,6 +308,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             other.GetComponentInChildren<ParticleSystem>().Play();
             
             manager.KillPlane(gameObject);
+            DestroyProgressIndicator();
 
             other.GetComponent<Target>().hitTarget();
 
@@ -217,8 +327,16 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    void startAimingRay()
+    public void ReadyToThrow()
     {
+        isReadyToThrow = true;
+        lastHandPosition = rightHandAnchor.position; // Reset the last hand position
+    }
+
+    /// <summary>
+    /// Starts the aiming process with a raycast and updates the lock-on progress.
+    /// </summary>
+    void startAimingRay() {
         aimingRay.SetPosition(0, transform.position - transform.up * .2f + transform.forward * .02f);
         origin = aimingRay.GetPosition(0);
         endPoint = origin - transform.up * 10f - transform.forward * .4f;
@@ -230,17 +348,51 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         {
             Debug.Log("Hit something, but not target");
             Debug.Log(hit.collider.gameObject.tag);
-            if (hit.collider.gameObject.CompareTag("Hoop"))
-            {
-
-                if (potentialTarget != hit.collider.gameObject)
-                {
+            if (hit.collider.gameObject.CompareTag("Hoop")) {
+                if (potentialTarget != hit.collider.gameObject) {
+                    DestroyProgressIndicator();
                     potentialTarget = hit.collider.gameObject;
                     currentAimTime = 0;
                     Debug.Log("Aim time reset");
+                    SpawnProgressIndicator(potentialTarget.transform.position);
                 }
                 currentAimTime += Time.deltaTime;
+                UpdateProgressIndicator(currentAimTime, requiredAimTime);
                 Debug.Log("Pointing at target");
+            }
+            else {
+                DestroyProgressIndicator();
+                potentialTarget = null;
+            }
+
+        }
+    }
+
+    // --> PROGRESS INDICATOR FUNCTIONS <--
+    void DestroyProgressIndicator() {
+        if (useAutoAim || useAutoReleaseTimer) {
+            if (currentIndicator != null) {
+                ProgressIndicator progressScript = currentIndicator.GetComponent<ProgressIndicator>();
+                progressScript.DestroyProgressIndicator();
+                currentIndicator = null;
+            }
+        }
+    }
+
+    void SpawnProgressIndicator(Vector3 position) {
+        if (useAutoAim || useAutoReleaseTimer) {
+            currentIndicator = Instantiate(progressIndicatorPrefab);
+            ProgressIndicator progressScript = currentIndicator.GetComponent<ProgressIndicator>();
+            progressScript.InitializeProgressIndicator(position);
+        }
+    }
+
+
+    void UpdateProgressIndicator(float current, float required) {
+        if (useAutoAim || useAutoReleaseTimer) {
+            if (currentIndicator != null) {
+                ProgressIndicator progressIndicatorScript = currentIndicator.GetComponent<ProgressIndicator>();
+                progressIndicatorScript.UpdateProgressIndicator(current, required);
             }
         }
     }
