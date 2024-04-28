@@ -49,3 +49,56 @@ Several bugs fixed
 
 Known issues
 - Plane sometimes spawns twice
+
+
+### 4/28/2024 (Milestone 4)
+
+Made target manager aware of number of targets currently in the scene.
+Made target manager spawn a new wave of targets if there are no targets in the scene
+Added functionality to target manager to dynamically spawn targets while the game is running.
+Added functionality to targets to inform target manager when they begin and cease existing.
+Added functionality to target manager to allow for compatibility with clinician view, laying the foundation to allow clinician view to spawn targets on demand.
+
+Added auto-aim
+- Uses required aim time
+- Target will have a circle appear around it and fill up
+- Once indicator is full, plane is locked on to target and will track to hit target, regardless of release angle.
+- Plane will rotate to point at target 
+- Auto-aim tracks moving targets, which allows for future itteration on the game
+- Is compatible with Distance from Head, auto-release, and button press for throw
+- Requires gripless grabbing
+
+Added Auto-Release timer
+- Uses required aim time
+- When aim time is met, plane will automatically release
+- Default behavior is plane will fly straight forward
+- If auto-aim is used, target will lock on to, auto-release, and track the target upon target lock aquired.
+- Is compatible with auto-aim
+- Requires gripless grabbing
+
+Added Aiming Indicator
+- Uses Required Aim Time
+- A yellow ring will fill while aiming at a target if using auto-release or auto-aim
+- Automatically applies when auto-release or auto-aim are toggled
+
+Added Use Button Press for Throw
+- Use a button press to release plane
+- When toggled on, it ursurps OVR Grabbable control
+- Button can be selected between any button on the controller
+- Buttons are: A, B, Joystick press, Trigger, and Grip
+- Is compatible with auto-aim
+- Requires Gripless Grabbing
+
+Added Distance From Head Throw
+- Uses Throw Threshold (in meters)
+- When on, patient will raise controller to head then move arm forward to release plane
+- Primes throw by tilting controller so plane is facing striaght out
+- Once primed, player moves arm forward to specificed throw threshold
+- Throw is based on distance from controller to eyes
+- Is compatible with auto-aim and auto-release
+- Requires Gripless Grabbing
+
+Known bugs:
+- Targeting progress indicator disappears after pointing away from target when target lock is already aquired (behavior of target lock is still present)
+- When angle is too steep, auto-aim will not track onto target
+- Auto-aim tracks bottom of target until close, resulting in an upwards curve motion
