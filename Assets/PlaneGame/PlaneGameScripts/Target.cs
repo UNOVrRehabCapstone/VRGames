@@ -6,10 +6,14 @@ namespace Classes
 {
     public class Target : MonoBehaviour
     {
-        public static int targetsInScene = 0;
+
+        GameObject TargetManager;
+
         private void Start()
         {
-            Target.targetsInScene++;
+            GameObject TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
+
+            TargetManager.GetComponent<TargetSpawner>().AddTarget();
         }
 
         void OnTriggerEnter(Collider other)
@@ -27,7 +31,7 @@ namespace Classes
             }
         }
 
-        public void hitTarget()
+        public void HitTarget()
         {
 
             this.GetComponent<MeshCollider>().enabled = false;
@@ -37,8 +41,13 @@ namespace Classes
                 r.GetComponent<MeshRenderer>().enabled = false;
             }
 
+            TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
+            TargetManager.GetComponent<TargetSpawner>().RemoveTarget();
+
             Destroy(gameObject, 3.0f);
         }
+
+
     }
 }
 

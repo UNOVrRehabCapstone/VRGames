@@ -1458,7 +1458,7 @@ GameObject:
   - component: {fileID: 679299537}
   m_Layer: 0
   m_Name: TargetManager
-  m_TagString: Untagged
+  m_TagString: TargetManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1492,8 +1492,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetPrefab: {fileID: 9213625987648024316, guid: e119da1f047eb434aacadc94a8c635ec,
     type: 3}
-  targetsAtOnce: 10
+  targetsAtOnce: 1
   radius: 1
+  targetsInScene: 0
 --- !u!4 &709475017 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8450419207317404868, guid: 0052197c0568f52468091dc5d6fd8410,
