@@ -44,6 +44,8 @@ namespace Classes
             TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
             TargetManager.GetComponent<TargetSpawner>().RemoveTarget();
 
+            
+
             Destroy(gameObject, 3.0f);
         }
 
