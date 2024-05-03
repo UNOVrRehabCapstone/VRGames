@@ -147,16 +147,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerAvatarPrefab: {fileID: 2548983691015272852, guid: 3af9206f105434a4bb529ec838da9232,
     type: 3}
-  throwThreshold: 0.35
+  throwThreshold: 0.3
   progressIndicatorPrefab: {fileID: 8919826167011501875, guid: d4c021f861701ed4eb810bb507d0f3ab,
     type: 3}
   requiredAimTime: 3
-  useDistanceFromHead: 0
+  useDistanceFromHead: 1
   useGriplessGrabbing: 1
-  useAutoReleaseTimer: 1
+  useAutoReleaseTimer: 0
   useAutoAim: 1
   useButtonPressForThrow: 0
-  releaseButton: 32768
+  releaseButton: 1
 --- !u!64 &7589839553392399744
 MeshCollider:
   m_ObjectHideFlags: 0
