@@ -9,14 +9,9 @@ namespace Classes
 
         GameObject TargetManager;
 
-        //used for scoring only
-        //GameObject Manager;
-        
-
         private void Start()
         {
-            //Manager = GameObject.FindGameObjectWithTag("Manager");
-            TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
+            GameObject TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
 
             TargetManager.GetComponent<TargetSpawner>().AddTarget();
         }
@@ -25,6 +20,7 @@ namespace Classes
         {
             if (other.gameObject.CompareTag("RightPlane") || other.gameObject.CompareTag("LeftPlane") || other.gameObject.CompareTag("plane"))
             {
+                PointsManager.addPoints(1);
                 GetComponentInChildren<ParticleSystem>().Play();
                 foreach (var r in gameObject.GetComponentsInChildren<MeshRenderer>())
                 {
@@ -44,12 +40,9 @@ namespace Classes
             {
                 r.GetComponent<MeshRenderer>().enabled = false;
             }
-            
-            TargetManager.GetComponent<TargetSpawner>().RemoveTarget();
 
-            //Manager.GetComponent<PointsManager>().addPoints(1);
-            PointsManager.addPoints(1);
-            
+            TargetManager = GameObject.FindGameObjectWithTag("TargetManager");
+            TargetManager.GetComponent<TargetSpawner>().RemoveTarget();
 
             Destroy(gameObject, 3.0f);
         }
