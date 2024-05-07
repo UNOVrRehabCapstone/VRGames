@@ -117,6 +117,7 @@ public class PointsManager : MonoBehaviour
     }
 
     public static void updateScoreboard(){
+        updateScore();
         updateLeftScore();
         updateRightScore();
         updateLivesDisplay();
@@ -126,7 +127,7 @@ public class PointsManager : MonoBehaviour
     {
         GameObject leftScoreboard = GameObject.FindGameObjectWithTag("LeftPoints");
         TextMesh leftTextMesh = leftScoreboard.GetComponentInChildren<TextMesh>();
-        leftScoreboard.GetComponentInChildren<TextMesh>().text = "Left: " + leftPoints + " pts";
+        leftScoreboard.GetComponentInChildren<TextMesh>().text = "Oh no Left: " + leftPoints + " pts";
 
         // Updating the color based on the hand setting
 
@@ -150,6 +151,13 @@ public class PointsManager : MonoBehaviour
         } else{
             rightTextMesh.color = Color.black;
         }
+    }
+
+    private static void updateScore()
+    {
+        GameObject scoreboard = GameObject.FindGameObjectWithTag("Points");
+        TextMesh textMesh = scoreboard.GetComponentInChildren<TextMesh>();
+        scoreboard.GetComponentInChildren<TextMesh>().text = points + " pts";
     }
 
     private static void updateLivesDisplay()

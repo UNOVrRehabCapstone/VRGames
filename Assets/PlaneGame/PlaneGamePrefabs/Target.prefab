@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6544622771496749267}
   - component: {fileID: 6436729079808996413}
   - component: {fileID: 7979363571511742576}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CFX_Hit_C White
   m_TagString: FxTemporaire
   m_Icon: {fileID: 0}
@@ -4724,7 +4724,7 @@ GameObject:
   - component: {fileID: 1572756120322102851}
   - component: {fileID: 8505587025849291698}
   - component: {fileID: 7555882944381815831}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Center Ring
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4822,7 +4822,7 @@ GameObject:
   - component: {fileID: 3829162775731446882}
   - component: {fileID: 4492128187022673570}
   - component: {fileID: 239281356518822172}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Inner Ring
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4921,7 +4921,7 @@ GameObject:
   - component: {fileID: 9213625987648024319}
   - component: {fileID: 1538160630585082822}
   - component: {fileID: 643063903234553356}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Target
   m_TagString: Hoop
   m_Icon: {fileID: 0}

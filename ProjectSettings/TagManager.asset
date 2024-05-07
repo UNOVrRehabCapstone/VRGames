@@ -81,6 +81,8 @@ TagManager:
   - AchievementPopup
   - Achievement
   - TargetManager
+  - Manager
+  - Points
   layers:
   - Default
   - TransparentFX
