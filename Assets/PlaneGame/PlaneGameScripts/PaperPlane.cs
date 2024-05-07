@@ -159,7 +159,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         Vector3 currentHandPosition = rightHandAnchor.position;
         Vector3 currentHeadPosition = centerEyeAnchor.position;
 
-        Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
+        // Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
 
         // Check if the hand has moved away from its last position by more than the threshold
         if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > throwThreshold)
@@ -174,8 +174,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
 
             // Normalize to make angle values the same number shown in inspector
             localEulerAngles = NormalizeAngles(localEulerAngles);
+            Debug.Log(localEulerAngles.x);
 
-            if (localEulerAngles.x <= -30  &&
+            if (localEulerAngles.x <= -80  &&
             localEulerAngles.y >= -90 && localEulerAngles.y <= 90 &&
             localEulerAngles.z >= -90 && localEulerAngles.z <= 90)
             {
@@ -205,9 +206,8 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     {
         // Automatic aiming
         if (currentTarget && useAutoAim) {
-            Vector3 directionToTarget = (currentTarget.transform.position - transform.position);
-
             Quaternion modelForwardCorrection = Quaternion.Euler(-90, -200, 203);
+            Vector3 directionToTarget = (currentTarget.transform.position - transform.position);    
 
             // Calculate the corrected target orientation
             Quaternion targetRotation = Quaternion.LookRotation(directionToTarget);
@@ -216,7 +216,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             // Optionally, smooth the rotation
             transform.rotation = Quaternion.Slerp(transform.rotation, correctedTargetRotation, Time.deltaTime * 5);
             float speed = 3.0f;
-            rb.velocity = directionToTarget.normalized * speed;
+
+            directionToTarget = (currentTarget.transform.position - transform.position);    
+            rb.velocity = directionToTarget.normalized * speed;        
         }
         // Manual aiming
         else {
