@@ -42,9 +42,13 @@ public class PlaneGameplayManager : GameplayManager
     private bool gameIsOver;
 
 
+    private void Awake()
+    {
+        
+    }
     /**
      * \brief Initializes the game, sets up the scoreboard message, and spawns initial planes.
-     */   
+     */
     new void Start()
     {
         base.Start();
@@ -126,6 +130,7 @@ public class PlaneGameplayManager : GameplayManager
         //     }
         // }
         // StartCoroutine( DespawnCountdown( plane ) );
+        plane.GetComponent<PlaneThrowSound>().PlayThrowSound();
         SpawnPlanes();
     }
 

@@ -528,7 +528,7 @@ MonoBehaviour:
   maxTime: 0
   gameSettings: {fileID: 0}
   playerLives: 0
-  planePrefab: {fileID: 7308743117189400344, guid: 989a4851b5b31794cbdfb57ab64c35d0,
+  planePrefab: {fileID: 3002887373004695206, guid: 66879acec2b90e041aa585dc5af50fc5,
     type: 3}
   newTable: {fileID: 1362825497}
   secondsTilDespawn: 2
@@ -597,7 +597,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 144854159}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
