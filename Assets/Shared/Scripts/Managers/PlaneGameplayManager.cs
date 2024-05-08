@@ -126,6 +126,10 @@ public class PlaneGameplayManager : GameplayManager
         //     }
         // }
         // StartCoroutine( DespawnCountdown( plane ) );
+<<<<<<< HEAD
+=======
+        plane.GetComponent<PlaneSound>().PlayThrowSound();
+>>>>>>> SoundOverhaul
         SpawnPlanes();
     }
 
