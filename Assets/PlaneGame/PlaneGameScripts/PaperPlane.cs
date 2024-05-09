@@ -21,7 +21,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private Transform rightHandAnchor;
     private Transform leftHandAnchor;
     private Transform centerEyeAnchor;
-    [Serialize Field] public static float throwThreshold;
+    [SerializeField] public static float throwThreshold;
     private Vector3 lastHandPosition;
     private bool isReadyToThrow = false;
 
@@ -162,7 +162,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         // Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
 
         // Check if the hand has moved away from its last position by more than the threshold
-        if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > throwThreshold)
+        if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > (throwThreshold / 100))
         {
             // The hand has moved enough distance; we consider this a throw
             GriplessRelease();
