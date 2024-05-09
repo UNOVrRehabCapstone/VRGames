@@ -104,7 +104,7 @@ namespace Network
                  SocketClasses.BalloonGameSettingsValues.environment = obj.environment;
                  switch(obj.game) {
                     case "3":
-                        SceneManager.LoadScene("Planes");
+                        SceneManager.LoadScene("PlanesV2.024");
                         break;
                     case "2":
                          SocketClasses.BalloonGameSettingsValues.clinicianIsControlling = true;
@@ -127,6 +127,7 @@ namespace Network
             _socket.On("test", (string payload) => {
                 Debug.Log("Recieved Test!Recieved Test!Recieved Test!Recieved Test!Recieved Test!Recieved Test!");
             });
+
             _socket.On("balloonSettings", (string payload) =>
             {
                 Debug.Log(payload);
@@ -329,6 +330,15 @@ namespace Network
                     AchievementManager.Instance.SetupAchievementList();
                 }
 
+            });
+
+            _socket.On("planeSettings", (string payload) => 
+            {
+                Debug.Log("In Plane Settings");
+                Debug.Log(payload);
+                var obj = JsonConvert.DeserializeObject<SocketClasses.PlaneGameSettings>(payload);
+                SocketClasses.PlaneGameSettingsValues.targets = obj.targets;
+                Debug.Log("Targets spawned: " + SocketClasses.PlaneGameSettingsValues.targets);
             });
 
             _socket.On("pauseGame", (string payload) => {

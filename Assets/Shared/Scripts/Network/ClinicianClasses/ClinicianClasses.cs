@@ -28,6 +28,21 @@ namespace SocketClasses
         public string timeBetweenSpawns;
     }
 
+    public class PlaneGameSettings 
+    {
+        public bool griplessGrabbing;
+        public bool leftSideSpawnOnly;
+        public string releaseButton;
+        public double requiredAimTime;
+        public bool rightSideSpawnOnly;
+        public int targets;
+        public int throwThreshold;
+        public bool useAutoAim;
+        public bool useAutoReleaseTimerThrow;
+        public bool useButtonPressForThrow;
+        public bool useDistanceFromHeadThrow;
+    }
+
     public static class BalloonGameSettingsValues
     {
         //these are the default values for the balloon game that will be loaded if no clinician is controlling the game
@@ -54,6 +69,21 @@ namespace SocketClasses
 
         /* SETTINGS SPECIFIC TO CAREER MODE */
         public static string careerModeLevelToPlay = "0";
+    }
+
+    public static class PlaneGameSettingsValues
+    {
+        public static bool griplessGrabbing = false;
+        public static bool leftSideSpawnOnly = false;
+        public static string releaseButton = "Trigger";
+        public static double requiredAimTime = 3.0;
+        public static bool rightSideSpawnOnly = false;
+        public static int targets = 1;
+        public static int throwThreshold = 35;
+        public static bool useAutoAim = false;
+        public static bool useAutoReleaseTimerThrow = false;
+        public static bool useButtonPressForThrow = true;
+        public static bool useDistanceFromHeadThrow = false;
     }
 
     public class BalloonGameData
