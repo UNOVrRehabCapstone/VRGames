@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace PlanesGame{
 public class PlaneSound : MonoBehaviour
 {
 
@@ -25,4 +26,4 @@ public class PlaneSound : MonoBehaviour
     {
         audioSource.PlayOneShot(audioSource.clip);
     }
-}
+}}

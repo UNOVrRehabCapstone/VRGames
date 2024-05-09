@@ -4,7 +4,7 @@ using OVR;
 using UnityEngine.UI;
 using UnityEngine.XR;
 
-
+namespace PlanesGame{
 public class PaperPlane : MonoBehaviour, IGrabEvent
 {
     private bool thrown = false;
@@ -21,7 +21,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private Transform rightHandAnchor;
     private Transform leftHandAnchor;
     private Transform centerEyeAnchor;
-    public float throwThreshold;
+    [Serialize Field] public static float throwThreshold;
     private Vector3 lastHandPosition;
     private bool isReadyToThrow = false;
 
@@ -48,13 +48,13 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     }
 
 
-    [SerializeField] private float requiredAimTime = 3.0f;
-    [SerializeField] private bool useDistanceFromHead = false;
-    [SerializeField] private bool useGriplessGrabbing = false;
-    [SerializeField] private bool useAutoReleaseTimer = false;
-    [SerializeField] private bool useAutoAim = false;
-    [SerializeField] private bool useButtonPressForThrow = false;
-    [SerializeField] private Quest2Button releaseButton = Quest2Button.AButton;
+    [SerializeField] public static float requiredAimTime = 3.0f;
+    [SerializeField] public static bool useDistanceFromHead = false;
+    [SerializeField] public static bool useGriplessGrabbing = false;
+    [SerializeField] public static bool useAutoReleaseTimer = false;
+    [SerializeField] public static bool useAutoAim = false;
+    [SerializeField] public static bool useButtonPressForThrow = false;
+    [SerializeField] public static Quest2Button releaseButton = Quest2Button.AButton;
 
 
     /// <summary>
@@ -398,4 +398,4 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             }
         }
     }
-}
+}}

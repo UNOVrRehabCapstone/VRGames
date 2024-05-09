@@ -2,6 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+namespace PlanesGame{
 public class ProgressIndicator : MonoBehaviour
 {
     private Image fillImage;
@@ -40,4 +41,5 @@ public class ProgressIndicator : MonoBehaviour
     {
         Destroy(gameObject);
     }
+}
 }

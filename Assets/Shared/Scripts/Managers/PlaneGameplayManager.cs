@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using Random = System.Random;
 
+namespace PlanesGame{
 /**
  * \class PlaneGameplayManager
  * \brief Manages the gameplay logic for plane interactions, including spawning and lifecycle management.
@@ -36,6 +37,10 @@ public class PlaneGameplayManager : GameplayManager
 
     [SerializeField]
     private List<GameObject> planes = new List<GameObject>();
+    [SerializeField] public static int exactDegrees;
+    [SerializeField] public static bool useExactAngle = false;
+    [SerializeField] public static bool rightSpawnOnly = false;
+    [SerializeField] public static bool leftSpawnOnly = false;
 
     //private List<GameObject> hoops = new List<GameObject>();
     private bool timedTargets;
@@ -221,11 +226,33 @@ public class PlaneGameplayManager : GameplayManager
      */
     void SpawnPlane(GameObject plane)
     {
-        plane.transform.position = new Vector3(0, 1, 0.65f);
-        int degrees = rnd.Next(0, 180);
-        degrees -= 90;
-        plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
-        planes.Add(plane);
+        if(useExactAngle){
+            Debug.Log("Using Exact Angle: " + exactDegrees);
+            plane.transform.position = new Vector3(0, 1, 0.65f);
+            int degrees = exactDegrees - 90;
+            plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
+            planes.Add(plane);
+        } else if(rightSpawnOnly){
+            Debug.Log("Using Right Spawns Only");
+            plane.transform.position = new Vector3(0, 1, 0.65f);
+            int degrees = rnd.Next(0, 90);
+            plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
+            planes.Add(plane);
+        } else if(leftSpawnOnly){
+            Debug.Log("Using Left Spawns Only");
+            plane.transform.position = new Vector3(0, 1, 0.65f);
+            int degrees = rnd.Next(0, 90);
+            degrees -= 90;
+            plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
+            planes.Add(plane);
+        } else {
+            Debug.Log("Using All Spawns");
+            plane.transform.position = new Vector3(0, 1, 0.65f);
+            int degrees = rnd.Next(0, 180);
+            degrees -= 90;
+            plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
+            planes.Add(plane);
+        }
     }
 
     //  LEGACY SPAWN PLANE METHODS, DOES NOT WORK
@@ -319,4 +346,4 @@ public class PlaneGameplayManager : GameplayManager
         }
     }
     */
-}
+}}

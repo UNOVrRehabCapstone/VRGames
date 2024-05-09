@@ -9,6 +9,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace PlanesGame {
 /**
  * \class GriplessGrabbing
  * \brief Handles the gripless grabbing and attaching of objects to a hand transform.
@@ -63,4 +64,4 @@ public class GriplessGrabbing : MonoBehaviour
             }
         }
     }
-}
+}}

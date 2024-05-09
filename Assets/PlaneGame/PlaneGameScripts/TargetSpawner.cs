@@ -9,6 +9,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace PlanesGame{
 /**
  * \class TargetSpawner
  * \brief Spawns target objects within a specified area, ensuring they do not overlap.
@@ -61,11 +62,11 @@ public class TargetSpawner : MonoBehaviour
     [Header("Initial Target Spawns")]
     //Number of "all" targets (targets anywhere within the bounds) to spawn initially.
     [SerializeField]
-    int initallTargets;
+    public static int initallTargets;
 
     //Number of left targets to spawn initially.
     [SerializeField]
-    int initleftTargets;
+    public static int initleftTargets;
 
     //Number of right targets to spawn initially.
     [SerializeField]
@@ -400,4 +401,4 @@ public class TargetSpawner : MonoBehaviour
             this.farTargets--;
         }
     }
-}
+}}

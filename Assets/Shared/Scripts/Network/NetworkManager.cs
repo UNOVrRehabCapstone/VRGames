@@ -9,7 +9,9 @@ using UnityEngine.UI;
 using Classes.Managers;
 using System.Globalization;
 using BalloonsGame;
+using PlanesGame;
 using PlayerManager = Classes.Managers.PlayerManager;
+using OVR;
 
 namespace Network
 {
@@ -334,11 +336,31 @@ namespace Network
 
             _socket.On("planeSettings", (string payload) => 
             {
-                Debug.Log("In Plane Settings");
                 Debug.Log(payload);
                 var obj = JsonConvert.DeserializeObject<SocketClasses.PlaneGameSettings>(payload);
-                SocketClasses.PlaneGameSettingsValues.targets = obj.targets;
-                Debug.Log("Targets spawned: " + SocketClasses.PlaneGameSettingsValues.targets);
+                TargetSpawner.initallTargets = obj.targets; 
+                PlaneGameplayManager.useExactAngle = obj.exactAngleSpawn;
+                PlaneGameplayManager.rightSpawnOnly = obj.rightSideSpawnOnly;
+                PlaneGameplayManager.leftSpawnOnly = obj.leftSideSpawnOnly;
+                PaperPlane.useGriplessGrabbing = obj.griplessGrabbing;
+                PaperPlane.useDistanceFromHead = obj.useDistanceFromHeadThrow;
+                PaperPlane.useAutoReleaseTimer = obj.useAutoReleaseTimerThrow;
+                PaperPlane.useButtonPressForThrow = obj.useButtonPressForThrow;
+                PaperPlane.throwThreshold = (float) obj.throwThreshold;
+                PaperPlane.requiredAimTime = (float) obj.requiredAimTime;
+                PaperPlane.useAutoAim = obj.useAutoAim;
+                if (obj.releaseButton == "A") {
+                    PaperPlane.releaseButton = PaperPlane.Quest2Button.AButton;
+                } else if (obj.releaseButton == "B") {
+                    PaperPlane.releaseButton = PaperPlane.Quest2Button.BButton;
+                } else if (obj.releaseButton == "Trigger") {
+                    PaperPlane.releaseButton = PaperPlane.Quest2Button.Trigger;
+                } else if (obj.releaseButton == "Grip") {
+                    PaperPlane.releaseButton = PaperPlane.Quest2Button.Grip;
+                } else if (obj.releaseButton == "Joystick") {
+                    PaperPlane.releaseButton = PaperPlane.Quest2Button.Joystick;
+                }
+                PlaneGameplayManager.exactDegrees = obj.exactAngle;
             });
 
             _socket.On("pauseGame", (string payload) => {

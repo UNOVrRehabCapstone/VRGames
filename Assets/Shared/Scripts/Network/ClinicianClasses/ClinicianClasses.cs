@@ -41,6 +41,8 @@ namespace SocketClasses
         public bool useAutoReleaseTimerThrow;
         public bool useButtonPressForThrow;
         public bool useDistanceFromHeadThrow;
+        public bool exactAngleSpawn;
+        public int exactAngle;
     }
 
     public static class BalloonGameSettingsValues
@@ -84,6 +86,8 @@ namespace SocketClasses
         public static bool useAutoReleaseTimerThrow = false;
         public static bool useButtonPressForThrow = true;
         public static bool useDistanceFromHeadThrow = false;
+        public static bool exactAngleSpawn = false;
+        public static int exactAngle = 90;
     }
 
     public class BalloonGameData
