@@ -1,4 +1,4 @@
-﻿using Classes;
+using Classes;
 using UnityEngine;
 using OVR;
 using UnityEngine.UI;
@@ -21,7 +21,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private Transform rightHandAnchor;
     private Transform leftHandAnchor;
     private Transform centerEyeAnchor;
-    [Serialize Field] public static float throwThreshold;
+    [SerializeField] public static float throwThreshold;
     private Vector3 lastHandPosition;
     private bool isReadyToThrow = false;
 
