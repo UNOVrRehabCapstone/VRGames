@@ -30,7 +30,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     private GameObject currentTarget;
     private GameObject potentialTarget;
     private float currentAimTime;
-    private float maxTravelTime = 30;
+    private float maxTravelTime = 10;
     private float currentTravelTime = 0;
 
     // Variable for visual indicator of target lock and auto-throw
@@ -217,7 +217,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
 
             // Optionally, smooth the rotation
             transform.rotation = Quaternion.Slerp(transform.rotation, correctedTargetRotation, Time.deltaTime * 5);
-            float speed = 3.0f;
+            float speed = 10.0f;
 
             directionToTarget = (currentTarget.transform.position - transform.position);    
             rb.velocity = directionToTarget.normalized * speed;        
