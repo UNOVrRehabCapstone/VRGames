@@ -43,6 +43,10 @@ namespace SocketClasses
         public bool useDistanceFromHeadThrow;
         public bool exactAngleSpawn;
         public int exactAngle;
+        public int numLTargets;
+        public int numRTargets;
+        public int numCTargets;
+        public int numFTargets;
     }
 
     public static class BalloonGameSettingsValues
@@ -88,6 +92,10 @@ namespace SocketClasses
         public static bool useDistanceFromHeadThrow = false;
         public static bool exactAngleSpawn = false;
         public static int exactAngle = 90;
+        public static int numLTargets = 0;
+        public static int numRTargets = 0;
+        public static int numCTargets = 0;
+        public static int numFTargets = 0;
     }
 
     public class BalloonGameData
