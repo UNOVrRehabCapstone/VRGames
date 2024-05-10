@@ -3047,9 +3047,6 @@ MonoBehaviour:
   rightTargets: 0
   closeTargets: 0
   farTargets: 0
-  initrightTargets: 0
-  initcloseTargets: 0
-  initfarTargets: 1
   targetsInScene: 0
   radius: 1
 --- !u!4 &696908022 stripped
@@ -7691,7 +7688,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1049953148}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
@@ -9261,7 +9258,7 @@ Light:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694553093}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
