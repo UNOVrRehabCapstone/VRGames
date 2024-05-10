@@ -1,4 +1,4 @@
-﻿using Classes;
+using Classes;
 using UnityEngine;
 using OVR;
 using UnityEngine.UI;
