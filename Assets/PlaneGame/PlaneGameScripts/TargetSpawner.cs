@@ -70,7 +70,7 @@ public class TargetSpawner : MonoBehaviour
 
     //Number of right targets to spawn initially.
     [SerializeField]
-    int initrightTargets;
+    public static int initrightTargets;
 
     //Number of close targets to spawn initially.
     [SerializeField]
