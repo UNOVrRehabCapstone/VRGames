@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using BalloonsGame;
 
 namespace SocketClasses
@@ -82,10 +82,10 @@ namespace SocketClasses
         public static bool griplessGrabbing = false;
         public static bool leftSideSpawnOnly = false;
         public static string releaseButton = "Trigger";
-        public static float requiredAimTime = 3.0;
+        public static float requiredAimTime = 3.0f;
         public static bool rightSideSpawnOnly = false;
         public static int targets = 1;
-        public static float throwThreshold = 35;
+        public static float throwThreshold = 35.0f;
         public static bool useAutoAim = false;
         public static bool useAutoReleaseTimerThrow = false;
         public static bool useButtonPressForThrow = true;
