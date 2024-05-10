@@ -74,11 +74,11 @@ public class TargetSpawner : MonoBehaviour
 
     //Number of close targets to spawn initially.
     [SerializeField]
-    int initcloseTargets;
+    public static int initcloseTargets;
 
     //Number of far targets to spawn initially.
     [SerializeField]
-    int initfarTargets;
+    public static int initfarTargets;
 
     [Header("Miscellaneous")]
     //Tracks the number of target objects currently in the scene
