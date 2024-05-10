@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Shared/Scenes/Initialize.unity
     guid: 62ae78aa7760b954395ac8e57277924c
-  - enabled: 1
+  - enabled: 0
     path: Assets/PlaneGame/Scenes/Planes.unity
     guid: e82f9b44c6522ef44a6fc70bbf691710
   - enabled: 1

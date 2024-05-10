@@ -350,7 +350,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         RaycastHit hit;
         if (useGriplessGrabbing && Physics.Raycast(origin, (endPoint - origin).normalized, out hit, 50))
         {
-            Debug.Log("Hit something, but not target");
+            Debug.Log("Hit something");
             Debug.Log(hit.collider.gameObject.tag);
             if (hit.collider.gameObject.CompareTag("Hoop")) {
                 if (potentialTarget != hit.collider.gameObject) {
@@ -364,11 +364,6 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
                 UpdateProgressIndicator(currentAimTime, requiredAimTime);
                 Debug.Log("Pointing at target");
             }
-            else {
-                DestroyProgressIndicator();
-                potentialTarget = null;
-            }
-
         }
     }
 
