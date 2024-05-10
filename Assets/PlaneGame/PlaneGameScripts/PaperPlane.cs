@@ -50,9 +50,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
 
     [SerializeField] public static float requiredAimTime = 3.0f;
     [SerializeField] public static bool useDistanceFromHead = false;
-    [SerializeField] public static bool useGriplessGrabbing = false;
-    [SerializeField] public static bool useAutoReleaseTimer = false;
-    [SerializeField] public static bool useAutoAim = false;
+    [SerializeField] public static bool useGriplessGrabbing = true;
+    [SerializeField] public static bool useAutoReleaseTimer = true;
+    [SerializeField] public static bool useAutoAim = true;
     [SerializeField] public static bool useButtonPressForThrow = false;
     [SerializeField] public static Quest2Button releaseButton = Quest2Button.AButton;
 
@@ -160,6 +160,8 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         Vector3 currentHeadPosition = centerEyeAnchor.position;
 
         // Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
+
+        Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
 
         // Check if the hand has moved away from its last position by more than the threshold
         if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > (throwThreshold / 100))
@@ -372,13 +374,18 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
 
     // --> PROGRESS INDICATOR FUNCTIONS <--
     void DestroyProgressIndicator() {
-        if (useAutoAim || useAutoReleaseTimer) {
-            if (currentIndicator != null) {
-                ProgressIndicator progressScript = currentIndicator.GetComponent<ProgressIndicator>();
-                progressScript.DestroyProgressIndicator();
-                currentIndicator = null;
-            }
+        ProgressIndicator[] allIndicators = FindObjectsOfType<ProgressIndicator>();
+
+        foreach (ProgressIndicator indicator in allIndicators) {
+            // Call the indicator's custom destruction method if it exists
+            indicator.DestroyProgressIndicator();
+
+            // Or directly destroy the GameObject associated with this component
+            Destroy(indicator.gameObject);
         }
+
+        // Optionally, reset or clean up references to the indicators in your script
+        currentIndicator = null;
     }
 
     void SpawnProgressIndicator(Vector3 position) {

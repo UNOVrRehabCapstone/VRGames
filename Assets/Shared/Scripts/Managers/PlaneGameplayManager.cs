@@ -228,7 +228,7 @@ public class PlaneGameplayManager : GameplayManager
     {
         if(useExactAngle){
             Debug.Log("Using Exact Angle: " + exactDegrees);
-            plane.transform.position = new Vector3(0, 1, 0.65f);
+            plane.transform.position = new Vector3(0, 1, 0.66f);
             int degrees = exactDegrees - 90;
             plane.transform.RotateAround(new Vector3(0,0,0), Vector3.up, degrees);
             planes.Add(plane);
