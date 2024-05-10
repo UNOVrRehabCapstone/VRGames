@@ -361,10 +361,10 @@ namespace Network
                     PaperPlane.releaseButton = PaperPlane.Quest2Button.Joystick;
                 }
                 PlaneGameplayManager.exactDegrees = obj.exactAngle;
-                PaperPlane.initleftTargets = obj.numLTargets;
-                PaperPlane.initrightTargets = obj.numRTargets;
-                PaperPlane.initcloseTargets = obj.numCTargets;
-                PaperPlane.initfarTargets = obj.numFTargets;
+                TargetSpawner.initleftTargets = obj.numLTargets;
+                TargetSpawner.initrightTargets = obj.numRTargets;
+                TargetSpawner.initcloseTargets = obj.numCTargets;
+                TargetSpawner.initfarTargets = obj.numFTargets;
             });
 
             _socket.On("pauseGame", (string payload) => {
