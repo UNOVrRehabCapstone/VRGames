@@ -312,7 +312,7 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
             other.GetComponentInChildren<ParticleSystem>().Play();
             
             manager.KillPlane(gameObject);
-            DestroyProgressIndicator();
+            DestroySingleProgressIndicator();
 
             other.GetComponent<Target>().HitTarget();
 
@@ -374,13 +374,18 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         foreach (ProgressIndicator indicator in allIndicators) {
             // Call the indicator's custom destruction method if it exists
             indicator.DestroyProgressIndicator();
-
-            // Or directly destroy the GameObject associated with this component
-            Destroy(indicator.gameObject);
         }
+        potentialTarget = null;
+    }
 
-        // Optionally, reset or clean up references to the indicators in your script
-        currentIndicator = null;
+    void DestroySingleProgressIndicator() {
+        if (useAutoAim || useAutoReleaseTimer) {
+            if (currentIndicator != null) {
+                ProgressIndicator progressScript = currentIndicator.GetComponent<ProgressIndicator>();
+                progressScript.DestroyProgressIndicator();
+                currentIndicator = null;
+            }
+        }
     }
 
     void SpawnProgressIndicator(Vector3 position) {
