@@ -237,6 +237,12 @@ public class TargetSpawner : MonoBehaviour
     //    return spawnPos;
     //}
 
+     /**
+      * \brief Generates a random spawn position within the defined bounds.
+      * 
+      * \param bounds The bounds within which to generate the spawn position.
+      * \return A Vector3 representing the generated spawn position.
+      */
     Vector3 SpawnInBounds(Bounds bounds)
     {
         float withinX = Random.Range(-bounds.extents.x, bounds.extents.x);
@@ -282,24 +288,33 @@ public class TargetSpawner : MonoBehaviour
         return collisionOccurs;
     }
 
-    //Public function to track the addition of one target to the scene
+    /**
+     * \brief Public function to track the addition of one target to the scene.
+     */
     public void AddTarget()
     {
         this.targetsInScene++;
     }
 
-    //Public function to track the removal of one target from the scene
+    /**
+     * \brief Public function to track the removal of one target from the scene
+     */
     public void RemoveTarget()
     {
         this.targetsInScene--;
     }
 
-    //Public function to add targets to the scene in a specified area
-    // Anywhere: 0
-    // Left: 1
-    // Right: 2
-    // Close: 3
-    // Far: 4
+    /**
+     * \brief Adds targets to the scene in a specified area.
+     * 
+     * \param numTargets The number of targets to spawn.
+     * \param area The area in which to spawn the targets:
+     *             - 0: Anywhere
+     *             - 1: Left
+     *             - 2: Right
+     *             - 3: Close
+     *             - 4: Far
+     */
     public void QueueTargetSpawn(int numTargets, int area)
     {
         if (numTargets > 0)
@@ -345,7 +360,16 @@ public class TargetSpawner : MonoBehaviour
         }
     }
 
-    //Public function to add exactly one target to the scene
+    /**
+     * \brief Adds exactly one target to the scene in the specified area.
+     * 
+     * \param area The area in which to spawn the target:
+     *             - 0: Anywhere
+     *             - 1: Left
+     *             - 2: Right
+     *             - 3: Close
+     *             - 4: Far
+     */
     public void SpawnOneTarget(int area)
     {
         QueueTargetSpawn(1, area);

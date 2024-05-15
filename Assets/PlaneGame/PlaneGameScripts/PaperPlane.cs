@@ -1,3 +1,10 @@
+/**
+ * \file PaperPlane.cs
+ * \brief Manages the behavior of the paper plane object.
+ *
+ * The PaperPlane class controls the behavior of a paper plane object in the game, including throwing, aiming, and collision detection.
+ */
+
 using Classes;
 using UnityEngine;
 using OVR;
@@ -5,7 +12,13 @@ using UnityEngine.UI;
 using UnityEngine.XR;
 
 namespace PlanesGame{
-public class PaperPlane : MonoBehaviour, IGrabEvent
+  /**
+   * \class PaperPlane
+   * \brief Manages the behavior of the paper plane object.
+   *
+   * The PaperPlane class controls the behavior of a paper plane object in the game, including throwing, aiming, and collision detection.
+   */
+  public class PaperPlane : MonoBehaviour, IGrabEvent
 {
     private bool thrown = false;
     private Rigidbody rb;
@@ -57,9 +70,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     [SerializeField] public static Quest2Button releaseButton = Quest2Button.AButton;
 
 
-    /// <summary>
-    /// Perform initial setup and configuration.
-    /// </summary>
+    /**
+     * \brief Perform initial setup and configuration
+     */
     void Start()
     {
         aimingRay = gameObject.AddComponent<LineRenderer>();
@@ -89,9 +102,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    /// <summary>
-    /// Update is called once per frame and handles user input and lock-on logic.
-    /// </summary>
+    /**
+     * \brief Update is called once per frame.
+     */
     private void Update()
     {
         // if (playerAvatarPrefab == null) {
@@ -131,7 +144,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    // Accelerate plane with a force for constant acceleration
+    /**
+     * \brief Applies force to accelerate the plane towards the target.
+     */
     void ApplyForceTowardsTarget()
     {
         if (currentTarget)
@@ -142,9 +157,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    /// <summary>
-    /// Checks if the target is locked on based on aiming duration.
-    /// </summary>
+    /**
+     * \brief Checks if the target is locked on based on aiming duration.
+     */
     void CheckTargetLock()
     {
         if (currentAimTime >= requiredAimTime)
@@ -153,6 +168,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
+    /**
+     * \brief Checks if the conditions to throw have been met, and if they are, throws the plane.
+     */
     private void CheckThrowCondition()
     {
         // Current positions of the hand and head
@@ -191,6 +209,10 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         
     }
 
+    /**
+     * \brief Checks if the release button is pressed on either controller.
+     * \return True if the release button is pressed, otherwise false.
+     */
     bool CheckReleaseButtonPress() {
         // Check the selected button on both the right and left controllers
         if (useButtonPressForThrow) {
@@ -203,7 +225,14 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         return false;
     }
 
-    // Fly plane
+    /**
+     * \brief Controls the flight of the paper plane towards the target.
+     * 
+     * If automatic aiming is enabled, the plane rotates towards the target and moves forward.
+     * If manual aiming is used or no target is locked, the plane moves forward in a straight line.
+     * 
+     * \note The plane's speed and rotation are adjusted based on the target's position and the current settings.
+     */
     void FlyTowardsTarget()
     {
         // Automatic aiming
@@ -233,9 +262,9 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
-    /// <summary>
-    /// Triggers the plane's automatic release toward the locked-on target.
-    /// </summary>
+    /*
+     * \brief Triggers the plane's automatic release toward the locked-on target.
+     */
     void GriplessRelease() {
         if (!thrown)
         {
@@ -258,6 +287,12 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
+    /**
+     * \brief Normalizes Euler angles to ensure they fall within the range of -180 to 180 degrees.
+     * 
+     * \param angles The Euler angles to normalize.
+     * \return Normalized Euler angles.
+     */
     private Vector3 NormalizeAngles(Vector3 angles)
     {
         angles.x = NormalizeAngle(angles.x);
@@ -266,6 +301,12 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         return angles;
     }
 
+    /**
+     * \brief Normalizes an angle to ensure it falls within the range of -180 to 180 degrees.
+     * 
+     * \param angle The angle to normalize.
+     * \return Normalized angle.
+     */
     private float NormalizeAngle(float angle)
     {
         // Adjust the angle to be within -180 and 180 degrees.
@@ -331,6 +372,11 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
+    /**
+     * \brief Sets the plane as ready to be thrown.
+     * 
+     * Sets the flag indicating that the plane is ready to be thrown and updates the last hand position.
+     */
     public void ReadyToThrow()
     {
         isReadyToThrow = true;
@@ -368,6 +414,12 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     }
 
     // --> PROGRESS INDICATOR FUNCTIONS <--
+
+    /**
+     * \brief Destroys all progress indicators in the scene.
+     * 
+     * Finds all progress indicators in the scene and destroys them. Resets the potential target to null.
+     */
     void DestroyProgressIndicator() {
         ProgressIndicator[] allIndicators = FindObjectsOfType<ProgressIndicator>();
 
@@ -378,6 +430,11 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         potentialTarget = null;
     }
 
+    /**
+     * \brief Destroys the current progress indicator.
+     * 
+     * Destroys the current progress indicator if it exists and if auto-aim or auto-release timer is enabled.
+     */
     void DestroySingleProgressIndicator() {
         if (useAutoAim || useAutoReleaseTimer) {
             if (currentIndicator != null) {
@@ -388,6 +445,13 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
         }
     }
 
+    /**
+     * \brief Spawns a progress indicator at the specified position.
+     * 
+     * Creates a new progress indicator GameObject at the given position if auto-aim or auto-release timer is enabled.
+     * 
+     * \param position The position to spawn the progress indicator.
+     */
     void SpawnProgressIndicator(Vector3 position) {
         if (useAutoAim || useAutoReleaseTimer) {
             currentIndicator = Instantiate(progressIndicatorPrefab);
@@ -397,6 +461,14 @@ public class PaperPlane : MonoBehaviour, IGrabEvent
     }
 
 
+    /**
+     * \brief Updates the progress indicator with the current and required progress.
+     * 
+     * Updates the progress indicator with the current and required progress if auto-aim or auto-release timer is enabled.
+     * 
+     * \param current The current progress value.
+     * \param required The required progress value.
+     */
     void UpdateProgressIndicator(float current, float required) {
         if (useAutoAim || useAutoReleaseTimer) {
             if (currentIndicator != null) {
