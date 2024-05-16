@@ -102,3 +102,24 @@ Known bugs:
 - Targeting progress indicator disappears after pointing away from target when target lock is already aquired (behavior of target lock is still present)
 - When angle is too steep, auto-aim will not track onto target
 - Auto-aim tracks bottom of target until close, resulting in an upwards curve motion
+
+### 5/15/2024 (Milestone 5)
+
+Features:
+- Overhauled plane game scene visuals and environment. 
+- Added functionality to target manager to spawn targets in specified zones. 
+- Added randomized sound clips when throwing planes. 
+- Added ambient environmental sounds. 
+- Various polish and tweaks to scene layout. 
+
+Fixed bugs:
+- Fixed left handed throw not working
+- Fixed planes being affected by gravity after being thrown
+- Fixed potential target target indicator becoming stuck when target is hit by another plane
+- Fixed lighting not displaying correctly sometimes
+- Fixed auto-aim target loss on ray cast collission with ground
+- Updated throw speed to equal values for auto aim vs non-auto aim throws
+- Fixed progress indicators not being destroyed under specific conditions
+- Fixed plane falling off table on 0-degree plane spawn
+- Fixed build error
+- Fixed early plane release bug
