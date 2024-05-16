@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.EnableIMECompositionCommand.Create" name="UnityEngine.InputSystem.LowLevel.EnableIMECompositionCommand.Create">
-<area shape="rect" id="Node000001" title=" " alt="" coords="226,5,438,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_keyboard.html#ae33f7353fa905a818a7cc73d6ca41640" title="Activates/deactivates IME composition while typing. This decides whether or not to use the OS supplie..." alt="" coords="5,13,178,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,37,178,37,178,32,210,32"/>
-</map>

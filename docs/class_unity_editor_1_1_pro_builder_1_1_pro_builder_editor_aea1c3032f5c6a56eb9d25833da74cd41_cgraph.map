@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.ProBuilderEditor.ResetToLastSelectMode" name="UnityEditor.ProBuilder.ProBuilderEditor.ResetToLastSelectMode">
-<area shape="rect" id="Node000001" title="Changes the SelectMode to the last used mesh element mode." alt="" coords="5,43,247,85"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="314,5,488,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,45,298,38,299,43,247,50"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_tool_manager.html#ab72b062ac2b38368a734fb1f1e1c581e" title=" " alt="" coords="295,72,507,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,78,280,82,279,87,247,83"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_tool_manager.html#a78301cee4391c120c5822d400e11ad2e" title=" " alt="" coords="555,80,783,123"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="508,99,540,99,540,104,508,104"/>
-</map>

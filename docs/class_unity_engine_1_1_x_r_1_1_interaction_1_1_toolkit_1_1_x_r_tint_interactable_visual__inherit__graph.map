@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual" name="UnityEngine.XR.Interaction.Toolkit.XRTintInteractableVisual">
-<area shape="rect" id="Node000001" title="Simple Interactable Visual component that demonstrates hover or selection state with emissive tinting..." alt="" coords="5,80,209,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,162,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.UpdateOverlay" name="Oculus.Interaction.UnityCanvas.CanvasRenderTextureMesh.UpdateOverlay">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,235,105"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#a9852a99ef759d1e3b3420382ca3e52ff" title=" " alt="" coords="283,5,512,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,56,267,51,268,57,235,62"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture_mesh.html#ad30fee71700776cd590899a576d353ed" title=" " alt="" coords="283,88,512,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,90,268,95,267,101,235,96"/>
-</map>

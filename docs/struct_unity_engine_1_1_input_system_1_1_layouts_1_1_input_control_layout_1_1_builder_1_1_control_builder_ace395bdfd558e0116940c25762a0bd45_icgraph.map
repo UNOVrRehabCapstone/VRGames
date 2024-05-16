@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Layouts.InputControlLayout.Builder.ControlBuilder.WithUsages" name="UnityEngine.InputSystem.Layouts.InputControlLayout.Builder.ControlBuilder.WithUsages">
-<area shape="rect" id="Node000001" title=" " alt="" coords="281,47,508,105"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_builder_1_1_control_builder.html#a1a9f41163cc419a0e0b2ed672f197677" title=" " alt="" coords="5,5,233,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,59,233,54,234,49,266,54"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_builder_1_1_control_builder.html#a485a6f192c039d0aa10a544828ec3d9f" title=" " alt="" coords="5,88,233,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,98,234,103,233,98,265,93"/>
-</map>

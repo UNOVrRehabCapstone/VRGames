@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.ControllerPointerPose.InjectAllHandPointerPose" name="Oculus.Interaction.ControllerPointerPose.InjectAllHandPointerPose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,249,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_controller_pointer_pose.html#a2187cae965d7e3409202df97d6205488" title=" " alt="" coords="297,5,482,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,42,281,38,282,43,249,47"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_controller_pointer_pose.html#a21305a0886576ed0c7442b1204f4ead2" title=" " alt="" coords="297,72,482,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,73,282,77,281,82,249,78"/>
-</map>

@@ -1,4 +1,0 @@
-var namespace_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes =
-[
-    [ "UnityPendingChangesTreeTests", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests.html", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_views_1_1_pending_changes_1_1_unity_pending_changes_tree_tests" ]
-];

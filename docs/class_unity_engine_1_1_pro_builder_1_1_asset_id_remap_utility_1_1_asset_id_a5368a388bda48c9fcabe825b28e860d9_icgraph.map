@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetId.IsValid" name="UnityEngine.ProBuilder.AssetIdRemapUtility.AssetId.IsValid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="326,88,522,131"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_identifier_tuple.html#a0dfb771890d3e01f872835eac2da0bc2" title=" " alt="" coords="28,5,255,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,86,254,67,255,62,326,81"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_id_remap_object.html#a2002e67a78231daeaaec45832f213948" title=" " alt="" coords="8,88,275,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="310,112,275,112,275,107,310,107"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_asset_id_remap_utility_1_1_asset_id_remap_object.html#a4e8c5e798d9b6c2b1be5ad60c50af2c9" title=" " alt="" coords="5,155,278,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,137,235,157,234,151,315,132"/>
-</map>

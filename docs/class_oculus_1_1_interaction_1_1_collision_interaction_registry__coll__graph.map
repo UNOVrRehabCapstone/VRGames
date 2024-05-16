@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.CollisionInteractionRegistry&lt; TInteractor, TInteractable &gt;" name="Oculus.Interaction.CollisionInteractionRegistry&lt; TInteractor, TInteractable &gt;">
-<area shape="rect" id="Node000001" title="The CollisionsInteractableRegistry maintains a collision map for any Rigidbody&#45;Interactables pair tha..." alt="" coords="5,187,212,245"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactable_registry.html" title="A registry that houses a set of concrete Interactables." alt="" coords="14,96,203,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,154,111,186,106,186,106,154"/>
-<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactable_registry.html" title="A interface for a registry that houses a set of concrete Interactables." alt="" coords="14,5,203,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,64,111,96,106,96,106,64"/>
-</map>

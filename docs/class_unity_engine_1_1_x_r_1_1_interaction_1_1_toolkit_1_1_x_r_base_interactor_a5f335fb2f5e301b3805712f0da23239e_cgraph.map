@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.StartManualInteraction" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.StartManualInteraction">
-<area shape="rect" id="Node000001" title="Manually initiate selection of an Interactable." alt="" coords="5,5,243,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a53fde4febc09346b4677e5fd50392b64" title="Initiates selection of an Interactable by an Interactor. This method may first result in other intera..." alt="" coords="291,13,552,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,32,275,32,275,37,243,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#ad20fe9fc43bf1e0a36fc474287cb8dd8" title="Automatically called when selection of an Interactable by an Interactor is initiated and the Interact..." alt="" coords="600,5,838,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,32,584,32,584,37,553,37"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#ab7e7bd61e60d1290edceff2a1a798040" title="Determines whether this Interactor is currently selecting the Interactable." alt="" coords="886,13,1128,56"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="839,32,870,32,870,37,839,37"/>
-</map>

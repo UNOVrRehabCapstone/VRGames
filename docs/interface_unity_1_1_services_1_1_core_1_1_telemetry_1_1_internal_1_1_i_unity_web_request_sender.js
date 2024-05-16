@@ -1,4 +1,0 @@
-var interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_unity_web_request_sender =
-[
-    [ "SendRequest", "interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_unity_web_request_sender.html#a1495cf982d90cb403e36cff8d2a317f4", null ]
-];

@@ -1,7 +1,0 @@
-<map id="ONSPPropagationGeometryEditor.OnInspectorGUI" name="ONSPPropagationGeometryEditor.OnInspectorGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,228,81"/>
-<area shape="rect" id="Node000002" href="$class_o_n_s_p_propagation_geometry.html#aefa243a011d24678efed607e632155ad" title=" " alt="" coords="276,5,464,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,43,260,38,261,44,228,48"/>
-<area shape="rect" id="Node000003" href="$class_o_n_s_p_propagation_geometry.html#a1d14edbe5e7241095dd5c5a5a59f591a" title=" " alt="" coords="276,72,464,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,72,261,76,260,82,228,77"/>
-</map>

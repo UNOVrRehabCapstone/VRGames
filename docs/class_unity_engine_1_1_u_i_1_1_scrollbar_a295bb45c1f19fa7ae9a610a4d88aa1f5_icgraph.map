@@ -1,6 +1,0 @@
-<map id="UnityEngine.UI.Scrollbar.ClickRepeat" name="UnityEngine.UI.Scrollbar.ClickRepeat">
-<area shape="rect" id="Node000001" title=" " alt="" coords="220,29,386,72"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="337,16,324,10,303,8,283,10,270,15,266,21,267,28,262,29,260,19,267,10,281,5,303,3,326,5,340,11"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_scrollbar.html#a49ea68b2a540ab0072ee10bf06acc25e" title="Event triggered when pointer is pressed down on the scrollbar." alt="" coords="5,29,172,72"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="204,53,172,53,172,48,204,48"/>
-</map>

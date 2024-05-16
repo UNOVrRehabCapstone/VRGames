@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.GrabAPI.IFingerAPI.GetCenterOffset" name="Oculus.Interaction.GrabAPI.IFingerAPI.GetCenterOffset">
-<area shape="rect" id="Node000001" title=" " alt="" coords="250,39,433,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html#a90a4ede754d0ab98fa5153d8dedcf0ad" title=" " alt="" coords="7,5,200,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,48,200,43,201,38,234,42"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html#a1c6e9eec87e4c8f9edb48965e0bd9df2" title=" " alt="" coords="5,72,202,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,78,203,82,202,77,234,72"/>
-</map>

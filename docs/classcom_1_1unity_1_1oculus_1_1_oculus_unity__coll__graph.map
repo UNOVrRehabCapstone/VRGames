@@ -1,9 +1,0 @@
-<map id="com.unity.oculus.OculusUnity" name="com.unity.oculus.OculusUnity">
-<area shape="rect" id="Node000001" title=" " alt="" coords="52,96,247,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,94,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,41,107,70,135,94,132,98,103,74,71,45"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="118,5,181,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,48,152,95,147,95,147,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="206,5,299,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,45,201,74,169,98,166,93,197,70,228,41"/>
-</map>

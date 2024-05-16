@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Grab.IHandGrabInteractor" name="Oculus.Interaction.Grab.IHandGrabInteractor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="26,5,189,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html" title="The HandGrabInteractor allows grabbing objects while having the hands snap to them adopting a previou..." alt="" coords="5,96,210,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,64,110,96,105,96,105,64"/>
-</map>

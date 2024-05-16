@@ -1,5 +1,0 @@
-<map id="TMPro.TMP_MeshInfo.SortGeometry" name="TMPro.TMP_MeshInfo.SortGeometry">
-<area shape="rect" id="Node000001" title="Function to rearrange the quads of the text object to change their rendering order." alt="" coords="5,5,240,32"/>
-<area shape="rect" id="Node000002" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#aea0d76fdcacdb531d31b168575444c2a" title="Method to swap the vertex attributes between src and dst quads." alt="" coords="288,5,538,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,16,272,16,272,21,240,21"/>
-</map>

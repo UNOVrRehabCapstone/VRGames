@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRControllerState" name="UnityEngine.XR.Interaction.Toolkit.XRControllerState">
-<area shape="rect" id="Node000001" title="Represents the current state of the XRBaseController." alt="" coords="41,144,221,187"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,97,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,52,121,142,117,145,64,55"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_interaction_state.html" title="InteractionState type to hold current state for a given interaction." alt="" coords="121,5,301,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,63,160,121,146,145,141,142,155,119,189,60"/>
-</map>

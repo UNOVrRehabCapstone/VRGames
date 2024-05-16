@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.HandGrabInteractor.InteractableUnselected" name="Oculus.Interaction.HandPosing.HandGrabInteractor.InteractableUnselected">
-<area shape="rect" id="Node000001" title="When releasing an active interactable, calculate the releasing point in similar fashion to Interactab..." alt="" coords="5,80,275,123"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#ae95db59ee096b6d4c1817c2dca7a7c2d" title=" " alt="" coords="323,5,563,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,77,338,50,339,55,230,82"/>
-<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_throw_1_1_i_velocity_calculator.html#ac1a2d6dd5a31bb2b8e2db30f37fd5440" title=" " alt="" coords="332,72,554,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,99,316,99,316,104,275,104"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grabbable.html#a7121454d0f4cfc8adc9a93a66b41d98f" title=" " alt="" coords="346,155,540,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,121,339,148,338,153,229,126"/>
-</map>

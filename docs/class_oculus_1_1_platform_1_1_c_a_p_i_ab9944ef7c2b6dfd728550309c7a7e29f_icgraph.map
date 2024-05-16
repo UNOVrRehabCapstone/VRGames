@@ -1,5 +1,0 @@
-<map id="Oculus.Platform.CAPI.ovr_NetSyncOptions_SetVoipGroup" name="Oculus.Platform.CAPI.ovr_NetSyncOptions_SetVoipGroup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="271,5,482,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_net_sync_options.html#a662a0554010b53104f8bf4a4385c7dba" title="If provided, immediately set the voip_group to this value upon connection." alt="" coords="5,5,223,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,29,223,29,223,24,255,24"/>
-</map>

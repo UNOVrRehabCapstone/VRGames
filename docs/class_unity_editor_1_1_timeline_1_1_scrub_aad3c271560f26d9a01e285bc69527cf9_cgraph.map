@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.Scrub.MouseDrag" name="UnityEditor.Timeline.Scrub.MouseDrag">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,185,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#af811297ac2af917cba3b9c2cb1a15cd0" title=" " alt="" coords="233,5,488,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,217,24,217,29,185,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ac41637d39607827bf2d4ac1c3c066e6f" title=" " alt="" coords="536,5,796,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,24,521,24,521,29,488,29"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#a0beea79158a44ba15b0deffa0a777e9c" title=" " alt="" coords="844,5,1096,48"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="797,24,829,24,829,29,797,29"/>
-</map>

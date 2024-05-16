@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Users.InputUser.UnpairDevices" name="UnityEngine.InputSystem.Users.InputUser.UnpairDevices">
-<area shape="rect" id="Node000001" title="Unpair all devices from the user." alt="" coords="5,5,206,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_users_1_1_input_user.html#ae146574043ad59d014874e264069f9e9" title="Unpair a single device from the user." alt="" coords="254,5,447,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,24,238,24,238,29,206,29"/>
-</map>

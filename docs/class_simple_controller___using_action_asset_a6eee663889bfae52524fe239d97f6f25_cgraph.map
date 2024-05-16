@@ -1,7 +1,0 @@
-<map id="SimpleController_UsingActionAsset.OnEnable" name="SimpleController_UsingActionAsset.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,48"/>
-<area shape="rect" id="Node000002" href="$class_simple_controls.html#a7ed80c60643102fd618035ee6e89788e" title="Enable all actions in the collection." alt="" coords="247,13,400,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,231,24,231,29,199,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#ae31d59300c207c696f79acb9622da917" title="Enable all action maps in the asset." alt="" coords="448,5,620,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,24,432,24,432,29,400,29"/>
-</map>

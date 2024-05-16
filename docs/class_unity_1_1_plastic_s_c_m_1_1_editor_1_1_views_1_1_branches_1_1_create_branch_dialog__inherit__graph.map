@@ -1,9 +1,0 @@
-<map id="Unity.PlasticSCM.Editor.Views.Branches.CreateBranchDialog" name="Unity.PlasticSCM.Editor.Views.Branches.CreateBranchDialog">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,155,245,197"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="79,80,177,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,122,131,154,125,154,125,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,107,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,41,117,78,114,81,77,45"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="131,5,269,32"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="179,45,142,81,139,78,175,41"/>
-</map>

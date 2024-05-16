@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt32" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToUInt32">
-<area shape="rect" id="Node000001" title="Convert the value to a uint." alt="" coords="258,5,463,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_state_block.html#a25754e60e3b87562992bbae391459a5a" title=" " alt="" coords="5,5,210,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,29,210,29,210,24,242,24"/>
-</map>

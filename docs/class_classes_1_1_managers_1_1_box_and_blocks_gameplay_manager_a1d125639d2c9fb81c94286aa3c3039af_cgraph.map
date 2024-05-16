@@ -1,5 +1,5 @@
 <map id="Classes.Managers.BoxAndBlocksGameplayManager.startSpawning" name="Classes.Managers.BoxAndBlocksGameplayManager.startSpawning">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,48"/>
-<area shape="rect" id="Node000002" href="$class_points_manager.html#a99f8e72b3f761ddb35c32e062d5930c9" title=" " alt="" coords="273,5,471,48"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#a99f8e72b3f761ddb35c32e062d5930c9" title="Resets points for both left and right hands to zero." alt="" coords="273,5,471,48"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,24,257,24,257,29,225,29"/>
 </map>

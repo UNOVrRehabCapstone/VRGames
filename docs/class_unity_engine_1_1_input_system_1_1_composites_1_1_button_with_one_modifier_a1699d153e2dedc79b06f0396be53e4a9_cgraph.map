@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.ButtonWithOneModifier.EvaluateMagnitude" name="UnityEngine.InputSystem.Composites.ButtonWithOneModifier.EvaluateMagnitude">
-<area shape="rect" id="Node000001" title="Same as ReadValue in this case." alt="" coords="5,5,238,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_button_with_one_modifier.html#a8780c97e285bc68e1c0d427522f9dac6" title="Return the value of the button part if modifier is pressed. Otherwise return 0." alt="" coords="286,5,518,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,32,270,32,270,37,238,37"/>
-</map>

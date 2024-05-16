@@ -1,5 +1,5 @@
 <map id="PointsManager.divPoints" name="PointsManager.divPoints">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,170,32"/>
-<area shape="rect" id="Node000002" href="$class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="218,5,435,32"/>
+<area shape="rect" id="Node000001" title="Divides the total score by a factor." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="218,5,435,32"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
 </map>

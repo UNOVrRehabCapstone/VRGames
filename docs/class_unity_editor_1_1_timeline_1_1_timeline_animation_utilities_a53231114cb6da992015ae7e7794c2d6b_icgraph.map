@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.TimelineAnimationUtilities.UnlinkAnimationWindowFromAnimationClips" name="UnityEditor.Timeline.TimelineAnimationUtilities.UnlinkAnimationWindowFromAnimationClips">
-<area shape="rect" id="Node000001" title=" " alt="" coords="500,47,720,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a643c8ff917f0486a0046d1ad1b75719f" title=" " alt="" coords="232,5,452,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,59,452,54,453,49,485,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_animation_utilities.html#a6ebf1c99d5e4b0bbc72cb60c2bf4a21a" title=" " alt="" coords="232,88,452,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,98,453,103,452,98,484,93"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_delete_tracks.html#a5a3bc64d10ca7df9f1d13f4804f3a7db" title=" " alt="" coords="5,96,184,139"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,120,184,120,184,115,216,115"/>
-</map>

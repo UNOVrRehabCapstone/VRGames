@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.EventSystem.SetSelectedGameObject" name="UnityEngine.EventSystems.EventSystem.SetSelectedGameObject">
-<area shape="rect" id="Node000001" title="Set the object as selected. Will send an OnDeselect the the old selected object and OnSelect to the n..." alt="" coords="5,5,252,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_event_system.html#ae267e9da97ccb0b25d3555ba208d40c3" title="Set the object as selected. Will send an OnDeselect the the old selected object and OnSelect to the n..." alt="" coords="300,5,546,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,24,284,24,284,29,252,29"/>
-</map>

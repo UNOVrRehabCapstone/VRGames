@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ResolveExistingSelect" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ResolveExistingSelect">
-<area shape="rect" id="Node000001" title="Automatically called when selection of an Interactable by an Interactor is initiated and the Interact..." alt="" coords="5,5,244,64"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#ab7e7bd61e60d1290edceff2a1a798040" title="Determines whether this Interactor is currently selecting the Interactable." alt="" coords="292,13,533,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,32,276,32,276,37,244,37"/>
-</map>

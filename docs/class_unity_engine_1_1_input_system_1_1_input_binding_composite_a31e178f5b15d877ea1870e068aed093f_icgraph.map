@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputBindingComposite.GetExpectedControlLayoutName" name="UnityEngine.InputSystem.InputBindingComposite.GetExpectedControlLayoutName">
-<area shape="rect" id="Node000001" title="Return the name of the control layout that is expected for the given part (e.g. &quot;Up&quot;) on the given co..." alt="" coords="298,5,532,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_rebinding_extensions_1_1_rebinding_operation.html#a93fe5f40066959a766f8054af6fdd783" title="Rebinding a specific InputBinding on an InputAction as identified by the given index into InputAction..." alt="" coords="5,5,250,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,37,250,37,250,32,282,32"/>
-</map>

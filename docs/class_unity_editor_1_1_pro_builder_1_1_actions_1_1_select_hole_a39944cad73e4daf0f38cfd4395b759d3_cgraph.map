@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectHole.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.SelectHole.PerformActionImplementation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,264,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="328,5,501,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,42,312,36,313,41,265,47"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a23ee4fa5815f9ca18e3b0c1646a56458" title="Sets the edge selection for this mesh. Also sets the vertex selection to match and clears the selecte..." alt="" coords="312,72,517,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,73,296,77,296,82,264,78"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a668d5e19ed7a3cd92a5b6346bf16caba" title="Clears the arrays of selected faces, edges, and vertices. You don&#39;t need to call this when setting an..." alt="" coords="565,72,746,115"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="518,91,549,91,549,96,518,96"/>
-</map>

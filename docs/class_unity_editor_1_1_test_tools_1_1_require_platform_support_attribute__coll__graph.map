@@ -1,7 +1,0 @@
-<map id="UnityEditor.TestTools.RequirePlatformSupportAttribute" name="UnityEditor.TestTools.RequirePlatformSupportAttribute">
-<area shape="rect" id="Node000001" title="The RequirePlatformSupportAttribute attribute can be applied to test assemblies (will affect every te..." alt="" coords="21,80,215,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,108,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,43,104,78,100,81,73,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="132,5,229,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,46,136,81,132,78,159,43"/>
-</map>

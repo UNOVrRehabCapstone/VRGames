@@ -1,9 +1,0 @@
-<map id="Oculus.Platform.Models.AbuseReportRecording.AbuseReportRecording" name="Oculus.Platform.Models.AbuseReportRecording.AbuseReportRecording">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,260,56"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#aff61caa86d87903d04fd4ef9ba7154f3" title=" " alt="" coords="308,13,581,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,32,292,32,292,37,260,37"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="629,13,815,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,32,613,32,613,37,582,37"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="863,5,1064,64"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="816,32,848,32,848,37,816,37"/>
-</map>

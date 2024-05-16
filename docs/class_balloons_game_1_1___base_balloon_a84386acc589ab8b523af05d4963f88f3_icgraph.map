@@ -1,5 +1,9 @@
 <map id="BalloonsGame._BaseBalloon.SetSpawnLoc" name="BalloonsGame._BaseBalloon.SetSpawnLoc">
-<area shape="rect" id="Node000001" title=" " alt="" coords="246,5,440,48"/>
-<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a1b6d4c0e793658233529f560995e2b66" title=" " alt="" coords="5,5,198,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="785,5,980,48"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a1b6d4c0e793658233529f560995e2b66" title=" " alt="" coords="545,5,737,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,29,738,29,738,24,770,24"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a0f03d1c73ed941dacdeaed9d0d7b58c6" title=" " alt="" coords="272,5,497,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="529,29,497,29,497,24,529,24"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a2a476c764cc8789e21ba7b9bec8b393a" title=" " alt="" coords="5,5,224,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
 </map>

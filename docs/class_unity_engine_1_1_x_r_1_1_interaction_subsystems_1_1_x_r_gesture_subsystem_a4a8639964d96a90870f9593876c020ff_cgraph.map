@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Update" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Update">
-<area shape="rect" id="Node000001" title="Trigger the Gesture&#39;s update loop." alt="" coords="5,5,236,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem_1_1_provider.html#a527ecbef50175bd041ffd79bf2a8e090" title="Perform any per&#45;frame update logic here." alt="" coords="284,5,514,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,32,268,32,268,37,236,37"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SimpleControls.GameplayActions.Get" name="SimpleControls.GameplayActions.Get">
-<area shape="rect" id="Node000001" title=" " alt="" coords="274,47,515,73"/>
-<area shape="rect" id="Node000002" href="$struct_simple_controls_1_1_gameplay_actions.html#a2467dc12393ab979d43bde54a00bbfce" title=" " alt="" coords="5,5,226,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,47,226,43,227,37,262,42"/>
-<area shape="rect" id="Node000003" href="$struct_simple_controls_1_1_gameplay_actions.html#a3acca893f89774ff3efedbe98a317a9d" title=" " alt="" coords="5,72,226,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,78,227,83,226,77,262,73"/>
-</map>

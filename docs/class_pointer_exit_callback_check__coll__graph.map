@@ -1,9 +1,0 @@
-<map id="PointerExitCallbackCheck" name="PointerExitCallbackCheck">
-<area shape="rect" id="Node000001" title=" " alt="" coords="46,155,218,181"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,115,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,116,121,152,118,156,81,120"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_event_systems_1_1_i_pointer_exit_handler.html" title="Interface to implement if you wish to receive OnPointerExit callbacks." alt="" coords="139,80,272,107"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,120,146,156,143,152,180,116"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_event_systems_1_1_i_event_system_handler.html" title="Base class that all EventSystem events inherit from." alt="" coords="133,5,278,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,48,208,80,203,80,203,48"/>
-</map>

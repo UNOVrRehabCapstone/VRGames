@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Management.Tests.Standalone.StandaloneSubsystemDescriptor.StandaloneSubsystemDescriptor" name="UnityEngine.XR.Management.Tests.Standalone.StandaloneSubsystemDescriptor.StandaloneSubsystemDescriptor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="627,31,901,89"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor.html#a2728d95e74ef18ede992293380bfae5a" title=" " alt="" coords="322,31,579,89"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,63,579,63,579,57,611,57"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_editor_tests.html#aa63e0971ca5d40b7960a5a0e536a0e47" title=" " alt="" coords="32,5,247,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,47,247,41,248,36,307,42"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_runtime_loader_tests.html#a75ad1c374ccc2fe97bc1df4cc60157e1" title=" " alt="" coords="5,72,274,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="307,78,275,82,274,76,306,73"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.IPointerMoveHandler" name="UnityEngine.EventSystems.IPointerMoveHandler">
-<area shape="rect" id="Node000001" title="Interface to implement if you wish to receive OnPointerMove callbacks." alt="" coords="5,80,189,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_event_systems_1_1_i_event_system_handler.html" title="Base class that all EventSystem events inherit from." alt="" coords="24,5,170,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,100,80,94,80,94,48"/>
-</map>

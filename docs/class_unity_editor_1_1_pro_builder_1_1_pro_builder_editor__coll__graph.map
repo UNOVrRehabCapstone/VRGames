@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.ProBuilderEditor" name="UnityEditor.ProBuilder.ProBuilderEditor">
-<area shape="rect" id="Node000001" title="Manages the ProBuilder toolbar and tool mode." alt="" coords="107,112,280,155"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,107,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,40,170,110,167,114,81,44"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,256,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,47,196,112,191,112,191,47"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="280,5,333,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,45,216,113,212,110,281,41"/>
-</map>

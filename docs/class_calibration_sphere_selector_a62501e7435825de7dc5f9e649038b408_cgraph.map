@@ -1,0 +1,8 @@
+<map id="CalibrationSphereSelector.ButtonCalibrate" name="CalibrationSphereSelector.ButtonCalibrate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,77"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a20ad62a43259f7cc6376e4f2c53344bb" title=" " alt="" coords="229,5,423,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,42,213,38,214,43,181,48"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a4e72d1c40b50b37e1f8a594c8db06769" title=" " alt="" coords="471,35,665,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="181,56,229,57,423,57,455,57,455,62,423,63,229,63,181,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,36,456,40,455,45,423,41"/>
+</map>

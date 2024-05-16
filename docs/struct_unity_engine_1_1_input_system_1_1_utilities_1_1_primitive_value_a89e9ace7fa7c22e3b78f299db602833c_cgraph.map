@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.From&lt; TValue &gt;" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.From&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title="Create a PrimitiveValue from the given &quot;blittable&quot;/struct value." alt="" coords="5,5,190,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#aa81e228bae2b8ee3fa2745a3a0b54c0e" title="Create a PrimitiveValue holding a bool." alt="" coords="238,13,474,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,32,222,32,222,37,190,37"/>
-</map>

@@ -1,4 +1,0 @@
-var class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem_descriptor =
-[
-    [ "holdsThings", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem_descriptor.html#adc70e806d6a870833184ec3839591918", null ]
-];

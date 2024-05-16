@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Stop" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Stop">
-<area shape="rect" id="Node000001" title="Pauses the Gesture subsystem." alt="" coords="316,55,573,97"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem.html#a2638e5301b5bc7ccb7c8359cd9705b82" title="Destroys the Gesture subsystem." alt="" coords="21,5,252,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,59,251,53,252,47,301,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_tests_1_1_x_r_gesture_subsystem_test_fixture.html#a716cdf73918212d08291b3e9ec98941d" title=" " alt="" coords="5,88,268,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,98,268,102,268,97,300,93"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SubdivideEdges.OnSettingsGUI" name="UnityEditor.ProBuilder.Actions.SubdivideEdges.OnSettingsGUI">
-<area shape="rect" id="Node000001" title="Implement the extra settings GUI for your action in this method." alt="" coords="5,5,210,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="258,5,443,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="491,5,723,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,24,475,24,475,29,443,29"/>
-</map>

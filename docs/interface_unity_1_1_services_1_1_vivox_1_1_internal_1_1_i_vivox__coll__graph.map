@@ -1,5 +1,0 @@
-<map id="Unity.Services.Vivox.Internal.IVivox" name="Unity.Services.Vivox.Internal.IVivox">
-<area shape="rect" id="Node000001" title="Provides utilities for performing simple Vivox actions or overriding the IVivoxTokenProviderInternal ..." alt="" coords="5,80,195,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="34,5,166,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,48,103,80,97,80,97,48"/>
-</map>

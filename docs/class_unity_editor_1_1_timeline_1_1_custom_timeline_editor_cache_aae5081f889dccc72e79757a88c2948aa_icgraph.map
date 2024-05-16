@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.CustomTimelineEditorCache.GetTrackEditor" name="UnityEditor.Timeline.CustomTimelineEditorCache.GetTrackEditor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="246,72,477,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_track_asset_inspector.html#a83baa0da77d8600798560c37a487da99" title=" " alt="" coords="15,5,188,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,70,187,51,188,46,261,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_dragging.html#af9bfefb2a649c3ad348dd30003879a9b" title=" " alt="" coords="5,72,198,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,96,198,96,198,91,230,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_g_u_i.html#a5b6aabdf8033ae01af176b30c13a31db" title=" " alt="" coords="7,139,196,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,122,188,141,187,135,260,117"/>
-</map>

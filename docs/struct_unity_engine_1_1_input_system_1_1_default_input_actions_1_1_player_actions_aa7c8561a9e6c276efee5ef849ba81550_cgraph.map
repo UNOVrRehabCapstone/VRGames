@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.DefaultInputActions.PlayerActions.SetCallbacks" name="UnityEngine.InputSystem.DefaultInputActions.PlayerActions.SetCallbacks">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,228,147"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_player_actions.html#a975984e68d3cc74d71653c694f2cf32a" title=" " alt="" coords="276,5,501,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,85,274,67,276,72,216,90"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_player_actions.html#a125fe92b6c33e0b506321c1515898683" title=" " alt="" coords="276,88,501,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,115,260,115,260,120,228,120"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_i_player_actions.html#a111f571695d20af95a909ce4bc97c03c" title=" " alt="" coords="276,171,501,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,145,276,163,274,168,215,150"/>
-</map>

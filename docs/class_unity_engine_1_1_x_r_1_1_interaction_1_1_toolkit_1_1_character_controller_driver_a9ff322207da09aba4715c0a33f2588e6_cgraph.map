@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.CharacterControllerDriver.Start" name="UnityEngine.XR.Interaction.Toolkit.CharacterControllerDriver.Start">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,13,244,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_character_controller_driver.html#af50aeb1c498dcb5be1dec49fce8723b7" title="Updates the CharacterController.height and CharacterController.center based on the camera&#39;s position." alt="" coords="292,5,502,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,32,276,32,276,37,244,37"/>
-</map>

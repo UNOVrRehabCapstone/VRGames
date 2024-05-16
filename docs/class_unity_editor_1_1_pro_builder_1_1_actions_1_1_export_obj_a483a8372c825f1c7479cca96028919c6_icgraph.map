@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.ExportObj.ExportWithFileDialog" name="UnityEditor.ProBuilder.Actions.ExportObj.ExportWithFileDialog">
-<area shape="rect" id="Node000001" title=" " alt="" coords="307,39,512,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_export.html#a395b17fd3924fa031a2ffcb47fddceaf" title=" " alt="" coords="15,5,249,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,48,249,43,249,38,291,43"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_export_obj.html#ae1f04083413c22035c68ae85c0b2469f" title=" " alt="" coords="5,72,259,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,77,260,81,259,75,291,72"/>
-</map>

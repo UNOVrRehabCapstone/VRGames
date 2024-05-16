@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.SetupRigidbodyGrab" name="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.SetupRigidbodyGrab">
-<area shape="rect" id="Node000001" title="Setup the Rigidbody on this object due to being grabbed. Automatically called when entering the Selec..." alt="" coords="540,5,752,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#af7d7c33985df3455d12ada8379e70d4b" title="Updates the state of the object due to being grabbed. Automatically called when entering the Select s..." alt="" coords="286,13,492,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,37,493,37,493,32,524,32"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#a601ea3033ff8d103d17c993603d0e536" title="The XRInteractionManager calls this method right before the Interactor first initiates selection of a..." alt="" coords="5,5,238,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,37,238,37,238,32,270,32"/>
-</map>

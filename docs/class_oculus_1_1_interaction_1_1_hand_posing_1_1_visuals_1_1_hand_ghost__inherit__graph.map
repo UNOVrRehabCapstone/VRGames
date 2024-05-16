@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.Visuals.HandGhost" name="Oculus.Interaction.HandPosing.Visuals.HandGhost">
-<area shape="rect" id="Node000001" title="A static (non&#45;user controlled) representation of a hand. This script is used to be able to manually v..." alt="" coords="5,80,210,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,162,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
-</map>

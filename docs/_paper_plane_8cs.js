@@ -1,4 +1,4 @@
 var _paper_plane_8cs =
 [
-    [ "PaperPlane", "class_paper_plane.html", "class_paper_plane" ]
+    [ "PlanesGame.PaperPlane", "class_planes_game_1_1_paper_plane.html", "class_planes_game_1_1_paper_plane" ]
 ];

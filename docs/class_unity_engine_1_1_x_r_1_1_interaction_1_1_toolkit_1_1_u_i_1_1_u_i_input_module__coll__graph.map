@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule" name="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule">
-<area shape="rect" id="Node000001" title="Base class for input modules that send UI input." alt="" coords="5,80,185,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="34,5,156,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,92,80,92,48"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Input.Hand.GetCenterEyePose" name="Oculus.Interaction.Input.Hand.GetCenterEyePose">
-<area shape="rect" id="Node000001" title="Gets the pose of the center eye (HMD), in world space. Will return true if a pose was available; fals..." alt="" coords="240,5,407,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#ad5f7b34ad86d8b5628596590f4d212d7" title="Gets the pose of the center eye (HMD), in world space. Will return true if a pose was available; fals..." alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,29,192,29,192,24,224,24"/>
-</map>

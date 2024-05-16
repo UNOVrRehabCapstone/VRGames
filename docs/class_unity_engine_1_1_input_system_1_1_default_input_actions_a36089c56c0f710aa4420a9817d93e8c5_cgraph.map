@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.DefaultInputActions.Contains" name="UnityEngine.InputSystem.DefaultInputActions.Contains">
-<area shape="rect" id="Node000001" title="Check whether the given action is contained in this collection." alt="" coords="5,5,194,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a2128df596b4c16564c1bd36754f1fce0" title="Return true if the given action is part of the asset." alt="" coords="242,5,417,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,226,24,226,29,194,29"/>
-</map>

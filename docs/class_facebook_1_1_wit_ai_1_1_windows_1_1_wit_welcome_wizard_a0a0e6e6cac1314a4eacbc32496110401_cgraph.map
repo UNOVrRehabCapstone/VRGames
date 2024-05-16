@@ -1,7 +1,0 @@
-<map id="Facebook.WitAi.Windows.WitWelcomeWizard.ValidateAndClose" name="Facebook.WitAi.Windows.WitWelcomeWizard.ValidateAndClose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,230,81"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_welcome_wizard.html#a9d34d790eb0d21350105ec73a31296fc" title=" " alt="" coords="278,5,512,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,44,262,40,262,45,230,49"/>
-<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_wit_auth_utility.html#a4a5d5921b6e043b3481555907c501e59" title=" " alt="" coords="294,72,496,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,71,278,77,278,82,230,76"/>
-</map>

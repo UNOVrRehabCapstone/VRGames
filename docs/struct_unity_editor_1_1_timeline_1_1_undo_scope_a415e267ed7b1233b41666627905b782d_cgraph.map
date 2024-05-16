@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.UndoScope.Add" name="UnityEditor.Timeline.UndoScope.Add">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,177,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_undo_scope.html#a9ef371e5117308affa0285012883194b" title=" " alt="" coords="225,5,396,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,24,209,24,209,29,177,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#abbaa8f73f61309320a146c0af4ab517a" title="Get the TrackAsset to which this clip is attached." alt="" coords="444,5,639,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,24,428,24,428,29,396,29"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputControlExtensions.ControlBuilder.WithLayout" name="UnityEngine.InputSystem.InputControlExtensions.ControlBuilder.WithLayout">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,206,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#a82818c9e8b5cd25ed426f87824f02878" title="Whether the string is empty, i.e. has a length of zero. If so, the InternedString corresponds to defa..." alt="" coords="254,13,454,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,32,238,32,238,37,206,37"/>
-</map>

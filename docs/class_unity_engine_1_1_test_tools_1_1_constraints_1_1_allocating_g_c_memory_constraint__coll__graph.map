@@ -1,5 +1,0 @@
-<map id="UnityEngine.TestTools.Constraints.AllocatingGCMemoryConstraint" name="UnityEngine.TestTools.Constraints.AllocatingGCMemoryConstraint">
-<area shape="rect" id="Node000001" title="An NUnit test constraint class to test whether a given block of code makes any GC allocations." alt="" coords="5,80,231,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="78,5,158,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,48,121,80,115,80,115,48"/>
-</map>

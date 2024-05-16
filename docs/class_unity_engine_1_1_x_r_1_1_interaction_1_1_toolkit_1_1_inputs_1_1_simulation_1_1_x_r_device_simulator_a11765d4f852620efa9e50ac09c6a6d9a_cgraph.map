@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.Awake" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.Awake">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,47,227,105"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_simulated_controller_state.html#a7706407aebfbfa58eaae5a9bddf4e054" title="Resets the value of all fields to default or the identity rotation." alt="" coords="275,5,516,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,57,259,52,260,57,227,62"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_simulated_h_m_d_state.html#aa7c81853301b89cdd43ccfcd1dd3cc3d" title="Resets the value of all fields to default or the identity rotation." alt="" coords="275,88,516,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,90,260,95,259,100,227,95"/>
-</map>

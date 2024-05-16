@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Input.DataSource.OnEnable" name="Oculus.Interaction.Input.DataSource.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,168,56"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_data_source.html#a6beded547cc4609bcf8bf1e11ab84114" title="Marks the DataAsset stored as outdated, which means it will be re&#45;processed JIT during the next call ..." alt="" coords="216,5,444,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,32,200,32,200,37,168,37"/>
-</map>

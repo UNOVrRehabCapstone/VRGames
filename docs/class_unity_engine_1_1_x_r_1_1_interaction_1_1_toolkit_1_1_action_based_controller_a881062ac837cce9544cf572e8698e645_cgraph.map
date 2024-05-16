@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ActionBasedController.ReadValue" name="UnityEngine.XR.Interaction.Toolkit.ActionBasedController.ReadValue">
-<area shape="rect" id="Node000001" title="Reads and returns the given action value. Unity automatically calls this method during UpdateInput to..." alt="" coords="5,13,265,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_controller.html#a3aa5908dd462f201871e56cce5719e8a" title="Evaluates whether the given input action is considered performed. Unity automatically calls this meth..." alt="" coords="313,5,519,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,32,297,32,297,37,265,37"/>
-</map>

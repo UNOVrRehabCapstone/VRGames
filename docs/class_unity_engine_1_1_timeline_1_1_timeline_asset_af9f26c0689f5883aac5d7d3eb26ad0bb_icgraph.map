@@ -1,7 +1,0 @@
-<map id="UnityEngine.Timeline.TimelineAsset.GetOutputTracks" name="UnityEngine.Timeline.TimelineAsset.GetOutputTracks">
-<area shape="rect" id="Node000001" title="Gets a list of all output tracks in the Timeline." alt="" coords="249,39,444,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#a75d7ae108e0719811a7fedc0a3da4dbf" title="Creates an instance of the timeline." alt="" coords="5,5,201,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,47,201,43,201,37,233,42"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#aba7594fee65685d13b4743c542340e29" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="5,72,201,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,78,201,83,201,77,233,73"/>
-</map>

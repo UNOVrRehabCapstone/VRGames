@@ -1,5 +1,0 @@
-<map id="TMPro.TMP_InputField.ActivateInputField" name="TMPro.TMP_InputField.ActivateInputField">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,209,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="257,5,440,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,24,241,24,241,29,209,29"/>
-</map>

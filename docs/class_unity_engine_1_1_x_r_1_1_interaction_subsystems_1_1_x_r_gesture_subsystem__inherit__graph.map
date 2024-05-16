@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem">
-<area shape="rect" id="Node000001" title="This class controls the lifecycle of an XR Gesture subsystem." alt="" coords="36,96,262,139"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_tests_1_1_x_r_gesture_subsystem_test.html" title=" " alt="" coords="5,187,293,229"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,154,152,186,146,186,146,154"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,263,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,64,152,96,146,96,146,64"/>
-</map>

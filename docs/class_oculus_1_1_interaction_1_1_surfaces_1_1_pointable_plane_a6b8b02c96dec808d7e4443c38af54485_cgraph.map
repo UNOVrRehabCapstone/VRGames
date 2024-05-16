@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Surfaces.PointablePlane.InjectAllPointablePlane" name="Oculus.Interaction.Surfaces.PointablePlane.InjectAllPointablePlane">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,251,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#af857961d0935c27b85cda8b97b62dff4" title=" " alt="" coords="302,5,519,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,43,286,39,287,44,252,48"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#ae21e64787c4350c3d6bfddcd5edca3d0" title=" " alt="" coords="299,72,522,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,72,283,76,283,81,251,77"/>
-</map>

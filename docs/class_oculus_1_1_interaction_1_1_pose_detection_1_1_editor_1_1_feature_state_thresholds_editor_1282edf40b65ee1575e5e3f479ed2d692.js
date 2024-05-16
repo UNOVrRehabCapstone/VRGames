@@ -1,6 +1,0 @@
-var class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692 =
-[
-    [ "FeatureStateThresholdsModel", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692.html#afffb5cf3b933a56fc2cf6dd9c999d17b", null ],
-    [ "Feature", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692.html#af1fd861348753d5b17f747e8e6615579", null ],
-    [ "ThresholdsProp", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_feature_state_thresholds_editor_1282edf40b65ee1575e5e3f479ed2d692.html#a95e2045f65b3c19ba54379ac49b546bc", null ]
-];

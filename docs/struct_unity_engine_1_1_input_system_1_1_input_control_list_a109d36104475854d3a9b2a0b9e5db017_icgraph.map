@@ -1,8 +1,0 @@
-<map id="UnityEngine.InputSystem.InputControlList.IndexOf" name="UnityEngine.InputSystem.InputControlList.IndexOf">
-<area shape="rect" id="Node000001" title=" " alt="" coords="226,39,398,81"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="347,25,334,20,312,17,291,19,278,24,273,30,275,38,270,39,268,29,275,20,290,14,312,12,335,14,350,21"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_input_control_list.html#a4ade7fd4d58c1e327669768b9de36a0c" title=" " alt="" coords="5,5,178,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,47,178,42,178,37,210,42"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_input_control_list.html#a1ab5a5fcadad89567278afc3d4a8843e" title=" " alt="" coords="5,72,178,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,78,178,83,178,78,210,73"/>
-</map>

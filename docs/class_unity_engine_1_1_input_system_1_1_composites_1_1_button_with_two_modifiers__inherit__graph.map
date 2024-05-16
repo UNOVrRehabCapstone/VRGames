@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.ButtonWithTwoModifiers" name="UnityEngine.InputSystem.Composites.ButtonWithTwoModifiers">
-<area shape="rect" id="Node000001" title="A button with two additional modifiers. The button only triggers when both modifiers are pressed." alt="" coords="5,96,240,139"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="45,5,200,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,64,125,96,120,96,120,64"/>
-</map>

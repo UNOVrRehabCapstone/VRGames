@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.Models.MatchmakingEnqueueResultAndRoom.MatchmakingEnqueueResultAndRoom" name="Oculus.Platform.Models.MatchmakingEnqueueResultAndRoom.MatchmakingEnqueueResultAndRoom">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,305,105"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a050e2df48455c37c9b99e9c43ff5f6a6" title=" " alt="" coords="353,5,604,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,54,337,50,338,55,305,59"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1f1dc29869b7b07bfa6d47a1f5645d96" title=" " alt="" coords="353,88,604,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,93,338,97,337,102,305,98"/>
-</map>

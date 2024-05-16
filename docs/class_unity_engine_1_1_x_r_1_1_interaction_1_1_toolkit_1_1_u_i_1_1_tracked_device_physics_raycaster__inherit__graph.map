@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.TrackedDevicePhysicsRaycaster" name="UnityEngine.XR.Interaction.Toolkit.UI.TrackedDevicePhysicsRaycaster">
-<area shape="rect" id="Node000001" title="Physics&#45;based UI Raycaster for Tracked Devices (e.g. XR Controllers). Detects UI elements with physic..." alt="" coords="5,229,216,288"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_base_raycaster.html" title="Base class for any RayCaster." alt="" coords="55,155,166,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,197,113,229,108,229,108,197"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="66,80,155,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,122,113,154,108,154,108,122"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="56,5,165,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,48,113,80,108,80,108,48"/>
-</map>

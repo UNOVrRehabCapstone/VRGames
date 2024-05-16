@@ -1,7 +1,0 @@
-<map id="Unity.Cloud.Collaborate.EditorGameService.CloudCollabSettingsProvider" name="Unity.Cloud.Collaborate.EditorGameService.CloudCollabSettingsProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,211,229"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_settings_provider.html" title="Base class to extend for an external service settings provider to become an editor game service setti..." alt="" coords="18,80,198,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,138,111,170,105,170,105,138"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="50,5,166,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,48,111,80,105,80,105,48"/>
-</map>

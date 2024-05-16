@@ -1,5 +1,0 @@
-<map id="PlaneGameplayManager.reset" name="PlaneGameplayManager.reset">
-<area shape="rect" id="Node000001" title="Clears all planes from the game, removing their GameObjects and clearing the list." alt="" coords="259,13,455,40"/>
-<area shape="rect" id="Node000002" href="$class_plane_gameplay_manager.html#a98e8bef276ba22de99e362a132557587" title="Toggles the timed target feature and resets the game state, respawning planes." alt="" coords="5,5,211,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,29,211,29,211,24,243,24"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputEventTrace.ReplayController.OnEvent" name="UnityEngine.InputSystem.LowLevel.InputEventTrace.ReplayController.OnEvent">
-<area shape="rect" id="Node000001" title="Invoke the given callback when an event is about to be queued." alt="" coords="227,5,440,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#a0e8d20b45d477821fa142e44bdc327a5" title=" " alt="" coords="5,13,179,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,37,179,37,179,32,211,32"/>
-</map>

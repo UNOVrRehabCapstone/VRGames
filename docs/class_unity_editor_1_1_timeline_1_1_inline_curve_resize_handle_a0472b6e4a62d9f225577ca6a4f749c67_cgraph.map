@@ -1,8 +1,0 @@
-<map id="UnityEditor.Timeline.InlineCurveResizeHandle.Draw" name="UnityEditor.Timeline.InlineCurveResizeHandle.Draw">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,177,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_space_partitioner.html#a85d8effbff6e987e54683254d4e17680" title=" " alt="" coords="230,29,409,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,69,215,63,215,69,177,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html#a95ded15b786a2b7f491a75e639c9fa09" title=" " alt="" coords="225,96,414,139"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="177,94,209,99,209,104,177,99"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="276,29,274,19,282,10,297,5,319,3,344,5,358,11,356,16,342,10,319,8,298,10,285,15,279,21,281,28"/>
-</map>

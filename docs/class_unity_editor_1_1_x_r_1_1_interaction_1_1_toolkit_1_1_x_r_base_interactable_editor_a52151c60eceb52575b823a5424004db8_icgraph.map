@@ -1,9 +1,0 @@
-<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractableEditor.DrawSelectionConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractableEditor.DrawSelectionConfiguration">
-<area shape="rect" id="Node000001" title="Draw the property fields related to selection configuration." alt="" coords="792,5,1007,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#a65bfcef92a766e1de225042c3e1924e5" title="Draw the core group of property fields. These are the main properties that appear before any other sp..." alt="" coords="530,5,744,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,37,745,37,745,32,777,32"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#a272f3534c93f0ea5bd9674c085264f7d" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="268,5,482,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="514,37,482,37,482,32,514,32"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html#a9f5ba925c9e0f64e24e4424d14ca2370" title=" " alt="" coords="5,5,220,64"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,37,220,37,220,32,252,32"/>
-</map>

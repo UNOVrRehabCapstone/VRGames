@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionAsset.Contains" name="UnityEngine.InputSystem.InputActionAsset.Contains">
-<area shape="rect" id="Node000001" title="Return true if the given action is part of the asset." alt="" coords="284,80,459,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_default_input_actions.html#a36089c56c0f710aa4420a9817d93e8c5" title="Check whether the given action is contained in this collection." alt="" coords="26,5,215,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,78,235,63,196,51,198,46,236,57,286,72"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html#a90fb662f512bcaba4045899c8783ebe5" title="Check whether the given action is contained in this collection." alt="" coords="5,72,236,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,104,236,104,236,99,268,99"/>
-<area shape="rect" id="Node000004" href="$class_simple_controls.html#aa2a1ee14c35a1bb94ad1d75b421e21f6" title="Check whether the given action is contained in this collection." alt="" coords="38,155,203,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,130,236,145,189,157,188,151,235,140,287,125"/>
-</map>

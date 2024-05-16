@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Processors.ClampProcessor" name="UnityEngine.InputSystem.Processors.ClampProcessor">
-<area shape="rect" id="Node000001" title="Clamp a floating&#45;point input to between min and max. This is equivalent to Mathf.Clamp(value,..." alt="" coords="5,80,193,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="21,5,177,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,48,102,80,96,80,96,48"/>
-</map>

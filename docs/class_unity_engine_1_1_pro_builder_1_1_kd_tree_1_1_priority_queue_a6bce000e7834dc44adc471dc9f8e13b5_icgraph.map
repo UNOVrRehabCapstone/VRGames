@@ -1,7 +1,0 @@
-<map id="UnityEngine.ProBuilder.KdTree.PriorityQueue.GetHighestPriority" name="UnityEngine.ProBuilder.KdTree.PriorityQueue.GetHighestPriority">
-<area shape="rect" id="Node000001" title=" " alt="" coords="312,43,551,85"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_nearest_neighbour_list.html#a8bb6a168a6344560d4b3bc5f635fa20c" title=" " alt="" coords="34,5,235,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,50,235,42,236,37,297,44"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_nearest_neighbour_list.html#a5c384cb895a578e1633e32b8cac6c187" title=" " alt="" coords="5,72,264,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,84,265,88,264,82,296,78"/>
-</map>

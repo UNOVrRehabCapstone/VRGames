@@ -1,0 +1,5 @@
+<map id="PlanesGame.PaperPlane.onRelease" name="PlanesGame.PaperPlane.onRelease">
+<area shape="rect" id="Node000001" title="Called when the object is released, performs the throw of the paper plane." alt="" coords="5,5,191,48"/>
+<area shape="rect" id="Node000002" href="$class_planes_game_1_1_plane_gameplay_manager.html#a7a1612ac1ecc7e6d61510e57859d6087" title="Handles the event when a plane is released, spawning new planes as needed." alt="" coords="239,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,223,24,223,29,191,29"/>
+</map>

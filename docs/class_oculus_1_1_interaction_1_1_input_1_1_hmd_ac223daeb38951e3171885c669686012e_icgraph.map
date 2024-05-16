@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Input.Hmd.GetRootPose" name="Oculus.Interaction.Input.Hmd.GetRootPose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="273,39,435,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hmd_ref.html#a301a0cacca71c01b6d8dc45dfa4d6f30" title=" " alt="" coords="34,5,196,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,49,196,41,197,35,258,44"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_hmd_offset.html#a8c7bb663c5006766d9b8eb389ab5fbd1" title=" " alt="" coords="5,72,225,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,76,225,81,225,75,257,71"/>
-</map>

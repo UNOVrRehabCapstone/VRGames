@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.IXRInteractor.GetAttachTransform" name="UnityEngine.XR.Interaction.Toolkit.IXRInteractor.GetAttachTransform">
-<area shape="rect" id="Node000001" title="Gets the Transform that is used as the attachment point for a given Interactable." alt="" coords="306,5,505,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html#a35a50c40b2ab75602ac56f551f328c91" title="Calculates squared distance to an Interactor (based on colliders).Returns the minimum squared distanc..." alt="" coords="5,5,258,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,37,258,37,258,32,290,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Windows.Kinect.Joint.Equals" name="Windows.Kinect.Joint.Equals">
-<area shape="rect" id="Node000001" title=" " alt="" coords="267,31,457,57"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="405,18,391,12,362,9,335,11,321,16,318,21,324,29,320,32,312,22,318,12,334,6,362,4,392,7,408,13"/>
-<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_joint.html#af135512ee036037dca84437c244d8508" title=" " alt="" coords="8,5,216,32"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="251,35,216,32,217,27,252,30"/>
-<area shape="rect" id="Node000003" href="$struct_windows_1_1_kinect_1_1_joint.html#a5c44b018d73495dc7e8b67fc50fa1d01" title=" " alt="" coords="5,56,219,83"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="252,58,219,61,219,56,251,53"/>
-</map>

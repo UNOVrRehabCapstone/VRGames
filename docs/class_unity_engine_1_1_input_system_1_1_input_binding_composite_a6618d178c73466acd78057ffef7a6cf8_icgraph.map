@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputBindingComposite.ReadValue" name="UnityEngine.InputSystem.InputBindingComposite.ReadValue">
-<area shape="rect" id="Node000001" title="Read a value from the composite without having to know the value type (unlike InputBindingComposite&lt;T..." alt="" coords="275,43,496,85"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html#a2d7b3ba95ccf402b65256726264118b7" title=" " alt="" coords="5,5,227,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,49,227,45,227,39,260,44"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html#a5e5cca2c105078f09843155a94c9592c" title=" " alt="" coords="5,72,227,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,84,227,89,227,83,259,79"/>
-</map>

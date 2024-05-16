@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.PlayerInput.DeactivateInput" name="UnityEngine.InputSystem.PlayerInput.DeactivateInput">
-<area shape="rect" id="Node000001" title="Disable input on the player." alt="" coords="251,35,429,77"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#aa6c134d062569550c49759b9531fcb08" title=" " alt="" coords="17,5,191,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,46,191,40,192,35,236,40"/>
-<area shape="rect" id="Node000003" href="$class_u_ivs_game_input_handler.html#ad492a6a594e835ec9d9a1b76c4de0ca7" title=" " alt="" coords="5,72,203,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,72,203,76,203,70,235,66"/>
-</map>

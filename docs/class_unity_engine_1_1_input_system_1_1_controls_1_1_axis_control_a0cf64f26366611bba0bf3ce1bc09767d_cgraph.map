@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Controls.AxisControl.Preprocess" name="UnityEngine.InputSystem.Controls.AxisControl.Preprocess">
-<area shape="rect" id="Node000001" title="Apply modifications to the given value according to the parameters configured on the control (clamp,..." alt="" coords="5,13,216,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html#a9f43017ad4c494e04ca0ce15532d4c56" title="Normalize value &#160;with respect to min &#160;and max ." alt="" coords="264,5,476,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,32,248,32,248,37,216,37"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Oculus.Platform.Samples.VrBoardGame.GameController.TryPlacePiece" name="Oculus.Platform.Samples.VrBoardGame.GameController.TryPlacePiece">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,225,123"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#ac7f0aaf667f04ab1f4ca45c9575c129d" title=" " alt="" coords="291,5,527,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,66,296,49,297,55,226,71"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#aa7b4161e0d8bfab0e674eb2883181dd7" title=" " alt="" coords="273,72,545,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,91,257,91,257,96,225,96"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_matchmaking_manager.html#a04ae7e4515f3359e8af68d3076d57a81" title=" " alt="" coords="289,139,529,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,119,277,132,276,137,225,124"/>
-</map>

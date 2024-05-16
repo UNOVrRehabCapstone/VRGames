@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.InputVisualizer" name="UnityEngine.InputSystem.Samples.InputVisualizer">
-<area shape="rect" id="Node000001" title="Base class for InputActionVisualizer and InputControlVisualizer. Not meant to be extended outside of ..." alt="" coords="163,39,335,81"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_input_action_visualizer.html" title="A component for debugging purposes that adds an on&#45;screen display which shows activity on an input ac..." alt="" coords="385,5,583,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,43,384,38,385,43,351,48"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_input_control_visualizer.html" title="A component for debugging purposes that adds an on&#45;screen display which shows activity on an input co..." alt="" coords="383,72,585,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,72,383,76,382,82,350,77"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,115,73"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,57,162,57,162,63,130,63"/>
-</map>

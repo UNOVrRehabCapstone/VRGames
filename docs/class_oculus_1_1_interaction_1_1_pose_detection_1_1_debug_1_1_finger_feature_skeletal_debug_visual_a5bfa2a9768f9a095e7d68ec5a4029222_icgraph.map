@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.Debug.FingerFeatureSkeletalDebugVisual.Initialize" name="Oculus.Interaction.PoseDetection.Debug.FingerFeatureSkeletalDebugVisual.Initialize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="335,5,601,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_hand_shape_skeletal_debug_visual.html#a097e6089ab6502ac2677e8c05da4d504" title=" " alt="" coords="5,13,287,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,37,287,37,287,32,319,32"/>
-</map>

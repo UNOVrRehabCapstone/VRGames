@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.Model" name="UnityEditor.ProBuilder.Model">
-<area shape="rect" id="Node000001" title="A mesh, material and optional transform matrix combination." alt="" coords="182,172,370,199"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html" title="Holds information about a single vertex, and provides methods for averaging between multiple Vertex o..." alt="" coords="5,81,203,108"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,113,253,169,250,174,141,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="32,5,176,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,47,107,81,101,81,101,47"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html" title="Defines a set of indices and material." alt="" coords="226,81,441,108"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,123,286,173,282,170,315,120"/>
-</map>

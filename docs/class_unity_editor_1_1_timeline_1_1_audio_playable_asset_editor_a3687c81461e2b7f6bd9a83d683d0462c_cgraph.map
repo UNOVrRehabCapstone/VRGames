@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.AudioPlayableAssetEditor.DrawBackground" name="UnityEditor.Timeline.AudioPlayableAssetEditor.DrawBackground">
-<area shape="rect" id="Node000001" title="Override this method to draw a background for a clip ." alt="" coords="5,55,247,97"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_audio_playable_asset_editor.html#a0d4247524d70d31c5d7893e544b18537" title=" " alt="" coords="295,5,524,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,56,279,51,280,56,248,61"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_audio_playable_asset_editor.html#a0b4dc23501a2702c634a32cd4ad36dc7" title=" " alt="" coords="301,88,518,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,91,286,97,285,102,247,96"/>
-</map>

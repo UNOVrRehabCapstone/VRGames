@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedHMDState" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRSimulatedHMDState">
-<area shape="rect" id="Node000001" title="State for input device representing a simulated XR HMD." alt="" coords="18,208,260,267"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_state_type_info.html" title="Interface implemented by all input device state structs which reports the data format identifier of t..." alt="" coords="5,5,137,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,46,133,207,128,208,77,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="161,5,253,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,47,150,208,145,207,196,46"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="Calibrator.ResetCalibration" name="Calibrator.ResetCalibration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,181,40"/>
+<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a20ad62a43259f7cc6376e4f2c53344bb" title=" " alt="" coords="229,5,423,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,24,213,24,213,29,181,29"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a4e72d1c40b50b37e1f8a594c8db06769" title=" " alt="" coords="471,5,665,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,24,456,24,456,29,424,29"/>
+</map>

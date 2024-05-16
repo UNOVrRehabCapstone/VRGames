@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.WindowState.GatherProperties" name="UnityEditor.Timeline.WindowState.GatherProperties">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,193,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_property_collector.html#ab5b227238401338388b6f4459dd5f27a" title="Sets the active game object for subsequent property modifications." alt="" coords="241,5,455,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,45,225,40,225,46,193,50"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_property_collector.html#a71b18b03f8b8bd036a73a9c56ca7210e" title=" " alt="" coords="253,72,443,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,70,237,76,237,81,193,75"/>
-</map>

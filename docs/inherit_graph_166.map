@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_oculus_1_1_interaction_1_1_i_interactable_registry.html" title="A interface for a registry that houses a set of concrete Interactables." alt="" coords="5,13,242,56"/>
-<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_interactable_registry.html" title="A registry that houses a set of concrete Interactables." alt="" coords="290,13,526,56"/>
-<area shape="poly" id="edge338_Node000000_Node000001" title=" " alt="" coords="257,32,289,32,289,37,257,37"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_collision_interaction_registry.html" title="The CollisionsInteractableRegistry maintains a collision map for any Rigidbody&#45;Interactables pair tha..." alt="" coords="574,5,780,64"/>
-<area shape="poly" id="edge339_Node000001_Node000002" title=" " alt="" coords="542,32,573,32,573,37,542,37"/>
-</map>

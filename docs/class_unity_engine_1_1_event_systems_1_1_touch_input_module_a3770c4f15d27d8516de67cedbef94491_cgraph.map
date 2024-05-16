@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.TouchInputModule.DeactivateModule" name="UnityEngine.EventSystems.TouchInputModule.DeactivateModule">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,238,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a456f895ba9a26b607a65c04a09a5c796" title="Clear all pointers and deselect any selected objects in the EventSystem." alt="" coords="286,5,506,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,24,270,24,270,29,238,29"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.ISnappable" name="UnityEditor.Timeline.ISnappable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="104,5,309,32"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_clip_g_u_i.html" title=" " alt="" coords="5,80,195,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,44,129,82,126,77,176,39"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_g_u_i.html" title=" " alt="" coords="219,80,408,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,39,288,77,284,82,234,44"/>
-</map>

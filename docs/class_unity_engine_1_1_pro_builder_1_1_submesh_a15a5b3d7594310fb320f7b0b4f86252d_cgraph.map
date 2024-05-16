@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.Submesh.GetSubmeshes" name="UnityEngine.ProBuilder.Submesh.GetSubmeshes">
-<area shape="rect" id="Node000001" title="Creates an array of submeshes from a set of faces. Currently only Quads and Triangles are supported." alt="" coords="5,5,224,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_submesh.html#aea4a56123f219339841e7412c7fae891" title="Creates a new Submesh from a submesh index for the material, the topology, and a set of indices." alt="" coords="272,5,490,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,24,256,24,256,29,224,29"/>
-</map>

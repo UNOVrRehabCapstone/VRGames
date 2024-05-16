@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.BezierPoint" name="UnityEngine.ProBuilder.BezierPoint">
-<area shape="rect" id="Node000001" title="A bezier knot." alt="" coords="5,144,202,187"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="58,5,149,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,48,106,144,101,144,101,48"/>
-</map>

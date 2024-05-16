@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.Input.Hand.GetFingerIsPinching" name="Oculus.Interaction.Input.Hand.GetFingerIsPinching">
-<area shape="rect" id="Node000001" title=" " alt="" coords="527,39,699,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#aefbe7e6743580ef89db332c3bbbba7e3" title=" " alt="" coords="282,5,473,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,48,473,43,474,38,512,43"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#af0cd9d4438099e8e042ae4177af51d6c" title=" " alt="" coords="276,72,479,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="512,77,480,82,479,76,511,72"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#a10e9aa5e124af906c83bbd12daed793d" title=" " alt="" coords="5,72,228,115"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,96,228,96,228,91,260,91"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="TMPro.TMP_SpriteAsset.GetSpriteIndexFromName" name="TMPro.TMP_SpriteAsset.GetSpriteIndexFromName">
-<area shape="rect" id="Node000001" title="Returns the index of the sprite for the given name." alt="" coords="5,35,196,77"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#a9913527431a09b1d82e42f8365b2533c" title="Function which returns the sprite index using the hashcode of the name." alt="" coords="244,5,434,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,42,228,38,229,43,197,47"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#ac0d576c7ae191d74887684c5388ca32a" title="Function to update the sprite name and unicode lookup tables. This function should be called when a s..." alt="" coords="482,35,692,77"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="196,56,244,57,434,57,467,57,467,62,434,63,244,63,196,62"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,35,467,39,466,44,434,41"/>
-</map>

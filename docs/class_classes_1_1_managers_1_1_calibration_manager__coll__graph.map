@@ -1,11 +1,7 @@
 <map id="Classes.Managers.CalibrationManager" name="Classes.Managers.CalibrationManager">
-<area shape="rect" id="Node000001" title=" " alt="" coords="84,203,279,245"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,115,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,131,161,200,157,204,83,135"/>
-<area shape="rect" id="Node000003" href="$struct_hand_struct.html" title=" " alt="" coords="138,96,225,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,138,184,202,179,202,179,138"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="272,96,349,123"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,139,298,160,283,181,249,204,246,200,279,177,293,158,302,137"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="284,5,337,32"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,48,313,95,308,95,308,48"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,112,217,155"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,44,111,110,107,113,71,47"/>
+<area shape="rect" id="Node000003" href="$struct_hand_struct.html" title=" " alt="" coords="138,5,225,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,47,134,113,129,110,165,44"/>
 </map>

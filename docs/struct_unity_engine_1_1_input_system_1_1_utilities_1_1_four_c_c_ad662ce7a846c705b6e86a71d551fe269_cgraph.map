@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.FourCC.operator FourCC" name="UnityEngine.InputSystem.Utilities.FourCC.operator FourCC">
-<area shape="rect" id="Node000001" title="Convert the given int into a FourCC." alt="" coords="5,5,178,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_four_c_c.html#a8a5fcf6c4d0fd9f99d03e954a9eef0c0" title="Create a FourCC from the given integer." alt="" coords="226,13,398,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,32,210,32,210,37,178,37"/>
-</map>

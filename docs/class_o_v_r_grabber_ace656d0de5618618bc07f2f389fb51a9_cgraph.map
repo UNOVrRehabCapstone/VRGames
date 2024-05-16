@@ -1,9 +1,0 @@
-<map id="OVRGrabber.GrabBegin" name="OVRGrabber.GrabBegin">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,166,83"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_grabbable.html#a625de9ab2375b0224925627cd6f8bb07" title="Notifies the object that it has been grabbed." alt="" coords="235,5,409,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,53,241,33,242,38,152,58"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_grabber.html#abaa2d146816832a66fa9f38e1feb30f2" title=" " alt="" coords="216,56,428,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,67,201,67,201,72,166,72"/>
-<area shape="rect" id="Node000004" href="$class_o_v_r_grabber.html#a9735715642645ece7b1529027f44fdf8" title=" " alt="" coords="214,107,430,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,81,242,100,241,105,151,86"/>
-</map>

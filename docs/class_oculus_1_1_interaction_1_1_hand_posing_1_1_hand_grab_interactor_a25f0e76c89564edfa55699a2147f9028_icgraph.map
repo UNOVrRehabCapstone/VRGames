@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.HandGrabInteractor.ComputeBestSnapAddress" name="Oculus.Interaction.HandPosing.HandGrabInteractor.ComputeBestSnapAddress">
-<area shape="rect" id="Node000001" title=" " alt="" coords="301,5,547,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#a7d0d55b372dc1a58ecb6487cfe768ca7" title="Compute the best interactable to snap to. In order to do it the method measures the score from the cu..." alt="" coords="5,13,253,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,37,253,37,253,32,285,32"/>
-</map>

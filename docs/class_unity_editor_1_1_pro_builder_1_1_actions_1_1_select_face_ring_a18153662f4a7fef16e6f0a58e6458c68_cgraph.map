@@ -1,8 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectFaceRing.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.SelectFaceRing.PerformActionImplementation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,293,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="356,5,530,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,47,340,40,341,45,292,53"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a97a433d48049fc9477def1465f17c57f" title="Sets the face selection for this mesh. Also sets the vertex and edge selection to match." alt="" coords="341,96,545,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,91,326,97,325,102,291,97"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="388,96,386,86,395,77,414,71,443,69,474,72,493,78,491,83,473,77,443,75,415,77,397,81,391,87,393,95"/>
-</map>

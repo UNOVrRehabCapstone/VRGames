@@ -1,7 +1,0 @@
-<map id="DocCodeExamples.TimelineAttributesExamples_HideAPI.SetNameToTypeAction" name="DocCodeExamples.TimelineAttributesExamples_HideAPI.SetNameToTypeAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,219,213"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_track_action.html" title="Base class for a track action. Inherit from this class to make an action that would react on selected..." alt="" coords="67,80,157,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,123,115,154,109,154,109,123"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="81,5,143,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,48,115,80,109,80,109,48"/>
-</map>

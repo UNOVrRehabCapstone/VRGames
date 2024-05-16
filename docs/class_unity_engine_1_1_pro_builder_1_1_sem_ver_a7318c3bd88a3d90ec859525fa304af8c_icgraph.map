@@ -1,8 +1,0 @@
-<map id="UnityEngine.ProBuilder.SemVer.CompareTo" name="UnityEngine.ProBuilder.SemVer.CompareTo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="240,39,426,81"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="371,26,357,20,333,17,311,19,297,24,292,30,294,38,288,39,287,29,294,20,310,14,333,12,358,14,373,21"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_sem_ver.html#a8a8938920e680d5f40cc2d57edd9c5cd" title=" " alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="224,47,192,43,193,37,225,42"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_sem_ver.html#a1021c2d52f3a4adf2ea911b0554ae247" title=" " alt="" coords="5,72,192,115"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="225,78,193,83,192,77,224,73"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Input.SyntheticHand.LockJoint" name="Oculus.Interaction.Input.SyntheticHand.LockJoint">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_fingers_metadata.html#aa4db0996aa0730f855990ac049840bf9" title=" " alt="" coords="219,5,453,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
-</map>

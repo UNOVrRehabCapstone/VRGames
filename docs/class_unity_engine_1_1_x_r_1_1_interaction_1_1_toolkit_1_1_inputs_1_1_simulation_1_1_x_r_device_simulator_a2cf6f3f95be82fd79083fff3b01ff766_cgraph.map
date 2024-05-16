@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.ProcessPoseInput" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation.XRDeviceSimulator.ProcessPoseInput">
-<area shape="rect" id="Node000001" title="Process input from the user and update the state of manipulated device(s) related to position and rot..." alt="" coords="5,5,227,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_simulation_1_1_x_r_device_simulator.html#afd7ef7254d42456f6bdbd2721217abba" title="Gets a Vector3 that can be multiplied component&#45;wise with another Vector3 to reset components of the ..." alt="" coords="275,5,496,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,32,259,32,259,37,227,37"/>
-</map>

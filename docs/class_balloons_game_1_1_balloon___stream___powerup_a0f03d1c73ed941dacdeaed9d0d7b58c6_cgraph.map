@@ -1,5 +1,15 @@
 <map id="BalloonsGame.Balloon_Stream_Powerup.ExtraPopEffects" name="BalloonsGame.Balloon_Stream_Powerup.ExtraPopEffects">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,231,48"/>
-<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="279,5,459,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,24,263,24,263,29,231,29"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,231,181"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon_spawn_manager.html#ad6ed2249a021dbae66abf87b2c77a6ae" title=" " alt="" coords="289,5,481,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,136,206,97,277,58,292,51,294,56,280,62,209,101,151,140"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="295,72,475,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,135,281,116,282,122,207,141"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a1b6d4c0e793658233529f560995e2b66" title=" " alt="" coords="289,139,481,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,157,273,157,273,163,231,163"/>
+<area shape="rect" id="Node000006" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a57b51306cfce6518de86e25181fa96b7" title=" " alt="" coords="279,205,491,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="207,179,282,198,281,204,206,185"/>
+<area shape="rect" id="Node000007" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a937e6de1e3f4fffc5dba8c03fe52e6ae" title=" " alt="" coords="279,272,491,315"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="151,180,209,219,280,258,294,264,292,269,277,262,206,223,148,184"/>
+<area shape="rect" id="Node000005" href="$class_balloons_game_1_1___base_balloon.html#a84386acc589ab8b523af05d4963f88f3" title=" " alt="" coords="539,139,733,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,157,523,157,523,163,482,163"/>
 </map>

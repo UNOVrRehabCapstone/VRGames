@@ -1,8 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ActionBasedController.IsPressed" name="UnityEngine.XR.Interaction.Toolkit.ActionBasedController.IsPressed">
-<area shape="rect" id="Node000001" title="Evaluates whether the given input action is considered performed. Unity automatically calls this meth..." alt="" coords="626,27,832,85"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_controller.html#a881062ac837cce9544cf572e8698e645" title="Reads and returns the given action value. Unity automatically calls this method during UpdateInput to..." alt="" coords="319,5,578,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="610,46,578,43,579,38,611,41"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_controller.html#a42229872a24d94863e1d1b574915b755" title="Updates the XR Interaction states in the given controller state based on the current inputs of the co..." alt="" coords="5,35,271,77"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="610,62,578,63,319,63,271,62,271,57,319,57,578,57,610,57"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,43,271,46,271,41,303,38"/>
-</map>

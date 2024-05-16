@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Management.XRManagerSettings.StopSubsystems" name="UnityEngine.XR.Management.XRManagerSettings.StopSubsystems">
-<area shape="rect" id="Node000001" title="If there is an active loader, this will request the loader to stop all the subsystems that it is mana..." alt="" coords="5,5,245,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#ae44c5f7511f9fffef8f79e8fef45d683" title="Ask loader to stop all initialized subsystems." alt="" coords="293,5,487,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,24,277,24,277,29,245,29"/>
-</map>

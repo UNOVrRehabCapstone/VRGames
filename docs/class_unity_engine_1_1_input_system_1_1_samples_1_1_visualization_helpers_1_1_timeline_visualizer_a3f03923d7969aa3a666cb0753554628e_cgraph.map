@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.VisualizationHelpers.TimelineVisualizer.AddSample" name="UnityEngine.InputSystem.Samples.VisualizationHelpers.TimelineVisualizer.AddSample">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,204,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_ring_buffer.html#ae4989a156f2cd00f689c482685cf0164" title=" " alt="" coords="252,5,450,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,32,236,32,236,37,204,37"/>
-</map>

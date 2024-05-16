@@ -1,9 +1,0 @@
-<map id="Unity.Services.Core.Configuration.ProjectConfiguration.GetString" name="Unity.Services.Core.Configuration.ProjectConfiguration.GetString">
-<area shape="rect" id="Node000001" title="Get the string value for the project config with the given key ." alt="" coords="272,72,490,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_project_configuration.html#aed3276b4aec064b3eeea20cb54693e83" title="Get the boolean value for the project config key ." alt="" coords="5,5,224,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,70,202,51,203,46,279,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_project_configuration.html#a305d5645cc83f87b10546e291ba58b6c" title="Get the float value for the project config with the given key ." alt="" coords="5,72,224,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,96,224,96,224,91,256,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_project_configuration.html#a1d988d5be1df60acc6f923f863437662" title="Get the integer value for the project config with the given key ." alt="" coords="5,139,224,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,122,203,141,202,135,277,116"/>
-</map>

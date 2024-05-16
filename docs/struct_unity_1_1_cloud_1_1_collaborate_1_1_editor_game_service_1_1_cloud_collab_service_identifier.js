@@ -1,4 +1,0 @@
-var struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service_identifier =
-[
-    [ "GetKey", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service_identifier.html#a74373574a0dc7a3d2fa5493037d73d02", null ]
-];

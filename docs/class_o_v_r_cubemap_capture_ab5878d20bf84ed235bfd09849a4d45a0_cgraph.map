@@ -1,7 +1,0 @@
-<map id="OVRCubemapCapture.TriggerCubemapCapture" name="OVRCubemapCapture.TriggerCubemapCapture">
-<area shape="rect" id="Node000001" title="Generate unity cubemap at specific location and save into JPG/PNG." alt="" coords="5,39,198,81"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_cubemap_capture.html#a8c6e0b5c9ec3f961370778f23fa64c4d" title=" " alt="" coords="267,5,461,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,45,251,38,252,44,198,50"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_cubemap_capture.html#a88c311b12d6591a47acc38b873f3fc0e" title="Save unity cubemap into NPOT 6x1 cubemap/texture atlas in the following format PX NX PY NY PZ NZ." alt="" coords="246,72,482,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,70,230,74,230,79,198,75"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Unity.Services.Core.Internal.TaskAsyncOperation.TaskAsyncOperation" name="Unity.Services.Core.Internal.TaskAsyncOperation.TaskAsyncOperation">
-<area shape="rect" id="Node000001" title="Creates a new TaskAsyncOperation from a provided Task. Returns on Unity&#39;s main thread context." alt="" coords="5,29,273,72"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="89,29,87,19,95,10,113,5,139,3,167,5,184,11,183,16,166,10,139,8,114,10,98,15,92,21,94,28"/>
-</map>

@@ -1,4 +1,0 @@
-var namespace_unity_editor_1_1_test_runner_1_1_command_line_parser =
-[
-    [ "ICommandLineOption", "interface_unity_editor_1_1_test_runner_1_1_command_line_parser_1_1_i_command_line_option.html", "interface_unity_editor_1_1_test_runner_1_1_command_line_parser_1_1_i_command_line_option" ]
-];

@@ -1,6 +1,0 @@
-<map id="UnityEngine.ProBuilder.Vertex.Add" name="UnityEngine.ProBuilder.Vertex.Add">
-<area shape="rect" id="Node000001" title="Adds two Vertex objects together and returns the result in a new Vertex object. Addition is performed..." alt="" coords="5,29,230,56"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="74,31,66,21,71,11,89,5,118,3,149,5,165,12,163,17,148,10,117,8,90,10,75,15,71,20,78,27"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html#a7d99cad2529c7b7e1736a7c39932fe66" title="Initializes a Vertex with no values." alt="" coords="278,21,479,64"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="230,40,262,40,262,45,230,45"/>
-</map>

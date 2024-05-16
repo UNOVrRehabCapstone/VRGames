@@ -1,5 +1,0 @@
-<map id="Unity.Services.Wire.Internal.IWire" name="Unity.Services.Wire.Internal.IWire">
-<area shape="rect" id="Node000001" title="IWire allows the creation of disposable IChannel objects." alt="" coords="5,80,191,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="32,5,164,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,48,101,80,95,80,95,48"/>
-</map>

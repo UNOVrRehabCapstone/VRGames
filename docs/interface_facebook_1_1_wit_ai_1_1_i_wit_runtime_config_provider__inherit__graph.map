@@ -1,7 +1,0 @@
-<map id="Facebook.WitAi.IWitRuntimeConfigProvider" name="Facebook.WitAi.IWitRuntimeConfigProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="83,5,272,48"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_wit.html" title=" " alt="" coords="5,96,144,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,60,92,98,89,93,137,56"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html" title=" " alt="" coords="168,96,392,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,56,265,93,262,98,214,60"/>
-</map>

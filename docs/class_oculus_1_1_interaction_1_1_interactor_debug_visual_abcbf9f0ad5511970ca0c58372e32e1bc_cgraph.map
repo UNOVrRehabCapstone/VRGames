@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.InteractorDebugVisual.InjectAllInteractorDebugVisual" name="Oculus.Interaction.InteractorDebugVisual.InjectAllInteractorDebugVisual">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,241,89"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor_debug_visual.html#a787eb8384ed0b0874e36b3a070dcec5a" title=" " alt="" coords="289,5,500,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,43,273,39,274,44,241,48"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactor_debug_visual.html#a4fd8a5ec4bb3ca6dfa259db7aa7c91c1" title=" " alt="" coords="302,72,487,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,72,287,77,286,83,241,77"/>
-</map>

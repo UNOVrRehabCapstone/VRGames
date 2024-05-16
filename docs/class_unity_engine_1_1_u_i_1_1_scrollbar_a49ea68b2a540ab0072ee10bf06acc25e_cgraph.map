@@ -1,6 +1,0 @@
-<map id="UnityEngine.UI.Scrollbar.OnPointerDown" name="UnityEngine.UI.Scrollbar.OnPointerDown">
-<area shape="rect" id="Node000001" title="Event triggered when pointer is pressed down on the scrollbar." alt="" coords="5,29,172,72"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_scrollbar.html#a295bb45c1f19fa7ae9a610a4d88aa1f5" title=" " alt="" coords="220,29,386,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,48,204,48,204,53,172,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="262,29,260,19,267,10,281,5,303,3,326,5,340,11,337,16,324,10,303,8,283,10,270,15,266,21,267,28"/>
-</map>

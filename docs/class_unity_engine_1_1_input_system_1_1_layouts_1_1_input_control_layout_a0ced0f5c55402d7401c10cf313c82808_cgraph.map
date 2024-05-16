@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Layouts.InputControlLayout.MergeLayout" name="UnityEngine.InputSystem.Layouts.InputControlLayout.MergeLayout">
-<area shape="rect" id="Node000001" title="Merge the settings from other &#160;into the layout such that they become the base settings." alt="" coords="5,31,225,89"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#a82818c9e8b5cd25ed426f87824f02878" title="Whether the string is empty, i.e. has a length of zero. If so, the InternedString corresponds to defa..." alt="" coords="273,5,473,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,43,257,39,258,44,226,48"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#a2f91cae2b02491aa20206f1037e0ac35" title="Return a lower&#45;case version of the string." alt="" coords="273,72,473,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,72,258,76,257,81,225,77"/>
-</map>

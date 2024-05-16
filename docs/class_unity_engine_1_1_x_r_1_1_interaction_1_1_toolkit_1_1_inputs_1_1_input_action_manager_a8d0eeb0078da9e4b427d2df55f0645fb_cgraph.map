@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.InputActionManager.OnEnable" name="UnityEngine.XR.Interaction.Toolkit.Inputs.InputActionManager.OnEnable">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,5,227,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_input_action_manager.html#a35fb6611ce2745e4d4d31ff34547e0fe" title="Enable all actions referenced by this component." alt="" coords="275,5,496,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,32,259,32,259,37,227,37"/>
-</map>

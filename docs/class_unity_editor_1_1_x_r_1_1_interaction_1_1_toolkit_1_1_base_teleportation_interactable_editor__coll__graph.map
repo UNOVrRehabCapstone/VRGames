@@ -1,9 +1,0 @@
-<map id="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor" name="UnityEditor.XR.Interaction.Toolkit.BaseTeleportationInteractableEditor">
-<area shape="rect" id="Node000001" title="Custom editor for an BaseTeleportationInteractable." alt="" coords="5,229,240,288"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable_editor.html" title="Custom editor for an XRBaseInteractable." alt="" coords="38,155,207,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,197,125,229,120,229,120,197"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html" title="Base class for custom editors in the XR Interaction Toolkit." alt="" coords="50,80,195,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,122,125,154,120,154,120,122"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="95,5,150,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,48,125,80,120,80,120,48"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.UniqueIdentifier.Generate" name="Oculus.Interaction.UniqueIdentifier.Generate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="242,39,412,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html#a5dfe0c536abe81a0d30051b8c44235bb" title=" " alt="" coords="5,5,194,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,48,194,43,195,38,227,43"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_virtual_pointable.html#ab13c440334fe3b131c39bd7f04088d01" title=" " alt="" coords="16,72,183,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,77,184,84,183,78,226,72"/>
-</map>

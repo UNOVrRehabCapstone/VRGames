@@ -1,8 +1,0 @@
-<map id="SpatialAnchorSession.QueryAnchorByUuid" name="SpatialAnchorSession.QueryAnchorByUuid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,194,48"/>
-<area shape="rect" id="Node000002" href="$class_anchor_session.html#aca251847402dfb81e0d9954fea54021f" title=" " alt="" coords="474,13,608,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,459,24,459,29,194,29"/>
-<area shape="rect" id="Node000003" href="$class_anchor_helpers.html#a9c20a980555053d18f4dd2b81e930618" title=" " alt="" coords="242,39,426,65"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,34,227,38,226,43,194,40"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="426,38,458,34,459,39,426,43"/>
-</map>

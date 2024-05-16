@@ -1,7 +1,0 @@
-<map id="Unity.Subsystem.Registration.StandaloneSubsystemTestFixture.TestSubsystem" name="Unity.Subsystem.Registration.StandaloneSubsystemTestFixture.TestSubsystem">
-<area shape="rect" id="Node000001" title=" " alt="" coords="244,5,490,64"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_concrete_test_subsystem.html" title=" " alt="" coords="538,5,811,64"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="506,32,537,32,537,37,506,37"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,196,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
-</map>

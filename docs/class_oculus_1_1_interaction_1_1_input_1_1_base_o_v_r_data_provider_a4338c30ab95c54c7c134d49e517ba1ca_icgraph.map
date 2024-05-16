@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.Input.BaseOVRDataProvider.ToOvrConfidence" name="Oculus.Interaction.Input.BaseOVRDataProvider.ToOvrConfidence">
-<area shape="rect" id="Node000001" title=" " alt="" coords="322,96,575,139"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_data_asset_o_v_r_mesh_renderer_data_provider.html#a99b6177c1e2748ee87378bb61b83fba5" title=" " alt="" coords="14,5,265,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,94,251,67,253,62,352,89"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_data_asset_o_v_r_skeleton_renderer_data_provider.html#a414e5bcb45c7a06fcf4ce1a06d9252d6" title=" " alt="" coords="15,88,264,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,120,265,120,265,115,306,115"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_data_asset_o_v_r_skeleton_data_provider.html#a006ef7985ca5398caea7778a9b5d4720" title=" " alt="" coords="5,171,274,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="352,146,253,173,251,167,350,141"/>
-</map>

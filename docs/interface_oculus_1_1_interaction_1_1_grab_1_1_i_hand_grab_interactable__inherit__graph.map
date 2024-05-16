@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Grab.IHandGrabInteractable" name="Oculus.Interaction.Grab.IHandGrabInteractable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,168,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_1_1_hand_grab_interactable_data.html" title=" " alt="" coords="231,5,405,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,44,230,37,231,42,183,49"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html" title="A HandGrabInteractable indicates the properties about how a hand can snap to an object...." alt="" coords="216,72,420,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,71,216,76,215,81,182,76"/>
-</map>

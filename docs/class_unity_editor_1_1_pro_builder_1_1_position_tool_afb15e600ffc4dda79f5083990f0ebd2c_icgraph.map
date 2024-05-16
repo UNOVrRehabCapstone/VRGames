@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.PositionTool.DrawDeltaInfo" name="UnityEditor.ProBuilder.PositionTool.DrawDeltaInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="265,72,465,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_move_tool.html#a0f0eb1d9466c00517cdd8f7c11a891d7" title=" " alt="" coords="5,5,217,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,70,194,51,196,46,267,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_rotate_tool.html#af8f7fb6c6bbc5be70842eb723a08362a" title=" " alt="" coords="5,72,217,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,96,217,96,217,91,249,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_probuilder_scale_tool.html#a95115584d395fbf3e95e77ba61a39539" title=" " alt="" coords="5,139,217,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,122,196,141,194,135,265,117"/>
-</map>

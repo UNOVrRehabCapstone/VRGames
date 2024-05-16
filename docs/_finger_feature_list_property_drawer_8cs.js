@@ -1,4 +1,0 @@
-var _finger_feature_list_property_drawer_8cs =
-[
-    [ "Oculus.Interaction.PoseDetection.Editor.FingerFeatureListPropertyDrawer", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_finger_feature_list_property_drawer.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_editor_1_1_finger_feature_list_property_drawer" ]
-];

@@ -1,0 +1,5 @@
+<map id="PlanesGame.TargetSpawner.QueueTargetSpawn" name="PlanesGame.TargetSpawner.QueueTargetSpawn">
+<area shape="rect" id="Node000001" title="Adds targets to the scene in a specified area." alt="" coords="244,5,434,48"/>
+<area shape="rect" id="Node000002" href="$class_planes_game_1_1_target_spawner.html#a3fecf340ee71d4734addc0a83fb78070" title="Adds exactly one target to the scene in the specified area." alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,29,196,29,196,24,228,24"/>
+</map>

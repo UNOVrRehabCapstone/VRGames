@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.SnapEngine.SnapEngine" name="UnityEditor.Timeline.SnapEngine.SnapEngine">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,177,115"/>
-<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_sequence_state.html#ae4c6b2b44fde0f1f5f57be982f573107" title=" " alt="" coords="225,5,427,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,69,233,50,234,55,169,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_snap_engine.html#afe2db001339c7cfb659ec78e27f32435" title=" " alt="" coords="229,72,423,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,91,214,91,214,96,177,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_window_state.html#ae086aef433dbe7bc582a5e174ee6ed32" title=" " alt="" coords="232,139,420,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,113,234,131,233,136,168,118"/>
-</map>

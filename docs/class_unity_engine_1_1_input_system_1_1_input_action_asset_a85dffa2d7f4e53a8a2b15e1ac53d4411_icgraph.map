@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionAsset.FromJson" name="UnityEngine.InputSystem.InputActionAsset.FromJson">
-<area shape="rect" id="Node000001" title="Replace the contents of the asset with the data in the given JSON string." alt="" coords="284,96,465,139"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_default_input_actions.html#a05a37484fb67d27011e4f8ca607614f2" title=" " alt="" coords="18,5,223,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,93,212,67,214,62,293,88"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html#ab3ff5e896bb0280ec96b342dd52719a3" title=" " alt="" coords="5,88,236,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,120,236,120,236,115,268,115"/>
-<area shape="rect" id="Node000004" href="$class_simple_controls.html#a8ea6e89c13dfaf5a91d3779a18e88660" title=" " alt="" coords="20,171,221,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,146,236,161,189,173,188,167,235,156,288,141"/>
-</map>

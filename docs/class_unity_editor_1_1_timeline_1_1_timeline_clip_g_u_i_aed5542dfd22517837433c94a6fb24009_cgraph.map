@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.TimelineClipGUI.TimelineClipGUI" name="UnityEditor.Timeline.TimelineClipGUI.TimelineClipGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,195,89"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#a4b7f59487a7014735342fd15c71413f1" title=" " alt="" coords="243,13,464,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,53,227,49,228,54,195,58"/>
-<area shape="rect" id="Node000004" href="$interface_unity_editor_1_1_timeline_1_1_i_z_order_provider.html#a49e0c99b9528891646569e0214fe6fa5" title=" " alt="" coords="262,80,445,123"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,78,247,85,246,90,195,83"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#a1965c36388ba999d52895befcac64496" title=" " alt="" coords="512,5,739,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,32,497,32,497,37,464,37"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.SharedVertex" name="UnityEngine.ProBuilder.SharedVertex">
-<area shape="rect" id="Node000001" title="Defines associations between vertex positions that are coincident. The indexes stored in this collect..." alt="" coords="5,80,206,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,165,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,48,108,80,103,80,103,48"/>
-</map>

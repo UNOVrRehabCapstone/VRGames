@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Management.XRLoaderHelper.CreateStandaloneSubsystem&lt; TDescriptor, TSubsystem &gt;" name="UnityEngine.XR.Management.XRLoaderHelper.CreateStandaloneSubsystem&lt; TDescriptor, TSubsystem &gt;">
-<area shape="rect" id="Node000001" title="Creates a managed, standalone subsystem given a list of descriptors and a specific subsystem id...." alt="" coords="5,5,264,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html#a64738e01f52dc65e2a0c998655e9c031" title="Creates a subsystem given a list of descriptors and a specific subsystem id." alt="" coords="312,5,533,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,32,296,32,296,37,264,37"/>
-</map>

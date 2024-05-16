@@ -1,5 +1,0 @@
-<map id="UnityEngine.SettingsManagement.EditorTests.MultipleProjectSettings.NewSettingsInstance_SupportsMultipleProjectRepositories" name="UnityEngine.SettingsManagement.EditorTests.MultipleProjectSettings.NewSettingsInstance_SupportsMultipleProjectRepositories">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,294,80"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_settings_management_1_1_package_settings_repository.html#a39877131f12b04772efdbefce0adbb19" title="Get a path for a settings file relative to the calling assembly package directory." alt="" coords="342,21,624,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,40,326,40,326,45,294,45"/>
-</map>

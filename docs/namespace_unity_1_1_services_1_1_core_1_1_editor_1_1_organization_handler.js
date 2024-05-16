@@ -1,5 +1,0 @@
-var namespace_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler =
-[
-    [ "IOrganizationHandler", "interface_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_i_organization_handler.html", "interface_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_i_organization_handler" ],
-    [ "OrganizationHandler", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_organization_handler.html", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_organization_handler_1_1_organization_handler" ]
-];

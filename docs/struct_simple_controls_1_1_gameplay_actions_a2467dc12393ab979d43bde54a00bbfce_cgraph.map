@@ -1,7 +1,0 @@
-<map id="SimpleControls.GameplayActions.Disable" name="SimpleControls.GameplayActions.Disable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,226,77"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#a215d9741eaf7205b3ad4ac865efae047" title="Disable all the actions in the map." alt="" coords="308,5,481,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,42,293,35,293,40,226,47"/>
-<area shape="rect" id="Node000003" href="$struct_simple_controls_1_1_gameplay_actions.html#a03fea7c376de6b6abdfe7f794d99b009" title=" " alt="" coords="274,72,515,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,65,258,68,258,74,226,70"/>
-</map>

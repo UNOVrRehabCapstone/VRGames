@@ -1,8 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectSmoothingGroup.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.SelectSmoothingGroup.PerformActionImplementation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,247,101"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="310,5,484,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,49,295,41,296,46,248,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a97a433d48049fc9477def1465f17c57f" title="Sets the face selection for this mesh. Also sets the vertex and edge selection to match." alt="" coords="295,96,499,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,90,280,95,279,100,247,95"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="346,96,344,86,352,77,370,71,397,69,426,72,444,78,442,83,425,77,397,75,371,77,355,81,349,87,351,95"/>
-</map>

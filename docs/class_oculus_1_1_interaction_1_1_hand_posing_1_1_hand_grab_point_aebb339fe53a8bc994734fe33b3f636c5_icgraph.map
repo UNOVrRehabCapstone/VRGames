@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.HandGrabPoint.SaveData" name="Oculus.Interaction.HandPosing.HandGrabPoint.SaveData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="272,55,476,97"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_point_editor.html#a369fbac381b5fe1e7e95376113ee8fe9" title=" " alt="" coords="5,5,224,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,60,224,55,225,49,257,55"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_point_editor.html#ab8dd2d8c2c9ba97c5b48de8b598a0e67" title="Generates a new HandGrabPointData that mirrors the provided one. Left hand becomes right hand and vic..." alt="" coords="5,88,224,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,97,225,103,224,97,256,92"/>
-</map>

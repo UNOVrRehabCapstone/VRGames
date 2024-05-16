@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputControlExtensions.InputEventControlCollection" name="UnityEngine.InputSystem.InputControlExtensions.InputEventControlCollection">
-<area shape="rect" id="Node000001" title="Allows iterating over the controls referenced by an InputEvent via InputEventControlEnumerator." alt="" coords="5,80,193,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,192,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,48,102,79,96,79,96,48"/>
-</map>

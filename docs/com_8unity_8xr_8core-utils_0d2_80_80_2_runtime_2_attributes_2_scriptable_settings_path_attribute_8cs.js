@@ -1,4 +1,0 @@
-var com_8unity_8xr_8core_utils_0d2_80_80_2_runtime_2_attributes_2_scriptable_settings_path_attribute_8cs =
-[
-    [ "Unity.XR.CoreUtils.ScriptableSettingsPathAttribute", "class_unity_1_1_x_r_1_1_core_utils_1_1_scriptable_settings_path_attribute.html", "class_unity_1_1_x_r_1_1_core_utils_1_1_scriptable_settings_path_attribute" ]
-];

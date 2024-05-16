@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnEnable" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnEnable">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,47,216,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#ab3bdc14f224667966f861e1d00e0f979" title="Delegate method used to register for &quot;Just Before Render&quot; input updates for VR devices." alt="" coords="264,47,474,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,73,248,73,248,79,216,79"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a89a6376ba954eb140a7b5b4e4cb133b1" title="Automatically called each frame to process all interactables registered with this manager." alt="" coords="522,5,763,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,57,506,53,507,58,475,63"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a752d3a2c585975a6b15769d420755a26" title="Automatically called each frame to process all interactors registered with this manager." alt="" coords="522,88,763,147"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,89,507,94,506,99,474,95"/>
-</map>

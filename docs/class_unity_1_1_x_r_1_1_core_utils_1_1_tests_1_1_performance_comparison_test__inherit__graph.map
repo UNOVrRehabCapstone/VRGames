@@ -1,9 +1,0 @@
-<map id="Unity.XR.CoreUtils.Tests.PerformanceComparisonTest" name="Unity.XR.CoreUtils.Tests.PerformanceComparisonTest">
-<area shape="rect" id="Node000001" title=" " alt="" coords="30,155,218,197"/>
-<area shape="rect" id="Node000004" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_tests_1_1_custom_approximate_performance_test.html" title=" " alt="" coords="5,245,243,288"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,213,127,245,121,245,121,213"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_tests_1_1_performance_test_base.html" title=" " alt="" coords="49,80,199,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,122,127,154,121,154,121,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="69,5,179,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,48,127,80,121,80,121,48"/>
-</map>

@@ -1,5 +1,0 @@
-var namespace_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor =
-[
-    [ "CanvasCylinderEditor", "class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_cylinder_editor.html", "class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_cylinder_editor" ],
-    [ "CanvasRenderTextureEditor", "class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_render_texture_editor.html", "class_oculus_1_1_interaction_1_1_unity_canvas_1_1_editor_1_1_canvas_render_texture_editor" ]
-];

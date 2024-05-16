@@ -1,5 +1,0 @@
-<map id="UnityEditor.Timeline.TrackEditor.IsBindingAssignableFrom" name="UnityEditor.Timeline.TrackEditor.IsBindingAssignableFrom">
-<area shape="rect" id="Node000001" title="Override this method to validate if a binding for track &#160;can be determined from candidate ." alt="" coords="5,5,212,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_track_editor.html#a1eb8c0c3c958c9c3a890028bdcb6fcf8" title="Gets the binding type for a track." alt="" coords="260,5,433,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,24,244,24,244,29,212,29"/>
-</map>

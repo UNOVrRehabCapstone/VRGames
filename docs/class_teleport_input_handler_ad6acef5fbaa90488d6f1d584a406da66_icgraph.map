@@ -1,7 +1,0 @@
-<map id="TeleportInputHandler.GetAimData" name="TeleportInputHandler.GetAimData">
-<area shape="rect" id="Node000001" title="Returns the aim ray for pointing at targets, which is generally based on a touch controller or HMD po..." alt="" coords="246,39,410,81"/>
-<area shape="rect" id="Node000002" href="$class_teleport_aim_handler_laser.html#a515fa584996cb5e54c9ac9c95d4f9454" title="Return the set of points that represent the aiming line." alt="" coords="16,5,187,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,48,187,42,188,37,231,43"/>
-<area shape="rect" id="Node000003" href="$class_teleport_aim_handler_parabolic.html#ac859ca76942dac4710c0df8710163fab" title="Return the set of points that represent the aiming line." alt="" coords="5,72,198,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,77,199,82,198,76,230,72"/>
-</map>

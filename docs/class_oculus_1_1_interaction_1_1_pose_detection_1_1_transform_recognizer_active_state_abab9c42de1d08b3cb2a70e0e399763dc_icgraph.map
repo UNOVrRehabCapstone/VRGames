@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.TransformRecognizerActiveState.GetFeatureVectorAndWristPos" name="Oculus.Interaction.PoseDetection.TransformRecognizerActiveState.GetFeatureVectorAndWristPos">
-<area shape="rect" id="Node000001" title=" " alt="" coords="719,5,997,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_transform_feature_vector_debug_parent_visual.html#aeb22acf23095d7c929ebeeee40df7427" title=" " alt="" coords="373,5,671,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="704,37,671,37,671,32,704,32"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_transform_feature_vector_debug_visual.html#aa6a26b8faa01cb808815cd0607b1dbd7" title=" " alt="" coords="5,13,325,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,37,325,37,325,32,357,32"/>
-</map>

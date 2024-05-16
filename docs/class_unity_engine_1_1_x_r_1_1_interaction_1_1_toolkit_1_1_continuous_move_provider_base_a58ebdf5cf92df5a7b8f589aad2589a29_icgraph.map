@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase.ReadInput" name="UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase.ReadInput">
-<area shape="rect" id="Node000001" title="Reads the current value of the move input." alt="" coords="292,5,530,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_move_provider_base.html#ab809794fecbaf868a6b78c389840e424" title="See MonoBehaviour." alt="" coords="5,5,244,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,37,244,37,244,32,276,32"/>
-</map>

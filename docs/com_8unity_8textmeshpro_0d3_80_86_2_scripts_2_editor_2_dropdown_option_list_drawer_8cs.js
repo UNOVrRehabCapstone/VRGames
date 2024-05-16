@@ -1,4 +1,0 @@
-var com_8unity_8textmeshpro_0d3_80_86_2_scripts_2_editor_2_dropdown_option_list_drawer_8cs =
-[
-    [ "TMPro.EditorUtilities.DropdownOptionListDrawer", "class_t_m_pro_1_1_editor_utilities_1_1_dropdown_option_list_drawer.html", "class_t_m_pro_1_1_editor_utilities_1_1_dropdown_option_list_drawer" ]
-];

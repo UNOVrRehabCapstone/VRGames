@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.ProBuilderMesh.GetCoincidentVertices" name="UnityEngine.ProBuilder.ProBuilderMesh.GetCoincidentVertices">
-<area shape="rect" id="Node000001" title="Populates a list of vertices that are coincident to any of the specified vertices." alt="" coords="5,5,233,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_shared_vertex.html#a8e78c2b5b63c53434efd097733f492a3" title="Adds a new entry using the specified index." alt="" coords="281,5,481,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,24,265,24,265,29,233,29"/>
-</map>

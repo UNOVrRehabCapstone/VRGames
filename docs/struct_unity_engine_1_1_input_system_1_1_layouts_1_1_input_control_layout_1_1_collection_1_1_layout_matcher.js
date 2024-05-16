@@ -1,5 +1,0 @@
-var struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_layout_matcher =
-[
-    [ "deviceMatcher", "struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_layout_matcher.html#a8bc36d61a2e98d965c10184f9b49f707", null ],
-    [ "layoutName", "struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_layout_matcher.html#a19aed560b7421d881649250c7cc385a9", null ]
-];

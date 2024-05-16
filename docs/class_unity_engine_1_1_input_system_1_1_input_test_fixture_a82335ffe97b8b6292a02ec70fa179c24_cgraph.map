@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.InputTestFixture.Click" name="UnityEngine.InputSystem.InputTestFixture.Click">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,178,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a036bb6bbcc567a0686569993ff1ccfb7" title=" " alt="" coords="226,39,448,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,57,210,57,210,63,178,63"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a8e5200d2f4d8ef78864a758757cf17c9" title=" " alt="" coords="496,5,668,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,42,480,38,481,43,449,47"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#a5477eab010481eb65b3f22c25e0d0053" title=" " alt="" coords="496,72,668,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="449,73,481,77,480,82,448,78"/>
-</map>

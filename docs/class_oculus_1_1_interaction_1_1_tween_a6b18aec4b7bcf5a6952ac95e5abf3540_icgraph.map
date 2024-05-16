@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.Tween.TweenTo" name="Oculus.Interaction.Tween.TweenTo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="598,51,769,93"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactable.html#a85b4a9889f4bde17d75673811bb53d6d" title=" " alt="" coords="309,5,550,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,60,550,55,551,50,583,55"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#ac0d0fee1b439697cfa6b004c8290db22" title=" " alt="" coords="321,88,538,131"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="583,89,538,96,538,91,582,84"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#ac91740cb7b6eb9d0ab1c8a2dba3dc9e7" title="When a new interactable is selected, start the grab at the ideal point. When snapping is involved tha..." alt="" coords="5,13,261,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,37,261,37,261,32,293,32"/>
-</map>

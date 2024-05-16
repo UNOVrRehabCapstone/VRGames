@@ -1,6 +1,0 @@
-<map id="UnityEditor.Timeline.TrackDrawOptions.operator==" name="UnityEditor.Timeline.TrackDrawOptions.operator==">
-<area shape="rect" id="Node000001" title="Compares two TrackDrawOptions objects." alt="" coords="5,29,179,72"/>
-<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_track_draw_options.html#a33e4667290be0d83150c22b7bb28a4b0" title="Indicates whether this instance and a specified object are equal." alt="" coords="227,29,400,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,48,211,48,211,53,179,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="271,29,270,19,277,10,291,5,313,3,337,5,351,11,349,16,336,10,313,8,292,10,280,15,275,21,276,28"/>
-</map>

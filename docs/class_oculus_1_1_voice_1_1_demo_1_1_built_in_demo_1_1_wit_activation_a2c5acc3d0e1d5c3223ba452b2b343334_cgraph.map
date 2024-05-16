@@ -1,7 +1,0 @@
-<map id="Oculus.Voice.Demo.BuiltInDemo.WitActivation.ActivateWit" name="Oculus.Voice.Demo.BuiltInDemo.WitActivation.ActivateWit">
-<area shape="rect" id="Node000001" title="Activates Wit i.e. start listening to the user." alt="" coords="5,5,211,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_app_voice_experience.html#a3f53e35438f2c7864ee0db2878dbbfd7" title="Activate the microphone and send data for NLU processing." alt="" coords="259,5,487,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
-<area shape="rect" id="Node000003" href="$interface_facebook_1_1_wit_ai_1_1_i_voice_service.html#a2c4eac17bb864262e52975c76cc986db" title="Activate the microphone and send data for NLU processing." alt="" coords="535,5,735,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,24,520,24,520,29,487,29"/>
-</map>

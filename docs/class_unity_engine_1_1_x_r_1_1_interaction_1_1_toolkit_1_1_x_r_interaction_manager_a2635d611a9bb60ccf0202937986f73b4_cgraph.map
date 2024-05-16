@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.RegisterInteractor" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.RegisterInteractor">
-<area shape="rect" id="Node000001" title="Registers a new Interactor to be processed." alt="" coords="5,5,247,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a1b00a14b4243d145cbd11344d904bd72" title="Automatically called when an Interactor is registered with this Interaction Manager...." alt="" coords="295,5,505,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,32,279,32,279,37,247,37"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactor.html#a9d5f2ec16ab9e6b0b10d6f66ebeb29ee" title="The XRInteractionManager calls this method when this Interactor is registered with it." alt="" coords="553,13,772,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,32,538,32,538,37,505,37"/>
-</map>

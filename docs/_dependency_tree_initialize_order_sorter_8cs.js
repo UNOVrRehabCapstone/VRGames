@@ -1,4 +1,0 @@
-var _dependency_tree_initialize_order_sorter_8cs =
-[
-    [ "Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter", "struct_unity_1_1_services_1_1_core_1_1_internal_1_1_dependency_tree_initialize_order_sorter.html", "struct_unity_1_1_services_1_1_core_1_1_internal_1_1_dependency_tree_initialize_order_sorter" ]
-];

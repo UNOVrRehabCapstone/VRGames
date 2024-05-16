@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputBindingComposite&lt; TValue &gt;" name="UnityEngine.InputSystem.InputBindingComposite&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title="A binding that synthesizes a value from from several component bindings." alt="" coords="60,96,233,155"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,160,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,44,131,94,127,97,96,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="184,5,237,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,47,166,97,162,94,193,44"/>
-</map>

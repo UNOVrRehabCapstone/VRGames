@@ -1,5 +1,0 @@
-<map id="Facebook.WitAi.VoiceService.DeactivateAndAbortRequest" name="Facebook.WitAi.VoiceService.DeactivateAndAbortRequest">
-<area shape="rect" id="Node000001" title="Stop listening and abort any requests that may be active without waiting for a response." alt="" coords="285,5,482,48"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_understanding_viewer.html#aeae40ee4b0237ad1c958d7ff35daedd3" title=" " alt="" coords="5,5,237,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,29,237,29,237,24,269,24"/>
-</map>

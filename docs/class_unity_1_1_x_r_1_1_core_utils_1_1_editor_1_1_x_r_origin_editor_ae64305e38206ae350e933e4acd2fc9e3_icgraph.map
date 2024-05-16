@@ -1,8 +1,0 @@
-<map id="Unity.XR.CoreUtils.Editor.XROriginEditor.GetDerivedSerializedPropertyNames" name="Unity.XR.CoreUtils.Editor.XROriginEditor.GetDerivedSerializedPropertyNames">
-<area shape="rect" id="Node000001" title="Returns a list containing the SerializeField names of all SerializedProperty fields defined in the Ed..." alt="" coords="498,29,727,88"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="655,17,639,11,613,8,590,10,575,15,568,21,567,29,562,29,563,19,572,10,589,5,613,3,640,5,657,13"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#a4c0236722613bd3c2609e8b6b1dc2979" title="This method is automatically called by OnInspectorGUI to initialize knownSerializedPropertyNames if n..." alt="" coords="255,29,450,88"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="482,61,450,61,450,56,482,56"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_editor_1_1_x_r_origin_editor.html#ab31a8108d738b770f8ce853fa1c57cdc" title=" " alt="" coords="5,37,207,80"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="239,61,207,61,207,56,239,56"/>
-</map>

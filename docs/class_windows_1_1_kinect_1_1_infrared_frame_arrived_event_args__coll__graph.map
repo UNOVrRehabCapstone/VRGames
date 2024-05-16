@@ -1,9 +1,0 @@
-<map id="Windows.Kinect.InfraredFrameArrivedEventArgs" name="Windows.Kinect.InfraredFrameArrivedEventArgs">
-<area shape="rect" id="Node000001" title=" " alt="" coords="168,96,366,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,166,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,37,229,93,227,98,121,42"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="190,5,344,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,48,270,95,264,95,264,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="367,5,433,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,43,297,98,294,93,369,39"/>
-</map>

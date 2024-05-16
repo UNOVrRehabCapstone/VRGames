@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnHoverEntering" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnHoverEntering">
-<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor first initiates hovering over ..." alt="" coords="5,5,235,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html#aa33796cc7af713bd2d056d2593380281" title="Attaches the custom reticle to the Interactor." alt="" coords="283,5,501,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,32,267,32,267,37,235,37"/>
-</map>

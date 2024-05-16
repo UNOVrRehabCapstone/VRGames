@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToInt32" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToInt32">
-<area shape="rect" id="Node000001" title="Convert the value to an int" alt="" coords="5,5,202,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#ae27c91acf7f228da685f3e8b00ce6232" title="Convert the value to a long" alt="" coords="250,5,446,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,234,24,234,29,202,29"/>
-</map>

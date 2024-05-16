@@ -1,5 +1,0 @@
-<map id="UnityEngine.Timeline.TimeControlPlayable" name="UnityEngine.Timeline.TimeControlPlayable">
-<area shape="rect" id="Node000001" title="A PlayableBehaviour that manages a component that implements the ITimeControl interface." alt="" coords="5,80,181,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="29,5,157,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,48,96,80,90,80,90,48"/>
-</map>

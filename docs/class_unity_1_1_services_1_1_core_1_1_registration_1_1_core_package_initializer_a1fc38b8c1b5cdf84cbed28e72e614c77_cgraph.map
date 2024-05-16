@@ -1,9 +1,0 @@
-<map id="Unity.Services.Core.Registration.CorePackageInitializer.Initialize" name="Unity.Services.Core.Registration.CorePackageInitializer.Initialize">
-<area shape="rect" id="Node000001" title="This is the Initialize callback that will be triggered by the Core package. This method will be invok..." alt="" coords="5,72,218,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_diagnostics_factory.html#ab583017f3fb116bb184a7051c366d13d" title="Create a IDiagnostics setup with common tags for the given packageName ." alt="" coords="266,5,487,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,69,273,50,275,55,200,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_metrics_factory.html#a140fa2aa2b90be31a9ffc0075bb1b655" title="Create a IMetrics setup with common tags for the given packageName ." alt="" coords="276,72,477,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,91,261,91,261,96,218,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_project_configuration.html#a415d490feb66ae8db9ddf361608256e4" title=" " alt="" coords="267,139,486,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,113,275,132,273,137,198,118"/>
-</map>

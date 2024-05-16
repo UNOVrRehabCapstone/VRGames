@@ -1,4 +1,0 @@
-var class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_1_1_raycast_hit_comparer =
-[
-    [ "Compare", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor_1_1_raycast_hit_comparer.html#afc54516dfc4fdf5402255187358bd9ff", null ]
-];

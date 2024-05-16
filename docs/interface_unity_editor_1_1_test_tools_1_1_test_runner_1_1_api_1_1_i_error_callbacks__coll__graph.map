@@ -1,5 +1,0 @@
-<map id="UnityEditor.TestTools.TestRunner.Api.IErrorCallbacks" name="UnityEditor.TestTools.TestRunner.Api.IErrorCallbacks">
-<area shape="rect" id="Node000001" title="An extended version of the ICallbacks, which get invoked if the test run fails due to a build error o..." alt="" coords="5,80,183,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_test_tools_1_1_test_runner_1_1_api_1_1_i_callbacks.html" title="Callbacks in the TestRunnerApi for the test stages when running tests." alt="" coords="53,5,135,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
-</map>

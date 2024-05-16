@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ConvertTo" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ConvertTo">
-<area shape="rect" id="Node000001" title="Convert to another type of value." alt="" coords="257,51,468,93"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_named_value.html#aed542cb4e79e166f10289c43ee644c15" title=" " alt="" coords="10,5,204,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,57,204,51,204,46,241,52"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_named_value.html#aa950ef08ad64d290b7c545d721bbde81" title=" " alt="" coords="5,88,209,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,92,210,97,209,92,241,87"/>
-</map>

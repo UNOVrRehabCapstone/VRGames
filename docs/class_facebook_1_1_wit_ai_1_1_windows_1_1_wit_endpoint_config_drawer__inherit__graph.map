@@ -1,9 +1,0 @@
-<map id="Facebook.WitAi.Windows.WitEndpointConfigDrawer" name="Facebook.WitAi.Windows.WitEndpointConfigDrawer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="39,155,234,197"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_voice_1_1_utility_1_1_voice_s_d_k_menu_1_1_voice_custom_endpoint_property_drawer.html" title=" " alt="" coords="5,245,268,304"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,213,139,245,134,245,134,213"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_property_drawer.html" title=" " alt="" coords="71,80,202,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,122,139,154,134,154,134,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="81,5,192,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,48,139,80,134,80,134,48"/>
-</map>

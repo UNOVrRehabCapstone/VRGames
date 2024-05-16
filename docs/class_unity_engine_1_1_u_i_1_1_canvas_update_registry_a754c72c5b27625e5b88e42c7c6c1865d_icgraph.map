@@ -1,7 +1,0 @@
-<map id="UnityEngine.UI.CanvasUpdateRegistry.UnRegisterCanvasElementForRebuild" name="UnityEngine.UI.CanvasUpdateRegistry.UnRegisterCanvasElementForRebuild">
-<area shape="rect" id="Node000001" title="Remove the given element from both the graphic and the layout rebuild lists." alt="" coords="271,19,498,77"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___input_field.html#ae84831aa9c5d44a1ca91685d772b44d4" title=" " alt="" coords="5,5,223,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,37,223,33,224,28,255,31"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#aff61001f3c6f4c13de8208a487e7061a" title=" " alt="" coords="18,56,210,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,65,211,70,210,64,255,59"/>
-</map>

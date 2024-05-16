@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.InputControlScheme.MatchResult.Match" name="UnityEngine.InputSystem.InputControlScheme.MatchResult.Match">
-<area shape="rect" id="Node000001" title="A single matched DeviceRequirement." alt="" coords="675,57,931,100"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_input_control_scheme_1_1_device_requirement.html" title=" " alt="" coords="272,5,525,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,42,675,60,674,65,541,48"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,13,223,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,24,272,24,272,29,238,29"/>
-<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_input_control_list.html" title=" " alt="" coords="300,72,497,131"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="513,92,675,83,675,88,513,98"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule.Update" name="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule.Update">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,13,212,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_u_i_input_module.html#a12602edd0888e5155de469901f1802f1" title="Process the current tick for the module." alt="" coords="260,13,489,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,32,244,32,244,37,212,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_u_i_input_module.html#a50ce53dfc773ecaecb1a5cb160a0647f" title="Sends an update event to the currently selected object." alt="" coords="537,5,773,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,32,521,32,521,37,490,37"/>
-</map>

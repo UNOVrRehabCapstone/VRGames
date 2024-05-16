@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.Bounds2D.Center" name="UnityEngine.ProBuilder.Bounds2D.Center">
-<area shape="rect" id="Node000001" title="Returns the center of the bounding box of points. Optional parameter @length limits the bounds calcul..." alt="" coords="317,5,527,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_texture_tool_1_1_mesh_and_textures.html#aeac0c9698b3c13203736c375e4a8e04b" title=" " alt="" coords="5,5,269,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,29,269,29,269,24,301,24"/>
-</map>

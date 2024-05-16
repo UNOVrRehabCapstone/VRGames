@@ -1,4 +1,0 @@
-var class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder =
-[
-    [ "TrueFalseStateBuilder", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_config_builder_1_1_true_false_state_builder" ]
-];

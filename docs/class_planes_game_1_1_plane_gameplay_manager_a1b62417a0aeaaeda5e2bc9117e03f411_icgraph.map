@@ -1,0 +1,5 @@
+<map id="PlanesGame.PlaneGameplayManager.OnPlaneGrabbed" name="PlanesGame.PlaneGameplayManager.OnPlaneGrabbed">
+<area shape="rect" id="Node000001" title="Handles the event when a plane is grabbed, updating the scoreboard message." alt="" coords="267,5,459,48"/>
+<area shape="rect" id="Node000002" href="$class_planes_game_1_1_paper_plane.html#a1452c2ea796459502f6df978695fbd87" title="Called when the object is grabbed, initializes the aiming process." alt="" coords="5,13,219,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Networking.Internal.HttpRequest.SetOptions" name="Unity.Services.Core.Networking.Internal.HttpRequest.SetOptions">
-<area shape="rect" id="Node000001" title="Set the given options &#160;to this request." alt="" coords="303,13,511,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_networking_1_1_unity_web_request_client.html#ac676481b6880130a2001bc548e2b9e5b" title="Create a new HttpRequest targeting the service identified by the given serviceId ...." alt="" coords="5,5,255,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,37,255,37,255,32,287,32"/>
-</map>

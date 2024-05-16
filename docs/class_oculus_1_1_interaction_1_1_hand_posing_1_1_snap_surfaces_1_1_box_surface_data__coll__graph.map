@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurfaceData" name="Oculus.Interaction.HandPosing.SnapSurfaces.BoxSurfaceData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,210,155"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="12,5,94,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,45,100,110,95,113,63,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="118,5,209,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,47,120,113,115,110,148,45"/>
-</map>

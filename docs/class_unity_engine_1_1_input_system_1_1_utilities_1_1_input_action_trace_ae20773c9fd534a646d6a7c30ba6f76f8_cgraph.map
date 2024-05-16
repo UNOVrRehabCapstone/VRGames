@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.InputActionTrace.InputActionTrace" name="UnityEngine.InputSystem.Utilities.InputActionTrace.InputActionTrace">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,203,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_utilities_1_1_input_action_trace.html#a716ea454b64f0ff2fdd8a4e43cdd79d7" title=" " alt="" coords="251,13,492,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,32,235,32,235,37,203,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_utilities_1_1_input_action_trace.html#a54cb478410315b156285e74d840fb716" title="Record the triggering of an action as an action event." alt="" coords="540,5,750,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,32,525,32,525,37,492,37"/>
-<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_buffer.html#af3232afa8fed610c36b33412a4e95f96" title="Make space for an event of sizeInBytes &#160;bytes and return a pointer to the memory for the event." alt="" coords="798,13,1052,56"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="751,32,783,32,783,37,751,37"/>
-</map>

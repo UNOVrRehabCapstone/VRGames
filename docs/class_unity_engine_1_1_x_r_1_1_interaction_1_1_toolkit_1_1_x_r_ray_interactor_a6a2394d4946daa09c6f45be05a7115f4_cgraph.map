@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TryGetUIModel" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.TryGetUIModel">
-<area shape="rect" id="Node000001" title="Attempts to retrieve the current UI Model.Returns true if the model was able to retrieved...." alt="" coords="5,13,252,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_x_r_u_i_input_module.html#a3f2e21238ba9423baeec0cc5e39c3d56" title="Retrieves the UI Model for a selected IUIInteractor." alt="" coords="300,5,548,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,32,284,32,284,37,252,37"/>
-</map>

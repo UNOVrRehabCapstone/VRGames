@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Configuration.ProjectConfiguration.GetFloat" name="Unity.Services.Core.Configuration.ProjectConfiguration.GetFloat">
-<area shape="rect" id="Node000001" title="Get the float value for the project config with the given key ." alt="" coords="5,5,224,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_project_configuration.html#af6e4243606f1d4b231fc6385dcc06812" title="Get the string value for the project config with the given key ." alt="" coords="272,5,490,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,24,256,24,256,29,224,29"/>
-</map>

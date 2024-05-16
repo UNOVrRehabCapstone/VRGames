@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ClearInteractorHover" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.ClearInteractorHover">
-<area shape="rect" id="Node000001" title="Automatically called each frame during Update to clear the hover state of the Interactor if necessary..." alt="" coords="5,35,229,93"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_hover_interactor.html#a45f69f7b4fb7f1759aa25b0348842250" title="Determines if the Interactable is valid for hover this frame." alt="" coords="277,5,504,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,46,261,42,261,47,230,51"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a769ea5a02d6373a5958ee92713f9b8fa" title="Determines whether the Interactor and Interactable share at least one interaction layer between their..." alt="" coords="282,72,499,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,77,267,82,266,87,229,82"/>
-</map>

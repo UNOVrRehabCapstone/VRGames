@@ -1,6 +1,0 @@
-var _input_action_setup_extensions_8cs =
-[
-    [ "UnityEngine.InputSystem.InputActionSetupExtensions.BindingSyntax", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_binding_syntax.html", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_binding_syntax" ],
-    [ "UnityEngine.InputSystem.InputActionSetupExtensions.CompositeSyntax", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_composite_syntax.html", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_composite_syntax" ],
-    [ "UnityEngine.InputSystem.InputActionSetupExtensions.ControlSchemeSyntax", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_control_scheme_syntax.html", "struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_control_scheme_syntax" ]
-];

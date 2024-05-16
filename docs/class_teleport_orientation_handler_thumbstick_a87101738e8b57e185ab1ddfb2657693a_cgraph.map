@@ -1,9 +1,0 @@
-<map id="TeleportOrientationHandlerThumbstick.UpdateTeleportDestination" name="TeleportOrientationHandlerThumbstick.UpdateTeleportDestination">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,250,115"/>
-<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a54ed38603803a1c8ca96e179668b5629" title="Return a quaternion for the Y axis of the HMD&#39;s orientation. Used by orientation handlers to track th..." alt="" coords="301,5,491,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,69,292,50,293,55,217,74"/>
-<area shape="rect" id="Node000003" href="$class_teleport_orientation_handler.html#a16fa732ad211ead717b4447f3c877986" title=" " alt="" coords="307,72,485,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,91,291,91,291,96,250,96"/>
-<area shape="rect" id="Node000004" href="$class_locomotion_teleport.html#a2868f89c5694a1d90192e52a0bbbf97c" title="When the active aim and orientation handler finishes preparing the data for the teleport destination,..." alt="" coords="298,139,494,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,113,293,132,292,137,216,118"/>
-</map>

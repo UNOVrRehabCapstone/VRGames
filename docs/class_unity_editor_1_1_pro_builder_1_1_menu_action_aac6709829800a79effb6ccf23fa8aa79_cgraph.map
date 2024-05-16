@@ -1,9 +1,0 @@
-<map id="UnityEditor.ProBuilder.MenuAction.DoAlternateAction" name="UnityEditor.ProBuilder.MenuAction.DoAlternateAction">
-<area shape="rect" id="Node000001" title="Performs the action for this menu item when in Text mode." alt="" coords="5,72,191,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a4187b833409ffe6784f8826dae6a85c5" title="Called when the settings window is closed." alt="" coords="239,5,424,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,69,239,50,240,55,176,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#af6d4d53fc35d519766198047b3dd6a77" title="Called when the settings window is opened." alt="" coords="239,72,424,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,91,223,91,223,96,191,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#ae2c8d2c3690176d6b199c947ee0e660c" title="Implement the extra settings GUI for your action in this method." alt="" coords="239,139,424,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,113,240,131,239,136,174,118"/>
-</map>

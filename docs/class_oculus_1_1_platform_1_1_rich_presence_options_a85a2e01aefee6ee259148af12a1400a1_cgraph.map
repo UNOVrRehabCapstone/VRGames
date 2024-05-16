@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.RichPresenceOptions.SetInstanceId" name="Oculus.Platform.RichPresenceOptions.SetInstanceId">
-<area shape="rect" id="Node000001" title="DEPRECATED: Use GroupPresenceOptions.SetMatchSessionId()" alt="" coords="5,5,205,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a6aa3f84bb7475e589bf2f1ee9d346995" title=" " alt="" coords="253,5,493,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ad9efc09a940b498fb46b06dc5123e925" title=" " alt="" coords="541,5,727,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,24,525,24,525,29,494,29"/>
-</map>

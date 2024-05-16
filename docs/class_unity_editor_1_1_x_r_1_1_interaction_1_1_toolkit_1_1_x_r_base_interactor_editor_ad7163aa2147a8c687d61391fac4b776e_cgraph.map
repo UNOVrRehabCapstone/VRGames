@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawBeforeProperties" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawBeforeProperties">
-<area shape="rect" id="Node000001" title="This method is automatically called by DrawInspector to draw the section of the custom inspector befo..." alt="" coords="5,5,207,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_editor.html#adc70b5a0b48b8fae08d78d6dcd080899" title="Draw the standard read&#45;only Script property." alt="" coords="255,5,475,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,32,239,32,239,37,207,37"/>
-</map>

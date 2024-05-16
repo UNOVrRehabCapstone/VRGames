@@ -1,17 +1,19 @@
 <map id="PointsManager.updateScoreboard" name="PointsManager.updateScoreboard">
-<area shape="rect" id="Node000001" title=" " alt="" coords="753,115,971,141"/>
-<area shape="rect" id="Node000002" href="$class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title=" " alt="" coords="531,13,701,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="822,110,767,82,704,54,671,43,672,38,706,50,769,77,824,105"/>
-<area shape="rect" id="Node000005" href="$class_points_manager.html#a601f8ad86ce9ceb0740878b53a5cb570" title=" " alt="" coords="534,64,698,91"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="778,114,684,94,685,89,779,108"/>
-<area shape="rect" id="Node000006" href="$class_points_manager.html#ac9cdc4a4465788297cb5d62e0f1cdf19" title=" " alt="" coords="529,115,703,141"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,131,704,131,704,125,738,125"/>
-<area shape="rect" id="Node000007" href="$class_points_manager.html#aa31ee848c6631ff8a7bde4c8d560f3b1" title=" " alt="" coords="527,165,705,192"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="779,148,685,167,684,162,778,142"/>
-<area shape="rect" id="Node000008" href="$class_points_manager.html#a5e0bbad57a87527892bff5db792f645b" title=" " alt="" coords="531,216,701,243"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="824,151,769,179,706,206,672,218,671,213,704,202,767,174,822,146"/>
-<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,5,479,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="515,29,479,29,479,24,515,24"/>
-<area shape="rect" id="Node000004" href="$class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,13,204,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+<area shape="rect" id="Node000001" title="Updates the scoreboard with current scores and display settings." alt="" coords="753,136,971,163"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title="Adds points to the total score." alt="" coords="531,35,701,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="822,131,767,103,704,76,671,64,672,59,706,71,769,98,824,126"/>
+<area shape="rect" id="Node000006" href="$class_points_manager.html#a601f8ad86ce9ceb0740878b53a5cb570" title="Divides the total score by a factor." alt="" coords="534,85,698,112"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="778,135,684,115,685,110,779,130"/>
+<area shape="rect" id="Node000007" href="$class_points_manager.html#ac9cdc4a4465788297cb5d62e0f1cdf19" title="Multiplies the total score by a factor." alt="" coords="529,136,703,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="738,152,704,152,704,147,738,147"/>
+<area shape="rect" id="Node000008" href="$class_points_manager.html#aa31ee848c6631ff8a7bde4c8d560f3b1" title="Resets all points to zero." alt="" coords="527,187,705,213"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="779,169,685,189,684,183,778,164"/>
+<area shape="rect" id="Node000009" href="$class_points_manager.html#a5e0bbad57a87527892bff5db792f645b" title="Subtracts points from the total score." alt="" coords="531,237,701,264"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="824,173,769,200,706,228,672,239,671,234,704,223,767,196,822,168"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_target.html#aafca4a162e7c3f63de4abd38419ac36c" title="Handles the event when the target is hit." alt="" coords="283,5,448,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,39,448,31,448,26,516,34"/>
+<area shape="rect" id="Node000004" href="$class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,56,479,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="516,62,480,67,479,61,515,57"/>
+<area shape="rect" id="Node000005" href="$class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,64,204,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,80,204,80,204,75,236,75"/>
 </map>

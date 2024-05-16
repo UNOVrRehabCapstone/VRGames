@@ -1,5 +1,0 @@
-<map id="UnityEngine.UI.MaskUtilities.GetRectMasksForClip" name="UnityEngine.UI.MaskUtilities.GetRectMasksForClip">
-<area shape="rect" id="Node000001" title="Search for all RectMask2D that apply to the given RectMask2D (includes self)." alt="" coords="5,5,196,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a7eda5455d91260a6b7a69c48e365b3d3" title="Helper function to determine if the child is a descendant of father or is father." alt="" coords="244,5,434,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
-</map>

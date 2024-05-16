@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.MovingItems" name="UnityEditor.Timeline.MovingItems">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,188,187,231"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_items_per_track.html" title=" " alt="" coords="43,112,149,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,154,99,188,93,188,93,154"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_items_group.html" title=" " alt="" coords="9,5,183,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,64,99,112,93,112,93,64"/>
-</map>

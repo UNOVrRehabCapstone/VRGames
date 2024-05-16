@@ -1,4 +1,0 @@
-<map id="UnityEngine.InputSystem.Users.InputUser.GetUnpairedInputDevices" name="UnityEngine.InputSystem.Users.InputUser.GetUnpairedInputDevices">
-<area shape="rect" id="Node000001" title="Return a list of all currently added devices that are not paired to any user." alt="" coords="5,29,224,88"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="149,17,136,10,114,8,96,10,83,15,77,21,77,29,71,29,72,19,80,10,94,5,115,3,137,5,151,12"/>
-</map>

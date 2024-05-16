@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface.CreateDuplicatedSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface.CreateDuplicatedSurface">
-<area shape="rect" id="Node000001" title="Creates a new ISnapSurface under the selected gameobject with the same data as this one." alt="" coords="289,5,524,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_collider_surface.html#acf2c6b9e0d30933634d7fbe8e6ac406f" title="Creates a new ISnapSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,241,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,37,241,37,241,32,273,32"/>
-</map>

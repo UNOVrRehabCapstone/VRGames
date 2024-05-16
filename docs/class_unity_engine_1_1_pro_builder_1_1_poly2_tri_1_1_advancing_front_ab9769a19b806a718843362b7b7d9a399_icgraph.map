@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.Poly2Tri.AdvancingFront.AddNode" name="UnityEngine.ProBuilder.Poly2Tri.AdvancingFront.AddNode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="324,72,516,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_d_t_sweep_context.html#af30b99f2e30c34adac45fc8c179fcb5e" title=" " alt="" coords="42,5,239,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,70,232,51,233,46,313,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_advancing_front.html#aed8eab461b332ccd53db858879a8b2b5" title=" " alt="" coords="30,72,251,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,96,251,96,251,91,308,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_d_t_sweep_context.html#ad76d58d93dc6bc42e911109972591397" title=" " alt="" coords="5,139,276,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,121,233,141,232,135,312,116"/>
-</map>

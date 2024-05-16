@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_Style.RefreshStyle" name="TMPro.TMP_Style.RefreshStyle">
-<area shape="rect" id="Node000001" title="Function to update the content of the int[] resulting from changes to OpeningDefinition &amp; ClosingDefi..." alt="" coords="5,13,211,40"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a77bb7b39afef3f677e915499b48e2c7a" title="Function returning the hashcode value of a given string." alt="" coords="259,5,472,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text_parsing_utilities.html#a57e8e32bda8815e697db41cb4820d56a" title="Get uppercase version of this ASCII character." alt="" coords="520,5,733,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,24,505,24,505,29,473,29"/>
-</map>

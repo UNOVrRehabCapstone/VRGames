@@ -1,5 +1,0 @@
-var class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal_1_1_scriptable_settings_base =
-[
-    [ "ScriptableSettingsBase", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal_1_1_scriptable_settings_base.html#a1698f52919d9324e907759ee387116b9", null ],
-    [ "OnLoaded", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal_1_1_scriptable_settings_base.html#a2a8213891d5bda56f154f3bbdd29e830", null ]
-];

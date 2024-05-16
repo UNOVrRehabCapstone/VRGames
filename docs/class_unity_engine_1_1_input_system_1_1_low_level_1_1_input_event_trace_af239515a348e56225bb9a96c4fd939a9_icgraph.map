@@ -1,6 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputEventTrace.ReadFrom" name="UnityEngine.InputSystem.LowLevel.InputEventTrace.ReadFrom">
-<area shape="rect" id="Node000001" title="Read the contents of an input event trace stored in the given file." alt="" coords="283,29,516,72"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="445,16,428,10,399,8,373,10,356,15,350,21,352,28,347,29,345,19,354,10,372,5,399,3,429,5,447,11"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_recorder.html#a6be6d39b51efa1cbe70edd1650ca2f31" title=" " alt="" coords="5,29,235,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,53,235,53,235,48,267,48"/>
-</map>

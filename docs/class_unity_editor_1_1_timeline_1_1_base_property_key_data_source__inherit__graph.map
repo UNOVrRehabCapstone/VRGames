@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.BasePropertyKeyDataSource" name="UnityEditor.Timeline.BasePropertyKeyDataSource">
-<area shape="rect" id="Node000001" title=" " alt="" coords="218,39,389,81"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_animation_track_key_data_source.html" title=" " alt="" coords="437,5,636,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="404,43,436,38,437,44,405,48"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_track_property_curves_data_source.html" title=" " alt="" coords="448,72,625,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="405,72,448,78,447,83,404,77"/>
-<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_property_key_data_source.html" title=" " alt="" coords="5,47,170,73"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,57,217,57,217,63,185,63"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Internal.CoreRegistration" name="Unity.Services.Core.Internal.CoreRegistration">
-<area shape="rect" id="Node000001" title="Handle to a registered IInitializablePackage. Provides a fluent interface to define its components de..." alt="" coords="5,112,191,155"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_package_registry.html" title=" " alt="" coords="5,5,191,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,64,101,111,95,111,95,64"/>
-</map>

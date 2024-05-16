@@ -1,5 +1,21 @@
 var searchData=
 [
-  ['_5f_5fattribute_5f_5f_0',['__attribute__',['../main_8mm.html#ae2b1242b9d582b7d82186609f7f1189e',1,'main.mm']]],
-  ['_5fiscancellationrequested_1',['_IsCancellationRequested',['../class_directory_syncer_1_1_cancellation_token.html#a5f1b8a444c32ac286f3dac44283ee26e',1,'DirectorySyncer.CancellationToken._IsCancellationRequested()'],['../class_directory_syncer_1_1_cancellation_token_source.html#a8258b81cbbe4a72894304f0c8c4b5ed7',1,'DirectorySyncer.CancellationTokenSource._IsCancellationRequested()']]]
+  ['achievement_0',['Achievement',['../class_balloons_game_1_1_achievement.html#a6460be8ec2f7f1d1efe638ddced59131',1,'BalloonsGame::Achievement']]],
+  ['achievementupdateevent_1',['AchievementUpdateEvent',['../class_classes_1_1_managers_1_1_balloon_gameplay_manager.html#a4f82ee7a8caf73c97db0174f2a2d81f9',1,'Classes::Managers::BalloonGameplayManager']]],
+  ['achievementupdateeventhandler_2',['AchievementUpdateEventHandler',['../class_classes_1_1_managers_1_1_balloon_gameplay_manager.html#ae171c35f6d94ee12735d84b1fb34061d',1,'Classes::Managers::BalloonGameplayManager']]],
+  ['addleftpoints_3',['AddLeftPoints',['../class_balloons_game_1_1_points_manager.html#a2cd8639125314ffbde99af57f78def40',1,'BalloonsGame::PointsManager']]],
+  ['addleftpoints_4',['addLeftPoints',['../class_points_manager.html#ae9f4097d388ae38545b764b1e1a54149',1,'PointsManager']]],
+  ['addpoints_5',['addPoints',['../class_points_manager.html#aad81016ad15f67f1667b60581b57af98',1,'PointsManager']]],
+  ['addpoints_6',['AddPoints',['../class_balloons_game_1_1_balloon.html#a5ab8890469c1ebb8c2818be5c41e2189',1,'BalloonsGame::Balloon']]],
+  ['addpointtrigger_7',['addPointTrigger',['../class_points_manager.html#a42c8b00b09b89a6f202e8b2e01733b1b',1,'PointsManager']]],
+  ['addrightpoints_8',['AddRightPoints',['../class_balloons_game_1_1_points_manager.html#aaece7576a1412732ff389ad2d39397eb',1,'BalloonsGame::PointsManager']]],
+  ['addrightpoints_9',['addRightPoints',['../class_points_manager.html#ad5e7b3ea0b766111839f034ac6dfc93d',1,'PointsManager']]],
+  ['addtarget_10',['AddTarget',['../class_planes_game_1_1_target_spawner.html#ac62a8f1d648e37b9fc0e19b789a59501',1,'PlanesGame::TargetSpawner']]],
+  ['adjustbothspawns_11',['AdjustBothSpawns',['../class_balloons_game_1_1_balloon_spawn_manager.html#ae937c48cbf690573e4534c95a8818583',1,'BalloonsGame.BalloonSpawnManager.AdjustBothSpawns()'],['../class_dart_manager.html#aff8cedfb1450f0f6676e803e8ba02e86',1,'DartManager.AdjustBothSpawns()']]],
+  ['adjustleftspawn_12',['AdjustLeftSpawn',['../class_balloons_game_1_1_balloon_spawn_manager.html#a7a502b70c39b45888ceacb84e8cdc6c7',1,'BalloonsGame.BalloonSpawnManager.AdjustLeftSpawn()'],['../class_dart_manager.html#a8186236792b14dedbb77f6a5d2b8c2cb',1,'DartManager.AdjustLeftSpawn()']]],
+  ['adjustposition_13',['AdjustPosition',['../class_utils.html#a17ce8e441681ae99b6e5d6e64a9e20d3',1,'Utils']]],
+  ['adjustrightspawn_14',['AdjustRightSpawn',['../class_balloons_game_1_1_balloon_spawn_manager.html#a3bb876af1bec7f27a6cab8e2ebb669b7',1,'BalloonsGame.BalloonSpawnManager.AdjustRightSpawn()'],['../class_dart_manager.html#a4aee80b3033f99c83d935632291e75ab',1,'DartManager.AdjustRightSpawn()']]],
+  ['allballoonsaregone_15',['AllBalloonsAreGone',['../class_balloons_game_1_1_balloon_spawn_manager.html#ad4cd89d133b8c3579efb39c6f4b9f1a1',1,'BalloonsGame::BalloonSpawnManager']]],
+  ['allliveslosthandler_16',['AllLivesLostHandler',['../class_balloons_game_1_1_game_manager.html#a252d11e5194acb7a9ee26d6a4294b42d',1,'BalloonsGame::GameManager']]],
+  ['awardpoints_17',['awardPoints',['../interface_i_point_giver.html#aebbec3ce3d42853418e83524a7f24c20',1,'IPointGiver']]]
 ];

@@ -1,9 +1,0 @@
-<map id="SimpleControls.FindBinding" name="SimpleControls.FindBinding">
-<area shape="rect" id="Node000001" title="Find the index of the first binding that matches the given mask." alt="" coords="5,13,187,40"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a8acc7405861c3f5a8bcda4dd664e7acc" title="Find the index of the first binding that matches the given mask.Index into InputAction...." alt="" coords="235,5,427,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,24,219,24,219,29,187,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#abcba6851e7083404b9088646730853d2" title="Find the index of the first binding that matches the given mask.Index into InputAction...." alt="" coords="475,5,658,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,24,460,24,460,29,427,29"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#af63d7ef83f7b7841fe6456da0e4e89f2" title="Find an action in the map by name or ID." alt="" coords="706,5,884,48"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,24,691,24,691,29,658,29"/>
-</map>

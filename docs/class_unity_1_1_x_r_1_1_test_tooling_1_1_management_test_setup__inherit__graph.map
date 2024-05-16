@@ -1,7 +1,0 @@
-<map id="Unity.XR.TestTooling.ManagementTestSetup" name="Unity.XR.TestTooling.ManagementTestSetup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,226,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_loader_test_setup.html" title=" " alt="" coords="281,5,465,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,41,280,36,280,41,242,46"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_x_r_general_settings_tests.html" title=" " alt="" coords="274,72,472,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,74,274,78,273,83,241,79"/>
-</map>

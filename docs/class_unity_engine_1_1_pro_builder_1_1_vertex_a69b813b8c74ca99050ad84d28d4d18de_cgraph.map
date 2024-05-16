@@ -1,6 +1,0 @@
-<map id="UnityEngine.ProBuilder.Vertex.SetMesh" name="UnityEngine.ProBuilder.Vertex.SetMesh">
-<area shape="rect" id="Node000001" title="Replaces mesh values with the specified vertex array. The mesh is cleared during this function,..." alt="" coords="5,29,207,72"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_vertex.html#a726a6e4ab3aada195cec70ae482d69fd" title="Allocates and fills all attribute arrays. This method fills all arrays, regardless of whether or not ..." alt="" coords="255,29,456,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,48,239,48,239,53,207,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="308,29,306,19,314,10,331,5,355,3,382,5,398,11,396,16,381,10,355,8,332,10,317,15,312,21,313,28"/>
-</map>

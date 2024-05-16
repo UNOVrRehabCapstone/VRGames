@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.VisualizationHelpers.RingBuffer.Append" name="UnityEngine.InputSystem.Samples.VisualizationHelpers.RingBuffer.Append">
-<area shape="rect" id="Node000001" title=" " alt="" coords="252,47,450,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_timeline_visualizer.html#a3f03923d7969aa3a666cb0753554628e" title=" " alt="" coords="5,5,204,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,59,204,54,205,49,237,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_value_visualizer.html#aa241faf4ea3fa22cca2232d21a9d550b" title=" " alt="" coords="5,88,204,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,98,205,103,204,98,236,93"/>
-</map>

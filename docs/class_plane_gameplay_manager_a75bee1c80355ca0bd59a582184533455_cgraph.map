@@ -1,5 +1,0 @@
-<map id="PlaneGameplayManager.RespawnPlane" name="PlaneGameplayManager.RespawnPlane">
-<area shape="rect" id="Node000001" title="Respawns a plane by first removing the old one and then spawning a new one." alt="" coords="5,5,226,48"/>
-<area shape="rect" id="Node000002" href="$class_plane_gameplay_manager.html#a03dddf5707d1bdd460c9917fc304ed1b" title="Removes a plane from the game, destroying its GameObject and removing it from the active list." alt="" coords="274,5,459,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEngine.UI.ToggleGroup.EnsureValidState" name="UnityEngine.UI.ToggleGroup.EnsureValidState">
-<area shape="rect" id="Node000001" title="Ensure that the toggle group still has a valid state. This is only relevant when a ToggleGroup is Sta..." alt="" coords="242,39,430,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#aeeffdcede367f72e9d7e46e74044d54d" title=" " alt="" coords="5,5,194,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,47,194,43,194,37,226,42"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#a2248d6cf8726b4240010543a4f861ca5" title="Because all the Toggles have registered themselves in the OnEnabled, Start should check to make sure ..." alt="" coords="5,72,194,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,78,194,83,194,77,226,73"/>
-</map>

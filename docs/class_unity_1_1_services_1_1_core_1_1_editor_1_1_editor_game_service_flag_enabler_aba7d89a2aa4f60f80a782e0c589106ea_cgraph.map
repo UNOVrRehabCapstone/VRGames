@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler.Enable" name="Unity.Services.Core.Editor.EditorGameServiceFlagEnabler.Enable">
-<area shape="rect" id="Node000001" title="Enables the service. Also sends an API request to disable the service on the dashboard." alt="" coords="5,13,251,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_flag_enabler.html#aa80bc45b8025f6a0f3d7443bc966b56c" title=" " alt="" coords="299,5,544,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,32,283,32,283,37,251,37"/>
-</map>

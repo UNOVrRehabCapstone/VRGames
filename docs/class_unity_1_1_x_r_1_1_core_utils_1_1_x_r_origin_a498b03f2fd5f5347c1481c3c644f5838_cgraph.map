@@ -1,5 +1,0 @@
-<map id="Unity.XR.CoreUtils.XROrigin.RotateAroundCameraUsingOriginUp" name="Unity.XR.CoreUtils.XROrigin.RotateAroundCameraUsingOriginUp">
-<area shape="rect" id="Node000001" title="Rotates the XR origin object around the camera object by the provided angleDegrees ...." alt="" coords="5,5,234,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_core_utils_1_1_x_r_origin.html#a59f40d2d75cfa12146c1bd26a50b1b67" title="Rotates the XR origin object around the camera object&#39;s position in world space using the provided ve..." alt="" coords="282,5,474,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,24,266,24,266,29,234,29"/>
-</map>

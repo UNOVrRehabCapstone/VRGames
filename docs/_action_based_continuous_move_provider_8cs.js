@@ -1,4 +1,0 @@
-var _action_based_continuous_move_provider_8cs =
-[
-    [ "UnityEngine.XR.Interaction.Toolkit.ActionBasedContinuousMoveProvider", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_continuous_move_provider.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_continuous_move_provider" ]
-];

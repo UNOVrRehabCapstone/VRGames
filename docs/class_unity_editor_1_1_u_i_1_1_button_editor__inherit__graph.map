@@ -1,7 +1,0 @@
-<map id="UnityEditor.UI.ButtonEditor" name="UnityEditor.UI.ButtonEditor">
-<area shape="rect" id="Node000001" title="Custom Editor for the Button Component. Extend this class to write a custom editor for a component de..." alt="" coords="5,155,183,181"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_selectable_editor.html" title="Custom Editor for the Selectable Component. Extend this class to write a custom editor for a componen..." alt="" coords="36,80,152,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,122,97,154,91,154,91,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="66,5,122,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
-</map>

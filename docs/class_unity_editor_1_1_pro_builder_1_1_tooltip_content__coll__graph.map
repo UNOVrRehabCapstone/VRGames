@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.TooltipContent" name="UnityEditor.ProBuilder.TooltipContent">
-<area shape="rect" id="Node000001" title="Represents an extended tooltip for a MenuAction." alt="" coords="76,96,268,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,195,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,43,159,94,154,97,116,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="219,5,272,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,46,190,97,186,94,224,43"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Input.Hand.GetJointPoseFromWrist" name="Oculus.Interaction.Input.Hand.GetJointPoseFromWrist">
-<area shape="rect" id="Node000001" title="Attempts to calculate the pose of the requested hand joint relative to the wrist. Returns false if th..." alt="" coords="267,5,461,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_ref.html#aed6aa9a1067fb81f9d9ec15e740b8dad" title="Attempts to calculate the pose of the requested hand joint relative to the wrist. Returns false if th..." alt="" coords="5,5,219,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
-</map>

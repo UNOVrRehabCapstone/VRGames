@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Configuration.Editor.IConfigurationProvider" name="Unity.Services.Core.Configuration.Editor.IConfigurationProvider">
-<area shape="rect" id="Node000001" title="Contract for objects providing configuration values that needs to be passed to the IProjectConfigurat..." alt="" coords="18,80,237,123"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_editor_1_1_operate_package_version_config_provider.html" title=" " alt="" coords="5,171,250,213"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,138,130,170,125,170,125,138"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="67,5,188,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,48,130,80,125,80,125,48"/>
-</map>

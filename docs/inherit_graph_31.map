@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,47,86,73"/>
-<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture_1_1_action_constraint.html" title=" " alt="" coords="139,5,354,48"/>
-<area shape="poly" id="edge49_Node000000_Node000001" title=" " alt="" coords="100,48,138,42,139,47,101,54"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_test_tools_1_1_constraints_1_1_allocating_g_c_memory_constraint.html" title="An NUnit test constraint class to test whether a given block of code makes any GC allocations." alt="" coords="134,72,359,115"/>
-<area shape="poly" id="edge50_Node000000_Node000002" title=" " alt="" coords="102,66,134,72,133,77,101,72"/>
-</map>

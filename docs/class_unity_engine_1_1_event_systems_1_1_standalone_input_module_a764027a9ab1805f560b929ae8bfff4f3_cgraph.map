@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.StandaloneInputModule.ProcessTouchPress" name="UnityEngine.EventSystems.StandaloneInputModule.ProcessTouchPress">
-<area shape="rect" id="Node000001" title="This method is called by Unity whenever a touch event is processed. Override this method with a custo..." alt="" coords="5,13,283,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a3e6cff25c91b6e54cd64717c9c7339e1" title="Deselect the current selected GameObject if the currently pointed&#45;at GameObject is different." alt="" coords="331,5,578,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,32,315,32,315,37,283,37"/>
-</map>

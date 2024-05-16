@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Layouts.InputControlLayout.Builder.ControlBuilder" name="UnityEngine.InputSystem.Layouts.InputControlLayout.Builder.ControlBuilder">
-<area shape="rect" id="Node000001" title="Syntax for configuring an individual ControlItem." alt="" coords="5,112,233,171"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_builder.html" title="Build a layout programmatically. Primarily for use by layout builders registered with the system." alt="" coords="7,5,231,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,64,122,112,116,112,116,64"/>
-</map>

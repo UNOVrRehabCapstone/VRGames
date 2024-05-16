@@ -29,6 +29,7 @@
   <td id="projectalign">
    <div id="projectname">VRGames
    </div>
+   <div id="projectbrief">Games for the VR Rehab capstone project</div>
   </td>
  </tr>
  </tbody>
@@ -92,17 +93,20 @@ $(function(){initNavTree('class_classes_1_1_target.html',''); initResizable(); }
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="class_classes_1_1_target-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">Classes.Target Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Manages the behavior of target objects in the game.  
+ <a href="#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for Classes.Target:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_classes_1_1_target__inherit__graph.png" border="0" usemap="#a_classes_8_target_inherit__map" alt="Inheritance graph"/></div>
 <map name="a_classes_8_target_inherit__map" id="a_classes_8_target_inherit__map">
-<area shape="rect" title=" " alt="" coords="6,80,114,107"/>
+<area shape="rect" title="Manages the behavior of target objects in the game." alt="" coords="6,80,114,107"/>
 <area shape="rect" title=" " alt="" coords="5,5,115,32"/>
 <area shape="poly" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
 </map>
@@ -112,39 +116,53 @@ Collaboration diagram for Classes.Target:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_classes_1_1_target__coll__graph.png" border="0" usemap="#a_classes_8_target_coll__map" alt="Collaboration graph"/></div>
 <map name="a_classes_8_target_coll__map" id="a_classes_8_target_coll__map">
-<area shape="rect" title=" " alt="" coords="58,96,166,123"/>
+<area shape="rect" title="Manages the behavior of target objects in the game." alt="" coords="6,80,114,107"/>
 <area shape="rect" title=" " alt="" coords="5,5,115,32"/>
-<area shape="poly" title=" " alt="" coords="77,44,107,94,102,97,73,47"/>
-<area shape="rect" title=" " alt="" coords="139,5,192,32"/>
-<area shape="poly" title=" " alt="" coords="152,47,122,97,117,94,148,44"/>
+<area shape="poly" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a87e79d8ad700c00890d2ad605edb3fcf" id="r_a87e79d8ad700c00890d2ad605edb3fcf"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a87e79d8ad700c00890d2ad605edb3fcf">targetsInScene</a> = 0</td></tr>
-<tr class="separator:a87e79d8ad700c00890d2ad605edb3fcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:aafca4a162e7c3f63de4abd38419ac36c" id="r_aafca4a162e7c3f63de4abd38419ac36c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aafca4a162e7c3f63de4abd38419ac36c">HitTarget</a> ()</td></tr>
+<tr class="memdesc:aafca4a162e7c3f63de4abd38419ac36c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Handles the event when the target is hit.  <br /></td></tr>
+<tr class="separator:aafca4a162e7c3f63de4abd38419ac36c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a87e79d8ad700c00890d2ad605edb3fcf" name="a87e79d8ad700c00890d2ad605edb3fcf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87e79d8ad700c00890d2ad605edb3fcf">&#9670;&#160;</a></span>targetsInScene</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Manages the behavior of target objects in the game. </p>
+<p>The Target class handles the initialization of target objects, triggers when they are hit by other game objects, and manages their removal from the scene. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aafca4a162e7c3f63de4abd38419ac36c" name="aafca4a162e7c3f63de4abd38419ac36c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafca4a162e7c3f63de4abd38419ac36c">&#9670;&#160;</a></span>HitTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int Classes.Target.targetsInScene = 0</td>
+          <td class="memname">void Classes.Target.HitTarget </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"></span></td><td>)</td>
+          <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p>Handles the event when the target is hit. </p>
+<p>Disables the target's collider and mesh renderer, removes the target from the scene, and updates the score. </p>
+
+<p class="reference">References <a class="el" href="class_points_manager.html#aad81016ad15f67f1667b60581b57af98">PointsManager.addPoints()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_classes_1_1_target_aafca4a162e7c3f63de4abd38419ac36c_cgraph.png" border="0" usemap="#aclass_classes_1_1_target_aafca4a162e7c3f63de4abd38419ac36c_cgraph" alt=""/></div>
+<map name="aclass_classes_1_1_target_aafca4a162e7c3f63de4abd38419ac36c_cgraph" id="aclass_classes_1_1_target_aafca4a162e7c3f63de4abd38419ac36c_cgraph">
+<area shape="rect" title="Handles the event when the target is hit." alt="" coords="5,5,170,32"/>
+<area shape="rect" href="class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title="Adds points to the total score." alt="" coords="218,5,388,32"/>
+<area shape="poly" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="436,5,653,32"/>
+<area shape="poly" title=" " alt="" coords="388,16,420,16,420,21,388,21"/>
+</map>
+</div>
 
 </div>
 </div>

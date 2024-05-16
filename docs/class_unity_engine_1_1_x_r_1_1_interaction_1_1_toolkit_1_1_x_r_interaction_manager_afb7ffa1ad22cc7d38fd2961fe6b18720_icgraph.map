@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.PreprocessInteractors" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.PreprocessInteractors">
-<area shape="rect" id="Node000001" title="Automatically called each frame to preprocess all interactors registered with this manager." alt="" coords="288,5,547,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a9e8e98513986a31ecc30e13a753f8011" title="See MonoBehaviour." alt="" coords="5,13,240,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,37,240,37,240,32,272,32"/>
-</map>

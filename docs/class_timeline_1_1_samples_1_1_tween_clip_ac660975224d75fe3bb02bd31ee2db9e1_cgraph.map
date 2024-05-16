@@ -1,5 +1,0 @@
-<map id="Timeline.Samples.TweenClip.GatherProperties" name="Timeline.Samples.TweenClip.GatherProperties">
-<area shape="rect" id="Node000001" title="Called by the Timeline Editor to gather properties requiring preview." alt="" coords="5,5,197,48"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_timeline_1_1_i_property_collector.html#a16d43ced11cef5522db23c48166837c3" title="Add property modifications using the serialized property name." alt="" coords="245,5,444,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
-</map>

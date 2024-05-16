@@ -1,9 +1,0 @@
-<map id="OVRKeyboard.TrackedKeyboardInfo" name="OVRKeyboard.TrackedKeyboardInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,235,229"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,96,112,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,138,68,158,74,177,84,190,97,200,94,204,80,194,70,180,63,159,61,139"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="136,96,221,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,138,146,180,131,204,127,201,142,177,164,135"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="152,5,205,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,48,181,95,176,95,176,48"/>
-</map>

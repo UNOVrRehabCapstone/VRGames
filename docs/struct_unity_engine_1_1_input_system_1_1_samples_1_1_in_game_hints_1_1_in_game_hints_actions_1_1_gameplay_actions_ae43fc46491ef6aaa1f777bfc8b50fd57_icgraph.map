@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.GameplayActions.Get" name="UnityEngine.InputSystem.Samples.InGameHints.InGameHintsActions.GameplayActions.Get">
-<area shape="rect" id="Node000001" title=" " alt="" coords="284,47,514,105"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions_1_1_gameplay_actions.html#ace0121b24384671fef37b5418e8b6bab" title=" " alt="" coords="5,5,236,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,59,236,54,237,49,269,54"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions_1_1_gameplay_actions.html#ab7ea1148ae1358577d935457e5aa379d" title=" " alt="" coords="5,88,236,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,98,237,103,236,98,268,93"/>
-</map>

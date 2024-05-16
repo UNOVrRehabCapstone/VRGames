@@ -1,8 +1,0 @@
-<map id="Oculus.Interaction.Surfaces.PointablePlane.Raycast" name="Oculus.Interaction.Surfaces.PointablePlane.Raycast">
-<area shape="rect" id="Node000001" title="Raycast to the surface with an optional maximum distance value." alt="" coords="5,5,191,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#a124137e389d495b25868fe6d0039fc68" title=" " alt="" coords="518,5,703,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,21,239,20,470,20,502,21,502,26,470,25,239,25,191,26"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#ad3f6280668fc92a0ab5a00303da55af1" title="Check if a point is on the normal&#45;side of the collider (is raycast hit possible from this origin poin..." alt="" coords="239,35,470,77"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,35,224,38,223,44,191,40"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="470,40,502,36,503,42,471,45"/>
-</map>

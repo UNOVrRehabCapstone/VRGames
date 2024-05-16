@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionAsset.FindControlScheme" name="UnityEngine.InputSystem.InputActionAsset.FindControlScheme">
-<area shape="rect" id="Node000001" title="Find the control scheme with the given name and return it." alt="" coords="5,5,196,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a95f86bf028b440b8e997abcedce49488" title="Find the control scheme with the given name and return its index in controlSchemes." alt="" coords="244,5,434,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,32,228,32,228,37,196,37"/>
-</map>

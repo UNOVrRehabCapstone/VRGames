@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnBeforeRender" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.OnBeforeRender">
-<area shape="rect" id="Node000001" title="Delegate method used to register for &quot;Just Before Render&quot; input updates for VR devices." alt="" coords="264,47,474,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#af81eb254e2433e6a41255f0e4bd3183a" title="See MonoBehaviour." alt="" coords="5,5,216,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,59,216,54,217,49,249,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a38b019f4939cd5f20a0d233defab824c" title="See MonoBehaviour." alt="" coords="5,88,216,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,98,217,103,216,98,248,93"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="BalloonsGame.Balloon.AddPoints" name="BalloonsGame.Balloon.AddPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,186,81"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_points_manager.html#a2cd8639125314ffbde99af57f78def40" title=" " alt="" coords="234,5,435,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,45,218,40,219,46,186,50"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_points_manager.html#aaece7576a1412732ff389ad2d39397eb" title=" " alt="" coords="234,72,435,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,70,219,74,218,80,186,75"/>
+</map>

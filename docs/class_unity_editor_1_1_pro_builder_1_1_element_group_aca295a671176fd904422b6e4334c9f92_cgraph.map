@@ -1,8 +1,0 @@
-<map id="UnityEditor.ProBuilder.ElementGroup.GetElementGroups" name="UnityEditor.ProBuilder.ElementGroup.GetElementGroups">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,207,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_element_group.html#a04405f4dd2309e42a5ff392a9a5d2d87" title=" " alt="" coords="268,5,469,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,52,252,44,253,49,207,57"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a9e52ae7b3eda704ccfcb7f180fddb507" title="Returns a list of vertices that are coincident to any of the specified vertices." alt="" coords="255,96,482,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,87,240,92,239,98,207,92"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="319,96,317,86,325,77,342,71,368,69,396,72,413,78,411,83,395,77,368,75,343,77,328,81,322,87,324,95"/>
-</map>

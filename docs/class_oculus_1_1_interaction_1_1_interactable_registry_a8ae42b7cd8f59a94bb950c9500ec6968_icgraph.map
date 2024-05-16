@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.InteractableRegistry.PruneInteractables" name="Oculus.Interaction.InteractableRegistry.PruneInteractables">
-<area shape="rect" id="Node000001" title=" " alt="" coords="251,39,448,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_collision_interaction_registry.html#a145d1cec67a5ee38884d1542e6e2a991" title=" " alt="" coords="14,5,194,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,47,194,42,195,36,236,42"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactable_registry.html#a610463ef89465d89c4b332876baa139f" title=" " alt="" coords="5,72,203,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,78,204,83,203,77,235,73"/>
-</map>

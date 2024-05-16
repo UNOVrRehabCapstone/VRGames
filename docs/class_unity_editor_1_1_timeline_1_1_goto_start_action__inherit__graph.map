@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.GotoStartAction" name="UnityEditor.Timeline.GotoStartAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,175,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_timeline_action.html" title="Base class for a timeline action. Inherit from this class to make an action on a timeline after a men..." alt="" coords="37,80,143,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,122,93,154,87,154,87,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="59,5,121,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,48,93,80,87,80,87,48"/>
-</map>

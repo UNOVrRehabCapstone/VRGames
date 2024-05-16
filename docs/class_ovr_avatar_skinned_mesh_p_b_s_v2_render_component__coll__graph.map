@@ -1,7 +1,0 @@
-<map id="OvrAvatarSkinnedMeshPBSV2RenderComponent" name="OvrAvatarSkinnedMeshPBSV2RenderComponent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,204,197"/>
-<area shape="rect" id="Node000002" href="$class_ovr_avatar_render_component.html" title=" " alt="" coords="13,80,196,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,122,107,154,102,154,102,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="50,5,159,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,48,107,80,102,80,102,48"/>
-</map>

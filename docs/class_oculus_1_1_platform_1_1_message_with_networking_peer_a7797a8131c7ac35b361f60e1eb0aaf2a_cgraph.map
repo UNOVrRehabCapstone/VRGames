@@ -1,9 +1,0 @@
-<map id="Oculus.Platform.MessageWithNetworkingPeer.GetDataFromMessage" name="Oculus.Platform.MessageWithNetworkingPeer.GetDataFromMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,253,115"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a11bede2ac1c76d1928608fed2616580f" title=" " alt="" coords="301,5,501,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,69,295,50,297,55,219,74"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a7dca7bf762bfd59eaa933453c1077bea" title=" " alt="" coords="317,72,485,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,91,301,91,301,96,253,96"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a205743d77a58b00a51cd78e46498204b" title=" " alt="" coords="312,139,490,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,113,297,132,296,137,218,118"/>
-</map>

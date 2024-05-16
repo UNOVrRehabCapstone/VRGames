@@ -1,6 +1,0 @@
-var _fallback_composite_8cs =
-[
-    [ "UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.Vector3FallbackComposite", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_vector3_fallback_composite.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_vector3_fallback_composite" ],
-    [ "UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.QuaternionFallbackComposite", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_quaternion_fallback_composite.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_quaternion_fallback_composite" ],
-    [ "UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.FallbackComposite< TValue >", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_inputs_1_1_composites_1_1_fallback_composite.html", null ]
-];

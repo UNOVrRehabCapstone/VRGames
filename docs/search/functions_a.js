@@ -1,15 +1,7 @@
 var searchData=
 [
-  ['joinexistingroom_0',['JoinExistingRoom',['../class_room_manager.html#a71434de01da7fbf69ef8130c115b88d1',1,'RoomManager.JoinExistingRoom()'],['../class_oculus_1_1_platform_1_1_samples_1_1_vr_voice_chat_1_1_room_manager.html#a9e67827fc3f4beb5e460921be1c5ff18',1,'Oculus.Platform.Samples.VrVoiceChat.RoomManager.JoinExistingRoom()']]],
-  ['joinplayer_1',['JoinPlayer',['../class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ad1601a14a5ff68625ca0b1cc5f7a2842',1,'UnityEngine.InputSystem.PlayerInputManager.JoinPlayer(int playerIndex=-1, int splitScreenIndex=-1, string controlScheme=null, InputDevice pairWithDevice=null)'],['../class_unity_engine_1_1_input_system_1_1_player_input_manager.html#a2c72542515a4e058850c65ab792e9ac8',1,'UnityEngine.InputSystem.PlayerInputManager.JoinPlayer(int playerIndex=-1, int splitScreenIndex=-1, string controlScheme=null, params InputDevice[] pairWithDevices)']]],
-  ['joinplayerfromaction_2',['JoinPlayerFromAction',['../class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ae230bfc7d301a1eccf746bee63f25955',1,'UnityEngine::InputSystem::PlayerInputManager']]],
-  ['joinplayerfromactionifnotalreadyjoined_3',['JoinPlayerFromActionIfNotAlreadyJoined',['../class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ac4b8772d33ae96c53c86d59e95759476',1,'UnityEngine::InputSystem::PlayerInputManager']]],
-  ['joinplayerloopsystem_4',['JoinPlayerLoopSystem',['../class_unity_1_1_services_1_1_core_1_1_scheduler_1_1_internal_1_1_action_scheduler.html#a6e25013f87f3361ba7b8c87b422d4c6c',1,'Unity::Services::Core::Scheduler::Internal::ActionScheduler']]],
-  ['jointcollection_5',['JointCollection',['../class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_joint_collection.html#a9b6f0e0a973ad2f40a474f2a76524ae4',1,'Oculus::Interaction::HandPosing::Visuals::JointCollection']]],
-  ['jointjson_6',['JointJson',['../class_classes_1_1_joint_json.html#a7b2cee99d87a2af74e84694fd700b760',1,'Classes::JointJson']]],
-  ['jsonbool_7',['JSONBool',['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_bool.html#a421f089c94f40410691221240927f861',1,'OVRSimpleJSON.JSONBool.JSONBool(bool aData)'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_bool.html#af41e01db2eb6daac88dd61de698816f8',1,'OVRSimpleJSON.JSONBool.JSONBool(string aData)']]],
-  ['jsonnumber_8',['JSONNumber',['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_number.html#ab940c545f194245578e6aee5a9a7c856',1,'OVRSimpleJSON.JSONNumber.JSONNumber(double aData)'],['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_number.html#a16d74235e3f9517ea3f4a20854975964',1,'OVRSimpleJSON.JSONNumber.JSONNumber(string aData)']]],
-  ['jsonparseexception_9',['JSONParseException',['../class_facebook_1_1_wit_ai_1_1_lib_1_1_j_s_o_n_parse_exception.html#a4c1b2610da999fcfed31e7e628dda8d0',1,'Facebook::WitAi::Lib::JSONParseException']]],
-  ['jsonstring_10',['JSONString',['../class_o_v_r_simple_j_s_o_n_1_1_j_s_o_n_string.html#a31009235d33d6c88d598191f5b352754',1,'OVRSimpleJSON::JSONString']]],
-  ['jump_11',['Jump',['../class_o_v_r_player_controller.html#ace5169f33e87513d00fb8f74447a29a9',1,'OVRPlayerController']]]
+  ['lhandmirrorcalibrate_0',['LHandMirrorCalibrate',['../class_calibrator.html#aa3957a5875d182103faa361a8ff2b657',1,'Calibrator']]],
+  ['lhandscalecalibrate_1',['LHandScaleCalibrate',['../class_calibrator.html#a79d74d1cbbdf8fee747e9a7879263e87',1,'Calibrator']]],
+  ['load_2',['Load',['../class_score.html#a00689ef0abbed3e6116aec6d0f555100',1,'Score']]],
+  ['loadresults_3',['loadResults',['../class_achievements.html#a7f191479055187c119692312b8fbf126',1,'Achievements']]]
 ];

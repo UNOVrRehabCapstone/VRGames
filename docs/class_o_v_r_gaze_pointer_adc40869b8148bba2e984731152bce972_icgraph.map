@@ -1,5 +1,0 @@
-<map id="OVRGazePointer.RequestShow" name="OVRGazePointer.RequestShow">
-<area shape="rect" id="Node000001" title="Request the pointer be shown. Hide requests take priority." alt="" coords="237,13,442,40"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_gaze_pointer.html#a751d98a68d16da6c5269d8297eb9492c" title="Set position and orientation of pointer." alt="" coords="5,5,189,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,29,189,29,189,24,221,24"/>
-</map>

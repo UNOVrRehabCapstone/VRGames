@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.PlayerInputManager.JoinPlayer" name="UnityEngine.InputSystem.PlayerInputManager.JoinPlayer">
-<area shape="rect" id="Node000001" title="Spawn a new player from playerPrefab." alt="" coords="522,55,722,97"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ae230bfc7d301a1eccf746bee63f25955" title="Join a new player based on input received through an InputAction." alt="" coords="274,5,474,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,59,474,54,475,49,507,54"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#ac4b8772d33ae96c53c86d59e95759476" title=" " alt="" coords="274,88,474,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,98,475,103,474,98,506,93"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#a92f309d6357ac416b1bc16d4dc96ad9b" title="Allow players to join the game based on joinBehavior." alt="" coords="5,96,226,139"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,120,226,120,226,115,258,115"/>
-</map>

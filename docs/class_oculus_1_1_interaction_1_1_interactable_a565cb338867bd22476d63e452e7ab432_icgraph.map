@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.Interactable.RemoveInteractor" name="Oculus.Interaction.Interactable.RemoveInteractor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="504,39,705,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactable.html#a288220f12d2fb0e5ba44585076fdf19e" title=" " alt="" coords="255,5,456,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="488,47,456,43,457,37,489,42"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_interactable.html#a2c44f2bdf79e6e847f52e3484622ae4d" title=" " alt="" coords="255,72,456,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="489,78,457,83,456,77,488,73"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_interactable.html#a4a5900b3a52fb75accd5ff816170bf8d" title=" " alt="" coords="5,5,207,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,29,207,29,207,24,239,24"/>
-</map>

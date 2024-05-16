@@ -1,7 +1,0 @@
-<map id="ovrAvatarLights" name="ovrAvatarLights">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,114,229"/>
-<area shape="rect" id="Node000002" href="$structovr_avatar_light.html" title=" " alt="" coords="9,112,110,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,154,62,202,57,202,57,154"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="14,5,105,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="62,47,62,112,57,112,57,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Windows.Kinect.KinectBuffer" name="Windows.Kinect.KinectBuffer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="59,80,249,107"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,159,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,41,143,78,140,81,103,45"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="183,5,272,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,45,168,82,165,78,202,41"/>
-</map>

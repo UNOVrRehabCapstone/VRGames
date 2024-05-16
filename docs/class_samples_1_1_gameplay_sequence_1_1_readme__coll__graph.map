@@ -1,7 +1,0 @@
-<map id="Samples.GameplaySequence.Readme" name="Samples.GameplaySequence.Readme">
-<area shape="rect" id="Node000001" title=" " alt="" coords="56,112,253,155"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,123,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,50,139,110,135,113,83,53"/>
-<area shape="rect" id="Node000003" href="$class_samples_1_1_gameplay_sequence_1_1_readme_1_1_section.html" title=" " alt="" coords="147,5,344,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,62,175,113,171,110,215,58"/>
-</map>

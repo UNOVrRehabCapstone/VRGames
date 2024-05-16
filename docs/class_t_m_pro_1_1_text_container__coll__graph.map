@@ -1,7 +1,0 @@
-<map id="TMPro.TextContainer" name="TMPro.TextContainer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,149,181"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="32,80,122,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,122,80,154,74,154,74,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="22,5,132,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,48,80,80,74,80,74,48"/>
-</map>

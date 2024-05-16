@@ -1,7 +1,0 @@
-<map id="Facebook.WitAi.Windows.WitScriptableWizard.DrawWizardGUI" name="Facebook.WitAi.Windows.WitScriptableWizard.DrawWizardGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,222,48"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_scriptable_wizard.html#a5924bed9194f771c4364c5663a09ed10" title=" " alt="" coords="270,5,478,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,24,254,24,254,29,222,29"/>
-<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_scriptable_wizard.html#a38dab64a7bacc7bb90048c2d4739e305" title=" " alt="" coords="526,5,724,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,24,511,24,511,29,478,29"/>
-</map>

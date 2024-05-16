@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor.OnSelectEntered" name="UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor.OnSelectEntered">
-<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method when the Interactor first initiates selection of an Intera..." alt="" coords="315,5,546,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a7c7523ee9eccac7f42b029f148cbf5c7" title="Initiates selection of an Interactable by an Interactor, passing the given args ." alt="" coords="5,13,267,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,37,267,37,267,32,299,32"/>
-</map>

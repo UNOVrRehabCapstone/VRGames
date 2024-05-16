@@ -1,6 +1,0 @@
-<map id="UnityEditor.Timeline.MarkerDrawOptions.operator!=" name="UnityEditor.Timeline.MarkerDrawOptions.operator!=">
-<area shape="rect" id="Node000001" title="Compares two MarkerDrawOptions objects." alt="" coords="5,29,187,72"/>
-<area shape="rect" id="Node000002" href="$struct_unity_editor_1_1_timeline_1_1_marker_draw_options.html#a9c7dc63390bbb7fcb9ecdf12e044e9f2" title="Indicates whether this instance and a specified object are equal." alt="" coords="235,29,416,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,48,219,48,219,53,187,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="282,29,280,19,287,10,303,5,325,3,350,5,365,11,363,16,349,10,325,8,304,10,290,15,285,21,287,28"/>
-</map>

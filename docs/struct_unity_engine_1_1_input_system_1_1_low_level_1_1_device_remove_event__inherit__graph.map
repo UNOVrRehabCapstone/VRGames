@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.DeviceRemoveEvent" name="UnityEngine.InputSystem.LowLevel.DeviceRemoveEvent">
-<area shape="rect" id="Node000001" title="Notifies about the removal of an input device." alt="" coords="5,80,199,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_low_level_1_1_i_input_event_type_info.html" title="Interface implemented by all input event structs which reports the data format identifier of the comm..." alt="" coords="36,5,168,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,48,105,80,99,80,99,48"/>
-</map>

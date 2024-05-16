@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.InteractableUnregisteredEventArgs" name="UnityEngine.XR.Interaction.Toolkit.InteractableUnregisteredEventArgs">
-<area shape="rect" id="Node000001" title="Event data associated with the event when an Interactable is unregistered from an XRInteractionManage..." alt="" coords="5,80,209,139"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_registration_event_args.html" title="Event data associated with a registration event with an XRInteractionManager." alt="" coords="17,5,197,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,79,104,79,104,48"/>
-</map>

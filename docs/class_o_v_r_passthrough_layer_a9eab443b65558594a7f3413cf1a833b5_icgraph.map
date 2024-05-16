@@ -1,7 +1,0 @@
-<map id="OVRPassthroughLayer.RemoveSurfaceGeometry" name="OVRPassthroughLayer.RemoveSurfaceGeometry">
-<area shape="rect" id="Node000001" title="Removes a GameObject that was previously added using AddSurfaceGeometry from the projection surface." alt="" coords="255,23,459,65"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_tracked_keyboard.html#a089d10851ce834402ed3e9d463c07dde" title="Stops keyboard tracking and cleans up associated resources." alt="" coords="5,5,207,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,35,207,32,207,26,239,29"/>
-<area shape="rect" id="Node000003" href="$class_s_p_pquad.html#a04343f1f0b236ab965374b7bb5e18cee" title=" " alt="" coords="52,56,160,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,59,161,67,160,61,239,53"/>
-</map>

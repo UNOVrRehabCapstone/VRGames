@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Users.InputUser" name="UnityEngine.InputSystem.Users.InputUser">
-<area shape="rect" id="Node000001" title="Represents a specific user/player interacting with one or more devices and input actions." alt="" coords="5,80,178,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,172,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
-</map>

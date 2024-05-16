@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.GrabInteractor.InjectAllGrabInteractor" name="Oculus.Interaction.GrabInteractor.InjectAllGrabInteractor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,222,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#a2f8faf1ba7a708a26ed7fea0d85c9c9d" title=" " alt="" coords="270,5,486,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,44,254,40,254,45,222,49"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#a63b946f9c1d6599f23164fcce82efcb0" title=" " alt="" coords="270,72,486,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,71,254,75,254,80,222,76"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.ResolveUnassociatedColliders" name="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.ResolveUnassociatedColliders">
-<area shape="rect" id="Node000001" title="Resolves the unassociated colliders to interactable &#160;if they match." alt="" coords="5,5,248,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a7c54f4c89ebae145009dad5b165e09ab" title="Gets the Interactable a specific Collider is attached to." alt="" coords="296,5,507,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,32,280,32,280,37,248,37"/>
-</map>

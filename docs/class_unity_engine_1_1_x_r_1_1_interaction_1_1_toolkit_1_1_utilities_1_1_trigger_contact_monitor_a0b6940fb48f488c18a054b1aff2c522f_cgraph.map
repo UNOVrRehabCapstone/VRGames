@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.UpdateStayedColliders" name="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.UpdateStayedColliders">
-<area shape="rect" id="Node000001" title="Remove colliders that no longer stay during this frame but previously entered." alt="" coords="5,5,206,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_trigger_contact_monitor.html#ae189107f1a3999a5ff8545061d534e15" title="Removes collider &#160;from contact list." alt="" coords="254,5,448,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,32,238,32,238,37,206,37"/>
-</map>

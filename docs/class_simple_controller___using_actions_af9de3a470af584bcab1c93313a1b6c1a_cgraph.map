@@ -1,5 +1,0 @@
-<map id="SimpleController_UsingActions.OnDisable" name="SimpleController_UsingActions.OnDisable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,210,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action.html#a301a6f1f456e71eee25363f62861ff93" title="Disable the action such that is stop listening/responding to input." alt="" coords="258,5,430,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
-</map>

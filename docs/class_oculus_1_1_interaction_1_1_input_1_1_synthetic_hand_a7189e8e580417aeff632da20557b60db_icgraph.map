@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Input.SyntheticHand.LockWristRotation" name="Oculus.Interaction.Input.SyntheticHand.LockWristRotation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="253,5,470,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_synthetic_hand.html#a5516bce91d08c01dde544e5fb272396b" title="Stores the desired pose to set the wrist of the hand to. This is not necessarily the final pose of th..." alt="" coords="5,5,205,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,29,205,29,205,24,237,24"/>
-</map>

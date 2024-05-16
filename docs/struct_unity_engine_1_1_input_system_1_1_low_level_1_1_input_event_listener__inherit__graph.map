@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputEventListener" name="UnityEngine.InputSystem.LowLevel.InputEventListener">
-<area shape="rect" id="Node000001" title="Wraps around mechanisms for listening in on the InputEvent stream made available through InputSystem...." alt="" coords="8,80,192,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,195,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,48,103,80,97,80,97,48"/>
-</map>

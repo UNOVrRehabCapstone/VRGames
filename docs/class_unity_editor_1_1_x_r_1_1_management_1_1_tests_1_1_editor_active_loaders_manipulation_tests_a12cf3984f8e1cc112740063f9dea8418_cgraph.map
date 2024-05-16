@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfAttemptToAddDuplicateLoadersFails" name="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfAttemptToAddDuplicateLoadersFails">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,317,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a1187cd1161dc52c790cc2141541bf2b3" title="Attempts to append the given loader to the list of loaders at the given index." alt="" coords="365,13,584,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,32,349,32,349,37,317,37"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.SequenceActiveState.InjectAllSequenceActiveState" name="Oculus.Interaction.PoseDetection.SequenceActiveState.InjectAllSequenceActiveState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,259,147"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_sequence_active_state.html#af40e74371fe9eb65b2284a247b25bb77" title=" " alt="" coords="310,5,542,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,85,304,66,305,71,240,90"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_sequence_active_state.html#ab8c4d52f83ff6153461eb0766f5751d9" title=" " alt="" coords="310,88,542,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,115,294,115,294,120,259,120"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_sequence_active_state.html#a3f960b91fae17a27ac06eb4dab0a2bf8" title=" " alt="" coords="307,171,545,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,145,325,164,324,169,249,150"/>
-</map>

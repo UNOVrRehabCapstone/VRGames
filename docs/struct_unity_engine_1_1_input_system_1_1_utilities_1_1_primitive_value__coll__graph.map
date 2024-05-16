@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue" name="UnityEngine.InputSystem.Utilities.PrimitiveValue">
-<area shape="rect" id="Node000001" title="A union holding a primitive value." alt="" coords="93,80,266,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,194,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,41,161,78,157,82,121,45"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="217,5,305,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,45,202,82,198,78,235,41"/>
-</map>

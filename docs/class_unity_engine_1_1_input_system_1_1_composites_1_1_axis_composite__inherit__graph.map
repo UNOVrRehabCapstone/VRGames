@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.AxisComposite" name="UnityEngine.InputSystem.Composites.AxisComposite">
-<area shape="rect" id="Node000001" title="A single axis value computed from a &quot;negative&quot; and a &quot;positive&quot; button." alt="" coords="5,96,188,139"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="19,5,174,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,64,99,96,94,96,94,64"/>
-</map>

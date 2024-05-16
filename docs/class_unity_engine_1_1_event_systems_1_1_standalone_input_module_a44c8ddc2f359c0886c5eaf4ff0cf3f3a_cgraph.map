@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.StandaloneInputModule.DeactivateModule" name="UnityEngine.EventSystems.StandaloneInputModule.DeactivateModule">
-<area shape="rect" id="Node000001" title="See BaseInputModule." alt="" coords="5,5,226,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html#a456f895ba9a26b607a65c04a09a5c796" title="Clear all pointers and deselect any selected objects in the EventSystem." alt="" coords="274,13,494,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,32,258,32,258,37,226,37"/>
-</map>

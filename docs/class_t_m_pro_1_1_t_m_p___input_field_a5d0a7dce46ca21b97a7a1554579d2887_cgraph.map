@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_InputField.OnSubmit" name="TMPro.TMP_InputField.OnSubmit">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,221,73"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="271,5,454,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,43,255,38,256,44,218,49"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___input_field.html#abf60ea8cc14546e9e0ca9f88db152b13" title=" " alt="" coords="269,72,456,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,71,254,76,253,81,218,77"/>
-</map>

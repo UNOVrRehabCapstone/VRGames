@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_SpriteAsset.SearchForSpriteByUnicode" name="TMPro.TMP_SpriteAsset.SearchForSpriteByUnicode">
-<area shape="rect" id="Node000001" title="Search through the given sprite asset and its fallbacks for the specified sprite matching the given u..." alt="" coords="5,5,216,48"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#a8ee6b1fc6a39a615005fe6b53c2906a2" title="Returns the index of the sprite for the given unicode value." alt="" coords="264,5,454,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___sprite_asset.html#ac0d576c7ae191d74887684c5388ca32a" title="Function to update the sprite name and unicode lookup tables. This function should be called when a s..." alt="" coords="502,5,712,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,24,486,24,486,29,454,29"/>
-</map>

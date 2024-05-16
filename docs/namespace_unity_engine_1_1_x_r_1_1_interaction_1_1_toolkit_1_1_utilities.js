@@ -1,8 +1,0 @@
-var namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities =
-[
-    [ "Internal", "namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal.html", "namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_internal" ],
-    [ "Pooling", "namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling.html", "namespace_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_pooling" ],
-    [ "ScriptableSettings", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings.html", null ],
-    [ "ScriptableSettingsPathAttribute", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute" ],
-    [ "TriggerContactMonitor", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_trigger_contact_monitor.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_trigger_contact_monitor" ]
-];

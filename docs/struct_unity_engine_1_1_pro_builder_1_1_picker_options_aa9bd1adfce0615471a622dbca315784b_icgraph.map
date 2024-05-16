@@ -1,8 +1,0 @@
-<map id="UnityEngine.ProBuilder.PickerOptions.Equals" name="UnityEngine.ProBuilder.PickerOptions.Equals">
-<area shape="rect" id="Node000001" title="Evaluates whether the specified object is equivalent to this one." alt="" coords="250,39,446,81"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="388,26,373,20,348,17,325,19,310,24,305,30,307,38,302,39,300,29,308,20,324,14,348,12,374,14,390,21"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_pro_builder_1_1_picker_options.html#a443483d9b7c530b7868a67197d6e914a" title="Returns true if the values for the two PickerOptions objects don&#39;t match." alt="" coords="5,5,202,48"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="234,47,202,43,203,37,235,42"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_pro_builder_1_1_picker_options.html#aeb7453c553cc17d07ea97b4fee303d74" title="Returns true if the two PickerOptions objects have matching values." alt="" coords="5,72,202,115"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="235,78,203,83,202,77,234,73"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.GetValidTargets" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.GetValidTargets">
-<area shape="rect" id="Node000001" title="Retrieves the list of Interactables that the given Interactor could possibly interact with this frame..." alt="" coords="5,5,220,64"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactor.html#abe65067e2e36857539104eddc65fb84a" title="Retrieve the list of Interactables that this Interactor could possibly interact with this frame...." alt="" coords="268,13,501,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,32,252,32,252,37,220,37"/>
-</map>

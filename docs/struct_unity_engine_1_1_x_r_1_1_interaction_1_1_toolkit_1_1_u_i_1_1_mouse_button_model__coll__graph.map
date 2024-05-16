@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.MouseButtonModel" name="UnityEngine.XR.Interaction.Toolkit.UI.MouseButtonModel">
-<area shape="rect" id="Node000001" title="Represents the state of a single mouse button within the Unity UI (UGUI) system. Keeps track of vario..." alt="" coords="65,112,256,155"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,316,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,64,163,111,158,111,158,64"/>
-</map>

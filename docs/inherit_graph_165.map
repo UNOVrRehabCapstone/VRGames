@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_oculus_1_1_interaction_1_1_i_candidate_position.html" title=" " alt="" coords="20,5,211,48"/>
-<area shape="rect" id="Node000001" href="$class_oculus_1_1_interaction_1_1_ray_interactor.html" title=" " alt="" coords="274,47,481,73"/>
-<area shape="poly" id="edge336_Node000000_Node000001" title=" " alt="" coords="227,38,274,44,273,49,226,43"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_interactor.html" title=" " alt="" coords="5,72,226,115"/>
-<area shape="poly" id="edge337_Node000002_Node000001" title=" " alt="" coords="241,75,273,71,274,76,241,80"/>
-</map>

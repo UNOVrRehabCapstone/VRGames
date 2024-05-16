@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule.DoProcess" name="UnityEngine.XR.Interaction.Toolkit.UI.UIInputModule.DoProcess">
-<area shape="rect" id="Node000001" title="Process the current tick for the module." alt="" coords="260,5,489,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_u_i_input_module.html#aa9deabc65716e33251861804692d6a15" title="See MonoBehaviour." alt="" coords="5,5,212,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,29,212,29,212,24,244,24"/>
-</map>

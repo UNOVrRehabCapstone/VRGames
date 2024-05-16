@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.Samples.VrBoardGame.GameController.RemoteMatchEnded" name="Oculus.Platform.Samples.VrBoardGame.GameController.RemoteMatchEnded">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,252,101"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_matchmaking_manager.html#acf7359c8a81b55b3684022e9545b9b40" title=" " alt="" coords="316,5,556,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,54,301,48,301,54,252,60"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_board.html#ae7aeb4b8405161230f828e659600e5b2" title=" " alt="" coords="300,88,572,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,84,284,88,284,94,252,90"/>
-</map>

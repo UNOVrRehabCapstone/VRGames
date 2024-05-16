@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.KdTree.KdTree.Add" name="UnityEngine.ProBuilder.KdTree.KdTree.Add">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,181,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_kd_tree_node.html#a8fd7847ce3825d9ed8009d6c27ed8b4f" title=" " alt="" coords="229,5,431,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,69,236,50,238,55,172,74"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_i_type_math.html#a7597fb4d3755c94038f2c65657a9c108" title=" " alt="" coords="242,72,418,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,91,226,91,226,96,181,96"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_i_type_math.html#ab867a8ad718463b3f0336ba8a66ca833" title=" " alt="" coords="242,139,418,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,113,238,131,236,137,170,118"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="OVRPlugin.SpatialEntityQueryInfo" name="OVRPlugin.SpatialEntityQueryInfo">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,224,229"/>
-<area shape="rect" id="Node000002" href="$struct_o_v_r_plugin_1_1_spatial_entity_filter_info_ids.html" title=" " alt="" coords="18,96,211,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,154,117,202,112,202,112,154"/>
-<area shape="rect" id="Node000003" href="$struct_o_v_r_plugin_1_1_spatial_entity_uuid.html" title=" " alt="" coords="20,5,209,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,48,117,95,112,95,112,48"/>
-</map>

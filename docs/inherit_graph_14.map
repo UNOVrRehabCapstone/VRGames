@@ -1,19 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,147,127,173"/>
-<area shape="rect" id="Node000001" href="$class_inputfield_tests_1_1_fake_input_module.html" title=" " alt="" coords="184,72,349,115"/>
-<area shape="poly" id="edge24_Node000000_Node000001" title=" " alt="" coords="122,139,199,113,201,118,124,144"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_pointer_input_module.html" title="A BaseInputModule for pointer input." alt="" coords="175,139,358,181"/>
-<area shape="poly" id="edge25_Node000000_Node000002" title=" " alt="" coords="142,157,174,157,174,163,142,163"/>
-<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_u_i_input_module.html" title="Base class for input modules that send UI input." alt="" coords="177,239,356,281"/>
-<area shape="poly" id="edge30_Node000000_Node000007" title=" " alt="" coords="109,178,223,236,221,241,107,183"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pointable_canvas_module.html" title="IPointerInteractableModule manages all InteractableCanvas events in the scene and translates them int..." alt="" coords="406,5,590,48"/>
-<area shape="poly" id="edge26_Node000002_Node000003" title=" " alt="" coords="351,128,356,125,371,109,380,92,388,75,404,58,423,46,426,51,408,62,393,78,384,95,376,112,360,129,354,133"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html" title="VR extension of PointerInputModule which supports gaze and controller pointing." alt="" coords="407,72,590,115"/>
-<area shape="poly" id="edge27_Node000002_Node000004" title=" " alt="" coords="356,131,420,113,422,118,358,137"/>
-<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html" title="A BaseInputModule designed for mouse / keyboard / controller input." alt="" coords="407,139,590,181"/>
-<area shape="poly" id="edge28_Node000002_Node000005" title=" " alt="" coords="374,157,406,157,406,163,374,163"/>
-<area shape="rect" id="Node000006" href="$class_unity_engine_1_1_event_systems_1_1_touch_input_module.html" title=" " alt="" coords="407,205,590,248"/>
-<area shape="poly" id="edge29_Node000002_Node000006" title=" " alt="" coords="358,183,422,202,420,207,356,189"/>
-<area shape="rect" id="Node000008" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_x_r_u_i_input_module.html" title="Custom class for input modules that send UI input in XR." alt="" coords="409,272,588,315"/>
-<area shape="poly" id="edge31_Node000007_Node000008" title=" " alt="" coords="372,272,408,278,408,283,371,278"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,123,32"/>
+<area shape="rect" id="Node000001" href="$class_game_settings_s_o.html" title=" " alt="" coords="171,5,294,32"/>
+<area shape="poly" id="edge81_Node000000_Node000001" title=" " alt="" coords="138,16,171,16,171,21,138,21"/>
 </map>

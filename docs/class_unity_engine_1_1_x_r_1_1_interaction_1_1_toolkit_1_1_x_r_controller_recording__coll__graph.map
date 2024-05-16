@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRControllerRecording" name="UnityEngine.XR.Interaction.Toolkit.XRControllerRecording">
-<area shape="rect" id="Node000001" title="The XRControllerRecording ScriptableObject stores position, rotation, and Interaction state changes f..." alt="" coords="57,80,250,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,41,132,78,129,81,88,45"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="147,5,341,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,44,178,82,175,78,217,40"/>
-</map>

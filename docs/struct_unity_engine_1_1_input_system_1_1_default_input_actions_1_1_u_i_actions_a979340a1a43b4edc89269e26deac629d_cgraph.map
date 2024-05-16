@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.DefaultInputActions.UIActions.Enable" name="UnityEngine.InputSystem.DefaultInputActions.UIActions.Enable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,203,89"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#a1070fcb5a4631ca6c0212fb28a19644f" title="Enable all the actions in the map." alt="" coords="274,5,446,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,44,258,37,259,43,204,50"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_default_input_actions_1_1_u_i_actions.html#a02a92e95c62605d042d29867d6f0ee1b" title=" " alt="" coords="251,72,469,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,70,236,74,235,80,203,76"/>
-</map>

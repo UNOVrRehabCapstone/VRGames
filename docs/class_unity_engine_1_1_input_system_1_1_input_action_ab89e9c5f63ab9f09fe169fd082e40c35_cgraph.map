@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputAction.Clone" name="UnityEngine.InputSystem.InputAction.Clone">
-<area shape="rect" id="Node000001" title="Return an identical instance of the action." alt="" coords="5,5,178,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action.html#ae837b4878d72f5557c81534ce5a50497" title="Construct an unnamed, free&#45;standing action that is not part of any map or asset and has no bindings...." alt="" coords="226,5,398,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,24,210,24,210,29,178,29"/>
-</map>

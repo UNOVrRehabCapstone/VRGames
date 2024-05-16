@@ -1,9 +1,0 @@
-<map id="Oculus.Platform.Models.Pid.Pid" name="Oculus.Platform.Models.Pid.Pid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,212,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a1c4fdfa1c54130b7d3dad7f8c556f45d" title=" " alt="" coords="260,13,428,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,32,244,32,244,37,212,37"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="476,13,662,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,32,460,32,460,37,428,37"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="710,5,911,64"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="663,32,695,32,695,37,663,37"/>
-</map>

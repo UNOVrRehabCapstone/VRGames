@@ -1,6 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputStateHistory.RecordStateChange" name="UnityEngine.InputSystem.LowLevel.InputStateHistory.RecordStateChange">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,228,88"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="68,29,69,19,78,10,94,5,117,3,143,5,158,13,156,17,141,11,116,8,95,10,81,15,74,21,74,29"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#a64884e59d37b5bb7dfaf9bf1a290b98e" title="Return the given InputEventPtr as a StateEvent pointer." alt="" coords="276,37,450,80"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,56,260,56,260,61,228,61"/>
-</map>

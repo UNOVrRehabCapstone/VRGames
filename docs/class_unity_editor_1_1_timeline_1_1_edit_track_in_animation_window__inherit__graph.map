@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.EditTrackInAnimationWindow" name="UnityEditor.Timeline.EditTrackInAnimationWindow">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,173,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_track_action.html" title="Base class for a track action. Inherit from this class to make an action that would react on selected..." alt="" coords="44,80,134,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,122,92,154,86,154,86,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="58,5,120,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,48,92,80,86,80,86,48"/>
-</map>

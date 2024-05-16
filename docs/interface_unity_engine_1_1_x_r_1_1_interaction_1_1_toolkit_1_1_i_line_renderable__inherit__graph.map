@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ILineRenderable" name="UnityEngine.XR.Interaction.Toolkit.ILineRenderable">
-<area shape="rect" id="Node000001" title="Get line points and hit point info for rendering." alt="" coords="5,5,185,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html" title="Interactor used for interacting with interactables at a distance. This is handled via ray casts that ..." alt="" coords="5,96,185,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,64,98,96,92,96,92,64"/>
-</map>

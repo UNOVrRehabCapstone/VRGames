@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Input.HandSkeletonOVR.CreateSkeletonData" name="Oculus.Interaction.Input.HandSkeletonOVR.CreateSkeletonData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="329,39,579,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_from_o_v_r_controller_hand_data_source.html#af65069a71ebcd2dae6a99310283c97cd" title=" " alt="" coords="5,5,281,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,48,281,44,281,39,313,42"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_pose.html#afb7aebf02241dce3eac4f74563f591d1" title=" " alt="" coords="41,72,245,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,78,246,85,245,80,313,72"/>
-</map>

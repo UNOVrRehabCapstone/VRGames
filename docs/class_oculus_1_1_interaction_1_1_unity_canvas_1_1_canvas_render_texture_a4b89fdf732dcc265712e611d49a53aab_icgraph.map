@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.PixelsToUnits" name="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.PixelsToUnits">
-<area shape="rect" id="Node000001" title=" " alt="" coords="279,72,512,131"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_rect.html#ae2d1fe3c7e9cbef379cf9d0821e04e36" title=" " alt="" coords="5,5,231,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,70,199,51,201,46,270,65"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_cylinder.html#afe552421fa0d2e745506a18730cac08e" title=" " alt="" coords="17,72,219,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,104,219,104,219,99,263,99"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_rect.html#aed3ed3ece12b4de0b8c0bf76b45adae5" title=" " alt="" coords="6,155,230,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,138,220,157,218,151,279,133"/>
-</map>

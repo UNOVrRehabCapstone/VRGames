@@ -1,9 +1,0 @@
-<map id="OVRSkeleton.GetCurrentStartBoneId" name="OVRSkeleton.GetCurrentStartBoneId">
-<area shape="rect" id="Node000001" title=" " alt="" coords="248,72,443,115"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_skeleton.html#a7fba4fa3922c11ff5eac681bd160f9ae" title=" " alt="" coords="5,5,200,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,70,182,51,184,46,251,65"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_skeleton.html#a246f60dcf30f1daf76db0cf498d50702" title=" " alt="" coords="5,72,200,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,96,200,96,200,91,232,91"/>
-<area shape="rect" id="Node000004" href="$class_o_v_r_custom_skeleton_editor.html#affefc1089feeb610ada9ac31343358e2" title=" " alt="" coords="11,139,194,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,122,184,141,182,135,250,117"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.CAPI.ovr_GroupPresenceLeaveIntent_GetMatchSessionId" name="Oculus.Platform.CAPI.ovr_GroupPresenceLeaveIntent_GetMatchSessionId">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="237,13,423,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,32,221,32,221,37,189,37"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="471,5,671,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,32,456,32,456,37,423,37"/>
-</map>

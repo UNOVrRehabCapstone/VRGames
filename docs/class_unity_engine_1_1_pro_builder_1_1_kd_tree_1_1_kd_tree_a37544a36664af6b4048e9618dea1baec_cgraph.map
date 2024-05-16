@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.KdTree.KdTree.FindValueAt" name="UnityEngine.ProBuilder.KdTree.KdTree.FindValueAt">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,181,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_kd_tree.html#a4bf9ff317ffe7ded71e7cdb957434ca4" title=" " alt="" coords="229,39,413,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,57,213,57,213,63,181,63"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_i_type_math.html#a7597fb4d3755c94038f2c65657a9c108" title=" " alt="" coords="461,5,636,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,44,445,39,446,44,413,49"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_pro_builder_1_1_kd_tree_1_1_i_type_math.html#ab867a8ad718463b3f0336ba8a66ca833" title=" " alt="" coords="461,72,636,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,71,446,76,445,81,413,76"/>
-</map>

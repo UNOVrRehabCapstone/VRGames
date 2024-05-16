@@ -1,5 +1,0 @@
-var struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_precompiled_layout =
-[
-    [ "factoryMethod", "struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_precompiled_layout.html#a0582bb88ff8fcda76b9721dace8193c9", null ],
-    [ "metadata", "struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_control_layout_1_1_collection_1_1_precompiled_layout.html#a425a7bd73e92691085e7f765ea5603f9", null ]
-];

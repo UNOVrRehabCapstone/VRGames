@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.Input.InputDataProviderUpdateTriggerOVR.InjectAllInputDataProviderUpdateTriggerOVR" name="Oculus.Interaction.Input.InputDataProviderUpdateTriggerOVR.InjectAllInputDataProviderUpdateTriggerOVR">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,247,155"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_input_data_provider_update_trigger_o_v_r.html#a5b1adacb4f370b8bde45386840dfe00f" title=" " alt="" coords="295,5,497,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,78,283,66,284,72,248,83"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_input_data_provider_update_trigger_o_v_r.html#af023ab6b6ad5548da410e796833b34a9" title=" " alt="" coords="295,88,497,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,115,279,115,279,120,247,120"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_input_data_provider_update_trigger_o_v_r.html#af9723ac1a24bbc071e5e5adcf5df3a34" title=" " alt="" coords="295,171,497,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,152,284,163,283,168,246,157"/>
-</map>

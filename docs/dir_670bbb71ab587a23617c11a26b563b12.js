@@ -1,5 +1,0 @@
-var dir_670bbb71ab587a23617c11a26b563b12 =
-[
-    [ "EditorScriptableSettings.cs", "com_8unity_8xr_8interaction_8toolkit_0d2_80_82_2_editor_2_utilities_2_scriptable_settings_2_editor_scriptable_settings_8cs.html", "com_8unity_8xr_8interaction_8toolkit_0d2_80_82_2_editor_2_utilities_2_scriptable_settings_2_editor_scriptable_settings_8cs" ],
-    [ "ScriptableSettingsInitializer.cs", "com_8unity_8xr_8interaction_8toolkit_0d2_80_82_2_editor_2_utilities_2_scriptable_settings_2_scriptable_settings_initializer_8cs.html", null ]
-];

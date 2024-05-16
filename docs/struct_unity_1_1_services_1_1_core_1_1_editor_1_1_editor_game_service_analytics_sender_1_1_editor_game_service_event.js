@@ -1,6 +1,0 @@
-var struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event =
-[
-    [ "action", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event.html#a527f3e0be393843daf4735fa1b107e3e", null ],
-    [ "component", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event.html#a3c367bc8a0202d0ca5825c5928cfda64", null ],
-    [ "package", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event.html#a8b2ecfca931b63fcb49cca455cbc089c", null ]
-];

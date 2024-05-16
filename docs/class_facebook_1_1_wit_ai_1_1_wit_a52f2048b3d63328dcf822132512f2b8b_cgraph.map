@@ -1,9 +1,0 @@
-<map id="Facebook.WitAi.Wit.ActivateImmediately" name="Facebook.WitAi.Wit.ActivateImmediately">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,194,81"/>
-<area shape="rect" id="Node000002" href="$interface_facebook_1_1_wit_ai_1_1_interfaces_1_1_i_transcription_provider.html#a7b43a47ab08d2a50350bade7d5237ca4" title="Called when wit is activated." alt="" coords="242,5,436,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,44,226,40,227,45,194,50"/>
-<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_wit_request.html#a2133b76db5b48623dc64c73d8fdfce93" title="Start the async request for data from the Wit.ai servers." alt="" coords="244,72,434,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,70,229,75,228,81,194,76"/>
-<area shape="rect" id="Node000004" href="$class_facebook_1_1_wit_ai_1_1_configuration_1_1_wit_endpoint_config.html#a30e51f17c1792d2558a195d9da789724" title=" " alt="" coords="484,72,724,115"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,91,469,91,469,96,435,96"/>
-</map>

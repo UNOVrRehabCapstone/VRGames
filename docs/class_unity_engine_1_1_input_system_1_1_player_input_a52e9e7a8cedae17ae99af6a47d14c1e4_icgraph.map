@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.PlayerInput.SwitchCurrentActionMap" name="UnityEngine.InputSystem.PlayerInput.SwitchCurrentActionMap">
-<area shape="rect" id="Node000001" title=" " alt="" coords="743,5,977,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input.html#a91e17a7db0ee5c75dc60fb1f29cdde48" title="Enable input on the player." alt="" coords="523,5,695,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,29,696,29,696,24,728,24"/>
-<area shape="rect" id="Node000003" href="$class_u_ivs_game_input_handler.html#a16c6b627b1379bc3deb489eb8e354bf0" title=" " alt="" coords="251,5,475,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,29,475,29,475,24,507,24"/>
-<area shape="rect" id="Node000004" href="$class_u_ivs_game_input_handler.html#ad492a6a594e835ec9d9a1b76c4de0ca7" title=" " alt="" coords="5,13,203,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="235,29,203,29,203,24,235,24"/>
-</map>

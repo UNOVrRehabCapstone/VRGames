@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputTestFixture.Set&lt; TValue &gt;" name="UnityEngine.InputSystem.InputTestFixture.Set&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title="Set the control to the given value by sending a state event with the value to the control&#39;s device." alt="" coords="5,31,178,89"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_delta_state_event.html#af34eb385a7e61a643ed35d71c7f7c317" title=" " alt="" coords="226,5,430,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,45,210,41,211,46,178,51"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_state_event.html#a64884e59d37b5bb7dfaf9bf1a290b98e" title="Return the given InputEventPtr as a StateEvent pointer." alt="" coords="241,72,415,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,69,226,76,225,82,177,75"/>
-</map>

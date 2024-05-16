@@ -1,7 +1,0 @@
-<map id="Facebook.WitAi.Interfaces.ITranscriptionProvider.Activate" name="Facebook.WitAi.Interfaces.ITranscriptionProvider.Activate">
-<area shape="rect" id="Node000001" title="Called when wit is activated." alt="" coords="242,27,436,69"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_wit.html#aed1581071ca783c5857ee04cbb42554c" title="Activate the microphone and send data to Wit for NLU processing." alt="" coords="5,5,194,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,37,194,33,195,28,227,32"/>
-<area shape="rect" id="Node000003" href="$class_facebook_1_1_wit_ai_1_1_wit.html#a52f2048b3d63328dcf822132512f2b8b" title=" " alt="" coords="5,56,194,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,64,195,68,194,63,226,59"/>
-</map>

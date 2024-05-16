@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.LayoutGroup.SetDirty" name="UnityEngine.UI.LayoutGroup.SetDirty">
-<area shape="rect" id="Node000001" title="Mark the LayoutGroup as dirty." alt="" coords="5,72,195,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="255,5,439,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,69,250,50,251,55,182,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a7110fea683a9fa7d04434d88876ebdfb" title="Are graphics layouts currently being calculated.." alt="" coords="250,72,444,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,91,234,91,234,96,195,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="243,139,451,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,113,251,131,250,137,181,118"/>
-</map>

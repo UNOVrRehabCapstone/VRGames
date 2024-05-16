@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.XRGeneralSettingsForBuildTarget" name="UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget.XRGeneralSettingsForBuildTarget">
-<area shape="rect" id="Node000001" title="Given a build target, get the general settings container assigned to it." alt="" coords="289,5,508,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_metadata_1_1_x_r_package_metadata_store.html#aaf43d016bdb1146efba4dc60c3b0faea" title="Given a loader type and a build target group will return whether or not that loader is currently assi..." alt="" coords="5,5,241,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,37,241,37,241,32,273,32"/>
-</map>

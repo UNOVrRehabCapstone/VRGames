@@ -1,5 +1,0 @@
-<map id="UnityEngine.UI.PositionAsUV1" name="UnityEngine.UI.PositionAsUV1">
-<area shape="rect" id="Node000001" title="An IVertexModifier which sets the raw vertex position into UV1 of the generated verts." alt="" coords="5,80,205,107"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="47,5,163,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,48,108,80,102,80,102,48"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.Csg.Node.Build" name="UnityEngine.ProBuilder.Csg.Node.Build">
-<area shape="rect" id="Node000001" title=" " alt="" coords="240,72,426,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a4b767ad2f42a9eccb0b912bef33c6249" title=" " alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,70,176,51,177,46,242,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a9b6379fccd8028006bbda7e5cbf52a12" title=" " alt="" coords="5,72,192,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,96,192,96,192,91,224,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_node.html#a957ca9ac8ec66abbe01d7aea1402e112" title=" " alt="" coords="5,139,192,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,122,177,141,176,135,240,117"/>
-</map>

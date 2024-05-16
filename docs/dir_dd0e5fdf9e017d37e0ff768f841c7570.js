@@ -1,4 +1,0 @@
-var dir_dd0e5fdf9e017d37e0ff768f841c7570 =
-[
-    [ "EditorGameServiceAnalyticsSender.cs", "com_8unity_8collab-proxy_0d1_815_818_2_editor_2_collaborate_2_editor_game_service_2_analytics_2_ee18325e67ff206e7aac01e91ba03a51.html", "com_8unity_8collab-proxy_0d1_815_818_2_editor_2_collaborate_2_editor_game_service_2_analytics_2_ee18325e67ff206e7aac01e91ba03a51" ]
-];

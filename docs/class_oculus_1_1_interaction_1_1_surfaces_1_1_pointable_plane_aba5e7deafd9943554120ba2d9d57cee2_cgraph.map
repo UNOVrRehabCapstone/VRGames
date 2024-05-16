@@ -1,8 +1,0 @@
-<map id="Oculus.Interaction.Surfaces.PointablePlane.ClosestSurfacePoint" name="Oculus.Interaction.Surfaces.PointablePlane.ClosestSurfacePoint">
-<area shape="rect" id="Node000001" title="Find nearest point to surface." alt="" coords="5,5,236,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#a124137e389d495b25868fe6d0039fc68" title=" " alt="" coords="563,5,748,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,21,284,20,515,20,547,21,547,26,515,25,284,25,236,26"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_surfaces_1_1_pointable_plane.html#ad3f6280668fc92a0ab5a00303da55af1" title="Check if a point is on the normal&#45;side of the collider (is raycast hit possible from this origin poin..." alt="" coords="284,35,515,77"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,36,269,40,268,45,236,41"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="515,40,547,36,548,42,516,45"/>
-</map>

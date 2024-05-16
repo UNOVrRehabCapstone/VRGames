@@ -1,8 +1,0 @@
-<map id="UnityEditor.Timeline.LockTrack.SetLockState" name="UnityEditor.Timeline.LockTrack.SetLockState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="258,39,427,81"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="380,26,366,20,342,17,320,19,307,24,301,30,303,38,298,39,296,29,304,20,319,14,342,12,367,14,382,21"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html#adb976aff153d7646b6642edcc83fc40f" title=" " alt="" coords="5,5,210,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,48,210,44,210,39,243,43"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_lock_track.html#aca0f50811973b4c4abb1dc81bab99d09" title=" " alt="" coords="23,72,192,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,77,193,84,192,79,242,72"/>
-</map>

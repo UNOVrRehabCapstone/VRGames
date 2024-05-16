@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.ControllerOffset.InjectAllControllerOffset" name="Oculus.Interaction.ControllerOffset.InjectAllControllerOffset">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,200,115"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_controller_offset.html#a76d6a8a48d76cd92e0870dba5a9b3f18" title=" " alt="" coords="248,5,433,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,69,246,50,248,55,182,74"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_controller_offset.html#a0501290414741f0127d4ad59de4c26b7" title=" " alt="" coords="248,72,433,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,91,232,91,232,96,200,96"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_controller_offset.html#ad8407fa3dc504a6e056f39eba8f6317c" title=" " alt="" coords="248,139,433,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,113,248,131,246,137,180,118"/>
-</map>

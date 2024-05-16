@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.AspectRatioFitter.SetDirty" name="UnityEngine.UI.AspectRatioFitter.SetDirty">
-<area shape="rect" id="Node000001" title="Mark the AspectRatioFitter as dirty." alt="" coords="272,72,454,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_aspect_ratio_fitter.html#a1716232f2adde94e9c4982c75e64742e" title=" " alt="" coords="23,5,206,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,70,196,51,197,46,267,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_aspect_ratio_fitter.html#a9a5f61f4c934b70c2583aa2e466059c3" title=" " alt="" coords="5,72,224,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,96,224,96,224,91,256,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_aspect_ratio_fitter.html#aadb59eb216791db1e0b41d5f5a03e43b" title="Update the rect based on the delayed dirty. Got around issue of calling onValidate from OnEnable func..." alt="" coords="23,139,206,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,122,197,141,196,135,265,117"/>
-</map>

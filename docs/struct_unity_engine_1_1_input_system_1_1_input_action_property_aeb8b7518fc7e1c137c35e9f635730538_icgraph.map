@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionProperty.Equals" name="UnityEngine.InputSystem.InputActionProperty.Equals">
-<area shape="rect" id="Node000001" title="Compare two action properties to see whether they refer to the same action." alt="" coords="256,39,435,81"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_input_action_property.html#a415dc4535b072ba5e5f9925cd8afff41" title="Compare the two properties for not being equivalent." alt="" coords="8,5,205,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,48,205,43,206,38,241,43"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_input_action_property.html#a3add41e0cbb3fc8736dfd3a594a3005f" title="Compare the two properties for equivalence." alt="" coords="5,72,208,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,77,209,82,208,77,240,72"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEditor.XR.Interaction.Toolkit.XRControllerRecorderEditor.OnInspectorGUI" name="UnityEditor.XR.Interaction.Toolkit.XRControllerRecorderEditor.OnInspectorGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,230,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recorder_editor.html#abdba35e45930fb56eac25dbc0924b189" title="Draw the playback controls while the application is playing." alt="" coords="278,5,502,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,56,262,51,262,57,230,62"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller_recorder_editor.html#aaa75144720382e53654591f0a0973861" title="Draw the time progress bar while the application is playing." alt="" coords="278,88,502,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,90,262,95,262,101,230,96"/>
-</map>

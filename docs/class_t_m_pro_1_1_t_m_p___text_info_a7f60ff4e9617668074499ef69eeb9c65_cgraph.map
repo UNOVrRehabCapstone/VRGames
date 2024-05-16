@@ -1,5 +1,0 @@
-<map id="TMPro.TMP_TextInfo.ClearUnusedVertices" name="TMPro.TMP_TextInfo.ClearUnusedVertices">
-<area shape="rect" id="Node000001" title="Function used to mark unused vertices as degenerate." alt="" coords="5,5,182,48"/>
-<area shape="rect" id="Node000002" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#a7abd732cdaf4d54113166700701defd4" title="Function to clear the vertices while preserving the Triangles, Normals and Tangents." alt="" coords="230,5,413,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,24,214,24,214,29,182,29"/>
-</map>

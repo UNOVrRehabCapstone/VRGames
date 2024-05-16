@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystemDescriptor.Cinfo" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystemDescriptor.Cinfo">
-<area shape="rect" id="Node000001" title="Used in conjunction with RegisterDescriptor(Cinfo) to register a provider. This should only be used b..." alt="" coords="5,80,324,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,232,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,48,167,80,162,80,162,48"/>
-</map>

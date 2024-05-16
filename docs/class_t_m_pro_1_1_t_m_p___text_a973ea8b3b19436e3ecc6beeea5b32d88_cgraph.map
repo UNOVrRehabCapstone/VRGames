@@ -1,5 +1,0 @@
-<map id="TMPro.TMP_Text.SetText" name="TMPro.TMP_Text.SetText">
-<area shape="rect" id="Node000001" title="Set the text using a StringBuilder object as the source." alt="" coords="5,5,177,32"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#ae8e4d858e160b5a8ac8a2c2dc658561a" title="This function is the same as using the text property to set the text." alt="" coords="225,5,396,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,16,209,16,209,21,177,21"/>
-</map>

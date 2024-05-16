@@ -1,0 +1,5 @@
+<map id="PlanesGame.PlaneGameplayManager.KillPlane" name="PlanesGame.PlaneGameplayManager.KillPlane">
+<area shape="rect" id="Node000001" title="Removes a plane from the game, destroying its GameObject and removing it from the active list." alt="" coords="246,5,438,48"/>
+<area shape="rect" id="Node000002" href="$class_planes_game_1_1_plane_gameplay_manager.html#aca5762233aec836410bcf0ea4e1982e9" title="Respawns a plane by first removing the old one and then spawning a new one." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

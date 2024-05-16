@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.FallbackComposite&lt; TValue &gt;" name="UnityEngine.XR.Interaction.Toolkit.Inputs.Composites.FallbackComposite&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title="Base class for a composite that returns a single value computed from an ordered list of bindings." alt="" coords="34,188,259,247"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title="A binding that synthesizes a value from from several component bindings." alt="" coords="69,96,224,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,154,149,188,144,188,144,154"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,160,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,43,135,94,131,97,97,46"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="184,5,237,32"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="196,46,162,97,158,94,192,43"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="PlanesGame.PlaneGameplayManager.OnPlaneGrabbed" name="PlanesGame.PlaneGameplayManager.OnPlaneGrabbed">
+<area shape="rect" id="Node000001" title="Handles the event when a plane is grabbed, updating the scoreboard message." alt="" coords="5,5,198,48"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#a9dbd8b470e8cd2452297b403b9df8a0e" title="Updates the message displayed on the scoreboard." alt="" coords="246,5,463,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
+</map>

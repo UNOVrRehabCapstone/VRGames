@@ -1,4 +1,0 @@
-var _transform_feature_debug_visual_8cs =
-[
-    [ "Oculus.Interaction.PoseDetection.Debug.TransformFeatureDebugVisual", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_transform_feature_debug_visual.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_debug_1_1_transform_feature_debug_visual" ]
-];

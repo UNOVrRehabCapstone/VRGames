@@ -1,9 +1,0 @@
-<map id="UnityEditor.UI.TextEditor.OnInspectorGUI" name="UnityEditor.UI.TextEditor.OnInspectorGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,174,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a2e366355d0b3e50f48e78a0ac3e3739f" title="GUI related to the appearance of the Graphic. Color and Material properties appear here." alt="" coords="222,5,410,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,69,225,50,227,56,165,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#ab515cbefb5f3a5fdc30db0655f3e872b" title=" " alt="" coords="222,72,410,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,91,206,91,206,96,174,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_u_i_1_1_graphic_editor.html#a927a8bb929a1f5b891300de317be6596" title="GUI related to the Raycasting settings for the graphic." alt="" coords="222,139,410,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,113,227,131,225,136,163,118"/>
-</map>

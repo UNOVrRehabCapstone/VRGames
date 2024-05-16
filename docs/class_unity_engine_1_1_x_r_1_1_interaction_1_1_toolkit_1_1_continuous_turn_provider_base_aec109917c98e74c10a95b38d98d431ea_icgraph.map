@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ContinuousTurnProviderBase.GetTurnAmount" name="UnityEngine.XR.Interaction.Toolkit.ContinuousTurnProviderBase.GetTurnAmount">
-<area shape="rect" id="Node000001" title="Determines the turn amount in degrees for the given input &#160;vector." alt="" coords="287,5,520,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_continuous_turn_provider_base.html#a422ec7fd6baad1eeec5f643e23dec589" title="See MonoBehaviour." alt="" coords="5,5,239,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,37,239,37,239,32,271,32"/>
-</map>

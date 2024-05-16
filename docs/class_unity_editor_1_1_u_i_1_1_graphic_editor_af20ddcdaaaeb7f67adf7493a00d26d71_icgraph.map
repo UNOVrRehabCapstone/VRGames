@@ -1,7 +1,0 @@
-<map id="UnityEditor.UI.GraphicEditor.NativeSizeButtonGUI" name="UnityEditor.UI.GraphicEditor.NativeSizeButtonGUI">
-<area shape="rect" id="Node000001" title="GUI for showing a button that sets the size of the RectTransform to the native size for this Graphic." alt="" coords="257,39,445,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_image_editor.html#a0f28b93c9e6b9577218392d451bfc1bd" title=" " alt="" coords="18,5,196,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,48,196,42,197,36,242,42"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_u_i_1_1_raw_image_editor.html#ab18fa3ff783bed64edc1b8aea9844e1e" title=" " alt="" coords="5,72,209,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,78,210,82,209,77,241,72"/>
-</map>

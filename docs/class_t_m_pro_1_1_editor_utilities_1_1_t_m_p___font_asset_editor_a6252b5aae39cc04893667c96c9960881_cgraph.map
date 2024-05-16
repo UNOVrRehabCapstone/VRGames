@@ -1,9 +1,0 @@
-<map id="TMPro.EditorUtilities.TMP_FontAssetEditor.OnInspectorGUI" name="TMPro.EditorUtilities.TMP_FontAssetEditor.OnInspectorGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,224,123"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___font_asset.html#ade90a42615b002bb0c31b06d497df510" title=" " alt="" coords="295,5,487,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,77,294,50,295,55,197,82"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_pro___font_asset_creator_window.html#add90ea25a2962e0e7bd63e59da7e7cef" title=" " alt="" coords="272,72,510,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,99,256,99,256,104,224,104"/>
-<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___font_feature_table.html#ad3d82aeab7236adaa6863d1f4d3f4bfb" title="Sort the glyph pair adjustment records by glyph index." alt="" coords="283,155,499,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,121,295,148,294,153,196,126"/>
-</map>

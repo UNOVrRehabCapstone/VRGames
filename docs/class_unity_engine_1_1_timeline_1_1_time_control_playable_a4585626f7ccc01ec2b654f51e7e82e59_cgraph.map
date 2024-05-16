@@ -1,5 +1,0 @@
-<map id="UnityEngine.Timeline.TimeControlPlayable.PrepareFrame" name="UnityEngine.Timeline.TimeControlPlayable.PrepareFrame">
-<area shape="rect" id="Node000001" title="This function is called during the PrepareFrame phase of the PlayableGraph." alt="" coords="5,5,204,48"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_timeline_1_1_i_time_control.html#ab4c0716cf185f3833bfdf3c332f9c913" title="Called each frame the Timeline clip is active." alt="" coords="252,5,430,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
-</map>

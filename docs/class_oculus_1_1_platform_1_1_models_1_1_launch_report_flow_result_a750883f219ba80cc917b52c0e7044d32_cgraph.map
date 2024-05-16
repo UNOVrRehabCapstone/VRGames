@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.Models.LaunchReportFlowResult.LaunchReportFlowResult" name="Oculus.Platform.Models.LaunchReportFlowResult.LaunchReportFlowResult">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,240,105"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a4b694996f1fd4f800a71e313b13e76d6" title=" " alt="" coords="288,5,460,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,54,271,49,272,54,241,59"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#acfc9277e9c47cdc09abd310a2c2c0250" title=" " alt="" coords="288,88,460,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,93,272,98,271,103,240,98"/>
-</map>

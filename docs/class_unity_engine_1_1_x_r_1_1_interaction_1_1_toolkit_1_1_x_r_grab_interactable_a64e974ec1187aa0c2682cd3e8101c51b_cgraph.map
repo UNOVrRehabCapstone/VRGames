@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Drop" name="UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable.Drop">
-<area shape="rect" id="Node000001" title="Updates the state of the object due to being dropped and schedule to finish the detach during the end..." alt="" coords="5,13,211,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_grab_interactable.html#ad726527ee66dc3e78249ae1977a13235" title="Setup the Rigidbody on this object due to being dropped. Automatically called when exiting the Select..." alt="" coords="259,5,471,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
-</map>

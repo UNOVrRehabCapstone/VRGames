@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Input.FromDataAssetOVRSkeletonRendererDataProvider" name="Oculus.Interaction.Input.FromDataAssetOVRSkeletonRendererDataProvider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="56,96,299,155"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_base_o_v_r_data_provider.html" title=" " alt="" coords="5,13,158,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,49,151,94,147,98,103,53"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="182,5,365,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,61,208,98,204,94,241,57"/>
-</map>

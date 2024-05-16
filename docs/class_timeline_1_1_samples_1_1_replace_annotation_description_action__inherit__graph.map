@@ -1,7 +1,0 @@
-<map id="Timeline.Samples.ReplaceAnnotationDescriptionAction" name="Timeline.Samples.ReplaceAnnotationDescriptionAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,191,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_marker_action.html" title="Base class for a marker action. Inherit from this class to make an action that would react on selecte..." alt="" coords="49,80,147,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,122,101,154,95,154,95,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="67,5,129,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,48,101,80,95,80,95,48"/>
-</map>

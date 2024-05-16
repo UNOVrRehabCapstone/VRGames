@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.PlayerInputManager.JoinPlayerFromActionIfNotAlreadyJoined" name="UnityEngine.InputSystem.PlayerInputManager.JoinPlayerFromActionIfNotAlreadyJoined">
-<area shape="rect" id="Node000001" title=" " alt="" coords="274,5,474,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#a92f309d6357ac416b1bc16d4dc96ad9b" title="Allow players to join the game based on joinBehavior." alt="" coords="5,13,226,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,37,226,37,226,32,258,32"/>
-</map>

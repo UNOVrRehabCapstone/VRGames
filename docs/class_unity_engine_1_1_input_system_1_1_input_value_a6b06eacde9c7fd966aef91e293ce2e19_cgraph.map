@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputValue.Get" name="UnityEngine.InputSystem.InputValue.Get">
-<area shape="rect" id="Node000001" title="Read the value as an object." alt="" coords="5,5,178,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action.html#a46b48d7c58238d51f0ff1c708aa360da" title="Same as ReadValue&lt;TValue&gt; but read the value without having to know the value type of the action." alt="" coords="226,5,433,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,24,210,24,210,29,178,29"/>
-</map>

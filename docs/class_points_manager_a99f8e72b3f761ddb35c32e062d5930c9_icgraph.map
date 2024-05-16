@@ -1,5 +1,5 @@
 <map id="PointsManager.resetBothHandPoints" name="PointsManager.resetBothHandPoints">
-<area shape="rect" id="Node000001" title=" " alt="" coords="273,5,471,48"/>
+<area shape="rect" id="Node000001" title="Resets points for both left and right hands to zero." alt="" coords="273,5,471,48"/>
 <area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a1d125639d2c9fb81c94286aa3c3039af" title=" " alt="" coords="5,5,225,48"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,29,225,29,225,24,257,24"/>
 </map>

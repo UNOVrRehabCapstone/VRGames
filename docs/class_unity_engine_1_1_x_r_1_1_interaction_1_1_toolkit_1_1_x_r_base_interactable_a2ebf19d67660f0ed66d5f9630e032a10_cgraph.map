@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnSelectExiting" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnSelectExiting">
-<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor ends selection of an Interacta..." alt="" coords="5,5,240,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html#a93b7d8a72a3dee69f0a188def6f1c0ed" title="(Deprecated) The XRInteractionManager calls this method while this Interactable is selected by an Int..." alt="" coords="288,5,522,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,32,272,32,272,37,240,37"/>
-</map>

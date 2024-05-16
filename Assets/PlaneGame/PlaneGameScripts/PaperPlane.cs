@@ -174,12 +174,17 @@ namespace PlanesGame{
     private void CheckThrowCondition()
     {
         // Current positions of the hand and head
-        Vector3 currentHandPosition = rightHandAnchor.position;
+        Vector3 currentHandPosition;
+        // If you have the same hand anchor on both sides, it's fun to play with, ngl
+        if (handTransform.parent.CompareTag("RightGrabber")) { currentHandPosition = rightHandAnchor.position; }
+        else { currentHandPosition = leftHandAnchor.position;}
+   
+        
         Vector3 currentHeadPosition = centerEyeAnchor.position;
 
         // Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
 
-        Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
+        //Debug.Log(Vector3.Distance(currentHandPosition, currentHeadPosition));
 
         // Check if the hand has moved away from its last position by more than the threshold
         if (isReadyToThrow && Vector3.Distance(currentHandPosition, currentHeadPosition) > (throwThreshold / 100))
@@ -190,11 +195,15 @@ namespace PlanesGame{
         }
         else if (!isReadyToThrow) {
             lastHandPosition = currentHandPosition;
-            Vector3 localEulerAngles = rightHandAnchor.rotation.eulerAngles;            
+
+            Vector3 localEulerAngles;
+
+            if (handTransform.parent.CompareTag("RightGrabber")) { localEulerAngles = rightHandAnchor.rotation.eulerAngles; }
+            else { localEulerAngles = leftHandAnchor.rotation.eulerAngles; }   
 
             // Normalize to make angle values the same number shown in inspector
             localEulerAngles = NormalizeAngles(localEulerAngles);
-            Debug.Log(localEulerAngles.x);
+            Debug.Log(localEulerAngles);
 
             if (localEulerAngles.x <= -80  &&
             localEulerAngles.y >= -90 && localEulerAngles.y <= 90 &&
@@ -235,6 +244,9 @@ namespace PlanesGame{
      */
     void FlyTowardsTarget()
     {
+        // Disable gravity on throw
+        rb.useGravity = true;
+
         // Automatic aiming
         if (currentTarget && useAutoAim) {
             Quaternion modelForwardCorrection = Quaternion.Euler(-90, -200, 203);

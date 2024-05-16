@@ -1,5 +1,0 @@
-<map id="Unity.Services.Authentication.Internal.IAccessToken" name="Unity.Services.Authentication.Internal.IAccessToken">
-<area shape="rect" id="Node000001" title="Contract for objects providing an access token to access remote services." alt="" coords="5,80,201,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="37,5,169,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,48,106,80,100,80,100,48"/>
-</map>

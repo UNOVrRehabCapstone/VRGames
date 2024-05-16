@@ -1,7 +1,0 @@
-<map id="UnityEngine.ProBuilder.AutoUnwrapSettings" name="UnityEngine.ProBuilder.AutoUnwrapSettings">
-<area shape="rect" id="Node000001" title="A collection of settings describing how to project UV coordinates for a Face." alt="" coords="5,172,192,215"/>
-<area shape="rect" id="Node000002" href="$class_anchor.html" title="Specific functionality for spawned anchors." alt="" coords="67,81,130,108"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,124,101,171,96,171,96,124"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="44,5,153,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,47,101,81,96,81,96,47"/>
-</map>

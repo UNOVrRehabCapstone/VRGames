@@ -1,7 +1,0 @@
-<map id="OVR.SoundGroup" name="OVR.SoundGroup">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,131,213"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x.html" title=" " alt="" coords="15,96,121,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,138,71,186,65,186,65,138"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_o_s_p_props.html" title=" " alt="" coords="10,5,126,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,48,71,95,65,95,65,48"/>
-</map>

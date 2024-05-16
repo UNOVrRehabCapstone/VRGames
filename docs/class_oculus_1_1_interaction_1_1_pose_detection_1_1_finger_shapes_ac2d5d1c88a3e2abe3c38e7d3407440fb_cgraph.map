@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.FingerShapes.ComputeAngleSum" name="Oculus.Interaction.PoseDetection.FingerShapes.ComputeAngleSum">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,48"/>
-<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2593ffbabd0465579263777b2f2a7bef" title="Returns an array containing the pose of each joint relative to the wrist. The poses do not have the r..." alt="" coords="273,5,477,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,24,257,24,257,29,225,29"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.GetActivateTargets" name="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.GetActivateTargets">
-<area shape="rect" id="Node000001" title="Retrieve the list of Interactables that this Interactor could possibly activate or deactivate this fr..." alt="" coords="276,5,498,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor.html#a3d83b01d6a853aa7ceed78f355a397ef" title="The XRInteractionManager calls this method to update the Interactor after interaction events occur...." alt="" coords="5,5,228,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,37,228,37,228,32,260,32"/>
-</map>

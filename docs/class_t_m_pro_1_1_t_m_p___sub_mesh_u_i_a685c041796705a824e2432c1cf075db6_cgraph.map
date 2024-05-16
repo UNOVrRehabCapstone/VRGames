@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_SubMeshUI.OnEnable" name="TMPro.TMP_SubMeshUI.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,231,73"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___sub_mesh_u_i.html#a6505e4b6f7c11eeb4ea155d7d6ef4248" title="Method called when the state of a parent changes." alt="" coords="279,5,515,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,44,263,40,263,45,232,49"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_maskable_graphic.html#a661cf20be729e50931e4b72766259931" title="See IMaskable.RecalculateMasking." alt="" coords="289,72,505,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,71,274,76,273,81,231,76"/>
-</map>

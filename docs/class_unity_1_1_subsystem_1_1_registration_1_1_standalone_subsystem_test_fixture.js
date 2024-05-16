@@ -1,8 +1,0 @@
-var class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture =
-[
-    [ "ConcreteTestSubsystem", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_concrete_test_subsystem.html", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_concrete_test_subsystem" ],
-    [ "TestSubsystem", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem.html", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem" ],
-    [ "TestSubsystemDescriptor", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem_descriptor.html", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem_descriptor" ],
-    [ "RegisterSubsystemTest", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture.html#afc8b21e8d3c2cf59e599f9b4363e63a4", null ],
-    [ "UseSubsystemTest", "class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture.html#a727115dcef7b80f4e8a6c2cccf4de1ce", null ]
-];

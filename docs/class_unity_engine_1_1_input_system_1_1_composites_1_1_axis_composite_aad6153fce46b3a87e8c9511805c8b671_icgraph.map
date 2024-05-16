@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.AxisComposite.ReadValue" name="UnityEngine.InputSystem.Composites.AxisComposite.ReadValue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="289,13,538,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_axis_composite.html#a398d33e69c44ea183cb401d863a77df5" title="Determine the current level of actuation of the composite.This method by default returns &#45;1,..." alt="" coords="5,5,241,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,37,241,37,241,32,273,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="UnityEngine.Timeline.TimelineAsset.DeleteClip" name="UnityEngine.Timeline.TimelineAsset.DeleteClip">
-<area shape="rect" id="Node000001" title="Delete a clip from this timeline." alt="" coords="249,51,444,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#a7d015435416836ad5615c5582c14cf51" title="Delete a clip from this track." alt="" coords="13,5,193,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,54,193,46,194,41,234,48"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#ae811f0b439c896f971ae476c7997d4a0" title="Deletes a track from a timeline, including all clips and subtracks." alt="" coords="5,96,201,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,96,201,102,200,97,233,90"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="143,83,128,77,103,75,80,77,66,81,60,87,62,95,57,96,55,86,63,77,79,71,103,69,129,72,145,78"/>
-</map>

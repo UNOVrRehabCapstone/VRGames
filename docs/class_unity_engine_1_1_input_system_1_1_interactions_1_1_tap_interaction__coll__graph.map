@@ -1,6 +1,0 @@
-<map id="UnityEngine.InputSystem.Interactions.TapInteraction" name="UnityEngine.InputSystem.Interactions.TapInteraction">
-<area shape="rect" id="Node000001" title="Performs the action if the control is pressed held for at least the set duration (which defaults to I..." alt="" coords="5,82,179,125"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_interaction.html" title="Interface for interaction patterns that drive actions." alt="" coords="36,8,148,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,50,95,82,89,82,89,50"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="141,3,164,7,172,12,175,21,170,31,158,37,126,38,126,32,157,32,166,28,170,21,168,16,162,12,140,8"/>
-</map>

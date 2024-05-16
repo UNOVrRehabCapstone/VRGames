@@ -1,7 +1,0 @@
-<map id="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.OppositePoint" name="UnityEngine.ProBuilder.Poly2Tri.DelaunayTriangle.OppositePoint">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,230,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a0a24b8462df5b0d849ea26201e97042b" title=" " alt="" coords="278,5,502,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,24,262,24,262,29,230,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_delaunay_triangle.html#a40e80cf8bbd8471094c4596ab0d8f0d7" title=" " alt="" coords="550,5,742,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,24,534,24,534,29,502,29"/>
-</map>

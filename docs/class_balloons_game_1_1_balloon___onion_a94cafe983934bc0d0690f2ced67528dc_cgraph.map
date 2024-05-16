@@ -1,5 +1,7 @@
 <map id="BalloonsGame.Balloon_Onion.ExtraPopEffects" name="BalloonsGame.Balloon_Onion.ExtraPopEffects">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,166,48"/>
-<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="214,5,394,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,24,198,24,198,29,166,29"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,166,81"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon_spawn_manager.html#ad6ed2249a021dbae66abf87b2c77a6ae" title=" " alt="" coords="214,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,45,198,41,199,46,167,51"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="220,72,400,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,69,205,75,204,80,166,75"/>
 </map>

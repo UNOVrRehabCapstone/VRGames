@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Input.HmdRef.GetRootPose" name="Oculus.Interaction.Input.HmdRef.GetRootPose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,168,56"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hmd.html#ac223daeb38951e3171885c669686012e" title=" " alt="" coords="216,13,378,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,32,200,32,200,37,168,37"/>
-<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_tracking_to_world_transformer.html#a6fabc13dec25262ed7a9fa05da327afc" title="Converts a tracking space pose to a pose in in Unity&#39;s world coordinate space (i.e...." alt="" coords="426,5,633,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,32,411,32,411,37,378,37"/>
-</map>

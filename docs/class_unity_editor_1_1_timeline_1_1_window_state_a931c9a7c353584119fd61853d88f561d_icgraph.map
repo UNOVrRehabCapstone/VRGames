@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.WindowState.PixelDeltaToDeltaTime" name="UnityEditor.Timeline.WindowState.PixelDeltaToDeltaTime">
-<area shape="rect" id="Node000001" title=" " alt="" coords="464,39,651,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_items_layer.html#a472e0a1fd148342eea480ebf6cbd7803" title=" " alt="" coords="243,5,416,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,47,416,42,417,37,449,42"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_ease_clip.html#abc041c1f6de46e2fbe806eedebff895b" title=" " alt="" coords="244,72,415,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,78,416,83,415,78,449,73"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_timeline_marker_header_g_u_i.html#a4022d171772644b993a12fdad1b42c8c" title=" " alt="" coords="5,5,195,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,29,195,29,195,24,227,24"/>
-</map>

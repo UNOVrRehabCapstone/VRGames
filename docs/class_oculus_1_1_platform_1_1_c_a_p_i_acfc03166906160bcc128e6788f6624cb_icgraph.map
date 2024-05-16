@@ -1,5 +1,0 @@
-<map id="Oculus.Platform.CAPI.ovr_MultiplayerErrorOptions_SetErrorKey" name="Oculus.Platform.CAPI.ovr_MultiplayerErrorOptions_SetErrorKey">
-<area shape="rect" id="Node000001" title=" " alt="" coords="235,5,403,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_multiplayer_error_options.html#af03dc83233d4a8130d6d344c3780db44" title="Key associated with the predefined error message to be shown to users." alt="" coords="5,13,187,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,37,187,37,187,32,219,32"/>
-</map>

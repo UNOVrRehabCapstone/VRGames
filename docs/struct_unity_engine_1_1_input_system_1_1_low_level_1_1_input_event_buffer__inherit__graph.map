@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputEventBuffer" name="UnityEngine.InputSystem.LowLevel.InputEventBuffer">
-<area shape="rect" id="Node000001" title="A buffer of raw memory holding a sequence of input events." alt="" coords="182,80,354,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,200,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,37,227,77,224,82,141,41"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="224,5,312,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,48,271,80,265,80,265,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="337,5,418,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="350,43,297,82,294,77,347,39"/>
-</map>

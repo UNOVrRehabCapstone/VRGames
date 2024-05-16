@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.UnityCanvas.Editor.CanvasRenderTextureEditor.OnEnable" name="Oculus.Interaction.UnityCanvas.Editor.CanvasRenderTextureEditor.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,237,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_editor_1_1_editor_base.html#ac2c7e078ccb4a12383a856dc42b7394d" title="Call in OnInit to specify a custom drawer for a single property. Whenever the property is drawn,..." alt="" coords="285,13,453,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,32,269,32,269,37,237,37"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.ControllerRayVisual.InjectAllControllerRayVisual" name="Oculus.Interaction.ControllerRayVisual.InjectAllControllerRayVisual">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,214,139"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_controller_ray_visual.html#a08b3381ff48ef604334efd5630e512cc" title=" " alt="" coords="262,5,472,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,77,248,66,250,71,214,82"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_controller_ray_visual.html#a87f1ab8369f4eb59830a3e582303228f" title=" " alt="" coords="271,88,463,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,107,255,107,255,112,214,112"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_controller_ray_visual.html#af95bc8f0868792de6405c361b81d57b1" title=" " alt="" coords="274,155,460,197"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,134,268,148,267,153,213,139"/>
-</map>

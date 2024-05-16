@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.MinimalRotationPoseAtSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.MinimalRotationPoseAtSurface">
-<area shape="rect" id="Node000001" title=" " alt="" coords="303,5,543,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aeb138297d200371d0f8a7ab9026129fa" title="Finds the Pose at the surface that is the closest to the given pose." alt="" coords="5,5,255,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,37,255,37,255,32,287,32"/>
-</map>

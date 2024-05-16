@@ -1,11 +1,25 @@
 <map id="BalloonsGame.Balloon_Stream_Powerup.OnTriggerEnter" name="BalloonsGame.Balloon_Stream_Powerup.OnTriggerEnter">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,224,115"/>
-<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a5ab8890469c1ebb8c2818be5c41e2189" title=" " alt="" coords="294,5,475,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,69,280,50,281,55,204,74"/>
-<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a0f03d1c73ed941dacdeaed9d0d7b58c6" title=" " alt="" coords="272,72,497,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,91,256,91,256,96,224,96"/>
-<area shape="rect" id="Node000005" href="$class_balloons_game_1_1_balloon.html#a26a9f99c60948605155a2e3b269760be" title=" " alt="" coords="293,139,476,181"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,113,281,132,280,137,203,118"/>
-<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="545,72,725,115"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,91,529,91,529,96,497,96"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,239,224,281"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a5ab8890469c1ebb8c2818be5c41e2189" title=" " alt="" coords="294,72,475,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,236,334,121,337,125,152,240"/>
+<area shape="rect" id="Node000005" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a0f03d1c73ed941dacdeaed9d0d7b58c6" title=" " alt="" coords="272,239,497,281"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,257,256,257,256,263,224,263"/>
+<area shape="rect" id="Node000012" href="$class_balloons_game_1_1_balloon.html#a26a9f99c60948605155a2e3b269760be" title=" " alt="" coords="293,305,476,348"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="204,279,281,298,280,304,203,285"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_points_manager.html#a2cd8639125314ffbde99af57f78def40" title=" " alt="" coords="551,5,752,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,69,547,50,549,55,473,74"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_points_manager.html#aaece7576a1412732ff389ad2d39397eb" title=" " alt="" coords="551,72,752,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,91,535,91,535,96,475,96"/>
+<area shape="rect" id="Node000006" href="$class_balloons_game_1_1_balloon_spawn_manager.html#ad6ed2249a021dbae66abf87b2c77a6ae" title=" " alt="" coords="555,139,747,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="434,236,544,191,563,184,565,189,546,196,436,241"/>
+<area shape="rect" id="Node000007" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="561,205,741,248"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="497,243,545,237,546,242,498,249"/>
+<area shape="rect" id="Node000008" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a1b6d4c0e793658233529f560995e2b66" title=" " alt="" coords="555,272,747,315"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="498,271,540,277,539,282,497,277"/>
+<area shape="rect" id="Node000010" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a57b51306cfce6518de86e25181fa96b7" title=" " alt="" coords="545,339,757,381"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="470,279,498,291,523,308,546,324,559,330,557,335,544,329,520,312,496,296,468,284"/>
+<area shape="rect" id="Node000011" href="$class_balloons_game_1_1_balloon_spawn_manager.html#a937e6de1e3f4fffc5dba8c03fe52e6ae" title=" " alt="" coords="546,405,757,448"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="482,280,499,291,510,304,518,317,524,343,530,368,536,380,547,391,551,394,547,399,543,395,532,383,525,370,519,344,513,319,506,307,495,295,479,284"/>
+<area shape="rect" id="Node000009" href="$class_balloons_game_1_1___base_balloon.html#a84386acc589ab8b523af05d4963f88f3" title=" " alt="" coords="805,272,1000,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="748,291,790,291,790,296,748,296"/>
 </map>

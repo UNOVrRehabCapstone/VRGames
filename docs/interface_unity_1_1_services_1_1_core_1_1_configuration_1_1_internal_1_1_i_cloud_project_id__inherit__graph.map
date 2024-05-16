@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Configuration.Internal.ICloudProjectId" name="Unity.Services.Core.Configuration.Internal.ICloudProjectId">
-<area shape="rect" id="Node000001" title="Component to provide cloud project ID." alt="" coords="5,80,224,123"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_configuration_1_1_cloud_project_id.html" title=" " alt="" coords="5,171,224,213"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,138,117,170,112,170,112,138"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="48,5,181,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,48,117,80,112,80,112,48"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputEventBuffer.AppendEvent" name="UnityEngine.InputSystem.LowLevel.InputEventBuffer.AppendEvent">
-<area shape="rect" id="Node000001" title="Append a new event to the end of the buffer by copying the event from eventPtr ." alt="" coords="5,5,256,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_input_event_buffer.html#af3232afa8fed610c36b33412a4e95f96" title="Make space for an event of sizeInBytes &#160;bytes and return a pointer to the memory for the event." alt="" coords="304,5,557,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,24,288,24,288,29,256,29"/>
-</map>

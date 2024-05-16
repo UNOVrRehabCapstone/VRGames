@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.HandGrabPointData" name="Oculus.Interaction.HandPosing.HandGrabPointData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,210,155"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_pose.html" title="Data for the pose of a hand for grabbing an object. It contains not only the position of the hand and..." alt="" coords="5,5,210,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,64,110,111,105,111,105,64"/>
-</map>

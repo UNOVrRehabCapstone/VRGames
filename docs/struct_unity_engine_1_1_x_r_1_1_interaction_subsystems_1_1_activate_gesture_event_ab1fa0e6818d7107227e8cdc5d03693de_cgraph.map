@@ -1,6 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.ActivateGestureEvent.GetHashCode" name="UnityEngine.XR.InteractionSubsystems.ActivateGestureEvent.GetHashCode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,232,88"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="64,29,65,19,75,10,93,5,119,3,148,5,166,13,164,17,147,11,118,8,94,10,78,15,70,21,69,29"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_gesture_id.html#a594c2372567108f86cf15f402e6277bc" title="Generates a hash code suitable for use in a Dictionary or Set." alt="" coords="280,37,519,80"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,56,264,56,264,61,232,61"/>
-</map>

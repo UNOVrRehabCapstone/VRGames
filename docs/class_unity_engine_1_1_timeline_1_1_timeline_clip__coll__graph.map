@@ -1,9 +1,0 @@
-<map id="UnityEngine.Timeline.TimelineClip" name="UnityEngine.Timeline.TimelineClip">
-<area shape="rect" id="Node000001" title="Represents a clip on the timeline." alt="" coords="119,192,336,219"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_timeline_1_1_i_curves_owner.html" title=" " alt="" coords="5,5,106,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,42,218,190,214,194,76,45"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="130,5,325,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,48,230,192,225,192,225,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="349,5,402,32"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,46,239,193,235,190,354,42"/>
-</map>

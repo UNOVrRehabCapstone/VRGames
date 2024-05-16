@@ -1,7 +1,0 @@
-<map id="OVRLipSync.Initialize" name="OVRLipSync.Initialize">
-<area shape="rect" id="Node000001" title=" " alt="" coords="237,35,384,61"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_lip_sync.html#a3a3ee7ee2ca29f198842be84e414a74d" title="Creates a lip&#45;sync context." alt="" coords="5,5,189,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,38,189,34,190,29,222,33"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_lip_sync.html#a33aa82edcae1e6f7c71c0ec7527c7996" title="Creates a lip&#45;sync context with specified model file." alt="" coords="5,56,189,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,63,190,67,189,62,221,58"/>
-</map>

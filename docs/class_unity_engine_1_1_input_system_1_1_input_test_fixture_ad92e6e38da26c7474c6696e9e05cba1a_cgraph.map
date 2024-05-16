@@ -1,6 +1,0 @@
-<map id="UnityEngine.InputSystem.InputTestFixture.EndTouch" name="UnityEngine.InputSystem.InputTestFixture.EndTouch">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,182,72"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_test_fixture.html#aff406b1a690bcc06e79ab5eb1eafbdd3" title=" " alt="" coords="230,29,403,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,48,214,48,214,53,182,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="274,29,272,19,279,10,294,5,316,3,340,5,355,11,352,16,339,10,316,8,295,10,282,15,277,21,279,28"/>
-</map>

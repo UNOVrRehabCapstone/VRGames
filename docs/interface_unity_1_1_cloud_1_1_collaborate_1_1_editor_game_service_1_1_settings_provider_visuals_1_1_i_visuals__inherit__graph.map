@@ -1,9 +1,0 @@
-<map id="Unity.Cloud.Collaborate.EditorGameService.SettingsProviderVisuals.IVisuals" name="Unity.Cloud.Collaborate.EditorGameService.SettingsProviderVisuals.IVisuals">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,236,147"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals.html" title=" " alt="" coords="284,5,514,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,80,297,62,298,67,237,86"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_disabled_visuals.html" title=" " alt="" coords="284,88,514,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,115,283,115,283,120,251,120"/>
-<area shape="rect" id="Node000004" href="$class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_enabled_visuals.html" title=" " alt="" coords="284,171,514,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,149,298,167,297,173,236,154"/>
-</map>

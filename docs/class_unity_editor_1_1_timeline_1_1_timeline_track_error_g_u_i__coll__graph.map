@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.TimelineTrackErrorGUI" name="UnityEditor.Timeline.TimelineTrackErrorGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="14,155,203,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html" title=" " alt="" coords="32,80,185,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,122,111,154,106,154,106,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,105,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,43,101,78,97,81,71,46"/>
-<area shape="rect" id="Node000004" href="$interface_unity_editor_1_1_timeline_1_1_i_bounds.html" title=" " alt="" coords="129,5,197,32"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="146,46,120,81,116,78,142,43"/>
-</map>

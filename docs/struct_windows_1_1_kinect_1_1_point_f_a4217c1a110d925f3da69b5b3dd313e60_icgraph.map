@@ -1,8 +1,0 @@
-<map id="Windows.Kinect.PointF.Equals" name="Windows.Kinect.PointF.Equals">
-<area shape="rect" id="Node000001" title=" " alt="" coords="278,31,479,57"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="424,18,408,12,378,9,351,11,336,16,332,21,339,28,335,32,327,22,332,12,350,6,378,4,410,7,426,13"/>
-<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_point_f.html#aa95a571f63578068e99e2271c1bb675b" title=" " alt="" coords="8,5,227,32"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="262,35,228,32,228,27,263,30"/>
-<area shape="rect" id="Node000003" href="$struct_windows_1_1_kinect_1_1_point_f.html#a312591b125f826b9abed8c3e5b533595" title=" " alt="" coords="5,56,230,83"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="262,58,230,61,230,56,262,53"/>
-</map>

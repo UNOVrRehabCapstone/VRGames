@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.AddCollider" name="UnityEngine.XR.Interaction.Toolkit.Utilities.TriggerContactMonitor.AddCollider">
-<area shape="rect" id="Node000001" title="Adds collider &#160;to contact list." alt="" coords="5,5,200,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a7c54f4c89ebae145009dad5b165e09ab" title="Gets the Interactable a specific Collider is attached to." alt="" coords="248,5,459,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,32,232,32,232,37,200,37"/>
-</map>

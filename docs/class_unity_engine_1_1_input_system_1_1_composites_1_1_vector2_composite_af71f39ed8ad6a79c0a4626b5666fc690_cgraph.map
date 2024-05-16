@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.Vector2Composite.EvaluateMagnitude" name="UnityEngine.InputSystem.Composites.Vector2Composite.EvaluateMagnitude">
-<area shape="rect" id="Node000001" title="Determine the current level of actuation of the composite.This method by default returns &#45;1,..." alt="" coords="5,5,211,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_vector2_composite.html#a0ffc749e9ffd1b04481fbeaa9139d4f9" title=" " alt="" coords="259,5,464,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_controls_1_1_dpad_control.html#ae4cfa185ee9cada8f980aaf11a02267b" title="Create a direction vector from the given four button states." alt="" coords="512,5,722,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,32,497,32,497,37,465,37"/>
-</map>

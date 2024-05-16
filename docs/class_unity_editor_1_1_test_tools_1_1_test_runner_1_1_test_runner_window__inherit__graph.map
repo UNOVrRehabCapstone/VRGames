@@ -1,7 +1,0 @@
-<map id="UnityEditor.TestTools.TestRunner.TestRunnerWindow" name="UnityEditor.TestTools.TestRunner.TestRunnerWindow">
-<area shape="rect" id="Node000001" title="The TestRunnerWindow class is repsonsible for drawing the Test Runner window." alt="" coords="35,80,213,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,107,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,42,109,78,105,82,74,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,256,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,46,144,82,139,78,171,42"/>
-</map>

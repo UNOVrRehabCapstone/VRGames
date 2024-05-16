@@ -1,7 +1,0 @@
-<map id="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.IsLoaderAssigned" name="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.IsLoaderAssigned">
-<area shape="rect" id="Node000001" title="Given a loader type and a build target group will return whether or not that loader is currently assi..." alt="" coords="5,5,241,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#a8ed2f7e750dcc8c833f7fbd4ee79105d" title="Given a build target, get the general settings container assigned to it." alt="" coords="289,5,508,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,32,273,32,273,37,241,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_x_r_general_settings_per_build_target.html#acb8ce223a593e4783d46072d5c7929c4" title="Get specific settings for a given build target." alt="" coords="556,5,775,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,32,540,32,540,37,508,37"/>
-</map>

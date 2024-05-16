@@ -1,0 +1,7 @@
+<map id="Classes.Target.HitTarget" name="Classes.Target.HitTarget">
+<area shape="rect" id="Node000001" title="Handles the event when the target is hit." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title="Adds points to the total score." alt="" coords="218,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+<area shape="rect" id="Node000003" href="$class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="436,5,653,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,16,420,16,420,21,388,21"/>
+</map>

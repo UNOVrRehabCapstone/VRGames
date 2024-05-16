@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.ProBuilderMesh.Clear" name="UnityEngine.ProBuilder.ProBuilderMesh.Clear">
-<area shape="rect" id="Node000001" title="Resets (empties) all the attribute arrays on this object and clears any selected elements...." alt="" coords="5,5,185,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a668d5e19ed7a3cd92a5b6346bf16caba" title="Clears the arrays of selected faces, edges, and vertices. You don&#39;t need to call this when setting an..." alt="" coords="233,5,414,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,217,24,217,29,185,29"/>
-</map>

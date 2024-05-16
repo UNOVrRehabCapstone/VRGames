@@ -1,8 +1,0 @@
-<map id="CharacterCameraConstraint" name="CharacterCameraConstraint">
-<area shape="rect" id="Node000001" title="This component is responsible for moving the character capsule to match the HMD, fading out the camer..." alt="" coords="5,172,187,199"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="36,5,145,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,98,171,93,172,89,47"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_camera_rig.html" title="A head&#45;tracked stereoscopic virtual reality camera rig." alt="" coords="113,81,226,108"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="117,41,158,79,154,83,113,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,122,109,173,104,170,147,118"/>
-</map>

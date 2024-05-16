@@ -1,4 +1,0 @@
-var _collider_contains_hand_joint_active_state_8cs =
-[
-    [ "Oculus.Interaction.PoseDetection.ColliderContainsHandJointActiveState", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_collider_contains_hand_joint_active_state.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_collider_contains_hand_joint_active_state" ]
-];

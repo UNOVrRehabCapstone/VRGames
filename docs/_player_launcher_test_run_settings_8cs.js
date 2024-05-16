@@ -1,4 +1,0 @@
-var _player_launcher_test_run_settings_8cs =
-[
-    [ "UnityEditor.TestTools.TestRunner.PlayerLauncherTestRunSettings", "class_unity_editor_1_1_test_tools_1_1_test_runner_1_1_player_launcher_test_run_settings.html", "class_unity_editor_1_1_test_tools_1_1_test_runner_1_1_player_launcher_test_run_settings" ]
-];

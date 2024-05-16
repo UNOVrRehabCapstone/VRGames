@@ -1,9 +1,0 @@
-<map id="LayoutTests.HorizontalLayoutGroupTests.TestCalculateLayoutHorizontal" name="LayoutTests.HorizontalLayoutGroupTests.TestCalculateLayoutHorizontal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,274,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_horizontal_layout_group.html#a6136b7643998d19b6615e0058fbd7b4a" title="Called by the layout system. Also see ILayoutElement." alt="" coords="322,5,542,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,32,306,32,306,37,274,37"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_horizontal_or_vertical_layout_group.html#abb73fa42e5a49092401cf3c7780a02e8" title="Calculate the layout element properties for this layout element along the given axis." alt="" coords="590,13,832,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,32,574,32,574,37,543,37"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_group.html#a6a091521efd71c3a4cfb82e42ea4a713" title="Used to set the calculated layout properties for the given axis." alt="" coords="880,13,1070,56"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="833,32,865,32,865,37,833,37"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.operator==" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.operator==">
-<area shape="rect" id="Node000001" title="Compare two PrimitiveValues for equality." alt="" coords="5,5,223,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#addb2311e23d31cf26ab76aa9b942b50e" title="Compare this value to other ." alt="" coords="271,5,465,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,24,255,24,255,29,223,29"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.InteractorHoverValidTargets" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.InteractorHoverValidTargets">
-<area shape="rect" id="Node000001" title="Automatically called each frame during Update to enter the hover state of the Interactor if necessary..." alt="" coords="5,5,253,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a769ea5a02d6373a5958ee92713f9b8fa" title="Determines whether the Interactor and Interactable share at least one interaction layer between their..." alt="" coords="301,5,517,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,32,285,32,285,37,253,37"/>
-</map>

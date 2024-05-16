@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapAddress&lt; TSnappable &gt;" name="Oculus.Interaction.HandPosing.SnapAddress&lt; TSnappable &gt;">
-<area shape="rect" id="Node000001" title="All the relevant data needed for a snapping position. This includes the HandGrabInteractor to (which ..." alt="" coords="5,80,210,123"/>
-<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_hand_posing_1_1_i_snap_data.html" title="Interface containing specific data regarding the pose of the hand as it aligns to an ISnappable." alt="" coords="67,5,148,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
-</map>

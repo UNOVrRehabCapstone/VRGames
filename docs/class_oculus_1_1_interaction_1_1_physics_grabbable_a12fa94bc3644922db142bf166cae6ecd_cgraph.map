@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.PhysicsGrabbable.InjectAllPhysicsGrabbable" name="Oculus.Interaction.PhysicsGrabbable.InjectAllPhysicsGrabbable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,242,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_physics_grabbable.html#a5dfdaf9eed505a8933c5e396a7d4d88e" title=" " alt="" coords="290,5,467,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,42,274,38,274,43,242,47"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_physics_grabbable.html#af797119ae9d7ef2284a9602655e739c4" title=" " alt="" coords="290,72,467,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,73,274,77,274,82,242,78"/>
-</map>

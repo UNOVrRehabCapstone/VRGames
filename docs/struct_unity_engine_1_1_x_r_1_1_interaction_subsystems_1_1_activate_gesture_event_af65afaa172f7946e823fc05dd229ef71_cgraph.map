@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.ActivateGestureEvent.GetDefault" name="UnityEngine.XR.InteractionSubsystems.ActivateGestureEvent.GetDefault">
-<area shape="rect" id="Node000001" title="Gets a default&#45;initialized ActivateGestureEvent." alt="" coords="5,5,232,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_activate_gesture_event.html#aa8affc898987b9c5caedbbe02a4f45b9" title="Constructs a new ActivateGestureEvent." alt="" coords="280,5,506,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,32,264,32,264,37,232,37"/>
-</map>

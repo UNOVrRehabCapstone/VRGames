@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.EnhancedTouch.TouchHistory.GetEnumerator" name="UnityEngine.InputSystem.EnhancedTouch.TouchHistory.GetEnumerator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_enhanced_touch_1_1_touch_history.html#a53ce62d86fad520336ecd4059976c7a2" title="Enumerate touches in the history. Goes from newest records to oldest." alt="" coords="273,5,492,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,32,257,32,257,37,225,37"/>
-</map>

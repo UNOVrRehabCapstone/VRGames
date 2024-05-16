@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionSetupExtensions.ControlSchemeSyntax.WithRequiredDevice" name="UnityEngine.InputSystem.InputActionSetupExtensions.ControlSchemeSyntax.WithRequiredDevice">
-<area shape="rect" id="Node000001" title=" " alt="" coords="298,63,528,121"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_control_scheme_syntax.html#a6612bfe7bf4e92498a7a4b129b67c9d2" title=" " alt="" coords="5,5,250,80"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,72,249,66,250,61,283,67"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_input_action_setup_extensions_1_1_control_scheme_syntax.html#a2ae63100018bc5c92aab07c2e7e1b263" title=" " alt="" coords="12,104,243,179"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,117,243,124,242,119,282,112"/>
-</map>

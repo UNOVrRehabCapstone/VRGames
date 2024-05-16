@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.UI.JoystickModel.Reset" name="UnityEngine.XR.Interaction.Toolkit.UI.JoystickModel.Reset">
-<area shape="rect" id="Node000001" title="Resets this object to it&#39;s default, unused state." alt="" coords="5,13,206,56"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_u_i_1_1_joystick_model_1_1_implementation_data.html#a15a9e696e2d76eda2b31ac085d476a7d" title="Resets this object to its default, unused state." alt="" coords="254,5,508,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,32,238,32,238,37,206,37"/>
-</map>

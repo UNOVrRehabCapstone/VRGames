@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.PlayerInput.SwitchCurrentActionMap" name="UnityEngine.InputSystem.PlayerInput.SwitchCurrentActionMap">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a1d650ccc70ff717661f895fe341c0df0" title="Find an InputActionMap in the asset by its name or ID." alt="" coords="287,5,498,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,24,271,24,271,29,239,29"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.TransformRecognizerActiveState.InjectAllTransformRecognizerActiveState" name="Oculus.Interaction.PoseDetection.TransformRecognizerActiveState.InjectAllTransformRecognizerActiveState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,250,131"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_recognizer_active_state.html#ae38f62a76b4ea28d9fc8d42e91c0fd26" title=" " alt="" coords="298,5,572,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,69,329,50,330,55,251,74"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_recognizer_active_state.html#a5807231b0ad0a055d386158d52a23ac6" title=" " alt="" coords="313,72,557,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,99,297,99,297,104,250,104"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_recognizer_active_state.html#a77e70e55c24b75ef506ac1b72a58ee2d" title=" " alt="" coords="313,155,557,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,129,309,148,308,153,239,134"/>
-</map>

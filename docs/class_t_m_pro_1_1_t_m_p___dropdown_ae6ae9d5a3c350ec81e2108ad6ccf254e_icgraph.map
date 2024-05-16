@@ -1,9 +1,0 @@
-<map id="TMPro.TMP_Dropdown.CreateDropdownList" name="TMPro.TMP_Dropdown.CreateDropdownList">
-<area shape="rect" id="Node000001" title="Create the dropdown list to be shown when the dropdown is clicked. The dropdown list should correspon..." alt="" coords="508,35,704,77"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#ae309311315603a4869384e1591842a73" title="Show the dropdown." alt="" coords="270,43,460,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,59,461,59,461,53,492,53"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a4694d50db9f52ecc96cb8dc27ea9f8e3" title="Handling for when the dropdown is initially &#39;clicked&#39;. Typically shows the dropdown." alt="" coords="5,5,222,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,46,222,42,222,37,254,40"/>
-<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_t_m_p___dropdown.html#a258ceecac06f7f153c9a3569a817d74f" title="Handling for when the dropdown is selected and a submit event is processed. Typically shows the dropd..." alt="" coords="5,72,222,99"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,72,222,75,222,70,254,66"/>
-</map>

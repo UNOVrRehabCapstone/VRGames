@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseController" name="UnityEngine.XR.Interaction.Toolkit.XRBaseController">
-<area shape="rect" id="Node000001" title="Interprets feature values on a tracked input controller device into XR Interaction states,..." alt="" coords="163,39,342,81"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_action_based_controller.html" title="Interprets feature values on a tracked input controller device using actions from the Input System in..." alt="" coords="390,5,582,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="357,42,389,38,390,43,358,48"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_controller.html" title="Interprets feature values on a tracked input controller device from the XR input subsystem into XR In..." alt="" coords="397,72,576,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,72,396,78,396,83,357,78"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,47,115,73"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,57,162,57,162,63,130,63"/>
-</map>

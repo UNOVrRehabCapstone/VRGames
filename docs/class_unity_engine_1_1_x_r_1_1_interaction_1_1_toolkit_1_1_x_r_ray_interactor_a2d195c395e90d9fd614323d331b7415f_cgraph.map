@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.ProcessInteractor" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.ProcessInteractor">
-<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method to update the Interactor after interaction events occur...." alt="" coords="5,35,214,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a0f256dcca0ff14c172391b7e3a8624b0" title="Rotates the attach anchor for this interactor. This can be useful to rotate a held object." alt="" coords="262,5,501,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,47,246,43,246,48,214,52"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#afa343a06a68c7e46f87fbb477cee8c6a" title="Translates the attach anchor for this interactor. This can be useful to move a held object closer or ..." alt="" coords="275,72,488,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,76,260,82,259,87,214,81"/>
-</map>

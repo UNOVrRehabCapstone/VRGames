@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.InternedString.Equals" name="UnityEngine.InputSystem.Utilities.InternedString.Equals">
-<area shape="rect" id="Node000001" title="Compare the InternedString to given object." alt="" coords="269,39,461,81"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#afe0c102e4bd26d3a589ca4c6569ca7e2" title=" " alt="" coords="8,5,218,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,48,218,43,219,38,254,43"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#af147513e81b8d871b9b4ffc254efe9df" title=" " alt="" coords="5,72,221,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,77,222,82,221,76,253,72"/>
-</map>

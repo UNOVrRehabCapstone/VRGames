@@ -1,5 +1,0 @@
-<map id="UnityEngine.Timeline.ILayerable" name="UnityEngine.Timeline.ILayerable">
-<area shape="rect" id="Node000001" title="Implement this interface on a TrackAsset derived class to support layers." alt="" coords="5,5,212,32"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_animation_track.html" title="A Timeline track used for playing back animations on an Animator." alt="" coords="6,80,211,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,48,111,80,106,80,106,48"/>
-</map>

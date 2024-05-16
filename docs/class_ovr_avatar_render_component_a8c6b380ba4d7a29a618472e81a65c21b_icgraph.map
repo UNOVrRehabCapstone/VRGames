@@ -1,7 +1,0 @@
-<map id="OvrAvatarRenderComponent.UpdateSkinnedMesh" name="OvrAvatarRenderComponent.UpdateSkinnedMesh">
-<area shape="rect" id="Node000001" title=" " alt="" coords="306,43,493,85"/>
-<area shape="rect" id="Node000002" href="$class_ovr_avatar_skinned_mesh_render_component.html#a4452e12daa21e440004801877021df29" title=" " alt="" coords="5,5,258,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,51,258,47,259,42,291,46"/>
-<area shape="rect" id="Node000003" href="$class_ovr_avatar_skinned_mesh_p_b_s_v2_render_component.html#afe792175680a48ac3f2eb17b8e07bfe2" title=" " alt="" coords="5,72,258,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,82,259,86,258,81,290,77"/>
-</map>

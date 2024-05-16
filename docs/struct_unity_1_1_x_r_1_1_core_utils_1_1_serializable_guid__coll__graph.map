@@ -1,7 +1,0 @@
-<map id="Unity.XR.CoreUtils.SerializableGuid" name="Unity.XR.CoreUtils.SerializableGuid">
-<area shape="rect" id="Node000001" title="A Guid that can be serialized by Unity. The 128&#45;bit Guid is stored as two 64&#45;bit ulongs...." alt="" coords="38,112,265,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,167,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,59,145,110,141,113,106,62"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="191,13,245,40"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,54,162,113,158,110,198,51"/>
-</map>

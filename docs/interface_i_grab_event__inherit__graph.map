@@ -4,6 +4,6 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,42,56,82,54,77,124,38"/>
 <area shape="rect" id="Node000003" href="$class_classes_1_1_climbing_rock.html" title=" " alt="" coords="84,80,237,107"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,48,163,80,158,80,158,48"/>
-<area shape="rect" id="Node000004" href="$class_paper_plane.html" title=" " alt="" coords="260,80,349,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,37,280,77,278,82,198,42"/>
+<area shape="rect" id="Node000004" href="$class_planes_game_1_1_paper_plane.html" title="Manages the behavior of the paper plane object." alt="" coords="261,80,428,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,36,313,77,311,82,206,41"/>
 </map>

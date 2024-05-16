@@ -1,5 +1,0 @@
-<map id="UnityEngine.UI.ToggleGroup.GetFirstActiveToggle" name="UnityEngine.UI.ToggleGroup.GetFirstActiveToggle">
-<area shape="rect" id="Node000001" title="Returns the toggle that is the first in the list of active toggles." alt="" coords="5,5,194,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_toggle_group.html#aa4b1d7d085fb2101f4f6b000694ff862" title="Returns the toggles in this group that are active." alt="" coords="242,5,430,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,226,24,226,29,194,29"/>
-</map>

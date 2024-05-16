@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.IClippable.RecalculateClipping" name="UnityEngine.UI.IClippable.RecalculateClipping">
-<area shape="rect" id="Node000001" title="Will be called when the state of a parent IClippable changed." alt="" coords="469,39,640,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a394e02beae27c2e3fc69d3a533ab7a35" title="Notify all IClippables under the given component that they need to recalculate clipping." alt="" coords="231,39,421,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,63,422,63,422,57,453,57"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_rect_mask2_d.html#af0b9ccb6781e088497c1799d04809d40" title=" " alt="" coords="5,5,183,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,47,183,42,184,37,216,42"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_rect_mask2_d.html#a16459346f5f89922c17e4e4cb1021fcd" title=" " alt="" coords="5,72,183,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,78,184,83,183,78,215,73"/>
-</map>

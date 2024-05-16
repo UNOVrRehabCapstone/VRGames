@@ -1,8 +1,0 @@
-<map id="Facebook.WitAi.Lib.WitResponseNode.Parse" name="Facebook.WitAi.Lib.WitResponseNode.Parse">
-<area shape="rect" id="Node000001" title=" " alt="" coords="300,39,517,81"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="454,26,437,20,408,17,382,19,365,24,359,30,361,37,356,39,354,29,363,20,381,14,408,12,438,14,456,21"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_windows_1_1_wit_understanding_viewer.html#a6457ec7cb737f8178c8756e209d5b792" title=" " alt="" coords="26,5,231,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,48,231,41,231,36,285,43"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_voice_1_1_bindings_1_1_android_1_1_voice_s_d_k_listener_binding.html#aaee224913f73e6015687b1516586909b" title=" " alt="" coords="5,72,252,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,77,253,81,252,76,284,72"/>
-</map>

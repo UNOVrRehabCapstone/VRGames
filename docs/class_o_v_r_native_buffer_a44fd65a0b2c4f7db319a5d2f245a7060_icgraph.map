@@ -1,5 +1,0 @@
-<map id="OVRNativeBuffer.Reset" name="OVRNativeBuffer.Reset">
-<area shape="rect" id="Node000001" title="Reallocates the buffer with the specified new size." alt="" coords="240,5,395,32"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_boundary.html#a6a5187d3a243e9c0b16fd1b5e4822953" title="Returns an array of 3d points (in clockwise order) that define the specified boundary type...." alt="" coords="5,5,192,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,21,192,21,192,16,224,16"/>
-</map>

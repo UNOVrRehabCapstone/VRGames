@@ -1,7 +1,0 @@
-<map id="UnityEngine.EventSystems.PointerInputModule.ClearSelection" name="UnityEngine.EventSystems.PointerInputModule.ClearSelection">
-<area shape="rect" id="Node000001" title="Clear all pointers and deselect any selected objects in the EventSystem." alt="" coords="286,51,506,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a44c8ddc2f359c0886c5eaf4ff0cf3f3a" title="See BaseInputModule." alt="" coords="11,5,232,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,58,232,52,232,47,271,52"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_touch_input_module.html#a3770c4f15d27d8516de67cedbef94491" title=" " alt="" coords="5,88,238,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,92,239,96,238,91,270,86"/>
-</map>

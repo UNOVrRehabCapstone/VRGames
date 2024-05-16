@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.BindingTreeViewDataSource.UpdateData" name="UnityEditor.Timeline.BindingTreeViewDataSource.UpdateData">
-<area shape="rect" id="Node000001" title=" " alt="" coords="238,39,452,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_binding_selector.html#a238b46c2ab8c0940199acc0d818fe718" title=" " alt="" coords="5,5,190,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,46,190,42,190,36,222,41"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_binding_selector.html#a67507c3fc6dd336898708e43d406bff0" title=" " alt="" coords="5,72,190,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,79,190,84,190,78,222,74"/>
-</map>

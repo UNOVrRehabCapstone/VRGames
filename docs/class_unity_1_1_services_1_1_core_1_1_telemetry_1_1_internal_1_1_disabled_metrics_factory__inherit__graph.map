@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Telemetry.Internal.DisabledMetricsFactory" name="Unity.Services.Core.Telemetry.Internal.DisabledMetricsFactory">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,210,197"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_metrics_factory.html" title="Component to get or create the proper IMetrics for a given package." alt="" coords="52,80,163,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,122,110,154,105,154,105,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="41,5,174,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,48,110,80,105,80,105,48"/>
-</map>

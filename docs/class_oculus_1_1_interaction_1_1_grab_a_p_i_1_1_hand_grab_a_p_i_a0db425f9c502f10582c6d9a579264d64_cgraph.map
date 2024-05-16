@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.GrabAPI.HandGrabAPI.IsHandPinchGrabbing" name="Oculus.Interaction.GrabAPI.HandGrabAPI.IsHandPinchGrabbing">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,235,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html#a750c566279d95103f4be9df993a9917b" title=" " alt="" coords="283,5,545,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,44,267,41,267,46,235,50"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_hand_grab_a_p_i.html#a989f435a39e527eac7e695a1f33bf757" title=" " alt="" coords="312,72,516,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,70,297,77,296,83,235,76"/>
-</map>

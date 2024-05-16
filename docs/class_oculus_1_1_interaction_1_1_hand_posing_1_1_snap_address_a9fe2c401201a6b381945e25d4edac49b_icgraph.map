@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapAddress.Clear" name="Oculus.Interaction.HandPosing.SnapAddress.Clear">
-<area shape="rect" id="Node000001" title=" " alt="" coords="285,5,489,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#af5a095cbc98a337efa4bfc20f9aa36a0" title="Each call while the hand is selecting/grabbing an interactable, it moves the item to the new position..." alt="" coords="5,5,237,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,29,237,29,237,24,269,24"/>
-</map>

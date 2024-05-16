@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.WindowState" name="UnityEditor.Timeline.WindowState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="64,112,251,155"/>
-<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_window_state.html" title="Interface for faking purposes." alt="" coords="5,13,107,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,49,139,110,135,113,77,53"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="131,13,184,40"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,55,160,111,155,111,155,55"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_window_analytics.html" title=" " alt="" coords="208,5,397,48"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,63,267,90,227,114,225,109,264,86,285,60"/>
-</map>

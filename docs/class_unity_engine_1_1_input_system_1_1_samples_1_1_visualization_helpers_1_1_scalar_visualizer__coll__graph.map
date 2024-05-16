@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.VisualizationHelpers.ScalarVisualizer&lt; TValue &gt;" name="UnityEngine.InputSystem.Samples.VisualizationHelpers.ScalarVisualizer&lt; TValue &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="554,23,753,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_value_visualizer.html" title=" " alt="" coords="330,39,505,65"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,49,554,49,554,55,521,55"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_visualizer.html" title=" " alt="" coords="65,5,144,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,22,330,40,329,45,159,27"/>
-<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_visualization_helpers_1_1_ring_buffer.html" title=" " alt="" coords="5,56,204,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,71,329,59,330,64,219,76"/>
-</map>

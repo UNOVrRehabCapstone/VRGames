@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.ExportAsset.ExportWithFileDialog" name="UnityEditor.ProBuilder.Actions.ExportAsset.ExportWithFileDialog">
-<area shape="rect" id="Node000001" title="Export meshes to a Unity asset." alt="" coords="321,39,540,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_export.html#a395b17fd3924fa031a2ffcb47fddceaf" title=" " alt="" coords="22,5,256,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,48,256,43,256,37,306,43"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_export_asset.html#a16ee475b225cb0b01dc6a7f348d7847a" title=" " alt="" coords="5,72,273,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,77,274,81,273,75,305,72"/>
-</map>

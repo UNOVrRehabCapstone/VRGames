@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.SendHapticImpulse" name="UnityEngine.XR.Interaction.Toolkit.XRBaseControllerInteractor.SendHapticImpulse">
-<area shape="rect" id="Node000001" title="Play a haptic impulse on the controller if one is available." alt="" coords="5,5,228,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller.html#ad3b8c2230c5acdeb88a3fa0e78a92a2a" title="Play a haptic impulse on the controller if one is available." alt="" coords="276,5,511,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,32,260,32,260,37,228,37"/>
-</map>

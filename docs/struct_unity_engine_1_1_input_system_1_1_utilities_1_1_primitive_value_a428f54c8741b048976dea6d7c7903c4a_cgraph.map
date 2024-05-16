@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToDecimal" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToDecimal">
-<area shape="rect" id="Node000001" title="Convert the value to a decimal." alt="" coords="5,5,221,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a1d9371d914743b108f46a4fa012c6c3f" title="Convert the value to a double." alt="" coords="269,5,477,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,24,253,24,253,29,221,29"/>
-</map>

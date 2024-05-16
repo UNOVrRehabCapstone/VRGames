@@ -1,7 +1,0 @@
-<map id="UnityEngine.UI.Scrollbar.FindSelectableOnLeft" name="UnityEngine.UI.Scrollbar.FindSelectableOnLeft">
-<area shape="rect" id="Node000001" title="Prevents selection if we we move on the Horizontal axis. See Selectable.FindSelectableOnLeft." alt="" coords="220,39,386,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_u_i_1_1_scrollbar_editor.html#aba18f987c515348e5a20cb043911d91c" title=" " alt="" coords="10,5,167,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,47,167,41,168,36,205,42"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_scrollbar.html#a505dc37aa5bd1ac7e04f691b7af8bb26" title="Handling for movement events." alt="" coords="5,72,172,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,78,172,83,172,78,204,73"/>
-</map>

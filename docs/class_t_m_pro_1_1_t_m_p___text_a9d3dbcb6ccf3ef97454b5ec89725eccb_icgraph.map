@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_Text.GetPreferredValues" name="TMPro.TMP_Text.GetPreferredValues">
-<area shape="rect" id="Node000001" title="Function to Calculate the Preferred Width and Height of the text object." alt="" coords="272,23,471,65"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#a8ea12a256e97a7ab1d66945b5f3a0a88" title=" " alt="" coords="21,5,208,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,35,208,31,209,25,256,30"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#a963457c98b96eb2387dd43d40a7dcc57" title=" " alt="" coords="5,56,224,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,58,225,61,224,56,255,53"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.TimelineTrackGUI.TimelineTrackGUI" name="UnityEditor.Timeline.TimelineTrackGUI.TimelineTrackGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,195,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_track_asset.html#a440a226956b32b7287ba8d73506bcc33" title="Returns the number of markers on the current asset." alt="" coords="269,5,448,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,69,257,50,259,55,186,74"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_custom_timeline_editor_cache.html#aae5081f889dccc72e79757a88c2948aa" title=" " alt="" coords="243,72,474,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,91,227,91,227,96,195,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_timeline_group_g_u_i.html#a045b38950018963daf74c8408910c922" title=" " alt="" coords="264,139,453,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,113,259,132,257,137,185,118"/>
-</map>

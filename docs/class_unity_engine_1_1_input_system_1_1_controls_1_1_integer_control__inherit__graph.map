@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Controls.IntegerControl" name="UnityEngine.InputSystem.Controls.IntegerControl">
-<area shape="rect" id="Node000001" title="A generic input control reading integer values." alt="" coords="5,80,178,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="27,5,156,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,48,94,80,89,80,89,48"/>
-</map>

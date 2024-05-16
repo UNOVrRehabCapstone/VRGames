@@ -1,7 +1,0 @@
-<map id="UnityEngine.ProBuilder.Face.SetIndexes" name="UnityEngine.ProBuilder.Face.SetIndexes">
-<area shape="rect" id="Node000001" title="Sets the triangles that compose this face." alt="" coords="283,31,475,73"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_face.html#a452c12af9def541b75b804b549f0efc4" title="Creates a face with default values and the specified set of triangles." alt="" coords="9,5,231,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,40,229,35,229,30,268,35"/>
-<area shape="rect" id="Node000003" href="$class_pro_builder_1_1_example_actions_1_1_create_shadow_object.html#a3e28637391f832985d7bd8d1d9328813" title="Perform the action." alt="" coords="5,56,235,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,69,235,73,235,68,267,64"/>
-</map>

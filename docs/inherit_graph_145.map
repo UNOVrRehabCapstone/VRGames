@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,47,109,73"/>
-<area shape="rect" id="Node000001" href="$class_unity_editor_1_1_events_1_1_intercepted_events_preview.html" title="Custom preview drawing that will draw the intercepted events of a given object." alt="" coords="157,5,353,48"/>
-<area shape="poly" id="edge317_Node000000_Node000001" title=" " alt="" coords="124,46,156,41,157,46,125,51"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_events_1_1_layout_properties_preview.html" title="Custom preview drawing that will draw the layout properties of a given object." alt="" coords="169,72,341,115"/>
-<area shape="poly" id="edge318_Node000000_Node000002" title=" " alt="" coords="125,69,169,76,168,81,124,74"/>
-</map>

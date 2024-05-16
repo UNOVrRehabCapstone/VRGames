@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.Editor.HandGrabPoseWizard.RecordPose" name="Oculus.Interaction.HandPosing.Editor.HandGrabPoseWizard.RecordPose">
-<area shape="rect" id="Node000001" title="Finds the nearest object that can be snapped to and adds a new HandGrabInteractable to it with the us..." alt="" coords="338,5,601,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_editor_1_1_hand_grab_pose_wizard.html#a5491dc7451dbcef7870aef92fb095df6" title=" " alt="" coords="5,5,290,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,29,290,29,290,24,322,24"/>
-</map>

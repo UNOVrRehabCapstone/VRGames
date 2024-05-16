@@ -1,5 +1,0 @@
-<map id="LocomotionTeleport.RecycleTeleportDestination" name="LocomotionTeleport.RecycleTeleportDestination">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,48"/>
-<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#aeca243463f39e019dc2290f961b4734c" title="This is called whenever a new teleport destination is required. This might occur when rapidly switchi..." alt="" coords="239,5,415,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,223,24,223,29,191,29"/>
-</map>

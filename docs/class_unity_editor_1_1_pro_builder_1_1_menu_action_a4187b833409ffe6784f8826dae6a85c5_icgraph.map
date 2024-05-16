@@ -1,5 +1,0 @@
-<map id="UnityEditor.ProBuilder.MenuAction.OnSettingsDisable" name="UnityEditor.ProBuilder.MenuAction.OnSettingsDisable">
-<area shape="rect" id="Node000001" title="Called when the settings window is closed." alt="" coords="239,5,424,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aac6709829800a79effb6ccf23fa8aa79" title="Performs the action for this menu item when in Text mode." alt="" coords="5,5,191,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,29,191,29,191,24,223,24"/>
-</map>

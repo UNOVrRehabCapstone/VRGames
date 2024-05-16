@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.MarkerEditor" name="UnityEditor.Timeline.MarkerEditor">
-<area shape="rect" id="Node000001" title="Use this class to customize marker types in the TimelineEditor." alt="" coords="5,39,187,81"/>
-<area shape="rect" id="Node000002" href="$class_timeline_1_1_samples_1_1_annotation_marker_editor.html" title=" " alt="" coords="235,5,425,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,42,234,38,234,43,202,48"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_signals_1_1_signal_emitter_editor.html" title=" " alt="" coords="236,72,424,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,72,236,77,235,83,201,78"/>
-</map>

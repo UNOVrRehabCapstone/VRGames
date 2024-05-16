@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Scheduler.Internal.IActionScheduler" name="Unity.Services.Core.Scheduler.Internal.IActionScheduler">
-<area shape="rect" id="Node000001" title="Unity Service Scheduler to schedule actions on main thread." alt="" coords="5,80,207,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_service_component.html" title="Base contract for a functionality defined by the Core package." alt="" coords="40,5,172,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
-</map>

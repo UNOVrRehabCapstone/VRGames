@@ -1,5 +1,0 @@
-<map id="UnityEditor.Timeline.ClipEditor.GetDefaultHighlightColor" name="UnityEditor.Timeline.ClipEditor.GetDefaultHighlightColor">
-<area shape="rect" id="Node000001" title="The color drawn under the clip. By default, the color is the same as the track color." alt="" coords="5,5,206,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_clip.html#abbaa8f73f61309320a146c0af4ab517a" title="Get the TrackAsset to which this clip is attached." alt="" coords="254,5,449,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,24,238,24,238,29,206,29"/>
-</map>

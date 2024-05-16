@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.MaterialPropertyBlockEditor.UpdateMaterialPropertyBlock" name="Oculus.Interaction.MaterialPropertyBlockEditor.UpdateMaterialPropertyBlock">
-<area shape="rect" id="Node000001" title=" " alt="" coords="236,64,464,123"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html#a1068ffc69ddc1b98379d399a6ea1a6ba" title=" " alt="" coords="6,5,187,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,62,180,51,181,46,222,57"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_dot_grid_properties.html#afaeb2a840b19f3cb2c61b903609cc690" title=" " alt="" coords="9,72,184,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,96,184,96,184,91,220,91"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_material_property_block_editor.html#aa262dfc7f52da470bc9b27a4912b9def" title=" " alt="" coords="5,139,188,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,130,181,141,180,135,221,125"/>
-</map>

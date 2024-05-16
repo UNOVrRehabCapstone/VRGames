@@ -1,6 +1,0 @@
-<map id="UnityEngine.InputSystem.Interactions.HoldInteraction" name="UnityEngine.InputSystem.Interactions.HoldInteraction">
-<area shape="rect" id="Node000001" title="Performs the action if the control is pressed and held for at least the set duration (which defaults ..." alt="" coords="5,82,184,125"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_input_system_1_1_i_input_interaction.html" title="Interface for interaction patterns that drive actions." alt="" coords="38,8,151,34"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,50,97,82,92,82,92,50"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="144,3,167,7,174,12,177,21,173,31,161,37,128,38,128,32,160,32,169,28,172,21,170,16,164,12,143,8"/>
-</map>

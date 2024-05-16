@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurfaceData.Mirror" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurfaceData.Mirror">
-<area shape="rect" id="Node000001" title=" " alt="" coords="287,13,542,56"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aceec417af1d13997bcc89657966de9ff" title="Creates a new ISnapSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,239,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,37,239,37,239,32,271,32"/>
-</map>

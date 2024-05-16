@@ -29,6 +29,7 @@
   <td id="projectalign">
    <div id="projectname">VRGames
    </div>
+   <div id="projectbrief">Games for the VR Rehab capstone project</div>
   </td>
  </tr>
  </tbody>
@@ -98,12 +99,15 @@ $(function(){initNavTree('class_points_manager.html',''); initResizable(); });
   <div class="headertitle"><div class="title">PointsManager Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Manages points and related functionality in the game.  
+ <a href="#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for PointsManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager__inherit__graph.png" border="0" usemap="#a_points_manager_inherit__map" alt="Inheritance graph"/></div>
 <map name="a_points_manager_inherit__map" id="a_points_manager_inherit__map">
-<area shape="rect" title=" " alt="" coords="6,80,114,107"/>
+<area shape="rect" title="Manages points and related functionality in the game." alt="" coords="6,80,114,107"/>
 <area shape="rect" title=" " alt="" coords="5,5,115,32"/>
 <area shape="poly" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
 </map>
@@ -113,7 +117,7 @@ Collaboration diagram for PointsManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager__coll__graph.png" border="0" usemap="#a_points_manager_coll__map" alt="Collaboration graph"/></div>
 <map name="a_points_manager_coll__map" id="a_points_manager_coll__map">
-<area shape="rect" title=" " alt="" coords="6,80,114,107"/>
+<area shape="rect" title="Manages points and related functionality in the game." alt="" coords="6,80,114,107"/>
 <area shape="rect" title=" " alt="" coords="5,5,115,32"/>
 <area shape="poly" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
 </map>
@@ -122,34 +126,49 @@ Collaboration diagram for PointsManager:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a1164ce18b1143402585deeac3a0c7ebc" id="r_a1164ce18b1143402585deeac3a0c7ebc"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a1164ce18b1143402585deeac3a0c7ebc">getLeftPoints</a> ()</td></tr>
+<tr class="memdesc:a1164ce18b1143402585deeac3a0c7ebc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the points accumulated by the left hand.  <br /></td></tr>
 <tr class="separator:a1164ce18b1143402585deeac3a0c7ebc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afa0db30f014f6411e3eeed073a0416a7" id="r_afa0db30f014f6411e3eeed073a0416a7"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#afa0db30f014f6411e3eeed073a0416a7">getRightPoints</a> ()</td></tr>
+<tr class="memdesc:afa0db30f014f6411e3eeed073a0416a7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the points accumulated by the right hand.  <br /></td></tr>
 <tr class="separator:afa0db30f014f6411e3eeed073a0416a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8862e5e16a207f114699a9b52227978a" id="r_a8862e5e16a207f114699a9b52227978a"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a8862e5e16a207f114699a9b52227978a">getPoints</a> ()</td></tr>
+<tr class="memdesc:a8862e5e16a207f114699a9b52227978a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the total points accumulated.  <br /></td></tr>
 <tr class="separator:a8862e5e16a207f114699a9b52227978a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa31ee848c6631ff8a7bde4c8d560f3b1" id="r_aa31ee848c6631ff8a7bde4c8d560f3b1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aa31ee848c6631ff8a7bde4c8d560f3b1">resetPoints</a> ()</td></tr>
+<tr class="memdesc:aa31ee848c6631ff8a7bde4c8d560f3b1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets all points to zero.  <br /></td></tr>
 <tr class="separator:aa31ee848c6631ff8a7bde4c8d560f3b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a99f8e72b3f761ddb35c32e062d5930c9" id="r_a99f8e72b3f761ddb35c32e062d5930c9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a99f8e72b3f761ddb35c32e062d5930c9">resetBothHandPoints</a> ()</td></tr>
+<tr class="memdesc:a99f8e72b3f761ddb35c32e062d5930c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Resets points for both left and right hands to zero.  <br /></td></tr>
 <tr class="separator:a99f8e72b3f761ddb35c32e062d5930c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad81016ad15f67f1667b60581b57af98" id="r_aad81016ad15f67f1667b60581b57af98"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aad81016ad15f67f1667b60581b57af98">addPoints</a> (int p)</td></tr>
+<tr class="memdesc:aad81016ad15f67f1667b60581b57af98"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds points to the total score.  <br /></td></tr>
 <tr class="separator:aad81016ad15f67f1667b60581b57af98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae9f4097d388ae38545b764b1e1a54149" id="r_ae9f4097d388ae38545b764b1e1a54149"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae9f4097d388ae38545b764b1e1a54149">addLeftPoints</a> (int p)</td></tr>
+<tr class="memdesc:ae9f4097d388ae38545b764b1e1a54149"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds points to the left hand's score.  <br /></td></tr>
 <tr class="separator:ae9f4097d388ae38545b764b1e1a54149"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5e7b3ea0b766111839f034ac6dfc93d" id="r_ad5e7b3ea0b766111839f034ac6dfc93d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad5e7b3ea0b766111839f034ac6dfc93d">addRightPoints</a> (int p)</td></tr>
+<tr class="memdesc:ad5e7b3ea0b766111839f034ac6dfc93d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds points to the right hand's score.  <br /></td></tr>
 <tr class="separator:ad5e7b3ea0b766111839f034ac6dfc93d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e0bbad57a87527892bff5db792f645b" id="r_a5e0bbad57a87527892bff5db792f645b"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5e0bbad57a87527892bff5db792f645b">subPoints</a> (int p)</td></tr>
+<tr class="memdesc:a5e0bbad57a87527892bff5db792f645b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Subtracts points from the total score.  <br /></td></tr>
 <tr class="separator:a5e0bbad57a87527892bff5db792f645b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac9cdc4a4465788297cb5d62e0f1cdf19" id="r_ac9cdc4a4465788297cb5d62e0f1cdf19"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac9cdc4a4465788297cb5d62e0f1cdf19">multPoints</a> (int p)</td></tr>
+<tr class="memdesc:ac9cdc4a4465788297cb5d62e0f1cdf19"><td class="mdescLeft">&#160;</td><td class="mdescRight">Multiplies the total score by a factor.  <br /></td></tr>
 <tr class="separator:ac9cdc4a4465788297cb5d62e0f1cdf19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a601f8ad86ce9ceb0740878b53a5cb570" id="r_a601f8ad86ce9ceb0740878b53a5cb570"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a601f8ad86ce9ceb0740878b53a5cb570">divPoints</a> (int p)</td></tr>
+<tr class="memdesc:a601f8ad86ce9ceb0740878b53a5cb570"><td class="mdescLeft">&#160;</td><td class="mdescRight">Divides the total score by a factor.  <br /></td></tr>
 <tr class="separator:a601f8ad86ce9ceb0740878b53a5cb570"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19e0a2660a4593d712246729272657f4" id="r_a19e0a2660a4593d712246729272657f4"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a19e0a2660a4593d712246729272657f4">isGoalReached</a> (<a class="el" href="class_game_settings_s_o.html#a860e81b79553e3e81f37ebd2278834bc">GameSettingsSO.HandSetting</a> handSetting, int goal)</td></tr>
+<tr class="memdesc:a19e0a2660a4593d712246729272657f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if a goal is reached based on the current hand setting.  <br /></td></tr>
 <tr class="separator:a19e0a2660a4593d712246729272657f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a42c8b00b09b89a6f202e8b2e01733b1b" id="r_a42c8b00b09b89a6f202e8b2e01733b1b"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a42c8b00b09b89a6f202e8b2e01733b1b">addPointTrigger</a> (string equality, int points, string function)</td></tr>
+<tr class="memdesc:a42c8b00b09b89a6f202e8b2e01733b1b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds a point trigger to the list.  <br /></td></tr>
 <tr class="separator:a42c8b00b09b89a6f202e8b2e01733b1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9dbd8b470e8cd2452297b403b9df8a0e" id="r_a9dbd8b470e8cd2452297b403b9df8a0e"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a9dbd8b470e8cd2452297b403b9df8a0e">updateScoreboardMessage</a> (string s)</td></tr>
+<tr class="memdesc:a9dbd8b470e8cd2452297b403b9df8a0e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates the message displayed on the scoreboard.  <br /></td></tr>
 <tr class="separator:a9dbd8b470e8cd2452297b403b9df8a0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2117612f049169e6f0be4986cd9fcdfc" id="r_a2117612f049169e6f0be4986cd9fcdfc"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard</a> ()</td></tr>
+<tr class="memdesc:a2117612f049169e6f0be4986cd9fcdfc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates the scoreboard with current scores and display settings.  <br /></td></tr>
 <tr class="separator:a2117612f049169e6f0be4986cd9fcdfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
@@ -157,7 +176,10 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:aef674aac928965f6295f375c012fa6aa" id="r_aef674aac928965f6295f375c012fa6aa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aef674aac928965f6295f375c012fa6aa">useSeparateScores</a></td></tr>
 <tr class="separator:aef674aac928965f6295f375c012fa6aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Manages points and related functionality in the game. </p>
+<p>The <a class="el" href="class_points_manager.html" title="Manages points and related functionality in the game.">PointsManager</a> class is responsible for managing points and related functionality in the game, including updating scores, checking goals, and handling point triggers. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ae9f4097d388ae38545b764b1e1a54149" name="ae9f4097d388ae38545b764b1e1a54149"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae9f4097d388ae38545b764b1e1a54149">&#9670;&#160;</a></span>addLeftPoints()</h2>
 
@@ -180,6 +202,14 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Adds points to the left hand's score. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The points to add. </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -206,14 +236,24 @@ Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3">Classes.Managers.LavaClimbGameplayManager.onRockGrabbed()</a>.</p>
+<p>Adds points to the total score. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The points to add. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">References <a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="class_classes_1_1_target.html#aafca4a162e7c3f63de4abd38419ac36c">Classes.Target.HitTarget()</a>, and <a class="el" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3">Classes.Managers.LavaClimbGameplayManager.onRockGrabbed()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_aad81016ad15f67f1667b60581b57af98_cgraph.png" border="0" usemap="#aclass_points_manager_aad81016ad15f67f1667b60581b57af98_cgraph" alt=""/></div>
 <map name="aclass_points_manager_aad81016ad15f67f1667b60581b57af98_cgraph" id="aclass_points_manager_aad81016ad15f67f1667b60581b57af98_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,176,32"/>
-<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="224,5,441,32"/>
+<area shape="rect" title="Adds points to the total score." alt="" coords="5,5,176,32"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="224,5,441,32"/>
 <area shape="poly" title=" " alt="" coords="176,16,208,16,208,21,176,21"/>
 </map>
 </div>
@@ -222,11 +262,13 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_aad81016ad15f67f1667b60581b57af98_icgraph.png" border="0" usemap="#aclass_points_manager_aad81016ad15f67f1667b60581b57af98_icgraph" alt=""/></div>
 <map name="aclass_points_manager_aad81016ad15f67f1667b60581b57af98_icgraph" id="aclass_points_manager_aad81016ad15f67f1667b60581b57af98_icgraph">
-<area shape="rect" title=" " alt="" coords="527,13,697,40"/>
-<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,5,479,48"/>
-<area shape="poly" title=" " alt="" coords="511,29,479,29,479,24,511,24"/>
-<area shape="rect" href="class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,13,204,40"/>
-<area shape="poly" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+<area shape="rect" title="Adds points to the total score." alt="" coords="527,35,697,61"/>
+<area shape="rect" href="class_classes_1_1_target.html#aafca4a162e7c3f63de4abd38419ac36c" title="Handles the event when the target is hit." alt="" coords="283,5,448,32"/>
+<area shape="poly" title=" " alt="" coords="511,39,448,31,448,26,512,33"/>
+<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,56,479,99"/>
+<area shape="poly" title=" " alt="" coords="512,63,480,66,479,61,511,57"/>
+<area shape="rect" href="class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,64,204,91"/>
+<area shape="poly" title=" " alt="" coords="236,80,204,80,204,75,236,75"/>
 </map>
 </div>
 
@@ -264,6 +306,16 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Adds a point trigger to the list. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">equality</td><td>The condition to trigger the point trigger. </td></tr>
+    <tr><td class="paramname">points</td><td>The points required for the trigger. </td></tr>
+    <tr><td class="paramname">function</td><td>The function to execute when triggered. </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="ad5e7b3ea0b766111839f034ac6dfc93d" name="ad5e7b3ea0b766111839f034ac6dfc93d"></a>
@@ -289,6 +341,14 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Adds points to the right hand's score. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The points to add. </td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <a id="a601f8ad86ce9ceb0740878b53a5cb570" name="a601f8ad86ce9ceb0740878b53a5cb570"></a>
@@ -313,13 +373,23 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Divides the total score by a factor. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The factor to divide by. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">References <a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a601f8ad86ce9ceb0740878b53a5cb570_cgraph.png" border="0" usemap="#aclass_points_manager_a601f8ad86ce9ceb0740878b53a5cb570_cgraph" alt=""/></div>
 <map name="aclass_points_manager_a601f8ad86ce9ceb0740878b53a5cb570_cgraph" id="aclass_points_manager_a601f8ad86ce9ceb0740878b53a5cb570_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,170,32"/>
-<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="218,5,435,32"/>
+<area shape="rect" title="Divides the total score by a factor." alt="" coords="5,5,170,32"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="218,5,435,32"/>
 <area shape="poly" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
 </map>
 </div>
@@ -349,6 +419,8 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Retrieves the points accumulated by the left hand. </p>
+
 </div>
 </div>
 <a id="a8862e5e16a207f114699a9b52227978a" name="a8862e5e16a207f114699a9b52227978a"></a>
@@ -374,13 +446,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Retrieves the total points accumulated. </p>
+
 <p class="reference">Referenced by <a class="el" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3">Classes.Managers.LavaClimbGameplayManager.onRockGrabbed()</a>, and <a class="el" href="class_point_trigger.html#a726be0c59a8bbfb8ef97dade4e68f1aa">PointTrigger.testEquality()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a8862e5e16a207f114699a9b52227978a_icgraph.png" border="0" usemap="#aclass_points_manager_a8862e5e16a207f114699a9b52227978a_icgraph" alt=""/></div>
 <map name="aclass_points_manager_a8862e5e16a207f114699a9b52227978a_icgraph" id="aclass_points_manager_a8862e5e16a207f114699a9b52227978a_icgraph">
-<area shape="rect" title=" " alt="" coords="527,43,694,69"/>
+<area shape="rect" title="Retrieves the total points accumulated." alt="" coords="527,43,694,69"/>
 <area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,5,479,48"/>
 <area shape="poly" title=" " alt="" coords="511,47,479,43,480,38,512,42"/>
 <area shape="rect" href="class_point_trigger.html#a726be0c59a8bbfb8ef97dade4e68f1aa" title=" " alt="" coords="284,72,447,99"/>
@@ -415,6 +489,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Retrieves the points accumulated by the right hand. </p>
+
 </div>
 </div>
 <a id="a19e0a2660a4593d712246729272657f4" name="a19e0a2660a4593d712246729272657f4"></a>
@@ -444,6 +520,16 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Checks if a goal is reached based on the current hand setting. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">handSetting</td><td>The hand setting to check against. </td></tr>
+    <tr><td class="paramname">goal</td><td>The goal to compare against. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if the goal is reached, otherwise false. </dd></dl>
+
 </div>
 </div>
 <a id="ac9cdc4a4465788297cb5d62e0f1cdf19" name="ac9cdc4a4465788297cb5d62e0f1cdf19"></a>
@@ -468,13 +554,23 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Multiplies the total score by a factor. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The factor to multiply by. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">References <a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_ac9cdc4a4465788297cb5d62e0f1cdf19_cgraph.png" border="0" usemap="#aclass_points_manager_ac9cdc4a4465788297cb5d62e0f1cdf19_cgraph" alt=""/></div>
 <map name="aclass_points_manager_ac9cdc4a4465788297cb5d62e0f1cdf19_cgraph" id="aclass_points_manager_ac9cdc4a4465788297cb5d62e0f1cdf19_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,180,32"/>
-<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="228,5,445,32"/>
+<area shape="rect" title="Multiplies the total score by a factor." alt="" coords="5,5,180,32"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="228,5,445,32"/>
 <area shape="poly" title=" " alt="" coords="180,16,212,16,212,21,180,21"/>
 </map>
 </div>
@@ -504,13 +600,15 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Resets points for both left and right hands to zero. </p>
+
 <p class="reference">Referenced by <a class="el" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a1d125639d2c9fb81c94286aa3c3039af">Classes.Managers.BoxAndBlocksGameplayManager.startSpawning()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a99f8e72b3f761ddb35c32e062d5930c9_icgraph.png" border="0" usemap="#aclass_points_manager_a99f8e72b3f761ddb35c32e062d5930c9_icgraph" alt=""/></div>
 <map name="aclass_points_manager_a99f8e72b3f761ddb35c32e062d5930c9_icgraph" id="aclass_points_manager_a99f8e72b3f761ddb35c32e062d5930c9_icgraph">
-<area shape="rect" title=" " alt="" coords="273,5,471,48"/>
+<area shape="rect" title="Resets points for both left and right hands to zero." alt="" coords="273,5,471,48"/>
 <area shape="rect" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a1d125639d2c9fb81c94286aa3c3039af" title=" " alt="" coords="5,5,225,48"/>
 <area shape="poly" title=" " alt="" coords="257,29,225,29,225,24,257,24"/>
 </map>
@@ -540,13 +638,17 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Resets all points to zero. </p>
+
+<p class="reference">References <a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_aa31ee848c6631ff8a7bde4c8d560f3b1_cgraph.png" border="0" usemap="#aclass_points_manager_aa31ee848c6631ff8a7bde4c8d560f3b1_cgraph" alt=""/></div>
 <map name="aclass_points_manager_aa31ee848c6631ff8a7bde4c8d560f3b1_cgraph" id="aclass_points_manager_aa31ee848c6631ff8a7bde4c8d560f3b1_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,184,32"/>
-<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="232,5,449,32"/>
+<area shape="rect" title="Resets all points to zero." alt="" coords="5,5,184,32"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="232,5,449,32"/>
 <area shape="poly" title=" " alt="" coords="184,16,216,16,216,21,184,21"/>
 </map>
 </div>
@@ -575,13 +677,23 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Subtracts points from the total score. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">p</td><td>The points to subtract. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">References <a class="el" href="#a2117612f049169e6f0be4986cd9fcdfc">updateScoreboard()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a5e0bbad57a87527892bff5db792f645b_cgraph.png" border="0" usemap="#aclass_points_manager_a5e0bbad57a87527892bff5db792f645b_cgraph" alt=""/></div>
 <map name="aclass_points_manager_a5e0bbad57a87527892bff5db792f645b_cgraph" id="aclass_points_manager_a5e0bbad57a87527892bff5db792f645b_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,176,32"/>
-<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title=" " alt="" coords="224,5,441,32"/>
+<area shape="rect" title="Subtracts points from the total score." alt="" coords="5,5,176,32"/>
+<area shape="rect" href="class_points_manager.html#a2117612f049169e6f0be4986cd9fcdfc" title="Updates the scoreboard with current scores and display settings." alt="" coords="224,5,441,32"/>
 <area shape="poly" title=" " alt="" coords="176,16,208,16,208,21,176,21"/>
 </map>
 </div>
@@ -611,27 +723,31 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p>Updates the scoreboard with current scores and display settings. </p>
+
 <p class="reference">Referenced by <a class="el" href="#aad81016ad15f67f1667b60581b57af98">addPoints()</a>, <a class="el" href="#a601f8ad86ce9ceb0740878b53a5cb570">divPoints()</a>, <a class="el" href="#ac9cdc4a4465788297cb5d62e0f1cdf19">multPoints()</a>, <a class="el" href="#aa31ee848c6631ff8a7bde4c8d560f3b1">resetPoints()</a>, and <a class="el" href="#a5e0bbad57a87527892bff5db792f645b">subPoints()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a2117612f049169e6f0be4986cd9fcdfc_icgraph.png" border="0" usemap="#aclass_points_manager_a2117612f049169e6f0be4986cd9fcdfc_icgraph" alt=""/></div>
 <map name="aclass_points_manager_a2117612f049169e6f0be4986cd9fcdfc_icgraph" id="aclass_points_manager_a2117612f049169e6f0be4986cd9fcdfc_icgraph">
-<area shape="rect" title=" " alt="" coords="753,115,971,141"/>
-<area shape="rect" href="class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title=" " alt="" coords="531,13,701,40"/>
-<area shape="poly" title=" " alt="" coords="822,110,767,82,704,54,671,43,672,38,706,50,769,77,824,105"/>
-<area shape="rect" href="class_points_manager.html#a601f8ad86ce9ceb0740878b53a5cb570" title=" " alt="" coords="534,64,698,91"/>
-<area shape="poly" title=" " alt="" coords="778,114,684,94,685,89,779,108"/>
-<area shape="rect" href="class_points_manager.html#ac9cdc4a4465788297cb5d62e0f1cdf19" title=" " alt="" coords="529,115,703,141"/>
-<area shape="poly" title=" " alt="" coords="738,131,704,131,704,125,738,125"/>
-<area shape="rect" href="class_points_manager.html#aa31ee848c6631ff8a7bde4c8d560f3b1" title=" " alt="" coords="527,165,705,192"/>
-<area shape="poly" title=" " alt="" coords="779,148,685,167,684,162,778,142"/>
-<area shape="rect" href="class_points_manager.html#a5e0bbad57a87527892bff5db792f645b" title=" " alt="" coords="531,216,701,243"/>
-<area shape="poly" title=" " alt="" coords="824,151,769,179,706,206,672,218,671,213,704,202,767,174,822,146"/>
-<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,5,479,48"/>
-<area shape="poly" title=" " alt="" coords="515,29,479,29,479,24,515,24"/>
-<area shape="rect" href="class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,13,204,40"/>
-<area shape="poly" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
+<area shape="rect" title="Updates the scoreboard with current scores and display settings." alt="" coords="753,136,971,163"/>
+<area shape="rect" href="class_points_manager.html#aad81016ad15f67f1667b60581b57af98" title="Adds points to the total score." alt="" coords="531,35,701,61"/>
+<area shape="poly" title=" " alt="" coords="822,131,767,103,704,76,671,64,672,59,706,71,769,98,824,126"/>
+<area shape="rect" href="class_points_manager.html#a601f8ad86ce9ceb0740878b53a5cb570" title="Divides the total score by a factor." alt="" coords="534,85,698,112"/>
+<area shape="poly" title=" " alt="" coords="778,135,684,115,685,110,779,130"/>
+<area shape="rect" href="class_points_manager.html#ac9cdc4a4465788297cb5d62e0f1cdf19" title="Multiplies the total score by a factor." alt="" coords="529,136,703,163"/>
+<area shape="poly" title=" " alt="" coords="738,152,704,152,704,147,738,147"/>
+<area shape="rect" href="class_points_manager.html#aa31ee848c6631ff8a7bde4c8d560f3b1" title="Resets all points to zero." alt="" coords="527,187,705,213"/>
+<area shape="poly" title=" " alt="" coords="779,169,685,189,684,183,778,164"/>
+<area shape="rect" href="class_points_manager.html#a5e0bbad57a87527892bff5db792f645b" title="Subtracts points from the total score." alt="" coords="531,237,701,264"/>
+<area shape="poly" title=" " alt="" coords="824,173,769,200,706,228,672,239,671,234,704,223,767,196,822,168"/>
+<area shape="rect" href="class_classes_1_1_target.html#aafca4a162e7c3f63de4abd38419ac36c" title="Handles the event when the target is hit." alt="" coords="283,5,448,32"/>
+<area shape="poly" title=" " alt="" coords="516,39,448,31,448,26,516,34"/>
+<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a21bee220a1df7b420b614784613cc4f3" title=" " alt="" coords="252,56,479,99"/>
+<area shape="poly" title=" " alt="" coords="516,62,480,67,479,61,515,57"/>
+<area shape="rect" href="class_classes_1_1_climbing_rock.html#a8a5b0c281ccea12bca33dab72c283d8f" title=" " alt="" coords="5,64,204,91"/>
+<area shape="poly" title=" " alt="" coords="236,80,204,80,204,75,236,75"/>
 </map>
 </div>
 
@@ -660,25 +776,33 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a0cab5d6d33615072f86551102971c307">Classes.Managers.BoxAndBlocksGameplayManager.onFirstPointReached()</a>, <a class="el" href="class_plane_gameplay_manager.html#a9725e681f1800293a0eb24f57dcbc2f4">PlaneGameplayManager.OnPlaneGrabbed()</a>, <a class="el" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#ad8d33a8fb28ac0c41bcee0b82587f15f">Classes.Managers.BoxAndBlocksGameplayManager.onTimeExpired()</a>, <a class="el" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a729362eaaad8d08c4d7ab785c52c6c11">Classes.Managers.LavaClimbGameplayManager.onWinConditionPointsReached()</a>, and <a class="el" href="class_master_architecture_gameplay_manager.html#abf3e1f01adca18cf1b64998f4e4ed06c">MasterArchitectureGameplayManager.onWinConditionPointsReached()</a>.</p>
+<p>Updates the message displayed on the scoreboard. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">s</td><td>The message to display. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="reference">Referenced by <a class="el" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a0cab5d6d33615072f86551102971c307">Classes.Managers.BoxAndBlocksGameplayManager.onFirstPointReached()</a>, <a class="el" href="class_planes_game_1_1_plane_gameplay_manager.html#a1b62417a0aeaaeda5e2bc9117e03f411">PlanesGame.PlaneGameplayManager.OnPlaneGrabbed()</a>, <a class="el" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#ad8d33a8fb28ac0c41bcee0b82587f15f">Classes.Managers.BoxAndBlocksGameplayManager.onTimeExpired()</a>, <a class="el" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a729362eaaad8d08c4d7ab785c52c6c11">Classes.Managers.LavaClimbGameplayManager.onWinConditionPointsReached()</a>, and <a class="el" href="class_master_architecture_gameplay_manager.html#abf3e1f01adca18cf1b64998f4e4ed06c">MasterArchitectureGameplayManager.onWinConditionPointsReached()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_points_manager_a9dbd8b470e8cd2452297b403b9df8a0e_icgraph.png" border="0" usemap="#aclass_points_manager_a9dbd8b470e8cd2452297b403b9df8a0e_icgraph" alt=""/></div>
 <map name="aclass_points_manager_a9dbd8b470e8cd2452297b403b9df8a0e_icgraph" id="aclass_points_manager_a9dbd8b470e8cd2452297b403b9df8a0e_icgraph">
-<area shape="rect" title=" " alt="" coords="491,139,708,181"/>
-<area shape="rect" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a0cab5d6d33615072f86551102971c307" title=" " alt="" coords="188,5,443,48"/>
-<area shape="poly" title=" " alt="" coords="557,132,504,96,442,62,412,51,414,46,444,58,507,91,560,127"/>
-<area shape="rect" href="class_plane_gameplay_manager.html#a9725e681f1800293a0eb24f57dcbc2f4" title="Handles the event when a plane is grabbed, updating the scoreboard message." alt="" coords="207,72,424,115"/>
-<area shape="poly" title=" " alt="" coords="490,137,409,118,410,113,492,132"/>
-<area shape="rect" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#ad8d33a8fb28ac0c41bcee0b82587f15f" title=" " alt="" coords="205,139,426,181"/>
-<area shape="poly" title=" " alt="" coords="476,163,426,163,426,157,476,157"/>
-<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a729362eaaad8d08c4d7ab785c52c6c11" title=" " alt="" coords="203,205,428,264"/>
-<area shape="poly" title=" " alt="" coords="502,188,429,208,428,202,500,183"/>
-<area shape="rect" href="class_master_architecture_gameplay_manager.html#abf3e1f01adca18cf1b64998f4e4ed06c" title=" " alt="" coords="188,288,443,331"/>
-<area shape="poly" title=" " alt="" coords="566,194,511,238,444,278,416,290,414,285,442,274,508,233,562,190"/>
-<area shape="rect" href="class_paper_plane.html#a15adc9f3c305e3f80bda5898a560afc9" title=" " alt="" coords="5,80,140,107"/>
-<area shape="poly" title=" " alt="" coords="191,96,140,96,140,91,191,91"/>
+<area shape="rect" title="Updates the message displayed on the scoreboard." alt="" coords="570,139,787,181"/>
+<area shape="rect" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#a0cab5d6d33615072f86551102971c307" title=" " alt="" coords="267,5,522,48"/>
+<area shape="poly" title=" " alt="" coords="636,132,583,96,521,62,491,51,493,46,523,58,586,91,639,127"/>
+<area shape="rect" href="class_planes_game_1_1_plane_gameplay_manager.html#a1b62417a0aeaaeda5e2bc9117e03f411" title="Handles the event when a plane is grabbed, updating the scoreboard message." alt="" coords="298,72,491,115"/>
+<area shape="poly" title=" " alt="" coords="569,137,488,118,489,113,571,132"/>
+<area shape="rect" href="class_classes_1_1_managers_1_1_box_and_blocks_gameplay_manager.html#ad8d33a8fb28ac0c41bcee0b82587f15f" title=" " alt="" coords="284,139,505,181"/>
+<area shape="poly" title=" " alt="" coords="555,163,505,163,505,157,555,157"/>
+<area shape="rect" href="class_classes_1_1_managers_1_1_lava_climb_gameplay_manager.html#a729362eaaad8d08c4d7ab785c52c6c11" title=" " alt="" coords="282,205,507,264"/>
+<area shape="poly" title=" " alt="" coords="581,188,508,208,507,202,579,183"/>
+<area shape="rect" href="class_master_architecture_gameplay_manager.html#abf3e1f01adca18cf1b64998f4e4ed06c" title=" " alt="" coords="267,288,522,331"/>
+<area shape="poly" title=" " alt="" coords="645,194,590,238,523,278,495,290,493,285,521,274,587,233,641,190"/>
+<area shape="rect" href="class_planes_game_1_1_paper_plane.html#a1452c2ea796459502f6df978695fbd87" title="Called when the object is grabbed, initializes the aiming process." alt="" coords="5,80,219,107"/>
+<area shape="poly" title=" " alt="" coords="282,96,219,96,219,91,282,91"/>
 </map>
 </div>
 

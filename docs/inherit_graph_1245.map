@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$class_unity_engine_1_1_input_system_1_1_input_binding_composite.html" title=" " alt="" coords="5,64,178,123"/>
-<area shape="rect" id="Node000001" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_axis_composite.html" title="A single axis value computed from a &quot;negative&quot; and a &quot;positive&quot; button." alt="" coords="252,5,434,48"/>
-<area shape="poly" id="edge2342_Node000000_Node000001" title=" " alt="" coords="192,64,259,46,260,51,193,69"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_button_with_one_modifier.html" title="A button with an additional modifier. The button only triggers when the modifier is pressed." alt="" coords="229,72,457,115"/>
-<area shape="poly" id="edge2343_Node000000_Node000002" title=" " alt="" coords="193,91,228,91,228,96,193,96"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_button_with_two_modifiers.html" title="A button with two additional modifiers. The button only triggers when both modifiers are pressed." alt="" coords="226,139,460,181"/>
-<area shape="poly" id="edge2344_Node000000_Node000003" title=" " alt="" coords="193,117,260,136,259,141,192,123"/>
-</map>

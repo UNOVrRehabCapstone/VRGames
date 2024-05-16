@@ -1,9 +1,0 @@
-<map id="UnityEngine.Timeline.TimelineAsset.CreateTrack" name="UnityEngine.Timeline.TimelineAsset.CreateTrack">
-<area shape="rect" id="Node000001" title="Allows you to create a track and add it to the Timeline." alt="" coords="249,72,444,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#ab040fa73a8448641a0c12b98e8c7e435" title="Creates a track and adds it to the Timeline Asset." alt="" coords="5,5,201,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,70,183,51,184,46,252,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#ae0a2d7ab08cea4b8dde0e296b6a18535" title="Creates a track and adds it to the Timeline Asset." alt="" coords="5,72,201,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,96,201,96,201,91,233,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_timeline_1_1_timeline_asset.html#af7f63eee1fa03dc03d9cbfe0c6d2fb01" title="Creates a track and adds it to the Timeline Asset." alt="" coords="5,139,201,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,122,184,141,183,135,251,117"/>
-</map>

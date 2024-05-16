@@ -1,4 +1,0 @@
-var class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_editor_settings_editor =
-[
-    [ "OnInspectorGUI", "class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_editor_settings_editor.html#aa1e2074c99f5e0d50991ba5dcb59b51c", null ]
-];

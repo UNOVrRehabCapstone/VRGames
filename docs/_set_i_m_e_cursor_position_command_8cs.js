@@ -1,4 +1,0 @@
-var _set_i_m_e_cursor_position_command_8cs =
-[
-    [ "UnityEngine.InputSystem.LowLevel.SetIMECursorPositionCommand", "struct_unity_engine_1_1_input_system_1_1_low_level_1_1_set_i_m_e_cursor_position_command.html", "struct_unity_engine_1_1_input_system_1_1_low_level_1_1_set_i_m_e_cursor_position_command" ]
-];

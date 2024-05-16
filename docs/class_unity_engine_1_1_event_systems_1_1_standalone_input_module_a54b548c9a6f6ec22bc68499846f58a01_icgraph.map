@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress" name="UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress">
-<area shape="rect" id="Node000001" title="Calculate and process any mouse button state changes." alt="" coords="333,5,614,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#a5ee4634ca3dbbf691484d60accaaed3d" title="Process all mouse events." alt="" coords="5,5,285,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,29,285,29,285,24,317,24"/>
-</map>

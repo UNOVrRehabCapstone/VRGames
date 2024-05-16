@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.GetBaseResolutionToUse" name="Oculus.Interaction.UnityCanvas.CanvasRenderTexture.GetBaseResolutionToUse">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,224,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#ac6a81511052ff3182623d2dad079a825" title=" " alt="" coords="272,5,495,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,32,256,32,256,37,224,37"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_unity_canvas_1_1_canvas_render_texture.html#a05cd2adf265bb8921364c1d0f3919a3c" title=" " alt="" coords="543,5,770,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,32,527,32,527,37,496,37"/>
-</map>

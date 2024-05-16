@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.LateUpdate" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.LateUpdate">
-<area shape="rect" id="Node000001" title="See MonoBehaviour." alt="" coords="5,47,224,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a89a6376ba954eb140a7b5b4e4cb133b1" title="Automatically called each frame to process all interactables registered with this manager." alt="" coords="272,5,513,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,57,256,52,257,58,225,62"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#a752d3a2c585975a6b15769d420755a26" title="Automatically called each frame to process all interactors registered with this manager." alt="" coords="272,88,513,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,90,257,94,256,100,224,95"/>
-</map>

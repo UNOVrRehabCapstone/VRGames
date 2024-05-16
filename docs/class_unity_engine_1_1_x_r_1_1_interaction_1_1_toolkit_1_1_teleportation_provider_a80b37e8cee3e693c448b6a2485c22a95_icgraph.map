@@ -1,6 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.TeleportationProvider.QueueTeleportRequest" name="UnityEngine.XR.Interaction.Toolkit.TeleportationProvider.QueueTeleportRequest">
-<area shape="rect" id="Node000001" title="This function will queue a teleportation request within the provider." alt="" coords="292,29,517,88"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_teleportation_interactable.html#a5449fd75b65e1ce71641a5f11b0af446" title="Automatically called upon the teleport trigger event occurring to generate the teleport request...." alt="" coords="5,29,244,88"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,61,244,61,244,56,276,56"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="170,17,153,11,124,8,100,10,84,15,76,21,75,29,70,29,71,19,81,10,99,5,125,3,154,5,172,13"/>
-</map>

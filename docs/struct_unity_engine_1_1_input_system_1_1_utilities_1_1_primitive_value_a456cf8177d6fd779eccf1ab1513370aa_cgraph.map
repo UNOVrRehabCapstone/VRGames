@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToSingle" name="UnityEngine.InputSystem.Utilities.PrimitiveValue.ToSingle">
-<area shape="rect" id="Node000001" title="Convert the value to a float." alt="" coords="5,5,210,48"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_primitive_value.html#a1d9371d914743b108f46a4fa012c6c3f" title="Convert the value to a double." alt="" coords="258,5,466,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
-</map>

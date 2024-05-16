@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Layouts.InputDeviceDescription.operator!=" name="UnityEngine.InputSystem.Layouts.InputDeviceDescription.operator!=">
-<area shape="rect" id="Node000001" title="Compare the two device descriptions for inequality." alt="" coords="5,13,270,56"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_layouts_1_1_input_device_description.html#ac517f41168a9e592d25b267005777816" title="Compare the description to the given other &#160;description." alt="" coords="318,5,524,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,32,302,32,302,37,270,37"/>
-</map>

@@ -1,6 +1,0 @@
-var _transform_feature_state_thresholds_8cs =
-[
-    [ "Oculus.Interaction.PoseDetection.TransformFeatureStateThreshold", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_threshold.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_threshold" ],
-    [ "Oculus.Interaction.PoseDetection.TransformFeatureThresholds", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_thresholds.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_thresholds" ],
-    [ "Oculus.Interaction.PoseDetection.TransformFeatureStateThresholds", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_thresholds.html", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_thresholds" ]
-];

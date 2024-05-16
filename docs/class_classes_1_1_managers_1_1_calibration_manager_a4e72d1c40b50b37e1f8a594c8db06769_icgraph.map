@@ -1,7 +1,22 @@
 <map id="Classes.Managers.CalibrationManager.SetCalBtnsActive" name="Classes.Managers.CalibrationManager.SetCalBtnsActive">
-<area shape="rect" id="Node000001" title=" " alt="" coords="248,39,442,81"/>
-<area shape="rect" id="Node000002" href="$class_classes_1_1_managers_1_1_calibration_manager.html#ab4e8e3cf0604083f1f788c7c32beb7ab" title=" " alt="" coords="5,5,200,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,47,200,43,200,37,232,42"/>
-<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a20ad62a43259f7cc6376e4f2c53344bb" title=" " alt="" coords="5,72,200,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,78,200,83,200,77,232,73"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="722,132,917,175"/>
+<area shape="rect" id="Node000002" href="$class_calibration_sphere_selector.html#a62501e7435825de7dc5f9e649038b408" title=" " alt="" coords="257,132,432,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,156,433,156,433,151,707,151"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_calibration_manager.html#ab4e8e3cf0604083f1f788c7c32beb7ab" title=" " alt="" coords="480,73,674,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="713,130,668,119,669,114,715,125"/>
+<area shape="rect" id="Node000009" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a20ad62a43259f7cc6376e4f2c53344bb" title=" " alt="" coords="480,191,674,233"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="715,181,669,193,668,187,713,176"/>
+<area shape="rect" id="Node000004" href="$class_calibrator.html#ac1f8ca8cf3a1a8c3e37990acbd2a4763" title=" " alt="" coords="279,81,410,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,97,410,97,410,92,465,92"/>
+<area shape="rect" id="Node000005" href="$class_calibrator.html#aa3957a5875d182103faa361a8ff2b657" title=" " alt="" coords="6,5,208,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="294,78,208,47,167,35,169,30,209,41,296,73"/>
+<area shape="rect" id="Node000006" href="$class_calibrator.html#a79d74d1cbbdf8fee747e9a7879263e87" title=" " alt="" coords="6,56,208,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="263,89,208,83,208,77,263,83"/>
+<area shape="rect" id="Node000007" href="$class_calibrator.html#a10b9d6ec64fd73e4f191f23913d1d262" title=" " alt="" coords="5,107,209,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="264,106,209,112,209,106,263,101"/>
+<area shape="rect" id="Node000008" href="$class_calibrator.html#a09e35c563ee965921a506a5163bfdbc8" title=" " alt="" coords="5,157,209,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="276,116,258,122,234,135,210,148,174,159,172,154,208,143,231,130,256,118,274,111"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="475,189,431,178,432,173,476,184"/>
+<area shape="rect" id="Node000010" href="$class_calibrator.html#a8dcde7b7f9adf25823d04d1488f6d559" title=" " alt="" coords="257,199,432,225"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="464,215,432,215,432,209,464,209"/>
 </map>

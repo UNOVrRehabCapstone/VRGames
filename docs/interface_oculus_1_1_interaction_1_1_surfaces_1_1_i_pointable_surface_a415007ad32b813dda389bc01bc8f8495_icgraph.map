@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.Surfaces.IPointableSurface.GetSurfaceDistanceBetween" name="Oculus.Interaction.Surfaces.IPointableSurface.GetSurfaceDistanceBetween">
-<area shape="rect" id="Node000001" title="Find the distance between two world space surface points in the surface&#39;s frame of reference." alt="" coords="272,5,514,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_poke_interactor.html#a2877bf7a18e9399f8e35e0b457610335" title=" " alt="" coords="5,13,224,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,37,224,37,224,32,256,32"/>
-</map>

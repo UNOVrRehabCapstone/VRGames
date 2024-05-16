@@ -1,6 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.TransformFeatureValueProvider.GetTargetVectorForFeature" name="Oculus.Interaction.PoseDetection.TransformFeatureValueProvider.GetTargetVectorForFeature">
-<area shape="rect" id="Node000001" title=" " alt="" coords="322,29,584,88"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="504,18,485,11,453,8,425,10,407,15,398,21,397,29,392,29,393,19,405,10,424,5,453,3,486,5,506,12"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_provider.html#ae6b68da91b15d57f692c52023785baf3" title=" " alt="" coords="5,29,274,88"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,61,274,61,274,56,306,56"/>
-</map>

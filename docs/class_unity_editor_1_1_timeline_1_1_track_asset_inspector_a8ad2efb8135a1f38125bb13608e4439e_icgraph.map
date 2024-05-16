@@ -1,9 +1,0 @@
-<map id="UnityEditor.Timeline.TrackAssetInspector.IsTrackLocked" name="UnityEditor.Timeline.TrackAssetInspector.IsTrackLocked">
-<area shape="rect" id="Node000001" title=" " alt="" coords="258,72,454,115"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_activation_track_inspector.html#ae4e4c55bcc4457c69eea5e23ffb7b72f" title=" " alt="" coords="6,5,209,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,70,189,51,190,46,260,65"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_animation_track_inspector.html#a5a483d7eb872d00815f6efbff9383cd7" title=" " alt="" coords="6,72,209,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,96,209,96,209,91,242,91"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_timeline_1_1_track_asset_inspector.html#a91e6bef11d75392d165c5e412cf91e6a" title=" " alt="" coords="5,139,210,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,122,190,141,189,135,258,117"/>
-</map>

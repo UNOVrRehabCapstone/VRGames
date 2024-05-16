@@ -1,4 +1,0 @@
-var _simple_string_entity_handler_editor_8cs =
-[
-    [ "Facebook.WitAi.CallbackHandlers.SimpleStringEntityHandlerEditor", "class_facebook_1_1_wit_ai_1_1_callback_handlers_1_1_simple_string_entity_handler_editor.html", "class_facebook_1_1_wit_ai_1_1_callback_handlers_1_1_simple_string_entity_handler_editor" ]
-];

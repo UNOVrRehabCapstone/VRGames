@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Controls.QuaternionControl" name="UnityEngine.InputSystem.Controls.QuaternionControl">
-<area shape="rect" id="Node000001" title="A generic input control reading quaternion (rotation) values." alt="" coords="5,80,183,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_control.html" title=" " alt="" coords="5,5,183,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
-</map>

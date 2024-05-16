@@ -1,9 +1,0 @@
-<map id="OVRMonoscopic" name="OVRMonoscopic">
-<area shape="rect" id="Node000001" title="Allows you to toggle monoscopic rendering with a gamepad button press." alt="" coords="40,187,160,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,115,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,136,97,185,92,187,69,138"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="139,96,216,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,136,113,188,109,184,155,133"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="151,5,204,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,48,180,95,175,95,175,48"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.HandVisual.UpdateSkeleton" name="Oculus.Interaction.HandVisual.UpdateSkeleton">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,206,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a30332ad3a8fe029c784a7c865c309cd3" title="Returns an array containing the local pose of each joint. The poses do not have the root pose applied..." alt="" coords="254,5,425,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,43,238,38,239,44,207,48"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand.html#a0b79f3827ac781786e0e041e0120c71e" title="Gets the root pose of the wrist, in world space. Will return true if a pose was available; false othe..." alt="" coords="258,72,421,115"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,72,243,77,242,82,206,77"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_cache.html#ac23945445fef2f86e9cf4ced57582471" title=" " alt="" coords="473,5,696,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,24,457,24,457,29,426,29"/>
-</map>

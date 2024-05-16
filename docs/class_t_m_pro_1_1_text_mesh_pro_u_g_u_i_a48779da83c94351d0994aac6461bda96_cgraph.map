@@ -1,7 +1,0 @@
-<map id="TMPro.TextMeshProUGUI.OnDestroy" name="TMPro.TextMeshProUGUI.OnDestroy">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,198,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_graphic_registry.html#a869a84b5e3cba0988532ac2291bf98e8" title="Dissociates a Graphic from a Canvas, removing this association from the registry." alt="" coords="246,5,454,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_graphic_registry.html#a1e285f5dd216def70e4b28f9fdea8c61" title="Dissociates a Graphic from a Canvas, removing this association from the registry." alt="" coords="502,5,736,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,24,486,24,486,29,455,29"/>
-</map>

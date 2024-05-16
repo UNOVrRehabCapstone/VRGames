@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Samples.RebindUI.GamepadIconsExample.OnEnable" name="UnityEngine.InputSystem.Samples.RebindUI.GamepadIconsExample.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_rebind_u_i_1_1_gamepad_icons_example.html#abfef9600aedb8b56b2168323a584e0da" title=" " alt="" coords="273,5,493,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,32,257,32,257,37,225,37"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_samples_1_1_rebind_u_i_1_1_gamepad_icons_example_1_1_gamepad_icons.html#a08270fdffbec279a39f4fe799acddcc5" title=" " alt="" coords="541,5,763,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,32,525,32,525,37,493,37"/>
-</map>

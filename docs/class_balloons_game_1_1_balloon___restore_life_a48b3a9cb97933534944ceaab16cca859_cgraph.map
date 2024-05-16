@@ -1,5 +1,9 @@
 <map id="BalloonsGame.Balloon_RestoreLife.ExtraPopEffects" name="BalloonsGame.Balloon_RestoreLife.ExtraPopEffects">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,197,48"/>
-<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="245,5,425,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,197,115"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_player_manager.html#acbb5708c8bf6c3527e3ca239c0a631ad" title=" " alt="" coords="245,5,446,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,69,249,50,251,55,183,74"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon_spawn_manager.html#ad6ed2249a021dbae66abf87b2c77a6ae" title=" " alt="" coords="249,72,442,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,91,233,91,233,96,197,96"/>
+<area shape="rect" id="Node000004" href="$class_balloons_game_1_1_balloon.html#a929f1309ed1dbec29b5f43f01f4a159e" title=" " alt="" coords="255,139,436,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,113,251,131,249,137,181,118"/>
 </map>

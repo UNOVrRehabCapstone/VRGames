@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.RayInteractorPinchVisual.InjectAllRayInteractorPinchVisual" name="Oculus.Interaction.RayInteractorPinchVisual.InjectAllRayInteractorPinchVisual">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,223,123"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_ray_interactor_pinch_visual.html#ac3e35fdb9c8afe67591548d59b155570" title=" " alt="" coords="295,5,503,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,65,289,50,290,55,224,70"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_ray_interactor_pinch_visual.html#ae284a81ddcdc4ce474d92bd86b9b8771" title=" " alt="" coords="295,72,503,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,91,280,91,280,96,223,96"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_ray_interactor_pinch_visual.html#ac6adf6260224cab99d8b9754c83d61b4" title=" " alt="" coords="271,139,527,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,116,290,132,289,137,223,121"/>
-</map>

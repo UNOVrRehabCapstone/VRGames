@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal.Send&lt; T &gt;" name="Unity.Services.Core.Threading.Internal.UnityThreadUtilsInternal.Send&lt; T &gt;">
-<area shape="rect" id="Node000001" title="Execute the given action &#160;on the Unity thread. Wait for the execution to finish before resuming this ..." alt="" coords="5,5,214,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_threading_1_1_internal_1_1_unity_thread_utils_internal.html#acf4c0d69337e118ffb77e4105bd3fcda" title="Create a task out of the given action &#160;that will be invoked on the Unity thread." alt="" coords="262,5,470,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,32,246,32,246,37,214,37"/>
-</map>

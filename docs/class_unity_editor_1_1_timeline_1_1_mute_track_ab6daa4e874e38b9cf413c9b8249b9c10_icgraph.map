@@ -1,8 +1,0 @@
-<map id="UnityEditor.Timeline.MuteTrack.Mute" name="UnityEditor.Timeline.MuteTrack.Mute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="259,39,429,81"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="382,26,368,20,344,17,322,19,308,24,303,30,304,38,299,39,297,29,305,20,320,14,344,12,369,14,384,21"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_timeline_track_base_g_u_i.html#a7a125e4b435287e85d98024aebaa9803" title=" " alt="" coords="5,5,211,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,48,211,44,212,39,244,43"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_timeline_1_1_mute_track.html#aefb6f7e8d273267c697c55905338dc43" title=" " alt="" coords="23,72,193,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,77,194,84,193,79,243,72"/>
-</map>

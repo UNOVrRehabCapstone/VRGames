@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnDeactivated" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable.OnDeactivated">
-<area shape="rect" id="Node000001" title="XRBaseControllerInteractor calls this method when the Interactor ends an activation event on this Int..." alt="" coords="5,5,270,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactable.html#aa143a79e3e478881c583b2f74a1bd988" title="(Deprecated) The XRBaseControllerInteractor calls this method when the Interactor ends an activation ..." alt="" coords="318,5,575,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,24,302,24,302,29,270,29"/>
-</map>

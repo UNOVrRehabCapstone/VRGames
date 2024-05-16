@@ -1,7 +1,0 @@
-<map id="TMPro.TMP_Text.GetRenderedWidth" name="TMPro.TMP_Text.GetRenderedWidth">
-<area shape="rect" id="Node000001" title="Method returning the rendered width of the text object." alt="" coords="5,5,208,48"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_t_m_p___text.html#aac1235e0778a66ae1cf9c174196171c5" title="Method returning the rendered width and height of the text object." alt="" coords="256,5,458,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,24,240,24,240,29,208,29"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_t_m_p___text.html#a283ef3decc85a36d428cbc270647dde6" title="Method which returns the bounds of the text object;." alt="" coords="506,13,722,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,24,490,24,490,29,458,29"/>
-</map>

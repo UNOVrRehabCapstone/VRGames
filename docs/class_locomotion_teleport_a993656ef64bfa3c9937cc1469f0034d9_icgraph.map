@@ -1,5 +1,0 @@
-<map id="LocomotionTeleport.GetCharacterPosition" name="LocomotionTeleport.GetCharacterPosition">
-<area shape="rect" id="Node000001" title="Convenience method for finding the character&#39;s position." alt="" coords="227,5,442,48"/>
-<area shape="rect" id="Node000002" href="$class_teleport_target_handler_nav_mesh.html#a8e4b6d4bfa12f35aed9dba5b264e410e" title="This version of ConsiderDestination will only return a valid location if the pathing system is able t..." alt="" coords="5,5,179,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,29,179,29,179,24,211,24"/>
-</map>

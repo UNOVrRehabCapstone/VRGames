@@ -1,5 +1,0 @@
-var namespace_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_project_downloader =
-[
-    [ "CommandLineArgumentsTests", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_project_downloader_1_1_command_line_arguments_tests.html", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_project_downloader_1_1_command_line_arguments_tests" ],
-    [ "ParseArgumentsTest", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_project_downloader_1_1_parse_arguments_test.html", "class_unity_1_1_plastic_s_c_m_1_1_tests_1_1_editor_1_1_project_downloader_1_1_parse_arguments_test" ]
-];

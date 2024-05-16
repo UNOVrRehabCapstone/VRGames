@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.TagInteractableFilter" name="Oculus.Interaction.TagInteractableFilter">
-<area shape="rect" id="Node000001" title="An Interactable Filter that uses tags to filter Interactables." alt="" coords="20,80,239,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,42,114,78,110,82,79,46"/>
-<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_i_interactable_filter.html" title=" " alt="" coords="139,5,259,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,46,149,82,145,78,176,42"/>
-</map>

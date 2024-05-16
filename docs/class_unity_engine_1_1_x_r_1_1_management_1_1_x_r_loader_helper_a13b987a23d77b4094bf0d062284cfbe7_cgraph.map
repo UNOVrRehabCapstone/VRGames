@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Management.XRLoaderHelper.StopSubsystem&lt; T &gt;" name="UnityEngine.XR.Management.XRLoaderHelper.StopSubsystem&lt; T &gt;">
-<area shape="rect" id="Node000001" title="Stop a subsystem instance of a given type. Subsystem assumed to already be loaded from a previous cal..." alt="" coords="5,5,247,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader_helper.html#aa29b639b818c3bbede33ece1a7c2f165" title="Gets the loaded subsystem of the specified type. Implementation dependent as only implemetnations kno..." alt="" coords="295,5,572,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,24,279,24,279,29,247,29"/>
-</map>

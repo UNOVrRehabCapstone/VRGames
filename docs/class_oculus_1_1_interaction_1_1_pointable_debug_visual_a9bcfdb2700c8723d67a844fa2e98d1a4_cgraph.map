@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.PointableDebugVisual.InjectAllPointableDebugVisual" name="Oculus.Interaction.PointableDebugVisual.InjectAllPointableDebugVisual">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,241,89"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pointable_debug_visual.html#a98f491bad7a46e18f9c2302e14c2667f" title=" " alt="" coords="289,5,473,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,42,272,38,273,43,241,47"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_pointable_debug_visual.html#a1cfb40bebd113ff3559d4250fc6cdcc3" title=" " alt="" coords="289,72,473,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,73,273,77,272,82,241,78"/>
-</map>

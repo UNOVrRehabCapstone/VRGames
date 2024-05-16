@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.ContentSizeFitter.SetLayoutVertical" name="UnityEngine.UI.ContentSizeFitter.SetLayoutVertical">
-<area shape="rect" id="Node000001" title="Calculate and apply the vertical component of the size to the RectTransform." alt="" coords="266,72,448,115"/>
-<area shape="rect" id="Node000002" href="$class_layout_tests_1_1_content_size_fitter_tests.html#a0e6c5d50c3be10028117d9f40996592e" title=" " alt="" coords="13,5,210,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,70,192,51,193,46,262,65"/>
-<area shape="rect" id="Node000003" href="$class_layout_tests_1_1_content_size_fitter_tests.html#afa071029e14150aba083d5f6bb7e27b3" title=" " alt="" coords="8,72,215,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,96,216,96,216,91,250,91"/>
-<area shape="rect" id="Node000004" href="$class_layout_tests_1_1_content_size_fitter_tests.html#a4fe2595d3d532de997ac99488f6945be" title=" " alt="" coords="5,139,218,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,122,193,141,192,135,260,117"/>
-</map>

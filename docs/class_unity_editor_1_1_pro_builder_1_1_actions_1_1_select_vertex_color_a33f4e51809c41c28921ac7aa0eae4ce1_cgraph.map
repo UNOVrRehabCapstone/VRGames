@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectVertexColor.OnSettingsGUI" name="UnityEditor.ProBuilder.Actions.SelectVertexColor.OnSettingsGUI">
-<area shape="rect" id="Node000001" title="Implement the extra settings GUI for your action in this method." alt="" coords="5,5,223,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="271,5,456,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,24,255,24,255,29,223,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="504,5,736,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,24,488,24,488,29,456,29"/>
-</map>

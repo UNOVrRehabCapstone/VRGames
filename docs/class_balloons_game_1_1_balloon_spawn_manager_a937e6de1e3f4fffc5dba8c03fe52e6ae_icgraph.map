@@ -1,0 +1,9 @@
+<map id="BalloonsGame.BalloonSpawnManager.StopAutomaticSpawner" name="BalloonsGame.BalloonSpawnManager.StopAutomaticSpawner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="545,39,756,81"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a0f03d1c73ed941dacdeaed9d0d7b58c6" title=" " alt="" coords="272,5,497,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,47,497,43,498,38,530,42"/>
+<area shape="rect" id="Node000004" href="$class_classes_1_1_managers_1_1_balloon_gameplay_manager.html#a754b15a2ea2dba2646cce62d2b0e7e52" title=" " alt="" coords="296,72,473,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,78,473,85,473,80,529,73"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon___stream___powerup.html#a2a476c764cc8789e21ba7b9bec8b393a" title=" " alt="" coords="5,5,224,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
+</map>

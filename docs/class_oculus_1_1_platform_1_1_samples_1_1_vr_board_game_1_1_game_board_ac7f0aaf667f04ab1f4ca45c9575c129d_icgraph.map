@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.Samples.VrBoardGame.GameBoard.AddPiece" name="Oculus.Platform.Samples.VrBoardGame.GameBoard.AddPiece">
-<area shape="rect" id="Node000001" title=" " alt="" coords="287,55,523,97"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#aef7f27e6a4f123b6c797bf87bcbfe1a3" title=" " alt="" coords="5,5,239,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,59,239,54,240,49,272,54"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_samples_1_1_vr_board_game_1_1_game_controller.html#acbd69f7f45ebc35f69d82a987eb09bd8" title=" " alt="" coords="12,88,232,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,98,232,104,232,99,271,93"/>
-</map>

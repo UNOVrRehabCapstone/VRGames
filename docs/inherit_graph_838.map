@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,96,152,123"/>
-<area shape="rect" id="Node000001" href="$class_unity_1_1_subsystem_1_1_registration_1_1_standalone_subsystem_test_fixture_1_1_test_subsystem_descriptor.html" title=" " alt="" coords="219,5,466,64"/>
-<area shape="poly" id="edge1783_Node000000_Node000001" title=" " alt="" coords="142,89,236,62,237,67,144,94"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_x_r_gesture_subsystem_descriptor.html" title="Descriptor for the XRGestureSubsystem describing capabilities which may vary by implementation." alt="" coords="200,88,485,131"/>
-<area shape="poly" id="edge1784_Node000000_Node000002" title=" " alt="" coords="168,107,199,107,199,112,168,112"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_tests_1_1_standalone_1_1_standalone_subsystem_descriptor.html" title=" " alt="" coords="214,155,471,213"/>
-<area shape="poly" id="edge1785_Node000000_Node000003" title=" " alt="" coords="144,125,237,152,236,157,142,130"/>
-</map>

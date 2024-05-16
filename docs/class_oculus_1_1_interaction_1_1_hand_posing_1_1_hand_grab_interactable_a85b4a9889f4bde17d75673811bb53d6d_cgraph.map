@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.HandGrabInteractable.GenerateObjectToHandTween" name="Oculus.Interaction.HandPosing.HandGrabInteractable.GenerateObjectToHandTween">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,247,89"/>
-<area shape="rect" id="Node000002" href="$struct_oculus_1_1_interaction_1_1_hand_posing_1_1_pose_travel_data.html#ae47588bedc2b0c340f926043973c89f5" title=" " alt="" coords="295,5,517,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,43,279,39,280,44,248,48"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_tween.html#a6b18aec4b7bcf5a6952ac95e5abf3540" title=" " alt="" coords="320,72,492,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,72,305,79,305,84,247,77"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_tween.html#aa696d5ce17b7b9fa20eeb6fca2519614" title=" " alt="" coords="565,72,736,115"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,91,550,91,550,96,492,96"/>
-</map>

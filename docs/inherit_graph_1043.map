@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_telemetry_payload.html" title=" " alt="" coords="5,39,206,81"/>
-<area shape="rect" id="Node000001" href="$struct_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_diagnostics_payload.html" title=" " alt="" coords="254,5,454,48"/>
-<area shape="poly" id="edge1888_Node000000_Node000001" title=" " alt="" coords="221,42,253,37,254,43,222,47"/>
-<area shape="rect" id="Node000002" href="$struct_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_metrics_payload.html" title=" " alt="" coords="254,72,454,115"/>
-<area shape="poly" id="edge1889_Node000000_Node000002" title=" " alt="" coords="222,73,254,77,253,83,221,78"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEngine.UI.MaskableGraphic.GetModifiedMaterial" name="UnityEngine.UI.MaskableGraphic.GetModifiedMaterial">
-<area shape="rect" id="Node000001" title="See IMaterialModifier.GetModifiedMaterial." alt="" coords="5,39,222,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a841cb449dbe16944f1e40e747aac153e" title="Find a root Canvas." alt="" coords="270,5,460,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,43,254,39,255,44,222,48"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_mask_utilities.html#a91c518e0d8a9ba77444e8b93da16cf6c" title="Find the stencil depth for a given element." alt="" coords="270,72,460,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,72,255,76,254,81,222,77"/>
-</map>

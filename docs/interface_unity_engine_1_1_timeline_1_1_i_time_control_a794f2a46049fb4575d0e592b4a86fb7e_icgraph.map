@@ -1,5 +1,0 @@
-<map id="UnityEngine.Timeline.ITimeControl.OnControlTimeStart" name="UnityEngine.Timeline.ITimeControl.OnControlTimeStart">
-<area shape="rect" id="Node000001" title="Called when the associated Timeline clip becomes active." alt="" coords="269,5,449,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_timeline_1_1_time_control_playable.html#a75460a3385ed7fb3d554701097b1036e" title="This function is called when the Playable play state is changed to Playables.PlayState...." alt="" coords="5,5,221,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,29,221,29,221,24,253,24"/>
-</map>

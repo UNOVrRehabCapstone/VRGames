@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.VirtualSelector.UpdateSelection" name="Oculus.Interaction.VirtualSelector.UpdateSelection">
-<area shape="rect" id="Node000001" title=" " alt="" coords="221,72,389,115"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_virtual_selector.html#a21ac23abde683eca4d351b762c5cd9a6" title=" " alt="" coords="5,5,173,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,69,160,51,161,46,220,64"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_virtual_selector.html#a2aabfcfc1ed2e44b230ce4a51f967a5f" title=" " alt="" coords="5,72,173,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,96,173,96,173,91,205,91"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_virtual_selector.html#a5236041aab04dd975eab4605ea80f779" title=" " alt="" coords="5,139,173,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,122,161,141,160,135,218,117"/>
-</map>

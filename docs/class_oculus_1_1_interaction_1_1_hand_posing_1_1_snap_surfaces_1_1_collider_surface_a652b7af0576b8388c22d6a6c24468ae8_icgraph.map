@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface.InjectCollider" name="Oculus.Interaction.HandPosing.SnapSurfaces.ColliderSurface.InjectCollider">
-<area shape="rect" id="Node000001" title=" " alt="" coords="848,5,1077,64"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_collider_surface.html#a75b5e486e585413a9b61b9f3eb3e868e" title=" " alt="" coords="572,5,800,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,37,801,37,801,32,833,32"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_collider_surface.html#a7cad0927a51fe8524112ede478f74940" title="Creates a new ISnapSurface under the selected gameobject with the same data as this one." alt="" coords="289,5,524,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="557,37,524,37,524,32,557,32"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_collider_surface.html#acf2c6b9e0d30933634d7fbe8e6ac406f" title="Creates a new ISnapSurface under the selected gameobject that is a mirror version of the current." alt="" coords="5,5,241,64"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="273,37,241,37,241,32,273,32"/>
-</map>

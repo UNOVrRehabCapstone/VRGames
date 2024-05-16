@@ -1,9 +1,0 @@
-<map id="OVR.AudioManager.DetachSoundsFromParent" name="OVR.AudioManager.DetachSoundsFromParent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,231,77"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_emitter.html#a3dfeeef02b5e816dc7e48eac86d10e80" title=" " alt="" coords="279,5,486,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,41,263,37,264,43,231,46"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_sound_emitter.html#a6b1f31103f9447056a2ccf706e3c34cf" title=" " alt="" coords="301,72,464,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,66,285,72,285,77,231,71"/>
-<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_sound_group.html#a52b436b88ba231eea13c5a54f3bd54f6" title=" " alt="" coords="534,64,726,107"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,83,518,83,518,88,465,88"/>
-</map>

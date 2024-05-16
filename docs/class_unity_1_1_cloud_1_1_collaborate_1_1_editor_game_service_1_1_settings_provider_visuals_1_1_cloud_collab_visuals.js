@@ -1,5 +1,0 @@
-var class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals =
-[
-    [ "GetVisuals", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals.html#ae18b82a6b26784829eab8f4c1aa6a8f8", null ],
-    [ "Init", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals.html#adf8d6591b5bc02033483871a9ad81f5e", null ]
-];

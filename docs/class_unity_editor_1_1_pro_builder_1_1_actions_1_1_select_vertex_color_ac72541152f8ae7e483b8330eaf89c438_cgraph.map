@@ -1,8 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectVertexColor.PerformActionImplementation" name="UnityEditor.ProBuilder.Actions.SelectVertexColor.PerformActionImplementation">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,306,93"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_pro_builder_editor.html#af4c668cdfe80cc365a0b4245a8a8cdcc" title="Rebuilds the mesh wireframe and selection caches." alt="" coords="369,5,543,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,47,353,39,354,45,301,53"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_pro_builder_mesh.html#a97a433d48049fc9477def1465f17c57f" title="Sets the face selection for this mesh. Also sets the vertex and edge selection to match." alt="" coords="354,96,558,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="301,91,339,97,338,102,300,97"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="400,96,397,86,407,77,426,71,456,69,488,72,507,78,505,83,487,77,456,75,427,77,409,81,402,87,405,95"/>
-</map>

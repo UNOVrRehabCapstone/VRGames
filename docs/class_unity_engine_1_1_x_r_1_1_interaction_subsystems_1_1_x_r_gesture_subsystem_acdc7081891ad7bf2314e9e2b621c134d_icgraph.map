@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Start" name="UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem.Start">
-<area shape="rect" id="Node000001" title="Starts or resumes the Gesture subsystem." alt="" coords="316,13,574,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_subsystems_1_1_tests_1_1_x_r_gesture_subsystem_test_fixture.html#a716cdf73918212d08291b3e9ec98941d" title=" " alt="" coords="5,5,268,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,37,268,37,268,32,300,32"/>
-</map>

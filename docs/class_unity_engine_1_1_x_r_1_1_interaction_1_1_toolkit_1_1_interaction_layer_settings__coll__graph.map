@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings" name="UnityEngine.XR.Interaction.Toolkit.InteractionLayerSettings">
-<area shape="rect" id="Node000001" title="Configuration class for interaction layers. Stores all interaction layers." alt="" coords="103,96,306,139"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings.html" title=" " alt="" coords="5,5,191,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,56,181,93,178,97,133,60"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="214,13,409,40"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,52,231,98,228,94,283,48"/>
-</map>

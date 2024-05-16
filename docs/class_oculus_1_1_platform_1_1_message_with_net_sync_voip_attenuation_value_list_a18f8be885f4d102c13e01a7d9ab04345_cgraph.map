@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.MessageWithNetSyncVoipAttenuationValueList.GetDataFromMessage" name="Oculus.Platform.MessageWithNetSyncVoipAttenuationValueList.GetDataFromMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,227,93"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a7c51b06a4c8c791b4a5be1c38d21b496" title=" " alt="" coords="302,5,499,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,47,286,39,287,44,227,52"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a3c0e5e39f08ef47b090959562b689703" title=" " alt="" coords="275,72,526,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,76,259,80,259,85,227,81"/>
-</map>

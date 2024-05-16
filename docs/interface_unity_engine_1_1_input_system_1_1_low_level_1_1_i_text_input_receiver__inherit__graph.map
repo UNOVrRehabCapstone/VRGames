@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.ITextInputReceiver" name="UnityEngine.InputSystem.LowLevel.ITextInputReceiver">
-<area shape="rect" id="Node000001" title="Interface for InputDevice classes that can receive text input events." alt="" coords="5,5,188,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_keyboard.html" title="Represents a standard, physical PC&#45;type keyboard." alt="" coords="10,96,183,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,64,99,96,94,96,94,64"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="10,187,183,229"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,154,99,186,94,186,94,154"/>
-</map>

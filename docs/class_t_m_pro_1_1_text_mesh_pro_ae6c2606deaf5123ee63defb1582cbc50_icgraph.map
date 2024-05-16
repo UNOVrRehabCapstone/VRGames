@@ -1,6 +1,0 @@
-<map id="TMPro.TextMeshPro.SetMask" name="TMPro.TextMeshPro.SetMask">
-<area shape="rect" id="Node000001" title="Function used to set the mask type and coordinates in World Space." alt="" coords="250,29,446,56"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="390,17,376,10,348,8,322,10,308,15,305,20,311,27,307,31,299,21,305,11,321,5,348,3,377,5,393,12"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro.html#a907c0bf8a284315eba6099f07dd98a38" title="Function used to set the mask type, coordinates and softness." alt="" coords="5,29,202,56"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="234,45,202,45,202,40,234,40"/>
-</map>

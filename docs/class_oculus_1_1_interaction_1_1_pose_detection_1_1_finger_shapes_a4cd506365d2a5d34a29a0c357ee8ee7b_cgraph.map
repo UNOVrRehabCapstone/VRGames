@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.FingerShapes.GetAbductionValue" name="Oculus.Interaction.PoseDetection.FingerShapes.GetAbductionValue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,225,115"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_utils.html#a763a487ad4cb0a774ada6a1f0e631c7d" title="Returns the &quot;proximal&quot; JointId for the given finger. This is commonly known as the Knuckle...." alt="" coords="273,5,519,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,69,287,50,289,55,208,74"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_input_1_1_hand_joint_utils.html#a6db2ccbf73c6aa6e57ba9db0912f0ba8" title=" " alt="" coords="290,72,502,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,91,274,91,274,96,225,96"/>
-<area shape="rect" id="Node000004" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2593ffbabd0465579263777b2f2a7bef" title="Returns an array containing the pose of each joint relative to the wrist. The poses do not have the r..." alt="" coords="294,139,498,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,113,289,132,287,137,207,118"/>
-</map>

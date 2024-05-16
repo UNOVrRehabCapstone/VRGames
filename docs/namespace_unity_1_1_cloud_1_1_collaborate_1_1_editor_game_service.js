@@ -1,8 +1,0 @@
-var namespace_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service =
-[
-    [ "SettingsProviderVisuals", "namespace_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals.html", "namespace_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals" ],
-    [ "CloudCollabEnabler", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_enabler.html", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_enabler" ],
-    [ "CloudCollabService", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service.html", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service" ],
-    [ "CloudCollabServiceIdentifier", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service_identifier.html", "struct_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_service_identifier" ],
-    [ "CloudCollabSettingsProvider", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_settings_provider.html", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_cloud_collab_settings_provider" ]
-];

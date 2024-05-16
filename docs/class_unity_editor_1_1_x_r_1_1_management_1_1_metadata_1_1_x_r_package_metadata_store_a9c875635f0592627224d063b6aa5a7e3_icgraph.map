@@ -1,7 +1,0 @@
-<map id="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.GetAllPackageMetadataForBuildTarget" name="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.GetAllPackageMetadataForBuildTarget">
-<area shape="rect" id="Node000001" title="Return a read only list of all package metadata information currently known that has loaders that sup..." alt="" coords="344,47,590,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_metadata_tests.html#abfa29b3020eb74a5516d26156c6d7ba6" title=" " alt="" coords="46,5,255,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,61,255,51,255,46,328,55"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_metadata_tests.html#ae284b88b0a2632945366194390a3d699" title=" " alt="" coords="5,88,296,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,97,296,101,296,96,328,91"/>
-</map>

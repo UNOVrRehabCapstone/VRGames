@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.AspectRatioFitter" name="UnityEngine.UI.AspectRatioFitter">
-<area shape="rect" id="Node000001" title="Resizes a RectTransform to fit a specified aspect ratio." alt="" coords="38,155,221,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html" title="Base behaviour that has protected implementations of Unity lifecycle functions." alt="" coords="15,80,105,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,117,114,153,110,156,79,120"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,115,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,48,63,80,57,80,57,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="129,80,269,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,120,149,156,145,153,176,117"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="OculusSampleFramework.TrainCarBase.UpdatePose" name="OculusSampleFramework.TrainCarBase.UpdatePose">
-<area shape="rect" id="Node000001" title=" " alt="" coords="506,39,708,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_sample_framework_1_1_train_car_base.html#a12449bb2cdcdd69df222d7b2bbaa11d0" title=" " alt="" coords="256,39,458,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,63,458,63,458,57,490,57"/>
-<area shape="rect" id="Node000003" href="$class_oculus_sample_framework_1_1_train_car.html#a252d97437d4c54683d619561f7cdbbb4" title=" " alt="" coords="5,5,208,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,47,208,43,208,37,240,42"/>
-<area shape="rect" id="Node000004" href="$class_oculus_sample_framework_1_1_train_locomotive.html#a7dc6684acae023519c45c2ee9fd9179b" title=" " alt="" coords="5,72,208,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="240,78,208,83,208,77,240,73"/>
-</map>

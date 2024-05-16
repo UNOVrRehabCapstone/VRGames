@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.Management.IXRCustomLoaderUI" name="UnityEditor.XR.Management.IXRCustomLoaderUI">
-<area shape="rect" id="Node000001" title="Custom interface provided by the package if the package uses its own UI in the XR Plug&#45;in Management ..." alt="" coords="5,5,194,48"/>
-<area shape="rect" id="Node000002" href="$class_samples_1_1_sample_standalone_loader_u_i.html" title="Sample loader UI demonstrating how to provide your own loader selection UI for the loader selection l..." alt="" coords="7,96,192,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,64,102,96,97,96,97,64"/>
-</map>

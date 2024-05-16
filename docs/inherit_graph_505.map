@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_o_n_s_p_propagation_1_1_propagation_interface.html" title=" " alt="" coords="5,72,206,115"/>
-<area shape="rect" id="Node000001" href="$class_o_n_s_p_propagation_1_1_f_m_o_d_plugin_interface.html" title=" " alt="" coords="254,5,460,48"/>
-<area shape="poly" id="edge1619_Node000000_Node000001" title=" " alt="" coords="202,65,273,46,274,51,204,70"/>
-<area shape="rect" id="Node000002" href="$class_o_n_s_p_propagation_1_1_unity_native_interface.html" title=" " alt="" coords="259,72,455,115"/>
-<area shape="poly" id="edge1620_Node000000_Node000002" title=" " alt="" coords="221,91,258,91,258,96,221,96"/>
-<area shape="rect" id="Node000003" href="$class_o_n_s_p_propagation_1_1_wwise_plugin_interface.html" title=" " alt="" coords="254,139,460,181"/>
-<area shape="poly" id="edge1621_Node000000_Node000003" title=" " alt="" coords="204,117,274,135,273,141,202,122"/>
-</map>

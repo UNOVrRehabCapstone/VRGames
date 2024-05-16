@@ -1,9 +1,0 @@
-<map id="UnityEngine.ProBuilder.EntityBehaviour" name="UnityEngine.ProBuilder.EntityBehaviour">
-<area shape="rect" id="Node000001" title=" " alt="" coords="122,80,315,123"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_collider_behaviour.html" title="A MonoBehaviour that automatically enables and disables the parent GameObject on exiting and enterin ..." alt="" coords="5,171,208,213"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,135,134,172,131,168,179,130"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_pro_builder_1_1_trigger_behaviour.html" title="A MonoBehaviour that automatically enables and disables the parent GameObject on exiting and enterin ..." alt="" coords="231,171,430,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,130,306,168,303,172,255,135"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="164,5,273,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,48,221,80,216,80,216,48"/>
-</map>

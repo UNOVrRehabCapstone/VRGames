@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['_5f180_0',['_180',['../class_movie_player_sample.html#a664d961c5d540aa1d5744b77db6e263ca0d72e2d125de9f7e774861ff3f02fd92',1,'MoviePlayerSample']]],
-  ['_5f360_1',['_360',['../class_movie_player_sample.html#a664d961c5d540aa1d5744b77db6e263cae470e7c70203bd7439c78714576a46ff',1,'MoviePlayerSample']]]
+  ['abutton_0',['AButton',['../class_planes_game_1_1_paper_plane.html#a5ae3417303cacb122b2e26fb74fbed5fa6233d6a3d4b89d00fca1263dc6a9ea31',1,'PlanesGame::PaperPlane']]],
+  ['alternating_1',['ALTERNATING',['../class_game_settings_s_o.html#acea64c4a7f32537634b51bcfd3f9b819a7fc51efc439a941532831744c3c61575',1,'GameSettingsSO']]]
 ];

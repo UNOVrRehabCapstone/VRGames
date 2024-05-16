@@ -1,9 +1,0 @@
-<map id="LocomotionTeleport.CreateNewTeleportDestination" name="LocomotionTeleport.CreateNewTeleportDestination">
-<area shape="rect" id="Node000001" title="This is called whenever a new teleport destination is required. This might occur when rapidly switchi..." alt="" coords="738,5,915,48"/>
-<area shape="rect" id="Node000002" href="$class_locomotion_teleport.html#a36812d3f7decf5c21e745acc575214ed" title=" " alt="" coords="505,5,690,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="722,29,691,29,691,24,722,24"/>
-<area shape="rect" id="Node000003" href="$class_teleport_destination.html#a5902308ae301ae3a680e967c5176fe4e" title=" " alt="" coords="274,13,457,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,29,457,29,457,24,490,24"/>
-<area shape="rect" id="Node000004" href="$class_teleport_destination.html#aeda317df53e13bdd9d29b0bfdc0aaf5a" title=" " alt="" coords="5,13,226,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,29,226,29,226,24,258,24"/>
-</map>

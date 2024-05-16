@@ -1,7 +1,0 @@
-<map id="TMPro.TextMeshProUGUI.SetMaterialDirty" name="TMPro.TextMeshProUGUI.SetMaterialDirty">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,201,85"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="266,5,462,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,47,250,40,251,45,202,53"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="249,72,479,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,75,233,80,233,85,201,81"/>
-</map>

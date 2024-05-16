@@ -1,7 +1,0 @@
-<map id="ButtonTests.SubmitShouldTransitionToPressedStateAndBackToNormal" name="ButtonTests.SubmitShouldTransitionToPressedStateAndBackToNormal">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,229,89"/>
-<area shape="rect" id="Node000002" href="$class_test_button.html#a7d0dd2c240982bc89e99c352382e1397" title=" " alt="" coords="277,5,445,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,42,261,38,262,43,229,47"/>
-<area shape="rect" id="Node000003" href="$class_test_button.html#a4ac0611fd702f6d18bcdb0e08a522a59" title=" " alt="" coords="277,72,445,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,73,262,77,261,82,229,78"/>
-</map>

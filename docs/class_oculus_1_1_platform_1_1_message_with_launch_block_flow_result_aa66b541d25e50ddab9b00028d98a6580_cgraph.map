@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.MessageWithLaunchBlockFlowResult.GetDataFromMessage" name="Oculus.Platform.MessageWithLaunchBlockFlowResult.GetDataFromMessage">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,248,89"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a5ab21978c3da4376eb8eef817a48a2cd" title=" " alt="" coords="296,5,544,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,44,280,40,281,45,248,49"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a7c51b06a4c8c791b4a5be1c38d21b496" title=" " alt="" coords="321,72,519,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,71,306,78,306,83,248,76"/>
-</map>

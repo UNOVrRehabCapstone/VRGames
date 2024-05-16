@@ -1,8 +1,0 @@
-<map id="UnityEngine.ProBuilder.Csg.Node.ClipPolygons" name="UnityEngine.ProBuilder.Csg.Node.ClipPolygons">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,192,81"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,39,52,29,60,20,75,14,99,12,124,14,139,21,137,26,122,20,98,17,76,19,63,24,57,30,59,38"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_plane.html#a897af886b81d8907be27855094ad2451" title=" " alt="" coords="240,5,426,48"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="192,44,224,39,225,45,192,49"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_pro_builder_1_1_csg_1_1_plane.html#acee89d9238ad3bbe1d9cdb7b567a37e7" title=" " alt="" coords="240,72,426,115"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="192,71,225,75,224,81,192,76"/>
-</map>

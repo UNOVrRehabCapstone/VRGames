@@ -1,8 +1,0 @@
-<map id="Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.SortTreeThrough" name="Unity.Services.Core.Internal.DependencyTreeInitializeOrderSorter.SortTreeThrough">
-<area shape="rect" id="Node000001" title=" " alt="" coords="290,47,526,105"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="454,35,437,28,408,25,383,27,366,32,358,39,358,47,353,46,354,36,364,27,382,22,408,20,438,23,456,30"/>
-<area shape="rect" id="Node000002" href="$struct_unity_1_1_services_1_1_core_1_1_internal_1_1_dependency_tree_initialize_order_sorter.html#acda7207c3094091f3683b431963fd034" title=" " alt="" coords="5,5,242,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,59,242,55,242,49,274,54"/>
-<area shape="rect" id="Node000003" href="$struct_unity_1_1_services_1_1_core_1_1_internal_1_1_dependency_tree_initialize_order_sorter.html#acb4b9732926a6de378de8aa9386ea5a7" title=" " alt="" coords="5,88,242,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,98,242,103,242,97,274,93"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.OnSelectEntering" name="UnityEngine.XR.Interaction.Toolkit.XRRayInteractor.OnSelectEntering">
-<area shape="rect" id="Node000001" title="The XRInteractionManager calls this method right before the Interactor first initiates selection of a..." alt="" coords="5,29,220,88"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a6112c56356a3e84bffd0a2699af1cc7e" title=" " alt="" coords="268,29,516,88"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,56,252,56,252,61,220,61"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="337,29,339,19,349,10,366,5,392,3,421,5,439,13,437,17,420,11,392,8,367,10,351,15,343,21,343,29"/>
-</map>

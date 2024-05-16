@@ -1,5 +1,0 @@
-<map id="TMPro.TextMeshProUGUI.UpdateVertexData" name="TMPro.TextMeshProUGUI.UpdateVertexData">
-<area shape="rect" id="Node000001" title="Function to upload the updated vertex data and renderer." alt="" coords="5,5,222,48"/>
-<area shape="rect" id="Node000002" href="$struct_t_m_pro_1_1_t_m_p___mesh_info.html#a7abd732cdaf4d54113166700701defd4" title="Function to clear the vertices while preserving the Triangles, Normals and Tangents." alt="" coords="270,5,453,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,24,254,24,254,29,222,29"/>
-</map>

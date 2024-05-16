@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.JsonParser.JsonValue.ToString" name="UnityEngine.InputSystem.Utilities.JsonParser.JsonValue.ToString">
-<area shape="rect" id="Node000001" title=" " alt="" coords="255,88,456,147"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_json_parser_1_1_json_value.html#a8c44f42c3bd6aa241db625c4f0c581a2" title=" " alt="" coords="5,5,207,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,85,196,67,198,62,251,80"/>
-<area shape="rect" id="Node000003" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_json_parser_1_1_json_value.html#ac464ef6482b31a83e2f97393e7f99364" title=" " alt="" coords="5,88,207,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,120,207,120,207,115,239,115"/>
-<area shape="rect" id="Node000004" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_json_parser_1_1_json_value.html#a76fc838789df985cc85323f63f8c25c5" title=" " alt="" coords="5,171,207,229"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,155,198,173,196,167,250,150"/>
-</map>

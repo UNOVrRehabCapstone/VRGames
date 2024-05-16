@@ -1,9 +1,0 @@
-<map id="TMPro.EditorUtilities.TMP_BaseEditorPanel" name="TMPro.EditorUtilities.TMP_BaseEditorPanel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="103,80,274,123"/>
-<area shape="rect" id="Node000003" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel.html" title=" " alt="" coords="5,171,177,213"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,135,116,172,112,168,153,131"/>
-<area shape="rect" id="Node000004" href="$class_t_m_pro_1_1_editor_utilities_1_1_t_m_p___editor_panel_u_i.html" title=" " alt="" coords="201,171,373,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,131,266,168,262,172,221,135"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="161,5,216,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,48,191,80,186,80,186,48"/>
-</map>

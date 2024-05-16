@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.Keyboard.SetIMECursorPosition" name="UnityEngine.InputSystem.Keyboard.SetIMECursorPosition">
-<area shape="rect" id="Node000001" title="Sets the cursor position for IME composition dialogs. Units are from the upper left,..." alt="" coords="5,51,214,93"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_low_level_1_1_set_i_m_e_cursor_position_command.html#af76ed8a381fe58f518406326a7daf162" title=" " alt="" coords="262,5,467,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,54,246,49,246,55,215,59"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_device.html#aeb560ad83630b5a581507bf6e2cfebb5" title=" " alt="" coords="265,88,464,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,85,250,90,249,95,214,90"/>
-</map>

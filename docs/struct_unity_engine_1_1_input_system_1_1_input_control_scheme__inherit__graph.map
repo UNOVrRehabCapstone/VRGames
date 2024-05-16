@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputControlScheme" name="UnityEngine.InputSystem.InputControlScheme">
-<area shape="rect" id="Node000001" title="A named set of zero or more device requirements along with an associated binding group." alt="" coords="5,96,178,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="10,5,173,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,64,94,96,89,96,89,64"/>
-</map>

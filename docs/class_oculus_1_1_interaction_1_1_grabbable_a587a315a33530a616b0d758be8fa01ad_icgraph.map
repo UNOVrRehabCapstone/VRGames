@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.Grabbable.UpdateGrabPoint" name="Oculus.Interaction.Grabbable.UpdateGrabPoint">
-<area shape="rect" id="Node000001" title=" " alt="" coords="285,39,478,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_interactor.html#a9734c95a46d0b864ae4943e07d2bf150" title=" " alt="" coords="13,5,229,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,48,229,43,230,38,269,43"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_hand_grab_interactor.html#af5a095cbc98a337efa4bfc20f9aa36a0" title="Each call while the hand is selecting/grabbing an interactable, it moves the item to the new position..." alt="" coords="5,72,237,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,77,237,81,237,76,269,72"/>
-</map>

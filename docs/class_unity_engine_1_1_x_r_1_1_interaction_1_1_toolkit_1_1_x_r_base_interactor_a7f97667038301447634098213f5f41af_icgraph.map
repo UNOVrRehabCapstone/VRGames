@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.IsHovering" name="UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor.IsHovering">
-<area shape="rect" id="Node000001" title="Determines whether this Interactor is currently hovering the Interactable.Returns true if this Intera..." alt="" coords="572,5,798,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#ad312093ab92748d0a845514e4461e629" title="Gets the current ray cast hit information, if a hit occurs. It returns the world position and the nor..." alt="" coords="289,5,524,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,29,524,29,524,24,556,24"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_ray_interactor.html#a31c8e0ba88da294cb4b9ffa4497ba2f1" title="(Obsolete) Use ILineRenderable.TryGetHitInfo instead." alt="" coords="5,5,241,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,29,241,29,241,24,273,24"/>
-</map>

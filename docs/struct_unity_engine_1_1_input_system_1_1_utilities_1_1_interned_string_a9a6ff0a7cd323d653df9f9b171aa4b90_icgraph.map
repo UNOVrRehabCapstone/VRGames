@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.InternedString.ToString" name="UnityEngine.InputSystem.Utilities.InternedString.ToString">
-<area shape="rect" id="Node000001" title=" " alt="" coords="253,13,453,56"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#a1e933048fc5fba2b701b88bac7ccc28a" title="Convert the given InternedString back to a string. Equivalent to ToString()." alt="" coords="5,5,205,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,37,205,37,205,32,237,32"/>
-</map>

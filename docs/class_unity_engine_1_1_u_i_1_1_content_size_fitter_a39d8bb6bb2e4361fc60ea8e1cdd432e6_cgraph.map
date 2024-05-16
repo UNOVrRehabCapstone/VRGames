@@ -1,9 +1,0 @@
-<map id="UnityEngine.UI.ContentSizeFitter.OnEnable" name="UnityEngine.UI.ContentSizeFitter.OnEnable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,188,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_content_size_fitter.html#ae6bc9bb45395fea0eade722d54e4d7e2" title=" " alt="" coords="236,39,418,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,57,220,57,220,63,188,63"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_u_i_behaviour.html#ac3b9d503ad9eb607e691775b2c680d08" title="Returns true if the GameObject and the Component are active." alt="" coords="479,5,662,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,45,463,39,464,44,419,50"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_layout_rebuilder.html#a5771703d95c79ac33cdef58949d74e34" title="Mark the given RectTransform as needing it&#39;s layout to be recalculated during the next layout pass." alt="" coords="466,72,674,115"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="419,70,451,74,450,80,418,75"/>
-</map>

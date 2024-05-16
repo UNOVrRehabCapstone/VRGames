@@ -1,6 +1,0 @@
-<map id="UnityEngine.ProBuilder.SceneSelection.operator!=" name="UnityEngine.ProBuilder.SceneSelection.operator!=">
-<area shape="rect" id="Node000001" title="Returns true if the two SceneSelection objects are not equal." alt="" coords="5,29,202,72"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_scene_selection.html#a30c78c374f4331a0369f76e1ee9398eb" title="Evaluates whether the specified SceneSelection is equivalent to this one." alt="" coords="250,29,446,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,48,234,48,234,53,202,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="302,29,300,19,308,10,324,5,348,3,374,5,390,11,388,16,373,10,348,8,325,10,310,15,305,21,307,28"/>
-</map>

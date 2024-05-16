@@ -1,5 +1,0 @@
-var com_8unity_8services_8core_0d1_84_80_2_editor_2_core_2_editor_game_service_2_analytics_2_editor_26ff0b4311fc4a353d0fb28f471f7650 =
-[
-    [ "Unity.Services.Core.Editor.EditorGameServiceAnalyticsSender", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender.html", "class_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender" ],
-    [ "Unity.Services.Core.Editor.EditorGameServiceAnalyticsSender.EditorGameServiceEvent", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event.html", "struct_unity_1_1_services_1_1_core_1_1_editor_1_1_editor_game_service_analytics_sender_1_1_editor_game_service_event" ]
-];

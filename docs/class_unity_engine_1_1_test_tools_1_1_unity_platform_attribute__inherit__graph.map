@@ -1,7 +1,0 @@
-<map id="UnityEngine.TestTools.UnityPlatformAttribute" name="UnityEngine.TestTools.UnityPlatformAttribute">
-<area shape="rect" id="Node000001" title="Use this attribute to define a specific set of platforms you want or do not want your test(s) to run ..." alt="" coords="25,80,211,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,108,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,43,104,78,100,81,73,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="132,5,229,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,46,136,81,132,78,159,43"/>
-</map>

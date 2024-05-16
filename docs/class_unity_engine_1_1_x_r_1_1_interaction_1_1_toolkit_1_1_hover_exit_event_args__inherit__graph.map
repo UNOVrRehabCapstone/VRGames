@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.HoverExitEventArgs" name="UnityEngine.XR.Interaction.Toolkit.HoverExitEventArgs">
-<area shape="rect" id="Node000001" title="Event data associated with the event when an Interactor ends hovering over an Interactable." alt="" coords="5,80,185,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_base_interaction_event_args.html" title="Event data associated with an interaction event between an Interactor and Interactable." alt="" coords="10,5,180,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,92,80,92,48"/>
-</map>

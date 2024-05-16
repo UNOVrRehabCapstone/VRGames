@@ -1,7 +1,0 @@
-<map id="OVR.TestScript" name="OVR.TestScript">
-<area shape="rect" id="Node000001" title=" " alt="" coords="75,112,187,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,115,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,43,124,110,120,113,75,46"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_sound_f_x_ref.html" title=" " alt="" coords="139,5,264,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,46,141,113,137,110,182,43"/>
-</map>

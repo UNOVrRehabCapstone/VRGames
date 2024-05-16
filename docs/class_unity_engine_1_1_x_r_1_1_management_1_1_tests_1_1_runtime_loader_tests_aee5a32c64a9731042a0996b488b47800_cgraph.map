@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Management.Tests.RuntimeLoaderTests.StartsAndStops" name="UnityEngine.XR.Management.Tests.RuntimeLoaderTests.StartsAndStops">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,221,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_loader_test_setup.html#adb4042e305517fef3d1efdd9b65739e4" title=" " alt="" coords="273,5,538,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,58,257,53,258,58,221,63"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_x_r_1_1_test_tooling_1_1_loader_test_setup.html#a8f2e901a33ff5815e0857ff2f60b2e51" title=" " alt="" coords="269,88,542,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,89,254,93,253,98,221,94"/>
-</map>

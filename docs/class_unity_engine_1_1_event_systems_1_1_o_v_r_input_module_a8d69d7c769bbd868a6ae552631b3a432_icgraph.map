@@ -1,7 +1,0 @@
-<map id="UnityEngine.EventSystems.OVRInputModule.GetExtraScrollDelta" name="UnityEngine.EventSystems.OVRInputModule.GetExtraScrollDelta">
-<area shape="rect" id="Node000001" title="Get extra scroll delta from gamepad." alt="" coords="528,5,766,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#a7942780a6fac1c5d491b18294b854755" title="State for a pointer controlled by a world space ray. E.g. gaze pointer." alt="" coords="237,5,480,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,29,480,29,480,24,512,24"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_event_systems_1_1_o_v_r_input_module.html#aa4124a35a3a2edd2db5dd0dd1c14b906" title="Process this InputModule. Same as the StandaloneInputModule version, except that it calls ProcessMous..." alt="" coords="5,5,189,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,29,189,29,189,24,221,24"/>
-</map>

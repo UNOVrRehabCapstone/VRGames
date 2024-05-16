@@ -1,9 +1,0 @@
-<map id="UnityEngine.InputSystem.InputActionAsset.FindBinding" name="UnityEngine.InputSystem.InputActionAsset.FindBinding">
-<area shape="rect" id="Node000001" title="Find the index of the first binding that matches the given mask.Index into InputAction...." alt="" coords="284,80,476,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_default_input_actions.html#ab44ce334a6ea64e5ecaacc81d32bbc02" title="Find the index of the first binding that matches the given mask." alt="" coords="18,5,223,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,78,197,51,198,46,289,73"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_samples_1_1_in_game_hints_1_1_in_game_hints_actions.html#a223b0357ee8ff17768fc7cb8c3e662d7" title="Find the index of the first binding that matches the given mask." alt="" coords="5,72,236,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,104,236,104,236,99,268,99"/>
-<area shape="rect" id="Node000004" href="$class_simple_controls.html#ad5adce8c3e437eea41db6428d00ea2ae" title="Find the index of the first binding that matches the given mask." alt="" coords="30,155,211,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="292,130,236,145,188,157,187,152,235,140,291,125"/>
-</map>

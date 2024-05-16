@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.DuplicateTracks" name="UnityEditor.Timeline.DuplicateTracks">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,201,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_track_action.html" title="Base class for a track action. Inherit from this class to make an action that would react on selected..." alt="" coords="58,80,148,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,122,106,154,100,154,100,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="72,5,134,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,48,106,80,100,80,100,48"/>
-</map>

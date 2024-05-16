@@ -1,7 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.SelectEnter" name="UnityEngine.XR.Interaction.Toolkit.XRInteractionManager.SelectEnter">
-<area shape="rect" id="Node000001" title="Initiates selection of an Interactable by an Interactor. This method may first result in other intera..." alt="" coords="5,13,267,56"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_interaction_manager.html#ad20fe9fc43bf1e0a36fc474287cb8dd8" title="Automatically called when selection of an Interactable by an Interactor is initiated and the Interact..." alt="" coords="315,5,553,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,32,299,32,299,37,267,37"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_select_interactor.html#ab7e7bd61e60d1290edceff2a1a798040" title="Determines whether this Interactor is currently selecting the Interactable." alt="" coords="601,13,842,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="554,32,585,32,585,37,554,37"/>
-</map>

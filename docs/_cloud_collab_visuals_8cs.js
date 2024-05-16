@@ -1,4 +1,0 @@
-var _cloud_collab_visuals_8cs =
-[
-    [ "Unity.Cloud.Collaborate.EditorGameService.SettingsProviderVisuals.CloudCollabVisuals", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals.html", "class_unity_1_1_cloud_1_1_collaborate_1_1_editor_game_service_1_1_settings_provider_visuals_1_1_cloud_collab_visuals" ]
-];

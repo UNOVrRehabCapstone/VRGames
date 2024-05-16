@@ -1,9 +1,0 @@
-<map id="TMPro.TMP_SubMeshUI.SetVerticesDirty" name="TMPro.TMP_SubMeshUI.SetVerticesDirty">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,242,85"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#acc18f45edf09f79d04d6a9e461633d7c" title=" " alt="" coords="290,43,485,85"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,61,274,61,274,67,242,67"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a9b7a5c1c4a783404904fe71c7b610ea9" title="Are graphics currently being rebuild." alt="" coords="551,5,746,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,47,535,40,535,45,486,53"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_u_i_1_1_canvas_update_registry.html#a68bbad2e6049ac6ee0d9ecada4b1995b" title="Try and add the given element to the rebuild list. Will not return if successfully added." alt="" coords="533,72,763,131"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="486,75,518,80,517,85,485,81"/>
-</map>

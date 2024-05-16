@@ -1,0 +1,7 @@
+<map id="DartManager.DespawnDart" name="DartManager.DespawnDart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,47,443,73"/>
+<area shape="rect" id="Node000002" href="$class_balloons_game_1_1_balloon.html#acb0c0c258a386d1cf7827861f0889ae0" title=" " alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,48,219,44,219,39,252,43"/>
+<area shape="rect" id="Node000003" href="$class_balloons_game_1_1_balloon___target___bullseye.html#a50cefdae2b5a1f33b0e34b158218ef36" title=" " alt="" coords="6,72,218,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,77,219,81,218,76,251,72"/>
+</map>

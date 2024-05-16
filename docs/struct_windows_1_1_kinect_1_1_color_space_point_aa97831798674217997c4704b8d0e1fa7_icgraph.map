@@ -1,8 +1,0 @@
-<map id="Windows.Kinect.ColorSpacePoint.Equals" name="Windows.Kinect.ColorSpacePoint.Equals">
-<area shape="rect" id="Node000001" title=" " alt="" coords="240,39,426,81"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="371,26,357,20,333,17,311,19,297,24,292,30,294,38,288,39,287,29,294,20,310,14,333,12,358,14,373,21"/>
-<area shape="rect" id="Node000002" href="$struct_windows_1_1_kinect_1_1_color_space_point.html#aca3fc6d339d6d083c6ac16037fcf4ce8" title=" " alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="224,47,192,43,193,37,225,42"/>
-<area shape="rect" id="Node000003" href="$struct_windows_1_1_kinect_1_1_color_space_point.html#aedf7bf65ffa47c0e9181156acb0a2d34" title=" " alt="" coords="5,72,192,115"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="225,78,193,83,192,77,224,73"/>
-</map>

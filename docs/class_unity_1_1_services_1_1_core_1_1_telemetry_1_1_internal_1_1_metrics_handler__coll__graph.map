@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Telemetry.Internal.MetricsHandler" name="Unity.Services.Core.Telemetry.Internal.MetricsHandler">
-<area shape="rect" id="Node000001" title="Handles common logic between all Metrics instances." alt="" coords="5,204,206,247"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_telemetry_handler.html" title=" " alt="" coords="17,112,194,155"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,170,108,204,103,204,103,170"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_telemetry_sender.html" title=" " alt="" coords="5,5,206,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,64,108,111,103,111,103,64"/>
-</map>

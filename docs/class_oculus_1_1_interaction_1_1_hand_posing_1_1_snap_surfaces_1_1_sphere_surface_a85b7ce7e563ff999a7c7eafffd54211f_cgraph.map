@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.InjectAllSphereSurface" name="Oculus.Interaction.HandPosing.SnapSurfaces.SphereSurface.InjectAllSphereSurface">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,232,131"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#a341d7752783ddf63995be93d164dbfce" title=" " alt="" coords="280,5,533,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,69,306,50,307,55,233,75"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#aa4f715d2c161dbbca671235fe9c12f32" title=" " alt="" coords="293,72,520,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,99,278,99,278,104,232,104"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_snap_surfaces_1_1_sphere_surface.html#a3e76be705a7e18bbd29e7ae0f663f880" title=" " alt="" coords="293,155,520,213"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,129,288,147,286,152,222,134"/>
-</map>

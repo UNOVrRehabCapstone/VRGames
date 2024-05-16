@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Processors.NormalizeVector2Processor" name="UnityEngine.InputSystem.Processors.NormalizeVector2Processor">
-<area shape="rect" id="Node000001" title="Normalizes a Vector2 input value." alt="" coords="5,80,259,123"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_processor.html" title=" " alt="" coords="43,5,221,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,48,135,80,129,80,129,48"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.ChallengeOptions.SetLeaderboardName" name="Oculus.Platform.ChallengeOptions.SetLeaderboardName">
-<area shape="rect" id="Node000001" title="Optional: Only find challenges belonging to this leaderboard." alt="" coords="5,5,201,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ad2ca1228f4be95bbddc4edf02135e278" title=" " alt="" coords="249,5,511,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,24,233,24,233,29,201,29"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ad9efc09a940b498fb46b06dc5123e925" title=" " alt="" coords="559,5,745,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,24,543,24,543,29,512,29"/>
-</map>

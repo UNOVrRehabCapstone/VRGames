@@ -1,4 +1,0 @@
-var namespace_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests =
-[
-    [ "InteractionLayerUpdaterTest", "class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_interaction_layer_updater_test.html", "class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_tests_1_1_interaction_layer_updater_test" ]
-];

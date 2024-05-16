@@ -1,8 +1,0 @@
-<map id="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfAttemptsToSetLoaderListThatContainDuplicatesFails" name="UnityEditor.XR.Management.Tests.EditorActiveLoadersManipulationTests.CheckIfAttemptsToSetLoaderListThatContainDuplicatesFails">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,278,88"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#ac1571ce6108ee9f2fe0fd7ea4119978d" title="Attempts to set the given loader list as the list of loaders managed by this instance." alt="" coords="326,29,549,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,48,310,48,310,53,278,53"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="387,29,385,19,393,10,411,5,437,3,467,5,484,12,482,17,465,10,437,8,412,10,396,15,390,21,392,28"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_manager_settings.html#a1187cd1161dc52c790cc2141541bf2b3" title="Attempts to append the given loader to the list of loaders at the given index." alt="" coords="597,29,816,72"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,48,582,48,582,53,549,53"/>
-</map>

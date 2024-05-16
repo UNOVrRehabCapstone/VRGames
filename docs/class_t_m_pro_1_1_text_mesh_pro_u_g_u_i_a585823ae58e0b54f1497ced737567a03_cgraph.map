@@ -1,5 +1,0 @@
-<map id="TMPro.TextMeshProUGUI.ComputeMarginSize" name="TMPro.TextMeshProUGUI.ComputeMarginSize">
-<area shape="rect" id="Node000001" title="Update the margin width and height." alt="" coords="5,5,233,48"/>
-<area shape="rect" id="Node000002" href="$class_t_m_pro_1_1_text_mesh_pro_u_g_u_i.html#ae66c4b8d29e8168cdf94197a6323baa2" title="Method to return the local corners of the Text Container or RectTransform." alt="" coords="281,5,477,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,24,265,24,265,29,233,29"/>
-</map>

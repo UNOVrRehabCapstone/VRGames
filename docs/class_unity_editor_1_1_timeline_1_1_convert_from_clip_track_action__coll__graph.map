@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.ConvertFromClipTrackAction" name="UnityEditor.Timeline.ConvertFromClipTrackAction">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,190,197"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_timeline_1_1_actions_1_1_track_action.html" title="Base class for a track action. Inherit from this class to make an action that would react on selected..." alt="" coords="52,80,143,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,122,100,154,95,154,95,122"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_actions_1_1_i_action.html" title="interface indicating an Action class" alt="" coords="67,5,128,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,48,100,80,95,80,95,48"/>
-</map>

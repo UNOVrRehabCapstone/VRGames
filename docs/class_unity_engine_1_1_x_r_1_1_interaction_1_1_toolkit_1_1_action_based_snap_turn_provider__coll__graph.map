@@ -1,9 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.ActionBasedSnapTurnProvider" name="UnityEngine.XR.Interaction.Toolkit.ActionBasedSnapTurnProvider">
-<area shape="rect" id="Node000001" title="A locomotion provider that allows the user to rotate their rig using a 2D axis input from an input sy..." alt="" coords="5,229,244,272"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_snap_turn_provider_base.html" title="A locomotion provider that allows the user to rotate their rig using a 2D axis input." alt="" coords="48,155,201,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,197,127,229,122,229,122,197"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_locomotion_provider.html" title="The LocomotionProvider is the base class for various locomotion implementations. This class provides ..." alt="" coords="57,80,192,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,122,127,154,122,154,122,122"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,179,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,48,127,80,122,80,122,48"/>
-</map>

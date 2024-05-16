@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Processors.NormalizeProcessor.Process" name="UnityEngine.InputSystem.Processors.NormalizeProcessor.Process">
-<area shape="rect" id="Node000001" title="Normalize value &#160;with respect to min and max." alt="" coords="5,5,218,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_processors_1_1_normalize_processor.html#a9f43017ad4c494e04ca0ce15532d4c56" title="Normalize value &#160;with respect to min &#160;and max ." alt="" coords="266,5,478,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,32,250,32,250,37,218,37"/>
-</map>

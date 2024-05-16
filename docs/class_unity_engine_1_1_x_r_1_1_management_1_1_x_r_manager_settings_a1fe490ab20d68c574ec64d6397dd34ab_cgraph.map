@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Management.XRManagerSettings.StartSubsystems" name="UnityEngine.XR.Management.XRManagerSettings.StartSubsystems">
-<area shape="rect" id="Node000001" title="If there is an active loader, this will request the loader to start all the subsystems that it is man..." alt="" coords="5,5,246,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_management_1_1_x_r_loader.html#a105a2a8d4fc2e26953c58f039af0d212" title="Ask loader to start all initialized subsystems." alt="" coords="294,5,488,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,24,278,24,278,29,246,29"/>
-</map>

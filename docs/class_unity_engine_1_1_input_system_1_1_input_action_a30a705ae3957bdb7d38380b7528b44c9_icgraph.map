@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.InputAction.ToString" name="UnityEngine.InputSystem.InputAction.ToString">
-<area shape="rect" id="Node000001" title="Return a string version of the action. Mainly useful for debugging." alt="" coords="250,5,422,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_reference.html#aa0f3b003cba9ba21dd07cbce332c0ce3" title="Return a string representation of the reference useful for debugging." alt="" coords="5,5,202,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,29,202,29,202,24,235,24"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityEngine.UI.GraphicRegistry.RegisterGraphicForCanvas" name="UnityEngine.UI.GraphicRegistry.RegisterGraphicForCanvas">
-<area shape="rect" id="Node000001" title="Associates a Graphic with a Canvas and stores this association in the registry." alt="" coords="5,5,214,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_u_i_1_1_graphic_registry.html#aa3abe9ce81d6157762833d9dc5eba737" title="Associates a raycastable Graphic with a Canvas and stores this association in the registry." alt="" coords="262,5,485,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,24,246,24,246,29,214,29"/>
-</map>

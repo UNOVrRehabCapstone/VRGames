@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Composites.Vector2Composite.ReadValue" name="UnityEngine.InputSystem.Composites.Vector2Composite.ReadValue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="259,5,464,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_composites_1_1_vector2_composite.html#af71f39ed8ad6a79c0a4626b5666fc690" title="Determine the current level of actuation of the composite.This method by default returns &#45;1,..." alt="" coords="5,5,211,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,37,211,37,211,32,243,32"/>
-</map>

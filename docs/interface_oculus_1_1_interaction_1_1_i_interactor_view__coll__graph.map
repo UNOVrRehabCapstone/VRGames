@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.IInteractorView&lt; out TInteractable &gt;" name="Oculus.Interaction.IInteractorView&lt; out TInteractable &gt;">
-<area shape="rect" id="Node000001" title="IInteractorView defines the view for an object that can interact with other objects." alt="" coords="18,80,206,123"/>
-<area shape="rect" id="Node000002" href="$interface_oculus_1_1_interaction_1_1_i_component.html" title=" " alt="" coords="5,5,96,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,43,98,78,94,81,67,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="120,5,226,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,46,129,81,125,78,152,43"/>
-</map>

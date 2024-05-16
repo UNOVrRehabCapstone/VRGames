@@ -1,9 +1,0 @@
-<map id="LocomotionTeleport.OnUpdateTeleportDestination" name="LocomotionTeleport.OnUpdateTeleportDestination">
-<area shape="rect" id="Node000001" title="When the active aim and orientation handler finishes preparing the data for the teleport destination,..." alt="" coords="298,72,494,115"/>
-<area shape="rect" id="Node000002" href="$class_teleport_orientation_handler360.html#aaec5afc688113d106f8b0efbe32278cc" title=" " alt="" coords="28,5,227,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,70,216,51,217,46,293,65"/>
-<area shape="rect" id="Node000003" href="$class_teleport_orientation_handler_h_m_d.html#ac9b64993189b0411e0555ab6812eb0e2" title=" " alt="" coords="24,72,231,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,96,231,96,231,91,282,91"/>
-<area shape="rect" id="Node000004" href="$class_teleport_orientation_handler_thumbstick.html#a87101738e8b57e185ab1ddfb2657693a" title=" " alt="" coords="5,139,250,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,122,217,141,216,135,292,116"/>
-</map>

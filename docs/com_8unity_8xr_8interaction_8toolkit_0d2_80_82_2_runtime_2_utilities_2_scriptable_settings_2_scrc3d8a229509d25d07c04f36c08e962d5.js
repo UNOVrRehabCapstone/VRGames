@@ -1,4 +1,0 @@
-var com_8unity_8xr_8interaction_8toolkit_0d2_80_82_2_runtime_2_utilities_2_scriptable_settings_2_scrc3d8a229509d25d07c04f36c08e962d5 =
-[
-    [ "UnityEngine.XR.Interaction.Toolkit.Utilities.ScriptableSettingsPathAttribute", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_utilities_1_1_scriptable_settings_path_attribute" ]
-];

@@ -1,5 +1,0 @@
-<map id="UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject" name="UnityEngine.EventSystems.StandaloneInputModule.SendMoveEventToSelectedObject">
-<area shape="rect" id="Node000001" title="Calculate and send a move event to the current selected object." alt="" coords="262,5,482,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_event_systems_1_1_standalone_input_module.html#ac263731c27fa3adb4f58ca3f419f812c" title=" " alt="" coords="5,13,214,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,37,214,37,214,32,246,32"/>
-</map>

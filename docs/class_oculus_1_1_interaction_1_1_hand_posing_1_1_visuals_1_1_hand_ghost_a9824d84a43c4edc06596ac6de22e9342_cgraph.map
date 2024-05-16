@@ -1,5 +1,0 @@
-<map id="Oculus.Interaction.HandPosing.Visuals.HandGhost.SetGripPose" name="Oculus.Interaction.HandPosing.Visuals.HandGhost.SetGripPose">
-<area shape="rect" id="Node000001" title="Moves the underlying puppet so the grip point aligns with the given parameters." alt="" coords="5,5,217,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_hand_posing_1_1_visuals_1_1_hand_puppet.html#aba54c9e4f5900803ea95548b0cb9fe7d" title="Rotates and Translate the hand Wrist so it aligns with the given pose. It can apply an offset for whe..." alt="" coords="265,5,485,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,249,24,249,29,217,29"/>
-</map>

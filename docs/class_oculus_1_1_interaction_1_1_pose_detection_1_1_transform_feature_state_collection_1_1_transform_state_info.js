@@ -1,6 +1,0 @@
-var class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_collection_1_1_transform_state_info =
-[
-    [ "TransformStateInfo", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_collection_1_1_transform_state_info.html#a617dd72bad87264177bb7195ab62f74e", null ],
-    [ "Config", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_collection_1_1_transform_state_info.html#a53107947995355a3939fbdd71997e1d8", null ],
-    [ "StateProvider", "class_oculus_1_1_interaction_1_1_pose_detection_1_1_transform_feature_state_collection_1_1_transform_state_info.html#a590d6823d54541698aa7e8a2b74c226e", null ]
-];

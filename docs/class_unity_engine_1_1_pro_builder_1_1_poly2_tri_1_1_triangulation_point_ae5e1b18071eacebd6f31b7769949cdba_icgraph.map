@@ -1,5 +1,0 @@
-<map id="UnityEngine.ProBuilder.Poly2Tri.TriangulationPoint.AddEdge" name="UnityEngine.ProBuilder.Poly2Tri.TriangulationPoint.AddEdge">
-<area shape="rect" id="Node000001" title=" " alt="" coords="325,5,524,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_poly2_tri_1_1_d_t_sweep_constraint.html#af95387682c64118b9253ac5665255d16" title="Give two points in any order. Will always be ordered so that q.y &gt; p.y and q.x &gt; p...." alt="" coords="5,5,277,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,29,277,29,277,24,309,24"/>
-</map>

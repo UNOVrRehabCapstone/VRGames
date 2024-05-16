@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.RemoveLoader" name="UnityEditor.XR.Management.Metadata.XRPackageMetadataStore.RemoveLoader">
-<area shape="rect" id="Node000001" title="Remove a previously assigned loader from settings. If the loader type is unknown or an instance of th..." alt="" coords="298,5,533,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_management_1_1_tests_1_1_package_management_tests.html#a6317b194820bd4166f272347f9df5850" title=" " alt="" coords="5,5,250,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,37,250,37,250,32,282,32"/>
-</map>

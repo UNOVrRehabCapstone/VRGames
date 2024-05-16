@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.IInputUpdateCallbackReceiver" name="UnityEngine.InputSystem.LowLevel.IInputUpdateCallbackReceiver">
-<area shape="rect" id="Node000001" title="Interface to allow custom input devices to receive callbacks when the input system is updated." alt="" coords="5,5,205,64"/>
-<area shape="rect" id="Node000002" href="$class_custom_device.html" title=" " alt="" coords="53,112,157,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,79,108,111,102,111,102,79"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawCoreConfiguration" name="UnityEditor.XR.Interaction.Toolkit.XRBaseInteractorEditor.DrawCoreConfiguration">
-<area shape="rect" id="Node000001" title="Draw the core group of property fields. These are the main properties that appear before any other sp..." alt="" coords="521,47,722,105"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_controller_interactor_editor.html#aef22fbe263ca68c4774c9b68c70198a2" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="255,5,473,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="505,60,473,55,474,50,506,55"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#a3d16795ab2f8ac1fc764aa66433b65e7" title="This method is automatically called by DrawInspector to draw the property fields. Override this metho..." alt="" coords="263,88,465,147"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="506,97,465,104,464,99,505,92"/>
-<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_x_r_base_interactor_editor.html#aae36f715bd5ef9034b8218c1b3d6d783" title=" " alt="" coords="5,88,207,147"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,120,207,120,207,115,248,115"/>
-</map>

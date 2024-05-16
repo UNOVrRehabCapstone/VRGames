@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.XRInteractableEvent" name="UnityEngine.XR.Interaction.Toolkit.XRInteractableEvent">
-<area shape="rect" id="Node000001" title="UnityEvent that responds to changes of hover, selection, and activation by this Interactable." alt="" coords="19,80,199,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,213,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,48,112,80,106,80,106,48"/>
-</map>

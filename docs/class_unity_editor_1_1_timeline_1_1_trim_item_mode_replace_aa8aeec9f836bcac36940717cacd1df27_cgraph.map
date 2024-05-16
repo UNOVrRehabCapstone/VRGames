@@ -1,7 +1,0 @@
-<map id="UnityEditor.Timeline.TrimItemModeReplace.TrimEnd" name="UnityEditor.Timeline.TrimItemModeReplace.TrimEnd">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,183,81"/>
-<area shape="rect" id="Node000002" href="$interface_unity_editor_1_1_timeline_1_1_i_trimmable.html#a12959d34bd51a975c947b947e2d48a9f" title=" " alt="" coords="231,5,439,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,45,215,41,216,46,183,50"/>
-<area shape="rect" id="Node000003" href="$interface_unity_editor_1_1_timeline_1_1_i_trimmable.html#a35e0c6cd598d48bc339e024f4cd08442" title=" " alt="" coords="231,72,439,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,70,216,74,215,79,183,75"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="UnityEngine.ProBuilder.BezierShape.Init" name="UnityEngine.ProBuilder.BezierShape.Init">
-<area shape="rect" id="Node000001" title="Initialize the points list with a default set." alt="" coords="348,39,544,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_bezier_shape_editor.html#a0859e562b8a6589208b02ea525632750" title=" " alt="" coords="57,5,248,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,50,248,40,248,35,332,44"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_actions_1_1_new_bezier_shape.html#a0bde53ff8c2e1a6955f6649ae2aed162" title=" " alt="" coords="5,72,300,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,76,300,79,300,74,332,70"/>
-</map>

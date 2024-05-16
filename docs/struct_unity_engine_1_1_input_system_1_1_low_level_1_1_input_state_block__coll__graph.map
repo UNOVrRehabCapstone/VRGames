@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.LowLevel.InputStateBlock" name="UnityEngine.InputSystem.LowLevel.InputStateBlock">
-<area shape="rect" id="Node000001" title="Information about a memory region storing input state." alt="" coords="5,256,178,299"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,118,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,94,255,89,255,89,47"/>
-</map>

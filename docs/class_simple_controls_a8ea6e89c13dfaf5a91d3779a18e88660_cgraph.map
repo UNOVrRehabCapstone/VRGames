@@ -1,9 +1,0 @@
-<map id="SimpleControls.SimpleControls" name="SimpleControls.SimpleControls">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,207,107"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_input_action_map.html#af63d7ef83f7b7841fe6456da0e4e89f2" title="Find an action in the map by name or ID." alt="" coords="272,5,449,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,77,261,50,262,55,161,82"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a1d650ccc70ff717661f895fe341c0df0" title="Find an InputActionMap in the asset by its name or ID." alt="" coords="255,72,466,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,91,239,91,239,96,207,96"/>
-<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_input_system_1_1_input_action_asset.html#a85dffa2d7f4e53a8a2b15e1ac53d4411" title="Replace the contents of the asset with the data in the given JSON string." alt="" coords="270,139,451,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,105,262,132,261,137,159,110"/>
-</map>

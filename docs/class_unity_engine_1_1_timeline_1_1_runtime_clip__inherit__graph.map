@@ -1,9 +1,0 @@
-<map id="UnityEngine.Timeline.RuntimeClip" name="UnityEngine.Timeline.RuntimeClip">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,223,256"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="53,155,175,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,197,117,229,111,229,111,197"/>
-<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_timeline_1_1_runtime_element.html" title=" " alt="" coords="55,80,173,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,122,117,154,111,154,111,122"/>
-<area shape="rect" id="Node000004" href="$interface_unity_engine_1_1_timeline_1_1_i_interval.html" title=" " alt="" coords="82,5,146,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,48,117,80,111,80,111,48"/>
-</map>

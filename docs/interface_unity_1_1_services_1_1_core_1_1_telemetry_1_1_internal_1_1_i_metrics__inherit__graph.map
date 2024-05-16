@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Telemetry.Internal.IMetrics" name="Unity.Services.Core.Telemetry.Internal.IMetrics">
-<area shape="rect" id="Node000001" title="Object used to send metrics events to the backend." alt="" coords="5,39,206,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_disabled_metrics.html" title=" " alt="" coords="254,5,454,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,42,253,37,254,43,222,47"/>
-<area shape="rect" id="Node000003" href="$class_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_metrics.html" title=" " alt="" coords="254,72,454,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,73,254,77,253,83,221,78"/>
-</map>

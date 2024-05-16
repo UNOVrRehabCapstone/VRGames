@@ -1,9 +1,0 @@
-<map id="Oculus.Interaction.GrabAPI.IFingerAPI" name="Oculus.Interaction.GrabAPI.IFingerAPI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,189,115"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_palm_grab_a_p_i.html" title=" " alt="" coords="237,5,420,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,65,251,46,252,51,188,70"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_pinch_grab_a_p_i.html" title=" " alt="" coords="237,72,420,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,91,236,91,236,96,204,96"/>
-<area shape="rect" id="Node000004" href="$class_oculus_1_1_interaction_1_1_grab_a_p_i_1_1_finger_raw_pinch_a_p_i.html" title=" " alt="" coords="237,139,420,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,117,252,135,251,141,187,122"/>
-</map>

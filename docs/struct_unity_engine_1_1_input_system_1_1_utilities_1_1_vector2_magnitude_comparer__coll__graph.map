@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Utilities.Vector2MagnitudeComparer" name="UnityEngine.InputSystem.Utilities.Vector2MagnitudeComparer">
-<area shape="rect" id="Node000001" title="Compare two Vector2 by magnitude." alt="" coords="5,80,235,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="45,5,195,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,48,123,80,117,80,117,48"/>
-</map>

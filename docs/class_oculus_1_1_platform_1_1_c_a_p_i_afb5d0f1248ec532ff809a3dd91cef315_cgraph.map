@@ -1,7 +1,0 @@
-<map id="Oculus.Platform.CAPI.ovr_LaunchDetails_GetLaunchSource" name="Oculus.Platform.CAPI.ovr_LaunchDetails_GetLaunchSource">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,227,56"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#a05f94e9868ab9fd290594a1d105c6ac5" title=" " alt="" coords="275,13,461,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,32,259,32,259,37,227,37"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_platform_1_1_c_a_p_i.html#ae10c98472ca40e9bec50dc479a2af92e" title=" " alt="" coords="509,5,709,64"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,32,494,32,494,37,461,37"/>
-</map>

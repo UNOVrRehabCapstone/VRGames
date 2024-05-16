@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.PokeInteractable.ClosestSurfacePoint" name="Oculus.Interaction.PokeInteractable.ClosestSurfacePoint">
-<area shape="rect" id="Node000001" title=" " alt="" coords="272,39,503,81"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_poke_interactor.html#a2877bf7a18e9399f8e35e0b457610335" title=" " alt="" coords="5,5,224,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,47,224,43,225,37,256,41"/>
-<area shape="rect" id="Node000003" href="$class_oculus_1_1_interaction_1_1_poke_interactor.html#a20ab96a4d28dd443120796997be9b3d8" title=" " alt="" coords="5,72,224,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,79,225,83,224,77,256,73"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_facebook_1_1_wit_ai_1_1_wit_auth_utility_1_1_i_token_validation_provider.html" title=" " alt="" coords="5,39,208,81"/>
-<area shape="rect" id="Node000001" href="$class_facebook_1_1_wit_ai_1_1_wit_auth_utility_1_1_default_token_validator_provider.html" title=" " alt="" coords="256,5,458,48"/>
-<area shape="poly" id="edge146_Node000000_Node000001" title=" " alt="" coords="223,42,255,37,256,43,224,47"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_voice_1_1_windows_1_1_voice_s_d_k_token_validator_provider.html" title=" " alt="" coords="260,72,454,115"/>
-<area shape="poly" id="edge147_Node000000_Node000002" title=" " alt="" coords="223,73,260,78,259,83,223,78"/>
-</map>

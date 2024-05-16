@@ -1,5 +1,0 @@
-<map id="UnityEngine.InputSystem.Layouts.InputControlLayout.ControlItem.Merge" name="UnityEngine.InputSystem.Layouts.InputControlLayout.ControlItem.Merge">
-<area shape="rect" id="Node000001" title="For any property not set on this control layout, take the setting from other ." alt="" coords="5,5,230,64"/>
-<area shape="rect" id="Node000002" href="$struct_unity_engine_1_1_input_system_1_1_utilities_1_1_interned_string.html#a82818c9e8b5cd25ed426f87824f02878" title="Whether the string is empty, i.e. has a length of zero. If so, the InternedString corresponds to defa..." alt="" coords="278,13,478,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,32,262,32,262,37,230,37"/>
-</map>

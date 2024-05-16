@@ -1,7 +1,0 @@
-<map id="Oculus.Interaction.PoseDetection.FingerShapes.GetCurlValue" name="Oculus.Interaction.PoseDetection.FingerShapes.GetCurlValue">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,48"/>
-<area shape="rect" id="Node000002" href="$class_oculus_1_1_interaction_1_1_pose_detection_1_1_finger_shapes.html#ac2d5d1c88a3e2abe3c38e7d3407440fb" title=" " alt="" coords="273,5,492,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,24,257,24,257,29,225,29"/>
-<area shape="rect" id="Node000003" href="$interface_oculus_1_1_interaction_1_1_input_1_1_i_hand.html#a2593ffbabd0465579263777b2f2a7bef" title="Returns an array containing the pose of each joint relative to the wrist. The poses do not have the r..." alt="" coords="540,5,744,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,24,524,24,524,29,492,29"/>
-</map>

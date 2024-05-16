@@ -1,5 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractor" name="UnityEngine.XR.Interaction.Toolkit.IXRActivateInteractor">
-<area shape="rect" id="Node000001" title="An interface that represents an Interactor component that can activate an Interactable component...." alt="" coords="5,80,188,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_i_x_r_interactor.html" title="An interface that represents an Interactor component that controls how a GameObject interacts with an..." alt="" coords="49,5,144,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
-</map>

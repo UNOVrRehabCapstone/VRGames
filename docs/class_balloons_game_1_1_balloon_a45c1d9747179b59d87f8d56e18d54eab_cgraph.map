@@ -1,0 +1,7 @@
+<map id="BalloonsGame.Balloon.IsCorrectDart" name="BalloonsGame.Balloon.IsCorrectDart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,239,57"/>
+<area shape="rect" id="Node000002" href="$class_dart_manager.html#abc3c0750fa2eb3079cc89270505942f4" title=" " alt="" coords="291,5,446,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,29,276,25,276,31,239,35"/>
+<area shape="rect" id="Node000003" href="$class_dart_manager.html#a856f8c7f00ed53a5483b6445ad0cfbff" title=" " alt="" coords="287,56,450,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,53,271,57,271,62,239,59"/>
+</map>

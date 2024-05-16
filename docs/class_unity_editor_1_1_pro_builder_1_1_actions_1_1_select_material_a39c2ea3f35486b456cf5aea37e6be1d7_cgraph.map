@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.Actions.SelectMaterial.OnSettingsGUI" name="UnityEditor.ProBuilder.Actions.SelectMaterial.OnSettingsGUI">
-<area shape="rect" id="Node000001" title="Implement the extra settings GUI for your action in this method." alt="" coords="5,5,207,48"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#a1406dc962edf508e400cfad2b46a2cee" title="Performs the action for this menu item. Use PerformActionImplementation to implement the action...." alt="" coords="255,5,440,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,24,239,24,239,29,207,29"/>
-<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_pro_builder_1_1_menu_action.html#aa9c3d24e6f6c21244c16fa5df81389c2" title="Performs the action for this menu item. Use this method to implement the action and then use PerformA..." alt="" coords="488,5,720,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,24,472,24,472,29,440,29"/>
-</map>

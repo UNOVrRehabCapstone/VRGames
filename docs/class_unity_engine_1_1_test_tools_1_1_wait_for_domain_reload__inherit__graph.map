@@ -1,5 +1,0 @@
-<map id="UnityEngine.TestTools.WaitForDomainReload" name="UnityEngine.TestTools.WaitForDomainReload">
-<area shape="rect" id="Node000001" title="WaitForDomainReload is an IEditModeTestYieldInstruction that you can yield in Edit Mode tests...." alt="" coords="11,80,193,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_engine_1_1_test_tools_1_1_i_edit_mode_test_yield_instruction.html" title="In an Edit Mode test, you can use IEditModeTestYieldInstruction interface to implement your own instr..." alt="" coords="5,5,199,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,48,105,80,99,80,99,48"/>
-</map>

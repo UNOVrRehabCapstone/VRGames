@@ -1,9 +1,0 @@
-<map id="OVR.SoundFX.PlaySoundAt" name="OVR.SoundFX.PlaySoundAt">
-<area shape="rect" id="Node000001" title=" " alt="" coords="734,13,920,40"/>
-<area shape="rect" id="Node000002" href="$class_o_v_r_1_1_sound_f_x_ref.html#aac4264e3f727ba31672f15f94111d545" title=" " alt="" coords="482,13,686,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="719,29,687,29,687,24,719,24"/>
-<area shape="rect" id="Node000003" href="$class_o_v_r_1_1_ambience_emitter.html#a2259e8e739a33dde07e09400c806cd79" title=" " alt="" coords="251,13,434,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,29,435,29,435,24,466,24"/>
-<area shape="rect" id="Node000004" href="$class_o_v_r_1_1_ambience_emitter.html#a3ca5382cffc7034ec4a5ba5adc3249b7" title=" " alt="" coords="5,5,203,48"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="235,29,203,29,203,24,235,24"/>
-</map>

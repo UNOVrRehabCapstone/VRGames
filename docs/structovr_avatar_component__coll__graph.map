@@ -1,7 +1,0 @@
-<map id="ovrAvatarComponent" name="ovrAvatarComponent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,145,245"/>
-<area shape="rect" id="Node000002" href="$structovr_avatar_transform.html" title=" " alt="" coords="10,128,140,155"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,170,78,218,72,218,72,170"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="29,5,121,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,48,78,127,72,127,72,48"/>
-</map>

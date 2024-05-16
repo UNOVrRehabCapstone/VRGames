@@ -1,7 +1,0 @@
-<map id="Unity.Services.Core.Registration.CorePackageInitializer" name="Unity.Services.Core.Registration.CorePackageInitializer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="66,80,279,123"/>
-<area shape="rect" id="Node000002" href="$interface_unity_1_1_services_1_1_core_1_1_internal_1_1_i_initializable_package.html" title="Contract for objects able to register a set of IServiceComponent to a given CoreRegistry." alt="" coords="5,5,145,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,40,149,77,146,82,100,44"/>
-<area shape="rect" id="Node000003" href="$interface_unity_1_1_services_1_1_core_1_1_telemetry_1_1_internal_1_1_i_diagnostics_component_provider.html" title=" " alt="" coords="169,5,373,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,44,199,82,196,77,242,40"/>
-</map>

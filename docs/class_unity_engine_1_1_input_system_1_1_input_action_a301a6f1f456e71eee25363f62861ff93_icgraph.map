@@ -1,7 +1,0 @@
-<map id="UnityEngine.InputSystem.InputAction.Disable" name="UnityEngine.InputSystem.InputAction.Disable">
-<area shape="rect" id="Node000001" title="Disable the action such that is stop listening/responding to input." alt="" coords="277,39,449,81"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_input_system_1_1_player_input_manager.html#a78860b8e2b8b43877d4e47c678cf726a" title="Inhibit players from joining the game." alt="" coords="5,5,229,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,49,229,44,229,39,261,44"/>
-<area shape="rect" id="Node000003" href="$class_simple_controller___using_actions.html#af9de3a470af584bcab1c93313a1b6c1a" title=" " alt="" coords="15,72,219,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,76,220,82,219,77,261,71"/>
-</map>

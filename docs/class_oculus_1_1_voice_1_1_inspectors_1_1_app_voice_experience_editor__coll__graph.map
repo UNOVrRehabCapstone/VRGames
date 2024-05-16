@@ -1,7 +1,0 @@
-<map id="Oculus.Voice.Inspectors.AppVoiceExperienceEditor" name="Oculus.Voice.Inspectors.AppVoiceExperienceEditor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,182,197"/>
-<area shape="rect" id="Node000002" href="$class_facebook_1_1_wit_ai_1_1_inspectors_1_1_wit_inspector.html" title=" " alt="" coords="46,80,141,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,122,96,154,91,154,91,122"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="66,5,121,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,48,96,80,91,80,91,48"/>
-</map>

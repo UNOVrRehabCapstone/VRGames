@@ -1,5 +1,9 @@
 <map id="Calibrator.RHandScaleCalibrate" name="Calibrator.RHandScaleCalibrate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,209,32"/>
-<area shape="rect" id="Node000002" href="$class_calibrator.html#ac1f8ca8cf3a1a8c3e37990acbd2a4763" title=" " alt="" coords="257,5,388,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,16,241,16,241,21,209,21"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,209,40"/>
+<area shape="rect" id="Node000002" href="$class_calibrator.html#ac1f8ca8cf3a1a8c3e37990acbd2a4763" title=" " alt="" coords="257,13,388,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,24,241,24,241,29,209,29"/>
+<area shape="rect" id="Node000003" href="$class_classes_1_1_managers_1_1_calibration_manager.html#ab4e8e3cf0604083f1f788c7c32beb7ab" title=" " alt="" coords="436,5,630,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,24,420,24,420,29,388,29"/>
+<area shape="rect" id="Node000004" href="$class_classes_1_1_managers_1_1_calibration_manager.html#a4e72d1c40b50b37e1f8a594c8db06769" title=" " alt="" coords="678,5,873,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="631,24,663,24,663,29,631,29"/>
 </map>

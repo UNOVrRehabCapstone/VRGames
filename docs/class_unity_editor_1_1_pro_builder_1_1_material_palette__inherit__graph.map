@@ -1,7 +1,0 @@
-<map id="UnityEditor.ProBuilder.MaterialPalette" name="UnityEditor.ProBuilder.MaterialPalette">
-<area shape="rect" id="Node000001" title="A serializable object that stores an array of materials. Used by MaterialEditor." alt="" coords="27,80,226,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,43,113,78,109,81,81,46"/>
-<area shape="rect" id="Node000003" href="$interface_unity_engine_1_1_pro_builder_1_1_i_has_default.html" title="Interface for objects that contain a set of default values. Used by generated scriptable objects." alt="" coords="147,5,234,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,46,145,81,141,78,169,43"/>
-</map>

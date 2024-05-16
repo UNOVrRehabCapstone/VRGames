@@ -1,5 +1,0 @@
-<map id="Unity.Services.Core.Editor.AccessTokens.GetServicesGatewayTokenAsync" name="Unity.Services.Core.Editor.AccessTokens.GetServicesGatewayTokenAsync">
-<area shape="rect" id="Node000001" title="Task that represents an asynchronous operation to get services gateway token." alt="" coords="5,5,238,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_1_1_services_1_1_core_1_1_editor_1_1_access_tokens.html#a232aa5640d812cef611e3141ec94cef5" title="The access token used by Genesis." alt="" coords="286,13,501,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,32,270,32,270,37,238,37"/>
-</map>

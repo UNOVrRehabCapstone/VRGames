@@ -1,6 +1,0 @@
-<map id="UnityEngine.ProBuilder.WingedEdge.GetWingedEdges" name="UnityEngine.ProBuilder.WingedEdge.GetWingedEdges">
-<area shape="rect" id="Node000001" title="Creates a new list of WingedEdge values from a specific set of faces on the specified ProBuilder mesh..." alt="" coords="5,29,209,72"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_pro_builder_1_1_winged_edge.html#a583f0f343539239c7d29379402e77756" title="Orders a face&#39;s edges in sequence, starting from the first edge." alt="" coords="257,29,460,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,48,241,48,241,53,209,53"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="311,29,309,19,317,10,333,5,358,3,385,5,401,11,399,16,384,10,358,8,335,10,320,15,314,21,316,28"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="UnityEngine.XR.Interaction.Toolkit.DeviceBasedContinuousTurnProvider.GetDeadzoneAdjustedValue" name="UnityEngine.XR.Interaction.Toolkit.DeviceBasedContinuousTurnProvider.GetDeadzoneAdjustedValue">
-<area shape="rect" id="Node000001" title="Gets value adjusted based on deadzone thresholds." alt="" coords="282,29,516,88"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="444,17,427,11,399,8,374,10,358,15,350,21,350,29,344,29,346,19,356,10,373,5,399,3,428,5,446,13"/>
-<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_device_based_continuous_turn_provider.html#a6b38fe4af7d44f590df91ed9038cc445" title=" " alt="" coords="5,29,234,88"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="266,61,234,61,234,56,266,56"/>
-</map>

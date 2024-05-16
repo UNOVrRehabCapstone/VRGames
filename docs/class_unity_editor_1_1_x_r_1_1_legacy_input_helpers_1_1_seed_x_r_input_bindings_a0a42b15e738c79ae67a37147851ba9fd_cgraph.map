@@ -1,5 +1,0 @@
-<map id="UnityEditor.XR.LegacyInputHelpers.SeedXRInputBindings.GenerateXRBindingsMenuItem" name="UnityEditor.XR.LegacyInputHelpers.SeedXRInputBindings.GenerateXRBindingsMenuItem">
-<area shape="rect" id="Node000001" title="Menu option which will allow users to seed the automatic bindings for the legacy input system...." alt="" coords="5,5,256,64"/>
-<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_x_r_1_1_legacy_input_helpers_1_1_seed_x_r_input_bindings.html#a0b4bee70a82bb0cb54ab889fc489b96c" title="Main entrypoint for generating the XR Bindings and adding them to the Input Asset...." alt="" coords="304,5,554,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,32,288,32,288,37,256,37"/>
-</map>
