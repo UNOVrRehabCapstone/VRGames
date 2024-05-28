@@ -39,6 +39,8 @@ namespace Classes
             TargetManager.GetComponent<TargetSpawner>().AddTarget();
         }
 
+
+    //THIS COLLISION FUNCTION IS UNNECESSARY, the paper plane script calls the hitTarget and plays the particle effects. (Is this good practice? probably not, but it works)
     /**
      * \brief Handles collision events with the target object.
      * 
@@ -46,6 +48,7 @@ namespace Classes
      * 
      * \param other The collider of the object colliding with the target.
      */
+/*
     void OnTriggerEnter(Collider other)
         {
             if (other.gameObject.CompareTag("RightPlane") || other.gameObject.CompareTag("LeftPlane") || other.gameObject.CompareTag("plane"))
@@ -59,6 +62,7 @@ namespace Classes
                 //manager.StartSpawningHoops();
             }
         }
+*/
 
     /**
      *  \brief Handles the event when the target is hit.
@@ -76,12 +80,12 @@ namespace Classes
             }
             
             TargetManager.GetComponent<TargetSpawner>().RemoveTarget();
+            Destroy(gameObject, 3.0f);
 
             //Manager.GetComponent<PointsManager>().addPoints(1);
             PointsManager.addPoints(1);
             
 
-            Destroy(gameObject, 3.0f);
         }
 
 
